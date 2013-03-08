@@ -3,6 +3,10 @@ body {
     font: 13.34px helvetica, arial, clean, sans-serif;
 }
 
+h1, h2, h3 {
+    font: 13.34px helvetica, arial, clean, sans-serif;
+}
+
 div.footer h1 a {
     font-weight: bold;
     text-decoration: none;
