@@ -5,4 +5,3 @@ layout: default
 ## test ##
 ### test ###
 hello world!
-[/posts/test](test)
