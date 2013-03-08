@@ -19,6 +19,7 @@ div.header h1 a {
 
 div.footer {
     position: relative;
+    border-top: 4px solid #eee;
 }
 
 div.footer div.links {
