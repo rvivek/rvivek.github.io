@@ -2,6 +2,6 @@
 layout: default
 ---
 
-## test ##
+## Test ##
 
 hello world!
