@@ -31,6 +31,7 @@ a:hover {
 }
 
 div.header h1 a {
+    text-decoration: none;
     color: #a00;
 }
 div.header h1 a:hover {
