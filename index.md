@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
-# test #
-## test ##
-### test ###
-hello world!
 
-[test](/posts/test)
+## Blog Posts ##
+
+* [hello](/posts/test)
+* [world](/posts/test)
+
+
