@@ -5,11 +5,14 @@ body {
 
 h1, h2, h3 {
     font: 13.34px helvetica, arial, clean, sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 110%;
 }
 
 div.footer h1 a {
-    font-weight: bold;
     text-decoration: none;
     color: #a00;
-    font-size: 110%;
 }
