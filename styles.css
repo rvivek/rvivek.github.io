@@ -28,3 +28,6 @@ div.footer div.links {
     left: 250px;
 }
 
+div.header, div.content, div.footer {
+    width: 455px;
+}
