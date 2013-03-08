@@ -1,0 +1,11 @@
+
+body {
+    font: 13.34px helvetica, arial, clean, sans-serif;
+}
+
+div.footer h1 a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #a00;
+    font-size: 110%;
+}
