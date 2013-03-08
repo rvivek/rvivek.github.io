@@ -23,5 +23,6 @@ div.footer {
 
 div.footer div.links {
     position: relative;
+    top: 0;
     left: 250px;
 }
