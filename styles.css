@@ -18,11 +18,15 @@ div.header h1 a {
 }
 
 div.footer {
-    position: absolute;
+    position: relative;
 }
 
 div.footer div.links {
-    position: relative;
+    position: absolute;
     top: 0;
     left: 250px;
+}
+
+div.footer div.links p:first-child {
+    margin-top: 0;
 }
