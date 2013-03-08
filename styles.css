@@ -37,6 +37,7 @@ div.footer {
 
 div.footer p {
     margin-top: 8px;
+    margin-bottom: 0;
 }
 
 div.footer p:first-child {
