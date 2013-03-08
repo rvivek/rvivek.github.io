@@ -36,7 +36,11 @@ div.footer {
 }
 
 div.footer p {
-    margin-bottom: 8px;
+    margin-top: 8px;
+}
+
+div.footer p:first-child {
+    margin-top: 1em;
 }
 
 div.footer div.links {
