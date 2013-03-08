@@ -12,7 +12,16 @@ h1 {
     font-size: 110%;
 }
 
-div.footer h1 a {
+div.header h1 a {
     text-decoration: none;
     color: #a00;
+}
+
+div.footer {
+    position: absolute;
+}
+
+div.footer links {
+    position: relative;
+    left: 250px;
 }
