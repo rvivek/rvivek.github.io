@@ -48,6 +48,7 @@ div.footer {
 div.footer p {
     margin-top: 6px;
     margin-bottom: 0;
+    font-size: 10px;
 }
 
 div.footer p:first-child {
@@ -58,13 +59,11 @@ div.footer div.links {
     position: absolute;
     top: 0;
     left: 175px;
-    font: 13.34px helvetica, arial, clean, sans-serif;
-    font-size: 10px;
+    width: 175px;
 }
 
 div.footer div.info {
-    font: 13.34px helvetica, arial, clean, sans-serif;
-    font-size: 10px;
+    width: 175px;
 }
 
 div.header, div.content, div.footer {
