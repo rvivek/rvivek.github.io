@@ -58,11 +58,13 @@ div.footer div.links {
     position: absolute;
     top: 0;
     left: 175px;
-    font-size: 25px;
+    font: 13.34px helvetica, arial, clean, sans-serif;
+    font-size: 10px;
 }
 
 div.footer div.info {
-    font-size: 8px;
+    font: 13.34px helvetica, arial, clean, sans-serif;
+    font-size: 10px;
 }
 
 div.header, div.content, div.footer {
