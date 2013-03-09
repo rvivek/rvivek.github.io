@@ -50,7 +50,7 @@ div.footer-wrapper {
     background-image: url('http://www.gravatar.com/avatar/fedc0598a0eae3f7eac98ea84e597f20');
     background-repeat: no-repeat;
     background-position: right center;
-    background-size: 32px 32px;
+    background-size: 3em 3em;
 }
 
 div.footer p {
