@@ -44,7 +44,9 @@ div.footer {
     margin-top: 44px;
     padding-top: 6px;
     color: #666;
+}
 
+div.footer-wrapper {
     background-image: url('http://www.gravatar.com/avatar/fedc0598a0eae3f7eac98ea84e597f20');
     background-repeat: no-repeat;
     background-position: right center;
