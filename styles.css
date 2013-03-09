@@ -62,11 +62,11 @@ div.footer p {
 div.footer div.links {
     position: absolute;
     top: 6px;
-    left: 33%;
+    left: 40%;
 }
 
 div.footer div.info {
-    width: 33%;
+    width: 40%;
 }
 
 div.header, div.content, div.footer {
