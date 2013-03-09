@@ -23,7 +23,7 @@ violators. That's how I felt seeing the Earth for the first time. I
 could not help but love and cherish her.
 
 To be the first to enter the cosmos, to engage, single-handed, in an
-unprecedented duel with nature—could one dream of anything more?
+unprecedented duel with nature could one dream of anything more?
 
 The sky is the limit only for those who aren't afraid to fly!
 
@@ -40,7 +40,7 @@ violators. That's how I felt seeing the Earth for the first time. I
 could not help but love and cherish her.
 
 To be the first to enter the cosmos, to engage, single-handed, in an
-unprecedented duel with nature—could one dream of anything more?
+unprecedented duel with nature could one dream of anything more?
 
 The sky is the limit only for those who aren't afraid to fly!
 
