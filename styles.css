@@ -50,10 +50,6 @@ div.footer p {
     margin-bottom: 0;
 }
 
-div.footer p, div.footer p a {
-    font-size: 10px;
-}
-
 div.footer p:first-child {
     margin-top: 1em;
 }
@@ -62,6 +58,10 @@ div.footer div.links {
     position: absolute;
     top: 0;
     left: 175px;
+    font-size: 10px;
+}
+
+div.footer div.info {
     font-size: 10px;
 }
 
