@@ -48,7 +48,10 @@ div.footer {
 div.footer p {
     margin-top: 6px;
     margin-bottom: 0;
-    font-size: 12px;
+}
+
+div.footer p, div.footer p a {
+    font-size: 10px;
 }
 
 div.footer p:first-child {
