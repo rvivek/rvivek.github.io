@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Startup employee survival guide
+title: The effective software engineer's handbook
 ---
 
 h1. {{ page.title }}
