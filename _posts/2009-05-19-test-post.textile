@@ -1,0 +1,26 @@
+---
+layout: post
+title: Test post
+---
+
+h1. {{ page.title }}
+
+p(meta). 19 May 2009
+
+A Chinese tale tells of some men sent to harm a young girl who, upon
+seeing her beauty, become her protectors rather than her
+violators. That's how I felt seeing the Earth for the first time. I
+could not help but love and cherish her.
+
+h2. The final frontier
+
+Space, the final frontier. These are the voyages of the Starship
+Enterprise. Its five-year mission: to explore strange new worlds, to
+seek out new life and new civilizations, to boldly go where no man has
+gone before.
+
+h2. To be the first
+
+To be the first to enter the cosmos, to engage, single-handed, in an
+unprecedented duel with nature could one dream of anything more?
+
