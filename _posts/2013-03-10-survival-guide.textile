@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The effective software engineer's handbook
+title: The effective software engineer’s booklet
 ---
 
 h1. {{ page.title }}
