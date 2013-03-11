@@ -6,6 +6,10 @@ title: Startup employee survival guide
 h1. {{ page.title }}
 
 p(meta). 10 Mar 2013
+I wrote this guide for new RethinkDB employees sometime in early
+2012. Re-reading it one year later, everything still rings true. I
+believe this advice can be helpful to everyone trying to do good work,
+not just people working at startups, so I'm publishing it as is.
 
 bq. One must have chaos within oneself, to give birth to a dancing star.  
 -- _Friedrich Nietzsche_
