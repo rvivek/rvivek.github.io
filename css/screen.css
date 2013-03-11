@@ -134,13 +134,12 @@ ul.posts {
 
     .site .footer .icon {
       margin-top: 1.1em;
-      margin-right: -.2em;
       float: right;
     }
 
-      .site .footer .icon img {
-        border: 0;
-      }
+    .site .footer .icon img {
+      border: 0;
+    }
 
 /*****************************************************************************/
 /*
