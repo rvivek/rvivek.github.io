@@ -27,8 +27,7 @@ This message includes everything necessary to keep the user from wondering about
 * List of next steps
 * An ETA for next point of communication
 
-br.
-
+ 
 h3. IE1. Acknowledge beginning of work
 
 Blah blah. Here's an example of a really good rceipt acknowledgement:
