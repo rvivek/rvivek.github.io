@@ -16,9 +16,9 @@ h3. IE0. Acknowledge receipt
 
 It isn't always possible to start working on an issue immediately, and that's ok. But nothing is worse than submitting an issue and getting no response from the team for days. A simple receipt acknowledgment from a human goes a very long way to make the user happy.
 
-Here's an example of a really good receipt acknowledgement:
+Here is an example of a really good receipt acknowledgement:
 
-bq. Hi _@xyz_, thanks for letting us know about this bug. This is _@wmrowan_'s and _@mlucy_'s domain, I'll ask one of them to look at it. I'll get back to you when we start looking at it -- we should be able to get to it in a day or two.
+bq. Hi @xyz, thanks for letting us know about this bug. This is @wmrowan's and @mlucy's domain, I'll ask one of them to look. I'll get back to you when we start looking at it -- we should be able to get to it in a day or two.
 
 This message includes everything necessary to keep the user from wondering about the state of the issue:
 
@@ -26,6 +26,8 @@ This message includes everything necessary to keep the user from wondering about
 * List of people responsible for the issue
 * List of next steps
 * An ETA for next point of communication
+
+br.
 
 h3. IE1. Acknowledge beginning of work
 
