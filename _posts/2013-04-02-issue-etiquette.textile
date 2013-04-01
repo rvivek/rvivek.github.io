@@ -12,19 +12,13 @@ h2. Issue etiquette guidelines
 
 h3. Acknowledge receipt
 
-It isn't always possible to start working on an issue immediately, and
-that's ok. But nothing is worse than submitting an issue and getting
-no response from the team for days. A simple receipt acknowledgment
-from a human goes a very long way to make the user happy.
+It isn't always possible to start working on an issue immediately, and that's ok. But nothing is worse than submitting an issue and getting no response from the team for days. A simple receipt acknowledgment from a human goes a very long way to make the user happy.
 
-Here's an example of a really good rceipt acknowledgement:
+Here's an example of a really good receipt acknowledgement:
 
-bq. Hi @xyz, thanks for letting us know about this bug. This is
-@wmrowan's and @mlucy's domain, I'll ask one of them to look at
-it. I'll get back to you in a day when we start looking at it.
+bq. Hi @xyz, thanks for letting us know about this bug. This is @wmrowan's and @mlucy's domain, I'll ask one of them to look at it. I'll get back to you when we start looking at it -- we should be able to get to it in a day or two.
 
-It includes everything necessary to keep the user from wondering about
-the state of the issue:
+It includes everything necessary to keep the user from wondering about the state of the issue:
 
 * Receipt acknowledgement
 * Info of people responsible for the issue
