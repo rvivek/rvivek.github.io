@@ -30,8 +30,8 @@ h1 {
   margin-bottom: 1em;
 }
 
-h1, h2 {
-  font-size: 110%;
+h1, h2, .title {
+  font-size: 120%;
 }
 
 p {
