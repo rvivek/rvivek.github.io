@@ -58,15 +58,23 @@ h3. IE5. Notify about availability
 
 Mention release number, download URL, thank everyone for their work.
 
-h3. IE6. Summaryize the state of the union
+h2. Common mistakes
+
+There are also some mistakes everyone makes. Try not to make them.
+
+h3. IE6. Drive an issue to completion
 
 Foo bar.
 
-h3. IE7. Summaryize the state of the union
+h3. IE7. Give enough information
 
 Foo bar.
 
-h3. IE8. Summaryize the state of the union
+h3. IE8. Inform everyone if you slip
+
+Foo bar.
+
+h3. IE8. Inform everyone you're on track
 
 Foo bar.
 
