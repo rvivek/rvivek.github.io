@@ -33,10 +33,8 @@ h3. IE3. Give periodic status updates
 Sometimes development takes longer than expected, and sometimes the ETA is far enough into the future to make the user anxious. In both cases, it's immensely helpful to give periodic status updates every few days:
 
 bq. Hi @xyz. I've plugged in the new random number generator based on page fault count and it's working well. Here is what still needs to get done:
-* The new random number generator breaks one of the unit tests. I need
-  to investigate and fix it.
-* After that, I need to hand this off to @coffeemug to test on a
-  server without a keyboard.
+* The new random number generator breaks one of the unit tests. I need to fix it.
+* After that, we need to test on a server without a keyboard.
 Unless we run into unexpected issues, we should be able to get the fix to you in the next two days. I'll keep you posted on our progress.
 
 h3. IE4. Make responsibility handoffs clear
