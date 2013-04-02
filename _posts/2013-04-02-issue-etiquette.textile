@@ -28,6 +28,18 @@ Once you've looked into the issue, give the user a summary of the state of affai
 
 bq. I've started looking into this. It looks like the server is crashing because the random number generator is broken. The random number generator that we use uses the keyboard to generate entropy, but the RandomNoKeyboardException indicates that you seem to be running on a server with no active keyboard. I'm now working on switching the random number generator to the one that uses page fault count for entropy, which will alleviate this problem. It should take me about two days to implement and test this.
 
+A good issue summary will include all of the following information:
+
+1. The latest understanding of exactly what's going on
+2. Evidence to support your claim
+3. What's already been done
+4. What remains to be done
+5. Is the issue is being worked on
+6. Next steps
+7. ETA on next steps
+
+Make the issue summary explicit, so everyone understands what's going on. Since readers won't have the context you do it's usually best to err on the side of more content.
+
 h3. EG3. Give periodic status updates
 
 Sometimes development takes longer than expected, and sometimes the ETA is far enough into the future to make the user anxious. In both cases, it's immensely helpful to give periodic status updates every few days:
@@ -77,17 +89,7 @@ h3. EG7. Notify on fix availability
 
 Mention release number, download URL, thank everyone for their work.
 
----
+h3. EG8. Always use friendly tone
 
-Always answer the following questions:
-1. Who's responsible for the issue
-2. The latest understanding of exactly what's going on
-3. What's already been done
-4. What remains to be done
-5. Is the issue is being worked on
-6. Next steps
-7. ETA on next steps
-
-Make sure to:
-- Use friendly tone
+Foo bar.
 
