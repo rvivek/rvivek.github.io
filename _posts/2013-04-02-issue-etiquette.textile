@@ -39,10 +39,10 @@ I'm now working on the unit tests. Unless we run into unexpected issues, we shou
 
 A good status update will include all of the following information:
 
-1. What's already been done
-2. What remains to be done
-3. What you're working on next and its ETA
-4. Overall ETA on closing the issue
+# What's already been done
+# What remains to be done
+# What you're working on next and its ETA
+# Overall ETA on closing the issue
 
 Most people reading the update won't have all the context you do, so make sure you give enough information for everyone to understand what you mean.
 
