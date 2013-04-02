@@ -37,9 +37,17 @@ bq. I've plugged in the new random number generator based on page fault counts a
 * After that, we need to test on a server without a keyboard.
 Unless we run into unexpected issues, we should be able to get the fix to you in the next two days. I'll keep you posted on our progress.
 
+h3. Step 3a. Inform everyone if you slip
+
+Foo
+
+h3. Step 3b. Inform everyone if you're on track
+
+Bar
+
 h3. Step 4. Make responsibility handoffs clear
 
-Few things are more frustrating than ambiguity over who's responsible for fixing a problem. Keep this ambiguity to a minimum, and make sure to carefully hand off and pick up responsibility. Here's a good example on how to hand responsibility off:
+Few things are more frustrating than ambiguity over who's responsible for fixing a problem. Keep this ambiguity to a minimum, and make sure to carefully hand off and pick up responsibility. Here's a good example of how to hand off responsibility:
 
 bq. Ok, the new random number generator is finished, and all unit tests pass. I've talked to @coffeemug -- he'll test it on a server with no keyboard. This issue is now in his court.
 
@@ -47,11 +55,11 @@ And here's a good example of how to pick it up:
 
 bq. I'm on this. As @wmrowan said, it should take me about a day to get this tested. I'll keep you posted on my progress.
 
-h3. Step 5. Notify about completion
+h3. Step 5. Notify on development completion
 
 Mention commit number and reviewers. Say what's been done. Say what tests were done to verify. Say when it'll be available and via which release.
 
-h3. Step 6. Notify about availability
+h3. Step 6. Notify on fix availability
 
 Mention release number, download URL, thank everyone for their work.
 
@@ -66,16 +74,7 @@ Always answer the following questions:
 6. Next steps
 7. ETA on next steps
 
-Our Process:
-- Acknowledge receipt
-- Tell them you're on it
-- Give your diagnosis
-- Give periodic updates
-- Notify on compeletion
-- Notify on availability
-
 Make sure to:
 - Give enough information
-- Inform everyone if you slip
-- Inform everyone if you're on track
 - Use friendly tone
+
