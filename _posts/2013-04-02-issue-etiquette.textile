@@ -58,8 +58,6 @@ h3. IE5. Notify about availability
 
 Mention release number, download URL, thank everyone for their work.
 
-hr. 
-
 h2. Common mistakes
 
 There are also some mistakes everyone makes. Try not to make them.
