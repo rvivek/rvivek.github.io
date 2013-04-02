@@ -30,11 +30,16 @@ bq. Hi @xyz, I've started looking into this. It looks like the server is crashin
 
 h3. IE3. Give periodic status updates
 
-Sometimes development takes longer than expected, and sometimes the ETA is far enough into the future to make the user anxious. In both cases, it's immensely helpful to give a periodic status update every few days:
+Sometimes development takes longer than expected, and sometimes the ETA is far enough into the future to make the user anxious. In both cases, it's immensely helpful to give periodic status updates every few days:
 
-bq. Hi @xyz. I've plugged in the new random number generator based on page fault count and it seems to be working well. The server passes all the tests which stress the generator pretty heavily. We still need to test what happens on a server without a keyboard. I'm handing this off to @coffeemug -- he says he should be able to test this in the next day. Unless we run into unexpected issues, we should be able to get the fix to you in the next two days.
+bq. Hi @xyz. I've plugged in the new random number generator based on page fault count and it's working well. Here is what still needs to get done:
+* The new random number generator breaks one of the unit tests. I need to investigate and fix it.
+* After that, I need to hand this off to @coffeemug to test on a server without a keyboard.
+Unless we run into unexpected issues, we should be able to get the fix to you in the next two days. I'll keep you posted on our progress.
 
-h3. IE4. Make responsibility clear
+h3. IE4. Make responsibility handoffs clear
+
+bq. Hi @xyz, I've started looking into this. It looks like the server is crashing because the random number generator is broken. The random number generator that we use uses the keyboard to generate entropy, but the RandomNoKeyboardException indicates that you seem to be running on a server with no active keyboard. I'm now working on switching the random number generator to the one that uses page fault count for entropy, which will alleviate this problem. It should take me about two days to implement and test this.
 
 In *IE3* @srh hands off the responsibility for the issue to @coffeemug. Until @coffeemug responds, the issue is still in @srh's court, and he's responsible for giving periodic updates and ping @coffeemug until @coffeemug responds to pick up responsibility. Here's an example message from @coffeemug that picks up responsibility and frees @srh from control of the issue:
 
