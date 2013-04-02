@@ -34,7 +34,7 @@ A good issue summary will include all of the following information:
 # Evidence to support your claim
 # List of what needs to be done to fix the issue
 # Implementation plan for getting it done
-# Immediate next steps with ETA
+# Immediate next steps with an ETA
 # Overall ETA for the issue
 
 Make the issue summary explicit, so everyone understands what's going on. Since readers won't have the context you do, it's usually best to err on the side of more content.
@@ -54,7 +54,7 @@ A good status update will include all of the following information:
 # What remains to be done and a plan on how to do it
 # A list of known roadblocks and a plan on how to solve them
 # What you're working on next and its ETA
-# Overall ETA on closing the issue
+# Overall ETA for closing the issue
 
 Most people reading the update won't have all the context you do, so make sure you give enough information for everyone to understand what you mean. It's your responsibility to be comprehensible.
 
