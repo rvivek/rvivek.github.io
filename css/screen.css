@@ -30,14 +30,6 @@ h1 {
   margin-bottom: 1em;
 }
 
-h2 {
-  font-size: 120%;
-}
-
-h3 {
-  font-size: 95%;
-}
-
 p {
   margin: 1em 0;
 }
@@ -119,7 +111,7 @@ ul.posts {
     color: black;
   }
 
-  .site .meta {
+  h3, .site .meta {
     color: #aaa;
   }
 
