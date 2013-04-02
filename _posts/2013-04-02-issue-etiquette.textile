@@ -12,7 +12,7 @@ h2. Issue etiquette guidelines
 
 Here is a list of simple guidelines that can go a very long way to keep users happy:
 
-__IE0. Acknowledge receipt__
+*IE0. Acknowledge receipt*
 
 It isn't always possible to start working on an issue immediately, and that's ok. But nothing is worse than submitting an issue and getting no response from the team for days. A simple receipt acknowledgment from a human goes a very long way to make the user happy.
 
@@ -28,7 +28,7 @@ In addition to the receipt acknowledgement, this message includes three key piec
 
 It's everything necessary to keep the user from wondering about the state of the issue.
  
-__IE1. Acknowledge beginning of work__
+*IE1. Acknowledge beginning of work*
 
 Once you start working on the issue, give the user a quick note that you're looking into it. It's nice for the user to know when their issue is being worked on, and it's very useful to be able to talk to the person who's actually working on it.
 
@@ -42,31 +42,31 @@ This simple message contains a few key pieces of information:
 
 Addtionally, from the developer's POV, it's great to know that someone's on an issue already, so this helps both the user and the development team.
 
-__IE2. Summaryize the state of the union__
+*IE2. Summaryize the state of the union*
 
 Once you've looked into the issue, give the user a summary of the state of affairs with the issue. Here's an example of a really good summary:
 
-__IE3. Give periodic updates__
+*IE3. Give periodic updates*
 
 What's been done. What remains to be done and who's on it. How long it will take. What and who's blocking. When the next point of contact is.
 
-__IE4. Notify about completion__
+*IE4. Notify about completion*
 
 Mention commit number and reviewers. Say what's been done. Say what tests were done to verify. Say when it'll be available and via which release.
 
-__IE5. Notify about availability__
+*IE5. Notify about availability*
 
 Mention release number, download URL, thank everyone for their work.
 
-__IE6. Summaryize the state of the union__
+*IE6. Summaryize the state of the union*
 
 Foo bar.
 
-__IE7. Summaryize the state of the union__
+*IE7. Summaryize the state of the union*
 
 Foo bar.
 
-__IE8. Summaryize the state of the union__
+*IE8. Summaryize the state of the union*
 
 Foo bar.
 
