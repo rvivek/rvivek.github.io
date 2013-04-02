@@ -31,7 +31,8 @@ h1 {
 }
 
 h3 {
-  font-weight: 525;
+  font-weight: bold;
+  font-style: italic;
 }
 
 p {
