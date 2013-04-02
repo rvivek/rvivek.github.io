@@ -8,27 +8,27 @@ h1. {{ page.title }}
 
 p(meta). 02 Apr 2013
 
-Issue etiquette is important. Here is a list of simple guidelines that can go a very long way to keep users happy:
+Issue etiquette is important. Here is a list of simple *E*tiquette *G*uidelines that can go a very long way to keep users happy:
 
-h3. ER0. Acknowledge receipt
+h3. EG0. Acknowledge receipt
 
 It isn't always possible to start working on an issue immediately, and that's ok. But it's very frustrating to submit an issue and get no response from the team for days. Give a simple receipt acknowledgment to alleviate this frustration:
 
 bq. @xyz, thanks for letting us know about this bug. This is @wmrowan's and @mlucy's domain, I'll ask one of them to take a look. I'll get back to you when we start looking at it -- we should be able to get to it in a day or two.
 
-h3. ER1. Notify when you start work
+h3. EG1. Notify when you start work
 
 Once you start working on the issue, give the user a quick note that you're looking into it. It's helpful for the user to know when you start working on their issue, and it's very useful to be able to talk to the person who's working on it directly:
 
 bq. I'm looking into this issue. I'll get back to you when I have a little more info, should take an hour or so.
 
-h3. ER2. Summarize the state of the issue
+h3. EG2. Summarize the state of the issue
 
 Once you've looked into the issue, give the user a summary of the state of affairs. Here's an example of a really good summary:
 
 bq. I've started looking into this. It looks like the server is crashing because the random number generator is broken. The random number generator that we use uses the keyboard to generate entropy, but the RandomNoKeyboardException indicates that you seem to be running on a server with no active keyboard. I'm now working on switching the random number generator to the one that uses page fault count for entropy, which will alleviate this problem. It should take me about two days to implement and test this.
 
-h3. ER3. Give periodic status updates
+h3. EG3. Give periodic status updates
 
 Sometimes development takes longer than expected, and sometimes the ETA is far enough into the future to make the user anxious. In both cases, it's immensely helpful to give periodic status updates every few days:
 
@@ -37,15 +37,15 @@ bq. I've plugged in the new random number generator based on page fault counts a
 * After that, we need to test on a server without a keyboard.
 Unless we run into unexpected issues, we should be able to get the fix to you in the next two days. I'll keep you posted on our progress.
 
-h3. ER3-a. Inform everyone if you slip
+h3. EG3-a. Inform everyone if you slip
 
 Foo
 
-h3. ER3-b. Inform everyone if you're on track
+h3. EG3-b. Inform everyone if you're on track
 
 Bar
 
-h3. ER4. Make responsibility handoffs clear
+h3. EG4. Make responsibility handoffs clear
 
 Few things are more frustrating than ambiguity over who's responsible for fixing a problem. Keep this ambiguity to a minimum, and make sure to carefully hand off and pick up responsibility. Here's a good example of how to hand off responsibility:
 
@@ -55,11 +55,11 @@ And here's a good example of how to pick it up:
 
 bq. I'm on this. As @wmrowan said, it should take me about a day to get this tested. I'll keep you posted on my progress.
 
-h3. ER5. Notify on development completion
+h3. EG5. Notify on development completion
 
 Mention commit number and reviewers. Say what's been done. Say what tests were done to verify. Say when it'll be available and via which release.
 
-h3. ER6. Notify on fix availability
+h3. EG6. Notify on fix availability
 
 Mention release number, download URL, thank everyone for their work.
 
