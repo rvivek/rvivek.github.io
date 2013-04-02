@@ -42,13 +42,13 @@ This simple message contains a few key pieces of information:
 
 Addtionally, from the developer's POV, it's great to know that someone's on an issue already, so this helps both the user and the development team.
 
-h3. IE2. Summaryize the state of the union
+h3. IE2. Summarize the state of the union
 
 Once you've looked into the issue, give the user a summary of the state of affairs with the issue. Here's an example of a really good summary:
 
 h3. IE3. Give periodic updates
 
-What's been done. What remains to be done and who's on it. How long it will take. What and who's blocking. When the next point of contact is.
+What was wrong. What's been done. What remains to be done and who's on it. How long it will take. What and who's blocking. When the next point of contact is.
 
 h3. IE4. Notify about completion
 
@@ -57,6 +57,8 @@ Mention commit number and reviewers. Say what's been done. Say what tests were d
 h3. IE5. Notify about availability
 
 Mention release number, download URL, thank everyone for their work.
+
+hr. 
 
 h2. Common mistakes
 
