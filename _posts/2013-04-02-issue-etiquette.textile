@@ -74,17 +74,21 @@ This message gives the user a few valuables pieces of information:
 * How long it will take to finish remaining work
 * When the user should be able to get the fix
 
-It would also be really helpful for the new developer to inform the user they're on the issue. Here's an example message from @coffeemug:
+This is incredibly helpful for both the user and the development team.
+
+h3. IE4. Make responsibility clear
+
+In *IE3* @srh hands off the responsibility for the issue to @coffeemug. Until @coffeemug responds, the issue is still in @srh's court, and he's responsible for giving periodic updates and ping @coffeemug until @coffeemug responds to pick up responsibility. Here's an example message from @coffeemug that picks up responsibility and frees @srh from control of the issue:
 
 bq. Hi @xyz, I'm on this. As @srh said, it should take me about a day to get this tested. I'll keep you posted on my progress.
 
 It's really important for the user to feel that there is one person in control and responsible at any given time, so it's really important for the developers to hand off and pick up the issue, and make it clear that there's internal communication. For complex issues that require a lot of collaboration, that means lots of back and forth in public, and lots of period updates. That's great -- it's hard to overcommunicate.
 
-h3. IE4. Notify about completion
+h3. IE5. Notify about completion
 
 Mention commit number and reviewers. Say what's been done. Say what tests were done to verify. Say when it'll be available and via which release.
 
-h3. IE5. Notify about availability
+h3. IE6. Notify about availability
 
 Mention release number, download URL, thank everyone for their work.
 
@@ -92,26 +96,26 @@ h2. Common mistakes
 
 There are also some mistakes everyone makes. Try not to make them.
 
-h3. IE6. Elaborate the next steps
+h3. IE7. Elaborate the next steps
 
 Foo bar.
 
-h3. IE7. Stay in control
+h3. IE8. Stay in control
 
 Foo bar.
 
-h3. IE8. Give enough information
+h3. IE9. Give enough information
 
 Foo bar.
 
-h3. IE9. Inform everyone if you slip
+h3. IE10. Inform everyone if you slip
 
 Foo bar.
 
-h3. IE10. Inform everyone you're on track
+h3. IE11. Inform everyone you're on track
 
 Foo bar.
 
-h3. IE11. Use friendly tone
+h3. IE12. Use friendly tone
 
 Foo bar.
