@@ -18,7 +18,7 @@ It isn't always possible to start working on an issue immediately, and that's ok
 
 Here is an example of a really good receipt acknowledgement:
 
-bq. Hi @xyz, thanks for letting us know about this bug. This is @wmrowan's and @mlucy's domain, I'll ask one of them to look. I'll get back to you when we start looking at it -- we should be able to get to it in a day or two.
+bq. Hi @xyz, thanks for letting us know about this bug. This is @wmrowan's and @mlucy's domain, I'll ask one of them to take a look. I'll get back to you when we start looking at it -- we should be able to get to it in a day or two.
 
 In addition to the receipt acknowledgement, this message includes three key pieces of information:
 
@@ -40,11 +40,23 @@ This simple message contains a few key pieces of information:
 * It lets the user know work began, so they don't have to wonder
 * It gives an ETA for next point of contact
 
-Addtionally, from the developer's POV, it's great to know that someone's on an issue already, so this helps both the user and the development team.
+Addtionally, from the POV of the development team, it's great to know that someone's on the issue already, so this helps both the user and the development team.
 
-h3. IE2. Summarize the state of the union
+h3. IE2. Summarize the state of the issue
 
-Once you've looked into the issue, give the user a summary of the state of affairs with the issue. Here's an example of a really good summary:
+Once you've looked into the issue, give the user a summary of the state of affairs. Here's an example of a really good summary:
+
+bq. Hi @xyz, I've started looking into this. It looks like the server is crashing because the random number generator is broken. The random number generator that we use uses the keyboard to generate entropy, but the RandomNoKeyboardException indicates that you seem to be running on a server with no active keyboard. I'm now working on switching the random number generator to the one that uses page fault count for entropy, which will alleviate this problem. It should take me about two days to implement and test this.
+
+This message informs the user about all of the following:
+
+* What was wrong
+* Why the developer is confident that's the case
+* How it'll be fixed
+* How long it will take
+* The next point of contact
+
+It also comes from the developer working on the issue, so the user can contact them about the issue directly.
 
 h3. IE3. Give periodic updates
 
