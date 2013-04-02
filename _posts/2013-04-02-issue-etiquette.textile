@@ -10,46 +10,46 @@ p(meta). 02 Apr 2013
 
 Issue etiquette is important. Here is a list of simple guidelines that can go a very long way to keep users happy:
 
-h3. IE0. Acknowledge receipt
+h3. Step 0. Acknowledge receipt
 
 It isn't always possible to start working on an issue immediately, and that's ok. But it's very frustrating to submit an issue and get no response from the team for days. A simple receipt acknowledgment from a human goes a long way to alleviate this frustration:
 
 bq. Hi @xyz, thanks for letting us know about this bug. This is @wmrowan's and @mlucy's domain, I'll ask one of them to take a look. I'll get back to you when we start looking at it -- we should be able to get to it in a day or two.
 
-h3. IE1. Notify when you start work
+h3. Step 1. Notify when you start work
 
 Once you start working on the issue, give the user a quick note that you're looking into it. It's helpful for the user to know when you start working on their issue, and it's very useful to be able to talk to the person who's working on it directly:
 
 bq. Hi @xyz, I'm looking into this issue. I'll get back to you when I have a little more info, should take an hour or so.
 
-h3. IE2. Summarize the state of the issue
+h3. Step 2. Summarize the state of the issue
 
 Once you've looked into the issue, give the user a summary of the state of affairs. Here's an example of a really good summary:
 
 bq. Hi @xyz, I've started looking into this. It looks like the server is crashing because the random number generator is broken. The random number generator that we use uses the keyboard to generate entropy, but the RandomNoKeyboardException indicates that you seem to be running on a server with no active keyboard. I'm now working on switching the random number generator to the one that uses page fault count for entropy, which will alleviate this problem. It should take me about two days to implement and test this.
 
-h3. IE3. Give periodic status updates
+h3. Step 3. Give periodic status updates
 
 Sometimes development takes longer than expected, and sometimes the ETA is far enough into the future to make the user anxious. In both cases, it's immensely helpful to give periodic status updates every few days:
 
-bq. Hi @xyz. I've plugged in the new random number generator based on page fault count and it's working well. Here is what still needs to get done:
+bq. Hi @xyz. I've plugged in the new random number generator based on page fault counts and it's working well. Here is what still needs to get done:
 * The new random number generator breaks one of the unit tests. I need to fix it.
 * After that, we need to test on a server without a keyboard.
 Unless we run into unexpected issues, we should be able to get the fix to you in the next two days. I'll keep you posted on our progress.
 
-h3. IE4. Make responsibility handoffs clear
+h3. Step 4. Make responsibility handoffs clear
 
 bq. Hi @xyz, I've started looking into this. It looks like the server is crashing because the random number generator is broken. The random number generator that we use uses the keyboard to generate entropy, but the RandomNoKeyboardException indicates that you seem to be running on a server with no active keyboard. I'm now working on switching the random number generator to the one that uses page fault count for entropy, which will alleviate this problem. It should take me about two days to implement and test this.
 
-In *IE3* @srh hands off the responsibility for the issue to @coffeemug. Until @coffeemug responds, the issue is still in @srh's court, and he's responsible for giving periodic updates and ping @coffeemug until @coffeemug responds to pick up responsibility. Here's an example message from @coffeemug that picks up responsibility and frees @srh from control of the issue:
+In *Step 3* @srh hands off the responsibility for the issue to @coffeemug. Until @coffeemug responds, the issue is still in @srh's court, and he's responsible for giving periodic updates and ping @coffeemug until @coffeemug responds to pick up responsibility. Here's an example message from @coffeemug that picks up responsibility and frees @srh from control of the issue:
 
 bq. Hi @xyz, I'm on this. As @srh said, it should take me about a day to get this tested. I'll keep you posted on my progress.
 
-h3. IE5. Notify about completion
+h3. Step 5. Notify about completion
 
 Mention commit number and reviewers. Say what's been done. Say what tests were done to verify. Say when it'll be available and via which release.
 
-h3. IE6. Notify about availability
+h3. Step 6. Notify about availability
 
 Mention release number, download URL, thank everyone for their work.
 
