@@ -8,6 +8,8 @@ h1. {{ page.title }}
 
 p(meta). 02 Apr 2013
 
+Issue etiquette is important.
+
 h2. Issue etiquette guidelines
 
 Here is a list of simple guidelines that can go a very long way to keep users happy:
