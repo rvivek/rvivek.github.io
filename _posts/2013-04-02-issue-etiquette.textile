@@ -30,13 +30,12 @@ bq. I've started looking into this. It looks like the server is crashing because
 
 A good issue summary will include all of the following information:
 
-1. The latest understanding of exactly what's going on
-2. Evidence to support your claim
-3. What's already been done
-4. What remains to be done
-5. Is the issue is being worked on
-6. Next steps
-7. ETA on next steps
+# The latest understanding of exactly what's going on
+# Evidence to support your claim
+# List of what needs to be done to fix the issue
+# Implementation plan for getting it done
+# Immediate next steps with ETA
+# Overall ETA for the issue
 
 Make the issue summary explicit, so everyone understands what's going on. Since readers won't have the context you do it's usually best to err on the side of more content.
 
