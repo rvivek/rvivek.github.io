@@ -18,7 +18,7 @@ bq. Hi @xyz, thanks for letting us know about this bug. This is @wmrowan's and @
 
 h3. IE1. Notify when you start work
 
-Once you start working on the issue, give the user a quick note that you're looking into it. It's helpful for the user to know when you start working on their issue, and it's very useful to be able to talk to the person who's working on it directly.
+Once you start working on the issue, give the user a quick note that you're looking into it. It's helpful for the user to know when you start working on their issue, and it's very useful to be able to talk to the person who's working on it directly:
 
 bq. Hi @xyz, I'm looking into this issue. I'll get back to you when I have a little more info, should take an hour or so.
 
@@ -30,7 +30,7 @@ bq. Hi @xyz, I've started looking into this. It looks like the server is crashin
 
 h3. IE3. Give periodic updates
 
-Sometimes development takes longer than expected, and sometimes the ETA is too far into the future. In both cases the user will understandably get antsy without periodic feedback. It's usually extremely helpful to give a quick and informative update on the state of development.
+Sometimes development takes longer than expected, and sometimes the ETA is far enough into the future to make the user anxious. In both cases, it's immensely helpful to give the user periodic feedback. Here is a quick and informative example update on the state of development:
 
 bq. Hi @xyz. I've plugged in the new random number generator based on page fault count and it seems to be working well. The server passes all the tests which stress the generator pretty heavily. We still need to test what happens on a server without a keyboard. I'm handing this off to @coffeemug -- he says he should be able to test this in the next day. Unless we run into unexpected issues, we should be able to get the fix to you in the next two days.
 
