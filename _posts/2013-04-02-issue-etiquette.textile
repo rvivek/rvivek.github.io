@@ -37,11 +37,11 @@ bq. I've plugged in the new random number generator based on page fault counts a
 * After that, we need to test on a server without a keyboard.
 Unless we run into unexpected issues, we should be able to get the fix to you in the next two days. I'll keep you posted on our progress.
 
-h3. ER3a. Inform everyone if you slip
+h3. ER3-a. Inform everyone if you slip
 
 Foo
 
-h3. ER3b. Inform everyone if you're on track
+h3. ER3-b. Inform everyone if you're on track
 
 Bar
 
