@@ -37,7 +37,7 @@ A good issue summary will include all of the following information:
 # Immediate next steps with ETA
 # Overall ETA for the issue
 
-Make the issue summary explicit, so everyone understands what's going on. Since readers won't have the context you do it's usually best to err on the side of more content.
+Make the issue summary explicit, so everyone understands what's going on. Since readers won't have the context you do, it's usually best to err on the side of more content.
 
 h3. EG3. Give periodic status updates
 
