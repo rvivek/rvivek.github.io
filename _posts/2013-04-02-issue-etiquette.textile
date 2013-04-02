@@ -35,7 +35,16 @@ Sometimes development takes longer than expected, and sometimes the ETA is far e
 bq. I've plugged in the new random number generator based on page fault counts and it's working well. Here is what still needs to get done:
 * The new random number generator breaks one of the unit tests. I need to fix it.
 * After that, we need to test on a server without a keyboard.
-Unless we run into unexpected issues, we should be able to get the fix to you in the next two days. I'll keep you posted on our progress.
+I'm now working on the unit tests. Unless we run into unexpected issues, we should be able to get the fix to you in the next two days. I'll keep you posted on our progress.
+
+A good status update will include all of the following information:
+
+1. What's already been done
+2. What remains to be done
+3. What you're working on next and its ETA
+4. Overall ETA on closing the issue
+
+Most people reading the update won't have all the context you do, so make sure you give enough information for everyone to understand what you mean.
 
 h3. EG3-a. Inform everyone if you slip
 
