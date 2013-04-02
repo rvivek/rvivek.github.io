@@ -8,7 +8,7 @@ h1. {{ page.title }}
 
 p(meta). 02 Apr 2013
 
-Issue etiquette is important. This list of simple etiquette guidelines (*EGs*) that can go a very long way to keep users happy:
+Issue etiquette is important. This list of simple Etiquette Guidelines (*EGs*) that can go a very long way to keep users happy:
 
 h3. EG0. Acknowledge receipt
 
