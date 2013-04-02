@@ -41,8 +41,8 @@ A good status update will include all of the following information:
 
 # What's already been done
 # What remains to be done and a plan on how to do it
-# What you're working on next and its ETA
 # A list of known roadblocks and a plan on how to solve them
+# What you're working on next and its ETA
 # Overall ETA on closing the issue
 
 Most people reading the update won't have all the context you do, so make sure you give enough information for everyone to understand what you mean. It's your responsibility to be comprehensible.
@@ -55,7 +55,11 @@ h3. EG3-b. Inform everyone if you're on track
 
 Bar
 
-h3. EG4. Make responsibility handoffs clear
+h3. EG4. Keep communication explicit
+
+Foo
+
+h3. EG5. Make responsibility handoffs clear
 
 Few things are more frustrating than ambiguity over who's responsible for fixing a problem. Keep this ambiguity to a minimum, and make sure to carefully hand off and pick up responsibility. Here's a good example of how to hand off responsibility:
 
@@ -65,11 +69,11 @@ And here's a good example of how to pick it up:
 
 bq. I'm on this. As @wmrowan said, it should take me about a day to get this tested. I'll keep you posted on my progress.
 
-h3. EG5. Notify on development completion
+h3. EG6. Notify on development completion
 
 Mention commit number and reviewers. Say what's been done. Say what tests were done to verify. Say when it'll be available and via which release.
 
-h3. EG6. Notify on fix availability
+h3. EG7. Notify on fix availability
 
 Mention release number, download URL, thank everyone for their work.
 
