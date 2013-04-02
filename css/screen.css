@@ -30,10 +30,8 @@ h1 {
   margin-bottom: 1em;
 }
 
-h3 {
-  color: #000;
-  font-style: italic;
-  font-weight: bold;
+h1, h2 {
+  font-size: 110%;
 }
 
 p {
@@ -85,7 +83,7 @@ ul.posts {
 /*****************************************************************************/
 
 .site {
-  font-size: 110%;
+  font-size: 100%;
   text-align: justify;
   width: 42em;
   margin: 3em auto 2em auto;
