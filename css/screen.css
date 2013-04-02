@@ -30,6 +30,14 @@ h1 {
   margin-bottom: 1em;
 }
 
+h2 {
+  font-size: 110%;
+}
+
+h3 {
+  font-size: 90%;
+}
+
 p {
   margin: 1em 0;
 }
