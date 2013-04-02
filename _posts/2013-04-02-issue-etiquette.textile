@@ -74,7 +74,7 @@ h3. IE8. Inform everyone if you slip
 
 Foo bar.
 
-h3. IE8. Inform everyone you're on track
+h3. IE9. Inform everyone you're on track
 
 Foo bar.
 
