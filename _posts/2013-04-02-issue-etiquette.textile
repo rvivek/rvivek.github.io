@@ -12,7 +12,7 @@ Issue etiquette is important. Here is a list of simple guidelines that can go a 
 
 h3. IE0. Acknowledge receipt
 
-It isn't always possible to start working on an issue immediately, and that's ok. But it's very frustrating to submit an issue and get no response from the team for days. A simple receipt acknowledgment from a human goes a very long way to make the user happy. Here is an example of a really good receipt acknowledgement:
+It isn't always possible to start working on an issue immediately, and that's ok. But it's very frustrating to submit an issue and get no response from the team for days. A simple receipt acknowledgment from a human goes a long way to alleviate this frustration. Here is an example of a really good receipt acknowledgement:
 
 bq. Hi @xyz, thanks for letting us know about this bug. This is @wmrowan's and @mlucy's domain, I'll ask one of them to take a look. I'll get back to you when we start looking at it -- we should be able to get to it in a day or two.
 
