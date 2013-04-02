@@ -60,7 +60,25 @@ It also comes from the developer working on the issue, so the user can contact t
 
 h3. IE3. Give periodic updates
 
-What was wrong. What's been done. What remains to be done and who's on it. How long it will take. What and who's blocking. When the next point of contact is.
+Sometimes development takes longer than expected, and sometimes the ETA is too far into the future. In both cases the user will understandably get antsy without periodic feedback. It's usually extremely helpful to give a quick and informative update on the state of development.
+
+bq. Hi @xyz. I've plugged in the new random number generator based on page fault count and it seems to be working well. The server passes all the tests which stress the generator pretty heavily. We still need to test what happens on a server without a keyboard. I'm handing this off to @coffeemug -- he says he should be able to test this in the next day. Unless we run into unexpected issues, we should be able to get the fix to you in the next two days.
+
+This message gives the user a few valuables pieces of information:
+
+* What has already been done
+* What the state of the issue is with the current changes
+* What still remains to be done
+* Who's responsible for it
+* It informs the user that the original developer has been communicating with the new developer who'll be taking over
+* How long it will take to finish remaining work
+* When the user should be able to get the fix
+
+It would also be really helpful for the new developer to inform the user they're on the issue. Here's an example message from @coffeemug:
+
+bq. Hi @xyz, I'm on this. As @srh said, it should take me about a day to get this tested. I'll keep you posted on my progress.
+
+It's really important for the user to feel that there is one person in control and responsible at any given time, so it's really important for the developers to hand off and pick up the issue, and make it clear that there's internal communication. For complex issues that require a lot of collaboration, that means lots of back and forth in public, and lots of period updates. That's great -- it's hard to overcommunicate.
 
 h3. IE4. Notify about completion
 
@@ -74,19 +92,26 @@ h2. Common mistakes
 
 There are also some mistakes everyone makes. Try not to make them.
 
-h3. IE6. Drive an issue to completion
+h3. IE6. Elaborate the next steps
 
 Foo bar.
 
-h3. IE7. Give enough information
+h3. IE7. Stay in control
 
 Foo bar.
 
-h3. IE8. Inform everyone if you slip
+h3. IE8. Give enough information
 
 Foo bar.
 
-h3. IE9. Inform everyone you're on track
+h3. IE9. Inform everyone if you slip
 
 Foo bar.
 
+h3. IE10. Inform everyone you're on track
+
+Foo bar.
+
+h3. IE11. Use friendly tone
+
+Foo bar.
