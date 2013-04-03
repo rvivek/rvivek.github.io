@@ -86,7 +86,7 @@ bq. I'm on this. As @wmrowan said, it should take me about a day to get this tes
 
 h3. EG6. Notify on development completion
 
-When you're done with issue, it's helpful to give as much information about it as possible. We try to include as many of the following as possible:
+When you're done with issue, it's helpful to give as much information about it as possible:
 
 * a summary of what's been done
 * commit number
@@ -94,7 +94,7 @@ When you're done with issue, it's helpful to give as much information about it a
 * how to test it
 * when it will be publically available
 
-bq. I've changed the random number generator to use page faults so it can work on keyboardless servers. Commit 23ab45, internal code review 189 by @jdoliner. Will be available in 1.4 in the next few days.
+bq. I've changed the random number generator to use page faults so it can work on keyboardless servers. Commit 23ab45, internal code review 189 by @jdoliner. Will be available in the 1.4 release in the next few days.
 
 h3. EG7. Notify on fix availability
 
