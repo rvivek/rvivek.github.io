@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Github issue etiquette
-wip: true
 ---
 
 h1. {{ page.title }}
