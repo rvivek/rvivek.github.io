@@ -95,8 +95,8 @@ h3. EG6. Notify on development completion
 When you're done with the issue, it's helpful to give as much information about it as possible:
 
 * a summary of what's been done
-* commit number
-* code review number and the reviewers
+* a commit number
+* a code review number and the reviewers
 * how to test it
 * when it will be publicly available
 
