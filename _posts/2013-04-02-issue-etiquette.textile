@@ -92,7 +92,7 @@ bq. I'm on this. As @wmrowan said, it should take me about a day to get this tes
 
 h3. EG6. Notify on development completion
 
-When you're done with issue, it's helpful to give as much information about it as possible:
+When you're done with the issue, it's helpful to give as much information about it as possible:
 
 * a summary of what's been done
 * commit number
