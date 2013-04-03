@@ -64,7 +64,7 @@ Most people reading the update won't have all the context you do, so make sure y
 
 h3. EG3-a. Inform everyone if you slip
 
-Occassionally you'll promise to get an issue done by Friday, but won't be able to make the date. It's not the end of the world -- software development estimates are notoriously hard. But keep in mind that people are waiting on your issue. It's very frustrating for the user (or the project manager) to check the issue on Friday, and find no additional information. It's even worse when they ping you and find out that you didn't make it. Be courteous -- tell them you'll slip (in advance, if you can):
+Occasionally you'll promise to get an issue done by Friday, but won't be able to make the date. It's not the end of the world -- software development estimates are notoriously hard. But keep in mind that people are waiting on your issue. It's very frustrating for the user (or the project manager) to check the issue on Friday, and find no additional information. It's even worse when they ping you and find out that you didn't make it. Be courteous -- tell them you'll slip (in advance, if you can):
 
 bq. It looks like I won't be making the Friday ETA. Getting the page fault count from the kernel turned out to be a little more complicated than I expected. It's done now, but I'd like a few more additional days for testing. I should be able to get this out by Tuesday. Apologies for inconvenience!
 
@@ -98,17 +98,17 @@ When you're done with issue, it's helpful to give as much information about it a
 * commit number
 * code review number and the reviewers
 * how to test it
-* when it will be publically available
+* when it will be publicly available
 
 bq. I've changed the random number generator to use page faults so it can work on keyboardless servers. Commit 23ab45, internal code review 189 by @jdoliner. Will be available in the 1.4 release in the next few days.
 
 h3. EG7. Notify on fix availability
 
-Finally, when the fix becomes publically available, inform everyone and tell them how to get it:
+Finally, when the fix becomes publicly available, inform everyone and tell them how to get it:
 
 bq. This is now available in the 1.4 release -- see http://www.rethinkdb.com/docs/install/. Just download the new version of the server and reinstall. Thanks for helping us get this fixed!
 
 h3. EG8. Always use friendly tone
 
-Many open source projects consider it ok to be abraisive on the tracker. I think it's never ok. If someone commenting on the issue frustrates you, most of the time it's because they need a little additional guidance. Even when it's not the case, kindness and firmness are not mutually exclusive. Be kind to others -- it makes for a happier community.
+Many open source projects consider it ok to be abrasive on the tracker. I think it's never ok. If someone commenting on the issue frustrates you, most of the time it's because they need a little additional guidance. Even when it's not the case, kindness and firmness are not mutually exclusive. Be kind to others -- it makes for a happier community.
 
