@@ -72,7 +72,7 @@ bq. Just an FYI, we're still on track for Friday. I'll add more details in the n
 
 h3. EG4. Keep internal communication explicit
 
-In practice many issues involve offline collaboration with members of the development team. It's efficient, but can be very confusing for everyone else. It's often unclear what was decided, who has to do what, and who's in control. It's good practice to summarize everything on the tracker:
+In practice, many issues involve offline collaboration with members of the development team. It's efficient, but can be very confusing for everyone else. It's often unclear what was decided, who has to do what, and who's in control. It's good practice to summarize everything on the tracker:
 
 bq. I spoke with @srh and he was a little concerned the new random number generate might break something. He promised to write an integration test -- I'll check back with him to make sure the test is written and passes before we close this.
 
