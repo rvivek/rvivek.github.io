@@ -11,7 +11,7 @@ Github's issue tracker is a simple and convenient way to manage a project's inte
 
 Here's an "example issue":https://github.com/rethinkdb/rethinkdb/issues/408#issuecomment-15158650 from RethinkDB where I made a user unhappy. I talked to everyone internally, determined that there is nothing left to be done, and closed the issue. The thought that others might be using it as an indicator for when an external project fixes their issue didn't even occur to me.
 
-After a few missteps like this, we evolved an issue etiquette so we can be more helpful to people using the tracker. In the process I found the exact same issue etiquette is extremely helpful to me as a project manager, so I decided to write it down. This list of simple Etiquette Guidelines (*EGs*) can go a very long way to keep users happy.
+After a few missteps like this, we evolved issue etiquette guidelines so we can be more helpful to people using the tracker. In the process I found the exact same issue etiquette is extremely helpful to me as a project manager, so I decided to write it down. This list of simple Etiquette Guidelines (*EGs*) can go a very long way to keep users happy.
 
 h3. EG0. Acknowledge receipt
 
