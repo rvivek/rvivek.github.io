@@ -86,11 +86,21 @@ bq. I'm on this. As @wmrowan said, it should take me about a day to get this tes
 
 h3. EG6. Notify on development completion
 
-Mention commit number and reviewers. Say what's been done. Say what tests were done to verify. Say when it'll be available and via which release.
+When you're done with issue, it's helpful to give as much information about it as possible. We try to include as many of the following as possible:
+
+* a summary of what's been done
+* commit number
+* code review number and the reviewers
+* how to test it
+* when it will be publically available
+
+bq. I've changed the random number generator to use page faults so it can work on keyboardless servers. Commit 23ab45, internal code review 189 by @jdoliner. Will be available in 1.4 in the next few days.
 
 h3. EG7. Notify on fix availability
 
-Mention release number, download URL, thank everyone for their work.
+Finally, when the fix becomes publically available, inform everyone and tell them how to get it:
+
+bq. This is now available in the 1.4 release -- see http://www.rethinkdb.com/docs/install/. Just download the new version of the server and reinstall. Thanks for helping us get this fixed!
 
 h3. EG8. Always use friendly tone
 
