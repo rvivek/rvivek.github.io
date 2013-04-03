@@ -66,7 +66,9 @@ bq. It looks like I won't be making the Friday ETA. Getting the page fault count
 
 h3. EG3-b. Inform everyone if you're on track
 
-Bar
+Even if you're making your dates, it's still very helpful to tell people so they don't have to wonder. People get antsy as you get close to the promised date, and a short sentence or two can really help them not worry. It also helps you be mindful of the deadlines and ETAs:
+
+bq. Just an FYI, we're still on track for Friday. I'll add more detail in the next status update shortly.
 
 h3. EG4. Keep internal communication explicit
 
