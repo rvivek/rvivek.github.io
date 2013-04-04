@@ -111,3 +111,7 @@ h3. EG8. Always use friendly tone
 
 Many open source projects consider it ok to be abrasive on the tracker. I think it's never ok. If someone commenting on the issue frustrates you, most of the time it's because they need a little additional guidance. Even when it's not the case, kindness and firmness are not mutually exclusive. Be kind to others -- it makes for a happier community.
 
+h3. EG9. Watch grammar and legibility
+
+Use proper grammar and punctuation. Break up sentences into readable chunks. Give enough information so people understand what you're talking about. Use bulleted lists if you have to. Writing well takes a little bit more time, but there is one person writing a comment, and many people reading it. Be mindful of their time. This might even come in handy when you go back to read your own issue a few months later.
+
