@@ -139,7 +139,7 @@ bq. Please run query X instead of query Y until you can upgrade to RethinkDB v1.
 
 Use primitives the user knows:
 
-* "your program needs to do X"
-* "your query needs to be like Y"
-* "your server configuration needs to be edited to say Z"
+* "Your program needs to do X"
+* "Your query needs to be like Y"
+* "Your server configuration needs to be edited to say Z"
 
