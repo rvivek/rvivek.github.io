@@ -11,7 +11,23 @@ Github's issue tracker is a simple and convenient way to manage a project's inte
 
 Here's an "example issue":https://github.com/rethinkdb/rethinkdb/issues/408#issuecomment-15158650 from RethinkDB where I made a user unhappy. I talked to everyone internally, determined that there is nothing left to be done, and closed the issue. The thought that others might be using it as an indicator for when an external project fixes their issue didn't even occur to me.
 
-After a few missteps like this, we evolved issue etiquette guidelines so we can be more helpful to people using the tracker. In the process I found the exact same guidelines extremely helpful to me as a project manager, so I decided to write them down. This list of simple Etiquette Guidelines (*EGs*) can go a very long way to keep users happy.
+After a few missteps like this, we evolved issue etiquette guidelines so we can be more helpful to people using the tracker. In the process I found the exact same guidelines extremely helpful to me as a project manager, so I decided to write them down:
+
+* EG0. Acknowledge receipt
+* EG1. Notify when you start work
+* EG2. Summarize the state of the issue
+* EG3. Give periodic status updates
+* EG3-a. Inform everyone if you slip
+* EG3-b. Inform everyone if you’re on track
+* EG4. Keep internal communication explicit
+* EG5. Make responsibility handoffs clear
+* EG6. Notify on development completion
+* EG7. Notify on fix availability
+* EG8. Always use friendly tone
+* EG9. Watch grammar and legibility
+* EG10. Talk to users on their terms
+
+This list of simple Etiquette Guidelines (*EGs*) can go a very long way to keep users happy.
 
 h3. EG0. Acknowledge receipt
 
@@ -113,5 +129,9 @@ Many open source projects consider it ok to be abrasive on the tracker. I think 
 
 h3. EG9. Watch grammar and legibility
 
-Use proper grammar and punctuation. Break up sentences into readable chunks. Give enough information so people understand what you're talking about. Use bulleted lists if you have to. Writing well takes a little bit more time, but there is one person writing a comment, and many people reading it. Be mindful of their time. This might even come in handy when you go back to read your own issue a few months later.
+Use proper grammar and punctuation. Break up sentences into readable chunks. Give enough information so people understand what you're talking about, but not so much as to inundate them. Use bulleted lists if you have to. Writing well takes a little bit more time, but there is one person writing a comment, and many people reading it. Be mindful of their time. This might even come in handy when you go back to read your own issue a few months later.
+
+h3. EG10. Talk to users on their terms
+
+If you want to ask a user to provide a core dump, say explicitly what commands you want them to run and what to do with the file once they're done.  When an issue is fixed, or if there's a workaround, give a clear path to action -- "run query X instead of query Y until you can upgrade to RethinkDB v1.4.3".  Use primitives the user knows -- "your program needs to do X", "your query needs to be like Y", "your server configuration needs to be edited to say Z".
 
