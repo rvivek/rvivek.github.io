@@ -133,7 +133,9 @@ Use proper grammar and punctuation. Break up sentences into readable chunks. Giv
 
 h3. EG10. Talk to users on their terms
 
-When you do something every day it's easy to forget that most people don't have the perspective you do. Talk to users in terms of the concepts they are most familiar with. For example, if you want to ask a user to provide a core dump, say explicitly what commands you want them to run and what to do with the file once they're done. When an issue is fixed, or if there's a workaround, give a clear path to action:
+When you do something every day it's easy to forget that most people don't have the perspective you do. Talk to users in terms of the concepts they are most familiar with. For example, if you want to ask a user to provide a core dump, say explicitly what commands you want them to run and what to do with the file once they're done.
+
+When an issue is fixed, or if there's a workaround, give a clear path to action:
 
 bq. Please run query X instead of query Y until you can upgrade to RethinkDB v1.4.3.
 
