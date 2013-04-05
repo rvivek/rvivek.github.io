@@ -125,7 +125,7 @@ bq. This is now available in the 1.4 release -- see http://www.rethinkdb.com/doc
 
 h3. EG8. Always use friendly tone
 
-Many open source projects consider it ok to be abrasive on the tracker. I think it's never ok. If someone commenting on the issue frustrates you, most of the time it's because they need a little additional guidance. Even when it's not the case, kindness and firmness are not mutually exclusive. Be kind to others -- it makes for a happier community.
+Many open source projects consider it ok to be abrasive on the tracker. I think it's never ok. If someone commenting on the issue frustrates you, most of the time it's because they need a little additional guidance. Even when it's not the case, kindness and firmness are not mutually exclusive. Keep debate collaborative, be kind to others, and welcome criticism. It makes for a better product and a happier community.
 
 h3. EG9. Watch grammar and legibility
 
