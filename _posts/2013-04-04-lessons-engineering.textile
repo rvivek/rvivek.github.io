@@ -17,3 +17,17 @@ Linear increases in complexity cause superlinear increases in amount of work to 
 That one engineer you hired to create a new component? Every time it has a bug, it will undoubtedly interact with other components and take up the time of other developers. That API you made slightly more complicated to solve an edge case for a potential (read: imaginary) future customer? Other people will have to spend time learning it, and will inevitably introduce bugs because they misunderstand it (which someone, of course, will have to spend time fixing).
 
 Complexity is death. Fight, fight, fight complexity with everything you've got. If you can avoid adding new functionality, fight like hell to keep it out. If you lose that fight, see if you can get 80% of the functionality with 20% of the work. Usually, you can. Fight like hell to do it that way. If you lose _this_ fight, either you've hit the one case in a thousand where complexity is warranted, or, more likely, you should have fought harder.
+
+h3. Instill shared culture
+
+Sooner or later you'll discover you've hired engineers on your team that have very different philosophies on how software should be built. Say, a C programmer, and a C++ programmer. The former will want the codebase to look like the Linux kernel. The latter will want it to look like the boost MPL library. After observing a few squabbling sessions, you'll be faced with three progressively more unpleasant options:
+
+# Pick _The One True Way_ and enforce it everywhere.
+# Give everyone freedom to write code the way they wish, and strike down everyone's attempts to step on each other's toes.
+# Do nothing and submit to endless bikeshedding.
+
+The first choice is unpleasant because you'll make some people very unhappy. You'll have to repeatedly say *no*, often to very frustrated people, and often when its least convenient. It's difficult, emotionally draining, and often downright confrontational. It's especially hard if you're the type of person who doesn't like to rock the boat.
+
+The second choice is unpleasant because you can't have complete separation of concerns.
+
+The last choice is easy, but it's the worst of all worlds.
