@@ -32,7 +32,7 @@ On the surface, the second choice seems easy and effective. It makes sense to as
 
 The last choice is the worst of all worls. It combines the ineffectiveness of a heterogeneous codebase with the stressfulness of constant arguments and bikeshedding. In the long run, it's also the most painful (not in the least because your project isn't getting anywhere).
 
-I've tried all three and I will _always_ pick the first choice when managing small teams. It can be unpleasant early on, but it's the only way to build a team that's both happy _and_ productive. Always fight to cultivate and enforce shared culture. It's the only way.
+I've tried all three and I will _always_ pick the first choice when managing small teams. It can be unpleasant early on, but it's the only way to build a team that's both happy _and_ productive. Always, always, always fight to cultivate and enforce shared culture.
 
 h3. Sprints, deadlines, and estimates
 
