@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+  <head>
+    <title>A Lambda Calculus Reducer</title>
+    <meta name="description" content="An article about writing a lambda calculus reducer." />
+    <link rel="stylesheet" type="text/css" href="../stylesheets/main.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../stylesheets/articles.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../stylesheets/print.css" media="print" />
+    <link rel="alternate" type="application/rss+xml" title="defmacro.org" href="../rss/news.xml" />
+    <link rel="home" href="../index.html" />
+  </head>
+  <body>
+    <div id="wrapper"><div id="wrapper1"><div id="wrapper2"><div id="wrapper3">
+      <div id="page-extra-1"><div id="page-extra-2"><div id="page-extra-3">&nbsp;</div></div></div>
+      <div id="wrapper4">
+	<div id="header">
+	  <div id="header-extra-1">
+	    <div id="header-extra-2">
+	      <div id="header-extra-3">
+		<div id="header-extra-4">
+		  <div id="header-extra-5">
+		    <a class="home" href="http://www.defmacro.org">Home - defmacro.org</a>
+		    <span id="title">Made with alien technology.</span>
+		    <div id="syndication"><a href="../rss/news.xml" title="RSS Feed"><img src="../images/xml.png" alt="RSS Feed" /></a></div>
+		  </div>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+	<div id="content">
+	  <h1>A Lambda Calculus Reducer</h1>
+	  <div class="date">Sunday, February 24, 2008</div>
+	  
+	  <p>About a month ago I decided to buy some time from society
+	  by doing a trial run of graduate studies - I took some
+	  Computer Science courses at Stony Brook University. The
+	  first homework for the Programming Languages course was to
+	  write a lambda calculus reducer - a task I happily jumped
+	  on. A few hours later I had it implemented in 105 lines of
+	  <a href="reducer.hs">Haskell code</a> (for short tasks like
+	  these I find that Haskell is a better tool than Common
+	  Lisp).</p>
+	  <p>The reducer expects a lambda expression. It echos back
+	  the way the expression was parsed, and then proceeds to
+	  print reductions until it finds a normal form. Here is a
+	  trace of an argument applied to an identity function:</p>
+<pre class="source-code">
+runhaskell reducer.hs
+> (\d.d)a
+((\d.d) a)
+a
+</pre>
+          <p>Writing a short tool like this is an excellent way to get
+          a reasonably good understanding of lambda calculus,
+          functions as first class objects, purity, and laziness. For
+          example, a snippet below provides a great illustration for
+          partial evaluation:</p>
+<pre class="source-code">
+> (\a.\b.c a b)i
+((\a.(\b.((c a) b))) i)
+(\b.((c i) b))
+</pre>
+          <p>Normally when I learn a new programming language I write
+          a Lisp interpreter in it - it's a reasonably small, self
+          contained task that doesn't take too much time, yet it is
+          complex enough to afford a reasonably good understanding of
+          the new language by the time you're done. I think for quick
+          introductions I'll replace Lisp interpreters with lambda
+          calculus reducers (of course one could argue they're two
+          sides of the same coin) - they're slightly less time
+          consuming and contain enough complexity to give a good
+          overview of a programming language in question.</p>
+
+	  <h2><a id="comments">Comments?</a></h2> <p class="first">If
+	  you have any questions, comments, or suggestions, please
+	  drop a note at <a
+	  href="mailto:coffeemug@gmail.com">coffeemug@gmail.com</a>.
+	  I'll be glad to hear your feedback.</p>
+	</div>
+      </div>
+      <div id="page-extra-4"><div id="page-extra-5"><div id="page-extra-6">&nbsp;</div></div></div>
+    </div></div></div>
+    <div id="footer">
+      <p>Everything on this site is in public domain unless stated otherwise.<br/>
+      Contact me with any questions or comments at <a href="mailto:coffeemug@gmail.com">coffeemug@gmail.com</a>.</p>
+      <img src="../images/valid-xhtml11.png" alt="Valid XHTML 1.1" />
+      <img src="../images/valid-css.png" alt="Valid CSS" />
+      <img src="../images/valid-rss.png" alt="Valid RSS" />
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+  <head>
+    <title>defmacro - What is LaTeX and Why You Should Care</title>
+    <meta name="description" content="An article about why academic papers distributed in PostScript, what is LaTeX, and why you should care." />
+    <link rel="stylesheet" type="text/css" href="../stylesheets/main.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../stylesheets/articles.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../stylesheets/print.css" media="print" />
+    <link rel="alternate" type="application/rss+xml" title="defmacro.org" href="../rss/news.xml" />
+    <link rel="home" href="../index.html" />
+  </head>
+  <body>
+    <div id="wrapper"><div id="wrapper1"><div id="wrapper2"><div id="wrapper3">
+      <div id="page-extra-1"><div id="page-extra-2"><div id="page-extra-3">&nbsp;</div></div></div>
+      <div id="wrapper4">
+	<div id="header">
+	  <div id="header-extra-1">
+	    <div id="header-extra-2">
+	      <div id="header-extra-3">
+		<div id="header-extra-4">
+		  <div id="header-extra-5">
+		    <a class="home" href="http://www.defmacro.org">Home - defmacro.org</a>
+		    <span id="title">Made with alien technology.</span>
+		    <div id="syndication"><a href="../rss/news.xml" title="RSS Feed"><img src="../images/xml.png" alt="RSS Feed" /></a></div>
+		  </div>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+	<div id="content">
+	  <h1>What is LaTeX and Why You Should Care</h1>
+	  <div class="date">Sunday, October 08, 2006</div>
+	  
+	  <h2><a id="part_1">Introduction</a></h2>
+	  <p class="first">Every time there is a link to a resource
+	  even remotely related to academia, it's available only in a
+	  weird format that looks like it was invented by Martians
+	  three thousand years ago while they were stuck on a strange
+	  planet light-years away from home. It's never something you
+	  can easily open - it's not HTML, not a Word document, not a
+	  text file. You're lucky if it's PDF. Most of the time it's
+	  PostScript or a mysterious DVI format that nobody outside of
+	  a select group of High Priests of Martianic Church knows how
+	  to open.</p>
+	  <p>Reading the article ends up being a scavenger hunt for
+	  utilities found on obscure FTP mirrors of some .edu domains
+	  that end up having a user interface from Stone Age. While
+	  you search for these utilities you will undoubtedly see a
+	  few references to LaTeX which at first glance appears to be
+	  some document format invented by the aforementioned group of
+	  homesick Martians and requires ten pages just to explain
+	  what exactly it is it does. When you finally manage to open
+	  the file you're greeted by a word "abstract" instead of a
+	  word "summary" and as you try to scroll through the article
+	  you find that the scroll wheel abruptly stops at the end of
+	  the first page. You glance at the toolbar to find a "next
+	  page" button and see a row of various arrows with no
+	  immediately decipherable meaning. This is the final
+	  straw. You curse the ivory towers inhabitants in all known
+	  tongues for wasting ten minutes of your life, close the
+	  document without ever actually really looking at it, and go
+	  on with your life trying to block this painful encounter
+	  forever.</p>
+	  <p>That's a pity. A little bit more persistence and you
+	  would have discovered a document processing nirvana.</p>
+	  
+	  <h2><a id="part_2">PostScript</a></h2>
+	  <p class="first">The first thing critical reading courses
+	  teach is that analyzing a piece of text involves analyzing
+	  its author's <em>intent</em>.  Who is the author? What is
+	  the target audience? Why is the author writing to the target
+	  audience in the first place? If you're trying to understand
+	  a piece of writing, answering these questions is half the
+	  battle. For example, the target audience for a blogger is
+	  anyone who will listen. Bloggers tend to write to drive
+	  traffic as high as they can either to make money off
+	  advertising and affiliate programs, or to become famous, or,
+	  as yours truly, as part of a treacherous secret plot to take
+	  over the world.</p>
+	  <p>Of course academic writers aren't bloggers. They couldn't
+	  care less about traffic or adsense. Most of the time they
+	  have too much on their minds to think about becoming
+	  famous. They're not even trying to take over the world. The
+	  only thing they dream about in the showers and in their
+	  sleep and on their way to work is <em>getting
+	  published</em>.</p>
+	  <p>Whenever someone tries to go anywhere in academia beyond
+	  the undergraduate degree, they hear this phrase far more
+	  than they can handle without going insane. "I need to get
+	  published."  "Are you published?" "Where is he published?"
+	  Published, published, published. The Holy Grail for anyone
+	  in academia is getting published in a prestigious journal in
+	  their field. If you're a graduate student, that's what you
+	  need to get a PhD someone except your mother will care
+	  about. If you already have a PhD, that's what you need to
+	  get a job as a professor in a good university. If you're
+	  already a professor, that's what you need to get and keep
+	  government grants for research. Even if you're an
+	  undergraduate, publishing an article nobody will ever read
+	  in a journal nobody has ever heard of can help you get into
+	  a good graduate program.</p>
+	  <p>So, if you're an academic writer, you aren't going to
+	  write your article for the general public. You aren't even
+	  going to write it for fellow scientists. You're going to
+	  write it for people who hold your academic future in their
+	  hands - <em>the journal editors</em>. And journal editors are
+	  a very particular bunch that likes to receive submissions
+	  that adhere to strict guidelines.</p>
+	  <p>I am not familiar with the dark underworld of journal
+	  publishing so I won't get into details, but the idea is
+	  simple. The work of the editors eventually ends up on the
+	  table of folks called <em>the publishers</em>. These are the
+	  people that take a piece of text, feed it into printing
+	  machines, get thousands of copies, and distribute them to
+	  subscribed recipients. The publishers couldn't care less
+	  about what they're printing - they just want to get it in a
+	  format that their printing machines understand. And this
+	  format isn't a Word document.  Because publishers deal with
+	  huge volumes and very different types of documents, they
+	  want to receive them in a very specific format. A format that
+	  tells them <em>exactly</em> how and where to print every
+	  dot. They don't want to hear anything about paragraphs of
+	  text or tables of numeric values. They want to know how many
+	  inches from the left margin should the printer put the first
+	  dot and at what offset to put the next.</p>
+	  <p>Now, back to the journal editors. Every day their mailbox
+	  contains dozens of submissions from every poor shmuck that
+	  wants the honor of being published in their periodical. They
+	  have to read through the submissions and only pick the best
+	  work to make sure they don't print something that doesn't
+	  make sense and make their journal look stupid<sup><a
+	  href="#bad-entries">1</a></sup>. The last thing they want to
+	  deal with is converting the submissions from whatever exotic
+	  format the authors decided to write them in to whatever
+	  peculiar format the published requires. So the journals set
+	  strict guidelines - you can only send submissions in
+	  PostScript or DVI (which incidentally turn out to be the
+	  formats their publishers accept).</p>
+	  <p>Of course if you're Albert Einstein you can engrave your
+	  submission on a piece of rock, ship it to the journals via
+	  FedEx, and make them pay the bill. They'll be head over
+	  heels to accept it and do the format conversion work. But if
+	  you're Joe Mediocre, Ph.D., submitting your tenth paper in
+	  ten years on individual differences versus social dynamics in
+	  the formation of aquarium fish dominance hierarchies<sup><a
+	  href="#wasteful-research">2</a></sup> to account for how you
+	  spent public funds granted to you by the NSF, you better
+	  submit your paper in PostScript. You know what'll happen if
+	  you don't. You won't get published this year, the NSF will
+	  take your grants away, you'll get kicked out of the faculty
+	  without tenure (why keep you around if you don't bring in
+	  any research money?), and you won't be able to
+	  unconditionally get university pay for the rest of your life
+	  without ever actually producing useful work.</p>
+	  
+	  <h2><a id="part_3">LaTeX</a></h2>
+	  <p class="first">These days there are add-ons for Microsoft
+	  Word that allow you to save your documents in PostScript. In
+	  the old days, when Word wasn't available, people used a
+	  format called LaTeX. It was a structured human readable
+	  format not unlike XML. People wrote their documents in text
+	  editors using LaTeX tags to specify sections, subsections,
+	  paragraphs, etc. After they were done with their document
+	  they ran it through a program that used stylesheets
+	  (conceptually not very different from CSS) to render a LaTeX
+	  document into another format (more often than not the end
+	  result was PostScript but it could just as easily have been
+	  HTML, PDF, DVI, etc.) Back then if you didn't like LaTeX you
+	  were forced to use it for a number of reasons. There were no
+	  other alternatives to generate PostScript files. Even if you
+	  could create one directly, different journals expected
+	  different formatting to fit their overall style. The only
+	  way to accommodate this requirement was to use LaTeX along
+	  with the stylesheets the journals provided<sup><a
+	  href="#latex-styles">3</a></sup>.</p>
+	  <p>Now that the old days are long gone and word processors
+	  come preinstalled with every machine, why should we care
+	  about this remnant of history?  The answer is that
+	  remarkably LaTeX is much better suited for composing and
+	  distributing most types of documents than any other modern
+	  word processor on the market that I am aware of. Just like
+	  programming languages tend to converge towards Lisp because
+	  it got things right the first time around, so do the Word
+	  Processors tend to converge towards LaTeX.</p>
+
+	  <h3>Separation Of Markup And Presentation</h3>
+	  <p class="first">When I started writing articles for
+	  <em>defmacro</em>, I did it in Microsoft Word. This was the
+	  word processor I've used since high school, throughout
+	  college, and at work. I saw no reason not to use it for
+	  writing articles for this website. I soon discovered that
+	  I'm not being very productive. It turned out that when
+	  writing documents that have valuable content - documents
+	  that cannot be written in a single evening and that people
+	  might want to read (unlike my college papers), Microsoft
+	  Word hindered me more often than it managed to provide
+	  assistance. Amazingly, I was far more productive writing
+	  articles directly in XHTML using Emacs (the <em>best</em>
+	  editor I've ever used<sup><a href="#emacs">4</a></sup>).</p>
+	  <p>Aside from the obvious requirement to be able to
+	  efficiently edit text I needed my word processor to help me
+	  do two things: specify the structure of my document as I
+	  write it and let me style it later. Surprisingly Microsoft
+	  Word isn't very good for creating documents in this
+	  manner. While it supports styling and structural markup, it
+	  doesn't in any way encourage it. By default it's much easier
+	  to mark a selection as bold than to emphasize it using
+	  markup. XHTML, on the other hand, is different. I can only
+	  specify structure. If I try to use old HTML styling tags, it
+	  doesn't validate. This way I can focus on the content of my
+	  document and its structure. I can style it with CSS later. I
+	  can even provide different styles for my site, for printing,
+	  and for other sites that might want to publish my
+	  articles.</p>
+	  <p>It is common wisdom among programmers that information
+	  and the way it's presented should be separated. A well
+	  defined boundary between markup and styling allows to easily
+	  add other ways to present information. Additionally, it
+	  greatly enhances the ability to change information
+	  independently from its presentation. These are both very
+	  desirable properties and they are <em>not</em> limited to
+	  web pages. None of the mainstream word processors that I am
+	  aware of promote this paradigm. If I want to write documents
+	  this way I'm left with relatively few alternatives. XHTML
+	  and CSS are one, but they're relatively new technologies
+	  designed specifically for document distribution over HTTP.
+	  There is no easy way to convert my XHTML document along with
+	  appropriate CSS stylesheets to a single file I could send
+	  someone over e-mail. LaTeX does better. Once I create a
+	  LaTeX document I can easily convert it to any format I am
+	  interested in, including XHTML and Microsoft Word
+	  Document. I can compose documents the way I like and
+	  distribute them to the world in any format that happens to
+	  be fashionable at the time. As a bonus LaTeX has tags for
+	  almost everything I may want to specify in my documents. And
+	  if it doesn't, I can extend it with my own.</p>
+	  <p>Modern office suites are already moving towards markup
+	  and styling. It will take them many years to embrace this
+	  paradigm completely and shed the legacy of styling
+	  interleaved with the document - a very poor design for
+	  obvious reasons. On the other hand, LaTeX is here today and
+	  there is no reason for us to to wait for word processors to
+	  catch up.</p>
+
+	  <h3>Open Document Format</h3>
+	  <p class="first">For the past couple of years there has been
+	  a big debate sparked by the <a
+	  href="http://www.odfalliance.org/">OpenDocument Format
+	  Alliance</a>. Companies and governments decided they no
+	  longer want to be restricted to using Microsoft Word to edit
+	  and distribute their documents and came up with a radical
+	  idea that their information should be stored in an open
+	  format in order to allow competing word processors to have a
+	  real chance to win market share. Of course OpenDocument
+	  isn't here yet. Nobody can agree on the tags and Microsoft
+	  doesn't want to let go of market domination it has achieved
+	  by locking people into their format.</p>
+	  <p>There is no reason for OpenDocument Format Alliance to
+	  reinvent the wheel and there is no reason for us to wait
+	  until they're done. LaTeX is already here. When you create
+	  your next document, let it rise to the occasion. The format
+	  is open and has a wide variety of standard tags. It is human
+	  readable and can be modified in a multitude of editors from
+	  Notepad, to Emacs, to visual editors like <a
+	  href="http://www.lyx.org/">Lyx</a>. Additionally, LaTeX has
+	  a wide pool of available importers and exporters - you can
+	  import pretty much any document into LaTeX, modify it, and
+	  export it back into any format you like (from Word to HTML
+	  to PDF). LaTeX has everything an open, portable, extensible
+	  format should have. The only thing missing is the hype.</p>
+
+	  <h2><a id="part_4">What's next?</a></h2>
+	  <p class="first">Word Processors are the least useful
+	  components of modern office suits. An argument about
+	  Microsoft Word vs. Word Perfect is a false dilemma as there
+	  are better alternatives. Don't let LaTeX intimidate
+	  you. Once you play around with it and take some time to
+	  understand it, it becomes obvious that it's a very natural
+	  design - another proof that most great software was designed
+	  early in computer history. It may seem alien and dated but
+	  behind the cover there is a very powerful way to compose and
+	  distribute documents. Do a google search on LaTeX and you'll
+	  find plenty of tools equipped to edit LaTeX documents (this
+	  is somewhat like a multitude of HTML editors out
+	  there). Alternatively, if you don't feel like learning LaTeX
+	  tags, download <a href="http://www.lyx.org/">Lyx</a> - a
+	  visual document processor that takes care of the details
+	  behind the scenes.</p>
+
+	  <h2><a id="part_5">Comments?</a></h2>
+	  <p class="first">If you have any questions, comments, or
+	  suggestions, please drop a note at <a
+	  href="mailto:coffeemug@gmail.com">coffeemug@gmail.com</a>.
+	  I'll be glad to hear your feedback.</p>
+
+	  <div id="footnotes">
+	    <p><sup><a id="bad-entries">1</a></sup>I am, of course,
+	    referring to <a
+	    href="http://www.iiisci.org/sci2005/website/default.asp">WMSCI
+	    2005</a>, a conference that accepted a paper generated by
+	    <a href="http://pdos.csail.mit.edu/scigen/">SCIgen</a>, a
+	    random paper generator. Surely journal editors all over
+	    the world doubled their vigilance after this incident.</p>
+	    <p><sup><a id="wasteful-research">2</a></sup>I'm not
+	    making this up. <a
+	    href="http://www.pnas.org/cgi/reprint/99/8/5744">Really</a>.</p>
+	    <p><sup><a id="latex-styles">3</a></sup>LaTeX is a de
+	    facto standard for publishing in academic journals. Most
+	    journals provide LaTeX stylesheets that allow you to
+	    format your paper according to specific requirements
+	    automatically.</p>
+	    <p><sup><a id="emacs">4</a></sup>One of the goals of this
+	    website is explaining the benefits of good technologies
+	    that are generally considered tricky to explain to the
+	    uninitiated (the examples I've already written about are
+	    Lisp and Functional Programming). In this sense Emacs
+	    fits right in. I hope to write an article about it some
+	    time in the future.</p>
+	  </div>
+
+	</div>
+      </div>
+      <div id="page-extra-4"><div id="page-extra-5"><div id="page-extra-6">&nbsp;</div></div></div>
+    </div></div></div>
+    <div id="footer">
+      <p>Everything on this site is in public domain unless stated otherwise.<br/>
+      Contact me with any questions or comments at <a href="mailto:coffeemug@gmail.com">coffeemug@gmail.com</a>.</p>
+      <img src="../images/valid-xhtml11.png" alt="Valid XHTML 1.1" />
+      <img src="../images/valid-css.png" alt="Valid CSS" />
+      <img src="../images/valid-rss.png" alt="Valid RSS" />
+    </div>
+  </div>
+</body>
+</html>

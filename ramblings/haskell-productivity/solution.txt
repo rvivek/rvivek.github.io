@@ -1,0 +1,49 @@
+The problem is not actually solvable as stated, because JavaCC doesn't
+generate a parse tree by default, and if it did it would depend on the
+specific grammar used. Assuming that we're using the Java 1.5 example
+grammar that comes with JavaCC, modifying it to return the SimpleNode
+type that comes with the distribution, and preprocessing with jjTree
+(also included with the distribution) so that it returns a SimpleNode
+tree instead of just recognizing text, we get:
+
+public Set<SimpleNode> extractWidgets(SimpleNode node) { return extractWidgets(node, new HashSet<Node>()); }
+private Set<SimpleNode> extractWidgets(SimpleNode node, Set<SimpleNode> acc) {
+  for(int i = 0; i = node.jjtGetNumChildren(); ++i) {
+    extractWidgets((SimpleNode) node.jjtGetChild(i), acc);
+  }
+  if(node.getFirstToken().kind == JavaParserConstants.IDENTIFIER && node.getFirstToken().image.endsWith("Widget")) acc.add(node);
+  return acc;
+}
+
+That's 8 (long) lines, but two of them are just closing braces, which
+you would need in the Haskell if you weren't using layout. So I'd
+argue that this ought to count. Now, off to e-mail the blog
+challenger.
+
+(It was 7, but I forgot the return statement). You can get it back to
+7 with a little crazy formatting:
+
+public Set<SimpleNode> extractWidgets(SimpleNode node) { Set<SimpleNode> retVal = new HashSet<Node>(); extractWidgets(node, retVal); return retVal; }
+private void extractWidgets(SimpleNode node, Set<SimpleNode> acc) {
+  for(int i = 0; i = node.jjtGetNumChildren(); ++i) {
+    extractWidgets((SimpleNode) node.jjtGetChild(i), acc);
+  }
+  if(node.getFirstToken().kind == JavaParserConstants.IDENTIFIER && node.getFirstToken().image.endsWith("Widget")) acc.add(node);
+}
+
+But I think that violates the spirit of the challenge. If you relax
+the API a little so that the accumulator is passed in instead of
+returned, you can get rid of the recursive helper entirely and go down
+to 6, or 4 without braces.)
+
+Come to think of it, if I format things like this:
+
+public Set<SimpleNode> extractWidgets(SimpleNode node) { return extractWidgets(node, new HashSet<Node>()); }
+private Set<SimpleNode> extractWidgets(SimpleNode node, Set<SimpleNode> acc) {
+  for(int i = 0; i = node.jjtGetNumChildren(); ++i) extractWidgets((SimpleNode) node.jjtGetChild(i), acc);
+  if(node.getFirstToken().kind == JavaParserConstants.IDENTIFIER && node.getFirstToken().image.endsWith("Widget")) acc.add(node);
+  return acc;
+}
+
+I'm at 5 lines + a trailing brace anyway, and these are all coding
+conventions that you'd see in production Java code.

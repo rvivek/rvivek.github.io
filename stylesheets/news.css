@@ -1,0 +1,9 @@
+
+.newsentry .date
+{
+	font-style: italic;
+	padding-right: 1em;
+	width: 6em;
+	vertical-align: top;
+}
+

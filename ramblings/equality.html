@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+  <head>
+    <title>defmacro - Why Equality Is Hard To Get Right</title>
+    <meta name="description" content="An article that explores difficulties when dealing with the concept of equality in programming." />
+    <link rel="stylesheet" type="text/css" href="../stylesheets/main.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../stylesheets/articles.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../stylesheets/print.css" media="print" />
+    <link rel="alternate" type="application/rss+xml" title="defmacro.org" href="../rss/news.xml" />
+    <link rel="home" href="../index.html" />
+
+    <style type="text/css">
+      .book {
+          float: right;
+	  margin-left: 1em;
+      }
+    </style>
+
+  </head>
+  <body>
+    <div id="wrapper"><div id="wrapper1"><div id="wrapper2"><div id="wrapper3">
+      <div id="page-extra-1"><div id="page-extra-2"><div id="page-extra-3">&nbsp;</div></div></div>
+      <div id="wrapper4">
+	<div id="header">
+	  <div id="header-extra-1">
+	    <div id="header-extra-2">
+	      <div id="header-extra-3">
+		<div id="header-extra-4">
+		  <div id="header-extra-5">
+		    <a class="home" href="http://www.defmacro.org">Home - defmacro.org</a>
+		    <span id="title">Made with alien technology.</span>
+		    <div id="syndication"><a href="../rss/news.xml" title="RSS Feed"><img src="../images/xml.png" alt="RSS Feed" /></a></div>
+		  </div>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+	<div id="content">
+	  <h1>Why Equality Is Hard To Get Right</h1>
+	  <div class="date">Wednesday, February 7, 2007</div>
+	  <p>Remember the blog entry that suggested Java got equality
+	  wrong because the expression <em>((Long)0L).equals(0)</em>
+	  returns <em>false</em>? The one that generated hundreds of
+	  comments and split people into a "Java sucks" camp and an
+	  "<em>equals</em> wasn't designed for numbers" camp? From
+	  what I remember nobody mentioned the obvious: equality is
+	  hard.</p>
+	  <p>Intuitively equality should be as simple as the equals
+	  sign. Practically there are many different definitions of
+	  equality, each of which is useful under different
+	  circumstances. Common Lisp has four (!) operators for
+	  equality - <em>eq</em>, <em>eql</em>, <em>equal</em>, and
+	  <em>equalp</em>. Ruby has three - <em>equal?</em>,
+	  <em>eql?</em>, and <em>==</em>. C++ used to have two
+	  (<em>==</em> could mean two different things in different
+	  contexts) but that wasn't enough so the standards committee
+	  introduced a concept of equivalence to STL. Not
+	  surprisingly, Java has two operators for equality (not
+	  counting the whole <em>Comparator</em> business) that behave
+	  in subtly different ways.</p>
+	  <p>What does it mean to ask if two things are equal? Are two
+	  functions that do the same computation in completely
+	  different time and space constraints equal? Are two
+	  arithmetically equal numbers stored in memory in completely
+	  different ways equal? Are two different instance variables
+	  of different classes defined in two different libraries
+	  designed to represent the same thing (say, a 2006 Audi A4)
+	  equal? It gets better. Is me now and me as a four year old
+	  child twenty years ago the same person? How about me ten
+	  years ago? Ten seconds ago?</p>
+	  <p>The answer is the same in each case - yes and no. It
+	  depends on what you're doing.</p>
+	  <p>Different languages tackle the equality problem
+	  differently. Most provide a number of built in equality
+	  operators that behave in different ways and cover most
+	  useful cases. Others, like Haskell, provide one equality
+	  operator that tries to behave in a mathematically sound
+	  manner. Unfortunately that means that Haskell doesn't
+	  provide useful lower level comparisons. For example, Haskell
+	  doesn't have a built-in capability to compare two functions
+	  based on their address in memory.</p>
+	  <p>I learned about the complex nature of equality years ago
+	  when I ran into the following C++ expression that for a
+	  certain type of objects occasionally evaluated to true:
+	  <em>!(a &lt; b) &amp;&amp; !(b &lt; a) &amp;&amp; a !=
+	  b</em>. At the time it led me to a number of mathematics and
+	  philosophy (yes, Plato wrote about equality!) books and
+	  courses that taught me one thing I should have figured out
+	  myself in the first place - that the notion of equality is a
+	  very difficult problem.</p>
+	  
+	  <h2><a>Comments?</a></h2>
+	  <p class="first">If you have any questions, comments, or
+	  suggestions, please drop a note at <a
+	  href="mailto:coffeemug@gmail.com">coffeemug@gmail.com</a>.
+	  I'll be glad to hear your feedback.</p>
+	  
+	</div>
+
+      </div>
+      <div id="page-extra-4"><div id="page-extra-5"><div id="page-extra-6">&nbsp;</div></div></div>
+    </div></div></div>
+    <div id="footer">
+      <p>Everything on this site is in public domain unless stated otherwise.<br/>
+      Contact me with any questions or comments at <a href="mailto:coffeemug@gmail.com">coffeemug@gmail.com</a>.</p>
+      <img src="../images/valid-xhtml11.png" alt="Valid XHTML 1.1" />
+      <img src="../images/valid-css.png" alt="Valid CSS" />
+      <img src="../images/valid-rss.png" alt="Valid RSS" />
+    </div>
+  </div>
+</body>
+</html>

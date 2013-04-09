@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+  <head>
+    <title>defmacro - Weblocks - A Common Lisp web framework</title>
+    <meta name="description" content="An article that explores difficulties when dealing with the concept of equality in programming." />
+    <link rel="stylesheet" type="text/css" href="../stylesheets/main.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../stylesheets/articles.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../stylesheets/print.css" media="print" />
+    <link rel="alternate" type="application/rss+xml" title="defmacro.org" href="../rss/news.xml" />
+    <link rel="home" href="../index.html" />
+
+    <style type="text/css">
+      .book {
+          float: right;
+	  margin-left: 1em;
+      }
+    </style>
+
+  </head>
+  <body>
+    <div id="wrapper"><div id="wrapper1"><div id="wrapper2"><div id="wrapper3">
+      <div id="page-extra-1"><div id="page-extra-2"><div id="page-extra-3">&nbsp;</div></div></div>
+      <div id="wrapper4">
+	<div id="header">
+	  <div id="header-extra-1">
+	    <div id="header-extra-2">
+	      <div id="header-extra-3">
+		<div id="header-extra-4">
+		  <div id="header-extra-5">
+		    <a class="home" href="http://www.defmacro.org">Home - defmacro.org</a>
+		    <span id="title">Made with alien technology.</span>
+		    <div id="syndication"><a href="../rss/news.xml" title="RSS Feed"><img src="../images/xml.png" alt="RSS Feed" /></a></div>
+		  </div>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+	<div id="content">
+	  <h1>Weblocks - A Common Lisp web framework</h1>
+	  <div class="date">Tuesday, July 3, 2007</div>
+
+	  <h2><a>What?</a></h2>
+	  <p class="first">This will be a quick and dirty post. Over
+	  the past couple of months I've been quiet. I didn't fall off
+	  the edge of the Earth. Instead I've spent all my time
+	  writing software rather than writing <em>about</em>
+	  software. A few months ago I quit my job to do things I
+	  always wanted to do. One of them is writing a web
+	  application framework in Common Lisp.</p>
+	  <p>The framework is very close to being ready for public
+	  consumption but it isn't there yet. I am giving everyone a
+	  sneak peek because tomorrow I am going abroad. I will be
+	  gone for three weeks and I want to let people know what I've
+	  been working on before I leave.</p>
+	  <p>I put together a demo application that runs on a VPS host
+	  <a href="http://72.249.76.121">here</a>. This is a Ubuntu
+	  machine running SBCL and Hunchentoot. In case the server
+	  goes down while I'm gone you can find (somewhat stale)
+	  screeenshots <a
+	  href="http://www.defmacro.org/temp/shot1.png">here</a> and
+	  <a
+	  href="http://www.defmacro.org/temp/shot2.png">here</a>. If
+	  the server holds up, do check out the incremental search on
+	  the grid - my tribute to Emacs!</p>
+	  <p>If you want to play with the source the darcs repository
+	  for the framework is here:</p>
+<pre class="source-code">
+http://common-lisp.net/project/cl-weblocks/darcs/cl-weblocks
+</pre>
+	  <p class="section-update-date">Updated: 08/18/2007</p>
+          <p>And the repository for the demo application is here:</p>
+<pre class="source-code">
+http://common-lisp.net/project/cl-weblocks/darcs/weblocks-demo
+</pre>
+	  <p class="section-update-date">Updated: 11/19/2007</p>
+          <p>The code is relatively clean but as I said earlier - it
+          isn't quite ready for public consumption. You've been
+          warned!</p>
+
+	  <h2><a>How?</a></h2>
+	  <p class="first">The framework is similar in spirit to <a
+	  href="http://common-lisp.net/project/ucw/">UCW</a> and <a
+	  href="http://www.seaside.st/">Seaside</a>. It is heavily
+	  based on <em>widgets</em>. I probably would have ended up
+	  using Seaside if Smalltalk supported multiple method
+	  dispatch and didn't force me out of Emacs. I didn't use UCW
+	  because of a serious attack of a <em>Not Invented Here</em>
+	  syndrome.</p>
+	  <p>I did not yet implement modal requests. When I do I will
+	  likely <em>not</em> use continuations. I have a pretty good
+	  idea on how to achieve modal programming style with
+	  coroutines.</p>
+	  <p>I make <em>very</em> heavy use of closures and multiple
+	  dispatch. Some parts of the framework also put more esoteric
+	  features of CLOS and MOP to the test. I use introspection
+	  heavily to generate HTML - I couldn't stand using template
+	  engines anymore so I wrote code that does the dirty work for
+	  me. Macros are put to very heavy use via Edi Weitz's
+	  excellent <a href="http://weitz.de/cl-who/">CL-WHO</a>. I
+	  suspect I'll use them heavily to implement coroutines.</p>
+
+	  <p>AJAX is supported automatically for all widgets except
+	  the <em>navigation</em> (in order to allow for friendly
+	  URLs). The framework automatically scales back - everything
+	  still works when JavaScript is turned off. Closures allow
+	  writing code as if the client and the server are on one
+	  machine and HTTP doesn't exist. Some MOP specialization
+	  allows automatically determining when widgets have been
+	  modified. Together these features let the framework turn
+	  AJAX on and off in seamless manner without any boilerplate
+	  code.</p>
+
+	  <h2><a>Why?</a></h2>
+	  <p class="first">I suppose the same reason why George Leigh
+	  Mallory wanted to climb Mount Everest - because it's
+	  there. Unfortunately the biggest challenge turned out to be
+	  porting the stylesheets to IE 6, but that's a story for
+	  another day.</p>
+	  
+	  <h2><a>What's Next?</a></h2>
+	  <p class="first">I have a lot left to do. Implementing modal
+	  programming style, more cool (and useful) widgets, writing
+	  tutorials, publishing API documentation, setting up public
+	  wiki and bug tracking are some of the items on my to-do
+	  list.</p>
+	  <p>See everyone at the end of July when I come back!</p>
+	  
+	  <h2><a>Comments?</a></h2>
+	  <p class="first">If you have any questions, comments, or
+	  suggestions, please drop a note at <a
+	  href="mailto:coffeemug@gmail.com">coffeemug@gmail.com</a>.
+	  I'll be glad to hear your feedback.</p>
+	  
+	</div>
+
+      </div>
+      <div id="page-extra-4"><div id="page-extra-5"><div id="page-extra-6">&nbsp;</div></div></div>
+    </div></div></div>
+    <div id="footer">
+      <p>Everything on this site is in public domain unless stated otherwise.<br/>
+      Contact me with any questions or comments at <a href="mailto:coffeemug@gmail.com">coffeemug@gmail.com</a>.</p>
+      <img src="../images/valid-xhtml11.png" alt="Valid XHTML 1.1" />
+      <img src="../images/valid-css.png" alt="Valid CSS" />
+      <img src="../images/valid-rss.png" alt="Valid RSS" />
+    </div>
+  </div>
+</body>
+</html>

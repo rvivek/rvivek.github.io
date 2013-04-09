@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+  <head>
+    <title>Haskell and Web Applications</title>
+    <meta name="description" content="An article about applying Haskell to web application development." />
+    <link rel="stylesheet" type="text/css" href="../stylesheets/main.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../stylesheets/articles.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../stylesheets/print.css" media="print" />
+    <link rel="alternate" type="application/rss+xml" title="defmacro.org" href="../rss/news.xml" />
+    <link rel="home" href="../index.html" />
+    
+    <style type="text/css">
+      #free-books {
+      width: 100%;
+      text-align: center;
+      }
+
+      #free-books a {
+      margin: 1em;
+      }
+    </style>
+    
+  </head>
+  <body>
+    <div id="wrapper"><div id="wrapper1"><div id="wrapper2"><div id="wrapper3">
+      <div id="page-extra-1"><div id="page-extra-2"><div id="page-extra-3">&nbsp;</div></div></div>
+      <div id="wrapper4">
+	<div id="header">
+	  <div id="header-extra-1">
+	    <div id="header-extra-2">
+	      <div id="header-extra-3">
+		<div id="header-extra-4">
+		  <div id="header-extra-5">
+		    <a class="home" href="http://www.defmacro.org">Home - defmacro.org</a>
+		    <span id="title">Made with alien technology.</span>
+		    <div id="syndication"><a href="../rss/news.xml" title="RSS Feed"><img src="../images/xml.png" alt="RSS Feed" /></a></div>
+		  </div>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+	<div id="content">
+	  <h1>Haskell and Web Applications</h1>
+	  <div class="date">Tuesday, February 6, 2007</div>
+	  
+	  <h2><a id="part_1">Introduction</a></h2> <p
+	  class="first">Lately I've been spending a lot of my free
+	  time on writing a web application in Haskell. Originally I
+	  planned to write one big article documenting the effort but
+	  once in a while I end up doing things that are so cool I
+	  feel like a fourteen year old girl who just got her first
+	  cellphone for Christmas - I just can't shut up about it. One
+	  of these things is generic introspection of data structures
+	  (more commonly referred to as reflection) and its
+	  application to rendering data structures into HTML in
+	  generic manner.</p>
+	  <p>In most web applications I've worked on a huge chunk of
+	  development time ended up going into doing repetitive
+	  work. Of course most smart people refuse to do what
+	  computers can do and hence in recent years many frameworks
+	  popped up that largely succeeded in automating most
+	  repetitive chores about building web applications. Perhaps
+	  the most famous technique is RoR's "scaffolding" -
+	  introspecting data structures to generate boilerplate code
+	  that makes the process of building basic web front ends
+	  automatic. If you've ever wondered how to do something
+	  similar in Haskell you've come to the right place.  Grab
+	  some coffee, sit back, and enjoy the ride.</p>
+
+	  <h2><a id="part_2">The Problem</a></h2>
+	  <p class="first">Essentially all web applications have some
+	  data structures that represent the concepts an application
+	  is attempting to model. This data needs to be presented on
+	  the front-end in various ways: as a detailed information
+	  pane, a form, a summary, etc. After writing code to
+	  transform data structures into HTML we end up realizing that
+	  much of the code is extremely repetitive - aside from rare
+	  special cases the code does the same thing over and over
+	  again. Consider the following data structure:</p>
+
+<pre class="source-code">
+data User = User {
+       firstName :: String,
+       lastName :: String,
+       title :: String,
+       age :: Int
+   } deriving (Read, Show, Typeable, Data)
+</pre>
+
+          <p>We've just defined a user that has a first and last name,
+          a title, and an age. We may want to present this data
+          structure in the web browser like this:</p>
+          <div class="source-code">
+             <span>First Name:</span>
+             <span>Joe</span>
+             <br />
+             <span>Last Name:</span>
+             <span>Average</span>
+             <br />
+             <span>Title:</span>
+             <span>Programmer</span>
+             <br />
+             <span>Age:</span>
+             <span>33</span>
+          </div>
+	  <p>Using the following HTML:</p>
+<pre class="source-code">
+&lt;div&gt;
+   &lt;span&gt;First Name:&lt;/span&gt;
+   &lt;span&gt;Joe&lt;/span&gt;
+   &lt;br /&gt;
+   &lt;span&gt;Last Name:&lt;/span&gt;
+   &lt;span&gt;Average&lt;/span&gt;
+   &lt;br /&gt;
+   &lt;span&gt;Title:&lt;/span&gt;
+   &lt;span&gt;Programmer&lt;/span&gt;
+   &lt;br /&gt;
+   &lt;span&gt;Age:&lt;/span&gt;
+   &lt;span&gt;33&lt;/span&gt;
+&lt;/div&gt;
+</pre>
+	  <p>This is simple enough. If we have to do this often
+	  (which, more than likely, we do) we'll write a routine to
+	  automate the task of rendering the <em>User</em> data
+	  structure in the way described above. However, consider what
+	  happens when we define another data structure (say,
+	  <em>Company</em>). The way we render it to HTML is not very
+	  different than the way we render <em>User</em>, we only
+	  change the fields. If we want to abstract this behavior (you
+	  <em>do</em> abstract this behavior, don't you?) we have to
+	  write a generic routine that works on any data
+	  structure. This isn't very hard to do with reflection but
+	  the trick is to automate the rendering in a way that allows
+	  to easily handle special cases when they arise. We need to
+	  be able to specialize our code for particular data
+	  structures, otherwise we can't use the framework for real
+	  world applications - we'll be stuck the minute we hit a
+	  special case.</p>
+	  <p>Fortunately all this (and a lot more) is very easy to do
+	  in Haskell. In a few dozen lines of code we'll create a
+	  flexible, extensible framework that allows us to do
+	  everything described in this section and more. Let's catch
+	  our breath and move on!</p>
+
+	  <h2><a id="part_3">Type Reflection</a></h2>
+	  <p class="first">In order to render an object of type
+	  <em>User</em> (or any type, for that matter) in a generic
+	  manner into HTML we need to be able to get a list of its
+	  field names at runtime. We also need to be able to correlate
+	  the field names with their respective values. In Haskell
+	  this is pretty simple. The following Haskell snippet takes a
+	  generic data structure and returns a list of tuples where
+	  each tuple contains a field name and its value in the
+	  structure:</p>
+<pre class="source-code">
+introspectData :: Data a => a -> [(String, String)]
+introspectData a = zip fields (gmapQ gshow a)
+    where fields = constrFields $ toConstr a
+</pre>
+          <p>If we run <em>introspectData</em> on a sample user we'll
+          get a list that contains everything we need:</p>
+<pre class="source-code">
+introspectData someUser
+-> [("firstName", "Joe"),
+    ("lastName", "Average"),
+    ("title", "Programmer"),
+    ("age", "33")]
+</pre>
+          <p>The hard part is done. We can now take this list and
+          easily convert it to HTML. However, before we get to the
+          renderers, let's discuss two more utility functions. The
+          function <em>renderFieldName</em> converts a camel case
+          field name into a human readable string:</p>
+<pre class="source-code">
+renderFieldName = capitalize . unwords
+                      . groupBy (\_->not . isUpper)
+    where capitalize (x:xs) = toUpper x : xs
+</pre>
+          <p>It's easiest to describe its behavior with a couple of
+          examples:</p>
+<pre class="source-code">
+renderFieldName "firstName"
+-> "First Name"
+renderFieldName "title"
+-> "Title"
+</pre>
+          <p>We also define a helper function <em>mapFields</em> that
+          we'll be using in our renderers. It simply takes a function
+          and a data object as arguments and applies the function to
+          each field/value pair in the data object.</p>
+<pre class="source-code">
+mapFields renderField i =
+    concatHtml $ map renderField (introspectData i)
+</pre>
+          <p>Now that the utility code is out of the way let's get to
+          the fun part - rendering HTML.</p>
+
+	  <h2><a id="part_4">Generic Renderer</a></h2>
+	  <p class="first">Let's define a function,
+	  <em>renderData</em>, that will take a data object and render
+	  it to HTML using helper functions defined in the previous
+	  section:</p>
+<pre class="source-code">
+renderData :: (Data a) => a -> Html
+renderData i = thediv &lt;&lt; mapFields renderField i
+    where renderField (name, val) =
+        thespan &lt;&lt; renderFieldName (name ++ ":")
+        +++ thespan &lt;&lt; val
+                +++ br
+</pre>
+          <p>The first line says our function will take any type that
+          belongs to the <em>Data</em> class and will return a value
+          of type <em>Html</em>. The <em>Data</em> class is really a
+          set of functions that expose the reflection
+          mechanism. <em>Html</em> is a type that's defined in a
+          Haskell library along with a number of domain specific
+          operators for expressing HTML within Haskell source
+          code. Note how we use <em>thediv</em>, <em>thespan</em>,
+          <em>br</em>, <em>&lt;&lt;</em>, and <em>+++</em>. These
+          operators allow us to output HTML markup from within Haskell
+          in a concise way without ever messing with strings.</p>
+	  <p>The function <em>renderField</em> renders each field - we
+	  pass it to <em>mapFields</em> so it's called once for each
+	  field in our object. The function <em>renderData</em> merely
+	  wraps our field output in a &lt;div&gt; (we only need to
+	  specify the tags once, the library closes them for us
+	  automatically).</p>
+
+	  <p>We now have a nice way of rendering objects generically,
+	  but what about specialization? Suppose we want to render an
+	  <em>Address</em> data structure and we don't want the state,
+	  city, and zip code in separate <em>span</em>s because it
+	  makes styling our HTML uncomfortable. We could simply create
+	  a different function for rendering addresses -
+	  <em>renderAddress</em> but that would force us to use a
+	  different function name every time we want to render a
+	  specialized data structure. Can we do better?</p>
+
+	  <h2><a id="part_5">Specialized Renderers</a></h2>
+	  <p class="first">Now that we've dealt with the crux of the
+	  problem let's take care of the details. A major problem with
+	  rendering all structures in a generic manner is that the
+	  user interface will feel clunky - while most data structures
+	  are handled in the same way there are always special cases
+	  that need to be handled separately. Consider the address
+	  data structure mentioned above:</p>
+<pre class="source-code">
+data Address = Address {
+       street :: String,
+       city :: String,
+       state :: String,
+       zipCode :: String
+   } deriving (Read, Show, Typeable, Data)
+</pre>
+	  <p>If we use the generic mechanism outlined above to render
+	  an address we'll end up with city, state, and zipcode
+	  presented on separate lines. This detail won't make or break
+	  our application but the UI won't have the polish our users
+	  have grown to expect.</p>
+	  <p>These cases are very easy to handle by creating
+	  <em>specialized</em> instances of our renderers. Remember
+	  how the renderers defined earlier are based on a <em>type
+	  variable</em> - they take any type and render it using
+	  reflection. We can create specialized instances that work on
+	  specific types. All we have to do is add a type class for
+	  rendering data and changing the behavior for
+	  <em>Address</em> will be a piece of cake!<sup><a
+	  href="#redo-generic">1</a></sup></p>
+<pre class="source-code">
+class Data a => DataRenderer a where
+    renderData :: a -> Html
+
+instance DataRenderer Address where
+    renderData i = ...
+</pre>
+          <p>Now every time we try to evaluate <em>renderData</em>
+          with a piece of data of type <em>Address</em> Haskell will
+          call our specialized instance!  Every time we need
+          specialized behavior we can simply define it once and it
+          will automatically be used throughout our application. Note
+          that Haskell compiler figures out which instance to use at
+          <em>compile time</em>. Not only do we get virtual functions
+          on steroids, we also don't need to take the performance
+          hit<sup><a href="#performance">2</a></sup>.</p>
+	  <p>It's rather interesting to contrast Haskell's type
+	  classes with Alexandrescu's techniques to achieve "compile
+	  time polymorphism" presented in Modern C++ Design. This
+	  comparison would be far beyond the scope of this article
+	  but I encourage everyone to do it on their own.</p>
+	  
+	  <h2><a id="part_6">Multiple Renderers</a></h2>
+	  <p class="first">What's interesting about web applications
+	  is that the same piece of data may be presented to the user
+	  in many different ways. We may present information about a
+	  user in a form, or simply as lines of text, or in a single
+	  row of a table. In order to illustrate the flexibility of
+	  our approach, let's create another generic renderer that
+	  renders Haskell data structures into HTML forms. We'll
+	  follow the process outlined above. First we'll create a type
+	  class for rendering forms:</p>
+<pre class="source-code">
+class Data a => FormRenderer a where
+    renderForm :: a -> Html
+</pre>
+          <p>Then we'll create a generic renderer instance:</p>
+<pre class="source-code">
+instance Data a => FormRenderer a where
+    renderForm i =
+        form ! [method "post"] &lt;&lt; (mapFields renderField i
+                 +++ button ! [name "action", value "submit"]
+		     &lt;&lt; "Submit")
+        where renderField (name, val) =
+	    thespan &lt;&lt; renderFieldName name
+            +++ textfield name ! [value val]
+                +++ br
+</pre>
+          <p>At this point we can take any Haskell data structure and
+          render it into HTML in different ways in one line of
+          code!</p>
+<pre class="source-code">
+-- Render the data structure
+renderData someUser
+
+-- Render into a form
+renderForm someUser
+</pre>
+          <p>Sing, goddess, the eulogy to the old ways of writing web
+          applications, which put pains thousandfold upon the the
+          programmers. Manual HTML generation is no more<sup><a
+          href="#new-way">3</a></sup>.</p>
+
+	  <h2><a id="part_7">What's Next?</a></h2>
+	  <p class="first">While the code presented in this article
+	  exposes a very powerful approach for generically rendering
+	  data into HTML, it currently has limitations that need to be
+	  addressed. It only renders "simple" data structures - ones
+	  with a single constructor and primitive
+	  fields. Additionally, the code does not contain a generic
+	  way for consistently dealing with relationships - an
+	  employee that contains a field with a company id will render
+	  an integer instead of the company name. Also, the renderers
+	  described in this article expose no mechanisms for
+	  customizations - <em>renderData</em> renders structures in
+	  the only way it knows how. It seems fitting to parametrize
+	  standard renderers to allow larger degree of
+	  flexibility.</p>
+
+	  <h2><a id="part_8">Comments?</a></h2> <p class="first">If
+	  you have any questions, comments, or suggestions, please
+	  drop a note at <a
+	  href="mailto:coffeemug@gmail.com">coffeemug@gmail.com</a>.
+	  I'll be glad to hear your feedback.</p>
+	  
+	  <div id="footnotes">
+	    <p><sup><a id="redo-generic">1</a></sup>We'll also need to
+	    make the original <em>renderData</em> function an instance
+	    of <em>DataRenderer</em> class.</p>
+	    <p><sup><a id="performance">2</a></sup>Note that in this
+	    particular case it doesn't matter because the reflection
+	    mechanism is considerably more expensive than a single
+	    virtual function call.</p>
+	    <p><sup><a id="new-way">3</a></sup>Of course I'm not the
+	    first one to try publishing data to the web in this manner
+	    (though I may be the first to do it in Haskell). There are
+	    other ways to achieve similar effects with a comparable
+	    degree of elegance in other languages. It would be fun to
+	    do this in Lisp with multimethods.</p>
+	  </div>
+	</div>
+      </div>
+      <div id="page-extra-4"><div id="page-extra-5"><div id="page-extra-6">&nbsp;</div></div></div>
+    </div></div></div>
+    <div id="footer">
+      <p>Everything on this site is in public domain unless stated otherwise.<br/>
+      Contact me with any questions or comments at <a href="mailto:coffeemug@gmail.com">coffeemug@gmail.com</a>.</p>
+      <img src="../images/valid-xhtml11.png" alt="Valid XHTML 1.1" />
+      <img src="../images/valid-css.png" alt="Valid CSS" />
+      <img src="../images/valid-rss.png" alt="Valid RSS" />
+    </div>
+  </div>
+</body>
+</html>

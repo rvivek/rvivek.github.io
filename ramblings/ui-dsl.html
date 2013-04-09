@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+  <head>
+    <title>A User Interface Definition Language in Common Lisp</title>
+    <meta name="description" content="An article about applying continuations to develop web applications with Weblocks in Common Lisp." />
+    <link rel="stylesheet" type="text/css" href="../stylesheets/main.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../stylesheets/articles.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../stylesheets/print.css" media="print" />
+    <link rel="alternate" type="application/rss+xml" title="defmacro.org" href="../rss/news.xml" />
+    <link rel="home" href="../index.html" />
+  </head>
+  <body>
+    <div id="wrapper"><div id="wrapper1"><div id="wrapper2"><div id="wrapper3">
+      <div id="page-extra-1"><div id="page-extra-2"><div id="page-extra-3">&nbsp;</div></div></div>
+      <div id="wrapper4">
+	<div id="header">
+	  <div id="header-extra-1">
+	    <div id="header-extra-2">
+	      <div id="header-extra-3">
+		<div id="header-extra-4">
+		  <div id="header-extra-5">
+		    <a class="home" href="http://www.defmacro.org">Home - defmacro.org</a>
+		    <span id="title">Made with alien technology.</span>
+		    <div id="syndication"><a href="../rss/news.xml" title="RSS Feed"><img src="../images/xml.png" alt="RSS Feed" /></a></div>
+		  </div>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+	<div id="content">
+	  <h1>A User Interface Definition Language in Common Lisp</h1>
+	  <div class="date">Wednesday, February 13, 2008</div>
+	  
+	  <h2><a id="part_1">Introduction</a></h2>
+	  <p class="first">I like HTML in the same way I like PDF - as
+	  a document serialization format that does a reasonable job
+	  and that I never want to modify by hand. This is one of the
+	  main reasons I started <a
+	  href="http://common-lisp.net/project/cl-weblocks/">Weblocks</a>
+	  framework - I never wanted to write a line of HTML
+	  again. Ironically, I ended up writing <strong>a lot</strong>
+	  of HTML and learning more about its quirks, accessibility
+	  issues, and CSS hooks than I ever wanted to, but I finally
+	  ended up with a high level user interface definition
+	  language embedded into Common Lisp. Finally, HTML is out of
+	  my life, for good. Being lazy does pay off.</p>
+
+	  <h2><a id="part_2">Defining a User Interface</a></h2>
+	  <p class="first">So how does it work? From the perspective
+	  of a web application developer it's very simple. You just
+	  specify the user interface in a declarative manner and the
+	  engine figures out how to convert it to HTML:</p>
+<pre class="source-code">
+(defview employee-form (:type form :default-method :post)
+  first-name
+  (last-name :requiredp t
+             :label "Family Name")
+  (contract :present-as (radio :choices
+                          '(:full-time :part-time :consultant :intern))
+            :parse-as keyword)
+  (age :present-as (input :max-length 3)
+       :parse-as integer))
+</pre>
+          <p>Rendering the object into HTML is then as simple as
+          typing the following line:</p>
+<pre class="source-code">
+(render-object-view some-employee 'employee-form)
+</pre>
+          <p>It's up to the engine to render the form, labels, input
+          fields, radio buttons, etc. Reasonable defaults are used
+          whenever possible, and when the defaults aren't sufficient
+          the developer can declaratively specify how a field is to be
+          rendered, how it is to be parsed, how the value of each
+          field is to be acquired and stored, etc. The declarative
+          language mirrors a set of extensible data structures that
+          hold the rendering information, so when new renderers need
+          to be provided for an obscure HTML construct I didn't think
+          of, the developer can extend the engine with the construct
+          once, and forget it ever existed.</p>
+	  <p>The language is very flexible. For example, to render the
+	  contract choices as a dropdown and to obtain them
+	  dynamically we could declare the contract field like
+	  this:</p>
+<pre class="source-code">
+(contract :present-as (dropdown :choices
+                        (lambda (obj)
+                          (declare (ignore obj))
+                          (list :full-time :part-time :consultant :intern))
+          :parse-as keyword))
+</pre>
+	  <p>Here is an example that defines an interface which simply
+	  renders textual information about an employee:</p>
+<pre class="source-code">
+(defview employee-data-view ()
+  first-name
+  last-name
+  contract
+  age
+  company)
+</pre>
+          <p>The type of the view isn't specified because text view is
+          the default, nor are there any special options for
+          the fields.</p>
+	  <p>This works very nicely, but what about reusing views when
+	  parts of the website require simple deviations?</p>
+
+	  <h2><a id="part_4">Inheritance And Composition</a></h2>
+	  <p class="first">So far we defined a simple UI for an
+	  imaginary <em>employee</em> object. However, real life web
+	  development is rarely that simple. Most user interfaces
+	  involve presenting complex, interrelated objects in various
+	  ways. To allow doing this, views provide two abstraction
+	  facilities - <em>inheritance</em> and
+	  <em>composition</em>.</p>
+	  
+	  <h3>Inheritance</h3>
+	  <p class="first"><em>Inheritance</em> allows one view to
+	  inherit fields from another and to selectively override
+	  necessary fields. Consider presenting the employee - in case
+	  we're on a particular company's directory, we don't want to
+	  show which company each employee works for - we already know
+	  which directory we're in. However, if we're building a
+	  directory of all contractors that work for the government
+	  and we stumble on a give employee, we want to know which
+	  contractor the employee works for.</p>
+	  <p>We could copy-paste the <em>employee-data-view</em> and
+	  remove the company field for the company directory view, but
+	  a much more elegant way to solve the problem is to have the
+	  new view inherit from the old one:</p>
+<pre class="source-code">
+(defview employee-company-directory-view (:inherit-from 'employee-data-view)
+  (company :hidep t))
+</pre>
+          <p>Now <em>employee-company-directory-view</em> has all the
+          fields in <em>employee-data-view</em>, except we override
+          the <em>company</em> field and hide it. We can also add new
+          fields, if the need arises.</p>
+	  
+	  <h3>Composition</h3>
+	  <p class="first"><em>Composition</em> allows mixing in
+	  views. Consider a view to present an address:</p>
+<pre class="source-code">
+(defview address-form-view (:type form)
+  street
+  city
+  (state :present-as us-state)
+  zip)
+</pre>
+	  <p>It can be used in a large number of settings - as part of
+	  the employee profile, company information, credit card
+	  payment form, etc. We could have other views inherit from
+	  the <em>address</em> view, but we wouldn't get positioning
+	  flexibility, wouldn't be able to mix in multiple fields, and
+	  would prevent the view from inheriting from other, more
+	  relevant views. Composition solves these problems:</p>
+<pre class="source-code">
+(defview credit-card-form (:type form)
+  number
+  expiration
+  (address :type mixin
+           :view 'address-form-view)
+  (street :hidep t))
+</pre>
+          <p>This way the <em>address</em> view is <em>mixed
+          in</em>. The fields of the address are presented inline in
+          the credit card view. We can mix in as many fields as we
+          wish. Additionally, we can override the way address fields
+          are presented in the credit card view. In this example the
+          street is hidden, as it may not be relevant to credit card
+          validation.</p>
+          <p>View inheritance and composition provide powerful means
+          to define, structure, and customize user interfaces. But can
+          things get better? I think they can.</p>
+	  
+	  <h2><a id="part_4">Scaffolding</a></h2>
+	  <p class="first">When I heard about a new Ruby framework
+	  called "Rails" that automatically generates interfaces from
+	  class definitions I was ecstatic. Finally, someone wrote a
+	  framework I always wanted to write! A class definition, in
+	  most languages, is fairly close to a UI definition language
+	  (albeit not incredibly expressive). By default, a tremendous
+	  amount of valuable information can be obtained from member
+	  names and types, and this information can be used to
+	  generate default user interfaces!</p>
+	  <p>I downloaded Rails first chance I got. Unfortunately I
+	  was in for a disappointment. The framework converted class
+	  definitions into HTML. It was a one way script, not a true
+	  abstraction. If I modified the generated code, I couldn't
+	  update the model and regenerate the interface - my
+	  modifications would be lost.</p>
+	  <p>The proper way to implement scaffolding, the way that's
+	  actually useful throughout the entire project, not merely at
+	  the beginning, is to introspect class definitions and
+	  generate high level user interface definition data
+	  structures that can later be selectively overridden in a
+	  declarative manner. We can do that by taking advantage of
+	  the inheritance mechanism described above. Consider the
+	  following snippet:</p>
+<pre class="source-code">
+(defview employee-data-view (:inherit-from '(:scaffold employee)))
+</pre>
+          <p>Now our view inherits from a scaffold view. The scaffold
+          view generates a sensible interface from the CLOS object in
+          question. It turns out that Common Lisp class definitions
+          are so expressive, very good interfaces can be generated by
+          default. Consider the following class definition:</p>
+<pre class="source-code">
+(defclass employee ()
+  ((first-name :reader employee-first-name)
+   (last-name :accessor employee-last-name
+              :type string)
+   (contract :accessor employee-contract
+             :type (member :full-time :part-time :consultant :intern))
+   (age :accessor employee-age
+        :type (or null integer))))
+</pre>
+          <p>We can gain an incredible amount of information from this
+          definition. We know that we have four fields: <em>first
+          name</em>, <em>last name</em>, <em>contract</em>, and
+          <em>age</em>. We know that <em>first name</em> should be
+          read-only, as only a reader is defined for the corresponding
+          slot. We know that <em>last name</em> and <em>contract</em>
+          should be required fields, because their type signature
+          doesn't permit for nulls. Similarly we know that
+          <em>age</em> should be optional, as null is permitted, and
+          that it must be an integer. We also know that
+          <em>contract</em> can be one of four values.</p>
+	  <p>The class definition is so succinct, one may wonder why
+	  not use CLOS classes in the first place without defining a
+	  custom language. In fact, this is the route I took
+	  initially, only to find out later that it doesn't work. The
+	  same object is often rendered in different ways, and people
+	  aren't very fond of changing their data model to change the
+	  way a field is rendered. I also couldn't define a custom
+	  metaclass so that specialized rendering information for each
+	  slot could be put in place. Firstly, more often than not
+	  model classes already have a custom metaclass to allow for
+	  mapping to a backend store, and secondly this wouldn't
+	  easily accommodate creating multiple different views of the
+	  same object.</p>
+
+	  <p>Every field we define in <em>employee-data-view</em>
+	  overrides the fields automatically defined by the scaffold
+	  view. We can hide fields defined by the scaffold by setting
+	  <em>:hidep</em> option to true, set custom presentations and
+	  parsers, and change every other parameter. Of course
+	  interfaces can be defined without the use of
+	  scaffolding. But why would anyone want to do a thing like
+	  that?</p>
+	  
+	  <h2><a id="part_5">What's Next?</a></h2>
+	  <p class="first">So, does any of this work? You <a
+	  href="http://72.249.76.121/">bet</a> it does! And coupled with
+	  <a href="http://trac.common-lisp.net/cl-weblocks/wiki/UserManual#Actions">
+	    closures-based actions</a>,
+	  <a href="continuations-web.html">continuations-based control flow</a>,
+	  <a href="http://trac.common-lisp.net/cl-weblocks/wiki/UserManual#Widgets">stateful
+	  widgets</a>,
+	  and a shiny new
+	  <a href="http://clsql.b9.com/">CLSQL</a>
+	  backend store<sup><a href="#prevalence">1</a></sup>,
+	  it may very well be the web development nirvana<sup><a href="#nirvana">2</a></sup>.
+	  <a href="http://trac.common-lisp.net/cl-weblocks/wiki/ObtainingAndInstalling">Download</a>
+	  Weblocks, and see for yourself.</p>
+
+	  <h2><a id="part_6">Comments?</a></h2> <p class="first">If
+	  you have any questions, comments, or suggestions, please
+	  drop a note at <a
+	  href="mailto:coffeemug@gmail.com">coffeemug@gmail.com</a>.
+	  I'll be glad to hear your feedback.</p>
+
+	  <div id="footnotes">
+	    <p><sup><a id="prevalence">1</a></sup>You can also use a
+	    built-in, zero configuration <a
+	    href="http://common-lisp.net/project/cl-prevalence/">cl-prevalence</a>
+	    backend. Or you can roll your own.</p>
+	    <p><sup><a id="nirvana">2</a></sup>Weblocks is relatively
+	    young, so there still may be some issues that need to be
+	    ironed out. Proceed with caution!</p>
+	  </div>
+	</div>
+      </div>
+      <div id="page-extra-4"><div id="page-extra-5"><div id="page-extra-6">&nbsp;</div></div></div>
+    </div></div></div>
+    <div id="footer">
+      <p>Everything on this site is in public domain unless stated otherwise.<br/>
+      Contact me with any questions or comments at <a href="mailto:coffeemug@gmail.com">coffeemug@gmail.com</a>.</p>
+      <img src="../images/valid-xhtml11.png" alt="Valid XHTML 1.1" />
+      <img src="../images/valid-css.png" alt="Valid CSS" />
+      <img src="../images/valid-rss.png" alt="Valid RSS" />
+    </div>
+  </div>
+</body>
+</html>

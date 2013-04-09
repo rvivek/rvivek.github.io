@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+  <head>
+    <title>defmacro - Why Exotic Languages Are Not Mainstream</title>
+    <meta name="description" content="An article that explores disadvantages of using an exotic language for real work." />
+    <link rel="stylesheet" type="text/css" href="../stylesheets/main.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../stylesheets/articles.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../stylesheets/print.css" media="print" />
+    <link rel="alternate" type="application/rss+xml" title="defmacro.org" href="../rss/news.xml" />
+    <link rel="home" href="../index.html" />
+  </head>
+  <body>
+    <div id="wrapper"><div id="wrapper1"><div id="wrapper2"><div id="wrapper3">
+      <div id="page-extra-1"><div id="page-extra-2"><div id="page-extra-3">&nbsp;</div></div></div>
+      <div id="wrapper4">
+	<div id="header">
+	  <div id="header-extra-1">
+	    <div id="header-extra-2">
+	      <div id="header-extra-3">
+		<div id="header-extra-4">
+		  <div id="header-extra-5">
+		    <a class="home" href="http://www.defmacro.org">Home - defmacro.org</a>
+		    <span id="title">Made with alien technology.</span>
+		    <div id="syndication"><a href="../rss/news.xml" title="RSS Feed"><img src="../images/xml.png" alt="RSS Feed" /></a></div>
+		  </div>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+	<div id="content">
+	  <h1>Why Exotic Languages Are Not Mainstream</h1>
+	  <div class="date">Tuesday, August 9, 2006</div>
+	  
+	  <h2><a id="part_1">Introduction</a></h2>
+	  <p class="first"><a
+	  href="http://www.haskell.org"><em>Haskell</em></a> is an
+	  excellent programming language.  It has features that allow
+	  for a tremendous productivity boost. Type inference figures
+	  out and lets you examine types of every piece of code that
+	  you write so you don't have to baby sit the compiler, yet
+	  you get the benefits of static typing. Functions are first
+	  class objects so you can build abstractions without writing
+	  useless glue code. The language is elegant and has plenty of
+	  syntactic sugar that makes it a pleasure to work with. It
+	  even has libraries for things you may want to do in a real
+	  world project. So why wouldn't you want to pick Haskell for
+	  your projects?</p>
+	  <p>A few days ago I was kicking around a few ideas and I had
+	  no reason <em>not</em> to use Haskell to build a
+	  prototype. Besides, it was time for me to start eating my
+	  own <a href="lisp.html">dog</a> <a href="fp.html">food</a>.
+	  So I started shopping for a Haskell compiler.  <a
+	  href="http://haskell.org/ghc/">GHC</a> seemed like a good
+	  bet - a fast, stable, cross platform, <em>real</em> compiler
+	  (not a flimsy interpreter) that would let me create
+	  production quality code. And it's free. After downloading it
+	  I did something every self respecting Windows programmer
+	  would do - I wrote a program that tried to open a
+	  window. That didn't work. Well, it did, but it took five
+	  (yes, you read that right, five) minutes for the window to
+	  open. So I hit the web and found a <a
+	  href="http://hackage.haskell.org/trac/ghc/ticket/742">bug
+	  report</a> for this issue.  No solution. I sent an email to
+	  the GHC support group and got the following reply<sup><a
+	  href="#permission">1</a></sup>:</p>
+	  <blockquote>
+	    <p>Unfortunately this code is currently broken with GHC on
+	    windows. No one has fixed it because the code is low
+	    level, ugly and few people understand it.</p>
+	  </blockquote>
+	  <p>That's no big deal. I figured I'll just download another
+	  compiler. <a
+	  href="http://cvs.haskell.org/Hugs/index.html">Hugs</a>
+	  seemed like a good bet. Ok, so it's just an interpreter, but
+	  these days who cares? I downloaded it and tried to run the
+	  same program through Hugs. Whoops, an error. Some DLL
+	  missing. I hit the web, and found the <a
+	  href="http://www.mail-archive.com/hugs-bugs@haskell.org/msg02867.html">following</a>:</p>
+	  <blockquote>
+	    <p>The libraries that ship with WinHugs May 2006 are a
+	    fresh build, those with the old version are from a really
+	    old WinHugs release, hence the different contents. [...]
+	    For the moment you should be able to paper over the
+	    problem by copying the old Win32 directory into the
+	    packages directory, replacing the new one.</p>
+	  </blockquote>
+	  <p>Hmm, frustrating, but again, no big deal. I downloaded
+	  the older version and overwrote the directory. The graphics
+	  library finally worked! Now all I needed was an IDE and I'd
+	  be well on my way to building my application in Haskell. I
+	  searched the web and realized that the number of choices is
+	  very small. People seemed to suggest <a
+	  href="http://www.haskell.org/visualhaskell/"> Visual
+	  Haskell</a> the most, so I gave it a try. The environment
+	  was actually really nice, except one issue: I couldn't
+	  evaluate expressions from the IDE. This reduced me back to
+	  the old style change-recompile-run development cycle and I
+	  didn't want that.  Evaluating expressions through the
+	  command line involves constantly switching between
+	  evaluation contexts manually, so I thought I may be missing
+	  something since it's such an essential feature. So I shot an
+	  email to the support group for Visual Haskell and here's the
+	  reply:</p>
+	  <blockquote>
+	    <p>Unfortunately this isn't supported feature. It is
+	    highly desirable but it requires lots of work. I am
+	    planning a new VSHaskell release but the only new thing
+	    that it will have is a support for VStudio 2005. VSHaskell
+	    is a noncommercial product without any funding and I work
+	    on it only in my free time.</p>
+	  </blockquote>
+	  <p>Bummer.</p>
+	  
+	  <h2><a id="part_2">What's Next?</a></h2>
+	  <p class="first">Is Haskell a great deal of fun to play
+	  with? Absolutely. Does it stretch your mind and make you a
+	  better programmer even if you never actually use it at work?
+	  No doubt about it. Would I bet my business (and my family's
+	  well being) on it?  Looks like the jury is still out.</p>
+	  
+	  <h2><a id="part_3">Feedback</a></h2>
+	  <p class="first">After publishing this article I received
+	  e-mails from people closely related to WinHugs and GHC
+	  development teams. They assured me that the issues I
+	  mentioned are being worked on and are taken seriously. I'd
+	  like to stress that despite some shortcomings Haskell is an
+	  excellent platform for solving many real world problems and
+	  it will only improve with time. Additionally it has benefits
+	  that mainstream languages can't afford to have: Haskell
+	  designers are just an e-mail away. I strongly encourage
+	  everyone to look into this wonderful language. This article
+	  is not meant to be a deterrent. On the contrary, it's a call
+	  to fix superficial issues that act as barriers for
+	  adoption.</p>
+	  <p class="section-update-date">Updated: 08/18/2006</p>
+	  
+	  <h2><a id="part_4">Comments?</a></h2>
+	  <p class="first">If you have any questions, comments, or
+	  suggestions, please drop a note at <a
+	  href="mailto:coffeemug@gmail.com">coffeemug@gmail.com</a>.
+	  I'll be glad to hear your feedback.</p>
+	  
+	  <div id="footnotes">
+	    <p><sup><a id="permission">1</a></sup>I didn't ask for
+	    permission to post the reply on this page because the
+	    question was asked on a public mailing list. You will
+	    probably be able to find the conversation in the web
+	    archives of GHC support list.</p>
+	  </div>
+	</div>
+      </div>
+      <div id="page-extra-4"><div id="page-extra-5"><div id="page-extra-6">&nbsp;</div></div></div>
+    </div></div></div>
+    <div id="footer">
+      <p>Everything on this site is in public domain unless stated otherwise.<br/>
+      Contact me with any questions or comments at <a href="mailto:coffeemug@gmail.com">coffeemug@gmail.com</a>.</p>
+      <img src="../images/valid-xhtml11.png" alt="Valid XHTML 1.1" />
+      <img src="../images/valid-css.png" alt="Valid CSS" />
+      <img src="../images/valid-rss.png" alt="Valid RSS" />
+    </div>
+  </div>
+</body>
+</html>
