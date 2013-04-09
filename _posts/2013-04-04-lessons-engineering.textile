@@ -23,11 +23,13 @@ h3. Instill shared culture
 Sooner or later you'll discover you've hired engineers on your team that have very different philosophies on how software should be built. Say, a C programmer, and a C++ programmer. The former will want the codebase to look like the Linux kernel. The latter will want it to look like the boost MPL library. After observing a few squabbling sessions, you'll be faced with three progressively more unpleasant options:
 
 # Pick _The One True Way_ and enforce it everywhere.
-# Give everyone freedom to write code the way they wish, and strike down everyone's attempts to step on each other's toes.
-# Do nothing and submit to endless bikeshedding.
+# Explicitly give everyone freedom to write code the way they wish.
+# Do nothing whatsoever.
 
 The first choice is unpleasant because you'll make some people very unhappy. You'll have to repeatedly say *no*, often to very frustrated people, and often when its least convenient. It's difficult, emotionally draining, and often downright confrontational. It's especially hard if you're the type of person who doesn't like to rock the boat.
 
 The second choice is unpleasant because you can't have complete separation of concerns.
 
 The last choice is easy, but it's the worst of all worlds.
+
+I've tried all three, and given the choice, I will _always_ pick the first one when managing a small team. It can be unpleasant early on, but it's the only way to build a team that's both happy _and_ effective. Always, always, always fight like hell to instill shared culture.
