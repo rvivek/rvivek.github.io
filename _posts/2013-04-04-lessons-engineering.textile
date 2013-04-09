@@ -16,7 +16,7 @@ Linear increases in complexity cause superlinear increases in amount of work to 
 
 That one engineer you hired to create a new component? Every time it has a bug, it will undoubtedly interact with other components and take up the time of other developers. That API you made slightly more complicated to solve an edge case for a potential (read: imaginary) future customer? Other people will have to spend time learning it, and will inevitably introduce bugs because they misunderstand it (which someone, of course, will have to spend time fixing).
 
-Complexity is death. Fight, fight, fight complexity with everything you've got. If you can avoid adding new functionality, fight like hell to keep it out. If you lose that fight, see if you can get 80% of the functionality with 20% of the work. Usually, you can. Fight like hell to do it that way. If you lose _this_ fight, either you've hit the one case in a thousand where complexity is warranted, or, more likely, you should have fought harder.
+Complexity increases the surface area of your project. In software engineering, large surface area is death. Fight, fight, fight complexity with everything you've got. If you can avoid adding new functionality, fight like hell to keep it out. If you lose that fight, see if you can get 80% of the functionality with 20% of the work. Usually, you can. Fight like hell to do it that way. If you lose _this_ fight, either you've hit the one case in a thousand where complexity is warranted, or, more likely, you should have fought harder.
 
 h3. Instill shared culture
 
@@ -32,4 +32,10 @@ The second choice is unpleasant because you can't have complete separation of co
 
 The last choice is easy, but it's the worst of all worlds.
 
-I've tried all three, and given the choice, I will _always_ pick the first one when managing a small team. It can be unpleasant early on, but it's the only way to build a team that's both happy _and_ effective. Always, always, always fight like hell to instill shared culture.
+I've tried all three, and given the choice, I will _always_ pick the first one when managing a small team. It can be unpleasant early on, but it's the only way to build a team that's both happy _and_ effective. Always fight to cultivate and enforce shared culture. 
+
+h3. Sprints, deadlines, and estimates
+
+This is _really_ important. Say something about this here.
+
+h3. 
