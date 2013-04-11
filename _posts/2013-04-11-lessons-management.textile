@@ -1,0 +1,17 @@
+---
+layout: post
+title: Managing humans, lessons learned
+wip: true
+---
+
+h1. {{ page.title }}
+
+p(meta). 04 Apr 2013
+
+Over the course of growing the team at RethinkDB I learned an enormous amount about how to manage people. Some of these lessons are rediscovered platitudes, and some are unique. In this post, I will maintain a list of my most important observations about the art and craft of managing humans.
+
+h3. Courage + respect = good management
+
+# Have the courage to express your concerns
+# Resist temptation to blame people and never ever jump to conclusions about intentions
+
