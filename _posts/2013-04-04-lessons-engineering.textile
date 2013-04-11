@@ -38,4 +38,14 @@ h3. Sprints, deadlines, and estimates
 
 This is _really_ important. Say something about this here.
 
-h3. 
+h3. Code review everything
+
+It helps a lot.
+
+h3. Never do large rewrites
+
+It kills you.
+
+h3. Test less code more often
+
+As opposed to more code less often.
