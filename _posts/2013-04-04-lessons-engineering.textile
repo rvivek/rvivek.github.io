@@ -18,6 +18,8 @@ That one engineer you hired to create a new component? Every time it has a bug, 
 
 Complexity increases the surface area of your project. In software engineering, large surface area is death. Fight, fight, fight complexity with everything you've got. If you can avoid adding new functionality, fight like hell to keep it out. If you lose that fight, see if you can get 80% of the functionality with 20% of the work. Usually, you can. Fight like hell to do it that way. If you lose _this_ fight, either you've hit the one case in a thousand where complexity is warranted, or, more likely, you should have fought harder.
 
+Less is more. Avoid grand desings. Keep the codebase as small as possible.
+
 h3. Instill shared culture
 
 Sooner or later you'll discover you've hired engineers on your team that have very different philosophies on how software should be built. Say, a C programmer, and a C++ programmer. The former will want the codebase to look like the Linux kernel. The latter will want it to look like the boost MPL library. After observing a few squabbling sessions, you'll be faced with three progressively more unpleasant options:
@@ -62,7 +64,7 @@ Overparallelization is death.
 
 h3. It's the product, stupid
 
-Product should drive engineering, not the other way around.
+Product should drive engineering, not the other way around. Pick the simplest, most concrete possible implementation that solves the customer's problem. Avoid big abstractions -- functions are better than lenses 99.999% of the time. Use simpler language features whenever possible -- an if statement is better than template specialization. Great abstractions feel both simultaneously very abstract in that you can do an enormous number of different things with them, and very concrete in that doing any specific thing is easy and simple. That's why functions and pipes are better abstractions than monads and lenses. Avoid grand beautiful designs -- they're never as grand and as beautiful as you've envisioned them.
 
 h3. Treat big projects with care
 
