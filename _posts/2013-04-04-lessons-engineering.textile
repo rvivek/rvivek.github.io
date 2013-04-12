@@ -49,3 +49,13 @@ It kills you.
 h3. Test less code more often
 
 As opposed to more code less often.
+
+h3. Overallocate resources
+
+# Pick the most important priority.
+# Allocate as many people to it as the task can handle. Don't be afraid of overallocating, be terrified of underallocating.
+# With the remaining people go to step 1.
+
+h3. It's the product, stupid
+
+Product should drive engineering, not the other way around.
