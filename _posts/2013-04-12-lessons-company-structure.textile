@@ -10,7 +10,11 @@ p(meta). 04 Apr 2013
 
 Over the course of building RethinkDB we made many mistakes in structuring the company that need not be repeated. We simply didn't have the experience to know better. In this post, I will maintain a list of the most important lessons I learned about structuring startups.
 
-h3. Get to significant growth with founding team
+h3. Pick a new mine
+
+Like 3D printing. Or google glass. Or whatever is on the cusp and very close.
+
+h3. Pick the founding team that can get to significant growth alone
 
 It's better that way. Depend on nobody but the founding team.
 
