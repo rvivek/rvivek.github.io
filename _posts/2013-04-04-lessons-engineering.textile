@@ -63,3 +63,7 @@ Overparallelization is death.
 h3. It's the product, stupid
 
 Product should drive engineering, not the other way around.
+
+h3. Treat big projects with care
+
+Only do one at a time. Have a structure. Peer review everything. Pair program.
