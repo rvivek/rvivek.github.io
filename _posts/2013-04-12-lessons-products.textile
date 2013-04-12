@@ -1,0 +1,20 @@
+---
+layout: post
+title: Managing humans, lessons learned
+wip: true
+---
+
+h1. {{ page.title }}
+
+p(meta). 04 Apr 2013
+
+When I first started RethinkDB I was absolutely terrible at designing _products_. I didn't need to be -- I just didn't know better. Here's a list of most important lessons I learned about product design.
+
+h3. Importance of school
+
+Never build a product without a corresponding field. (http://www.lettersofnote.com/2012/06/if-im-not-writer-then-im-nothing.html)
+
+h3. Importance of packaging
+
+Iambic pentameter can be packaged into a Shakespearean play, or into a hip hop song. Pick the right packaging for the time and the audience. Have the courage to stand for principles, but don't be afraid of fashion. Embrace it.
+

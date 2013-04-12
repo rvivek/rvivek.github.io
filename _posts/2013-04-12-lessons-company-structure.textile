@@ -1,0 +1,20 @@
+---
+layout: post
+title: Managing humans, lessons learned
+wip: true
+---
+
+h1. {{ page.title }}
+
+p(meta). 04 Apr 2013
+
+Over the course of building RethinkDB we made many mistakes in structuring the company that need not be repeated. We simply didn't have the experience to know better. In this post, I will maintain a list of the most important lessons I learned about structuring startups.
+
+h3. Get to significant growth with founding team
+
+It's better that way
+
+h3. Structure financing properly
+
+If you have to give away more than 10% of the company or any significant control in any given financing round, you're doing it wrong.
+
