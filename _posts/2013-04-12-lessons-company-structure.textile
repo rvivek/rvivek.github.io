@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Managing humans, lessons learned
+title: Structuring startups, lessons learned
 wip: true
 ---
 
