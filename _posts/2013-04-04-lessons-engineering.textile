@@ -62,9 +62,13 @@ Here's a resource allocation algorithm:
 
 Overparallelization is death.
 
+h3. Pick abstractions carefully
+
+Pick the simplest, most concrete possible implementation that solves the customer's problem. Avoid big abstractions -- functions are better than lenses 99.999% of the time. Use simpler language features whenever possible -- an if statement is better than template specialization. Great abstractions feel both simultaneously very abstract in that you can do an enormous number of different things with them, and very concrete in that doing any specific thing is easy and simple. That's why functions and pipes are better abstractions than monads and lenses. Avoid grand beautiful designs -- they're never as grand and as beautiful as you've envisioned them.
+
 h3. It's the product, stupid
 
-Product should drive engineering, not the other way around. Pick the simplest, most concrete possible implementation that solves the customer's problem. Avoid big abstractions -- functions are better than lenses 99.999% of the time. Use simpler language features whenever possible -- an if statement is better than template specialization. Great abstractions feel both simultaneously very abstract in that you can do an enormous number of different things with them, and very concrete in that doing any specific thing is easy and simple. That's why functions and pipes are better abstractions than monads and lenses. Avoid grand beautiful designs -- they're never as grand and as beautiful as you've envisioned them.
+Product should drive engineering, not the other way around. 
 
 h3. Treat big projects with care
 
