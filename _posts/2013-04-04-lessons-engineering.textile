@@ -52,9 +52,13 @@ As opposed to more code less often.
 
 h3. Overallocate resources
 
+Here's a resource allocation algorithm:
+
 # Pick the most important priority.
 # Allocate as many people to it as the task can handle. Don't be afraid of overallocating, be terrified of underallocating.
 # With the remaining people go to step 1.
+
+Overparallelization is death.
 
 h3. It's the product, stupid
 
