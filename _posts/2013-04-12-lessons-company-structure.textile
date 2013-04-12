@@ -12,7 +12,15 @@ Over the course of building RethinkDB we made many mistakes in structuring the c
 
 h3. Get to significant growth with founding team
 
-It's better that way
+It's better that way. Depend on nobody but the founding team.
+
+h3. Split shares between founding members evenly
+
+Anything else just isn't worth it.
+
+h3. But commit to a benevolent dictator
+
+The buck has to stop somewhere and everyone needs to accept that emotionally from day one.
 
 h3. Structure financing properly
 
