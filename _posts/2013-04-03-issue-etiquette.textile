@@ -136,7 +136,7 @@ Trying to make a friendlier error message is a better solution.
 Here's this same example, rewritten with friendlier tone. The content is exactly the same, but the rewritten comment makes everyone happier:
 
 bq. I feel really strongly that @wmrowan's first reply is the right answer. It _may_ be technically possible to make this better, but I don't think we should. We already came up with a few gotchyas about how wrapping things in parentheses would confuse people, but even if we didn't, it's very likely that more such gotchayas are lurking under the surface.
-I think that trying to make a friendlier error message is a much better solution.
+I think that trying to make a friendlier error message is a much better solution. What do you think of doing that instead?
 
 You have an enormous power over other people's emotions. Use it wisely. Keep debate collaborative, be kind to others, and welcome criticism. It makes for a better product and a happier community.
 
