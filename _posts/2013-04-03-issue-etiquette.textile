@@ -125,7 +125,20 @@ bq. This is now available in the 1.4 release -- see http://www.rethinkdb.com/doc
 
 h3. EG8. Always use friendly tone
 
-Many open source projects consider it ok to be abrasive on the tracker. I think it's never ok. If someone commenting on the issue frustrates you, most of the time it's because they need a little additional guidance. Even when it's not the case, kindness and firmness are not mutually exclusive. Keep debate collaborative, be kind to others, and welcome criticism. It makes for a better product and a happier community.
+Many open source projects consider it ok to be abrasive on the tracker. I think it's never ok. If someone commenting on the issue frustrates you, most of the time it's because they need a little additional guidance. Even when it's not the case, kindness and firmness are not mutually exclusive.
+
+Here's a real example of poor tone (https://github.com/rethinkdb/rethinkdb/issues/561#issuecomment-16321252):
+
+bq. This entire thread arguing about the technical possibility of doing this is pointless because @wmrowan's first reply is the right answer.
+Even if the conversation didn't end with gotchyas about how wrapping things in parentheses would cause worse confusion, it would still be a bad idea because such a finish to the conversation doesn't mean such gotchyas don't exist. The rest of the thread is people entertaining each other's inability to reason with incomplete information.
+Trying to make a friendlier error message is a better solution.
+
+Here's this same example, rewritten with friendlier tone. The content is exactly the same, but the rewritten comment makes everyone happier:
+
+bq. I feel really strongly that @wmrowan's first reply is the right answer. It _may_ be technically possible to make this better, but I don't think we should. We already came up with a few gotchyas about how wrapping things in parentheses would confuse people, but even if we didn't, it's very likely that more such gotchayas are lurking under the surface.
+I think that trying to make a friendlier error message is a much better solution.
+
+You have an enormous power over other people's emotions. Use it wisely. Keep debate collaborative, be kind to others, and welcome criticism. It makes for a better product and a happier community.
 
 h3. EG9. Watch grammar and legibility
 
