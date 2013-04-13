@@ -127,7 +127,7 @@ h3. EG8. Always use friendly tone
 
 Many open source projects consider it ok to be abrasive on the tracker. I think it's never ok. If someone commenting on the issue frustrates you, most of the time it's because they need a little additional guidance. Even when it's not the case, kindness and firmness are not mutually exclusive.
 
-Here's a "real example comment":https://github.com/rethinkdb/rethinkdb/issues/561#issuecomment-16321252 of poor tone:
+Here's a real example of a "comment":https://github.com/rethinkdb/rethinkdb/issues/561#issuecomment-16321252 that has poor tone:
 
 bq. This entire thread arguing about the technical possibility of doing this is pointless because @wmrowan's first reply is the right answer.
 Even if the conversation didn't end with gotchyas about how wrapping things in parentheses would cause worse confusion, it would still be a bad idea because such a finish to the conversation doesn't mean such gotchyas don't exist. The rest of the thread is people entertaining each other's inability to reason with incomplete information.
