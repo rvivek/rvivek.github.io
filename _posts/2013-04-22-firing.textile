@@ -1,0 +1,20 @@
+---
+layout: post
+title: When to fire people
+wip: true
+---
+
+h1. {{ page.title }}
+
+p(meta). 22 Apr 2013
+
+Over the course of growing the team at RethinkDB I learned an enormous amount about how to manage people. Perhaps the most important lesson is when to fire someone.
+
+h3. Push vs. pull people
+
+Someone people do stuff of their own volition. It may not be the stuff you want. It may not be the quality you want. But they do it. They push stuff onto you.
+
+h3. Coach vs. babyshit people
+
+Some people can be coached. You have a conversation about how they're doing, and they change. Other people make having such conversations awkward and difficult, or welcome them but don't change at all.
+
