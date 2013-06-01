@@ -16,21 +16,37 @@ Sooner or later you'll discover you've hired engineers on your team that have ve
 
 I've tried all possible ways of addressing the ensuing social issues (including doing nothing), and found that there is only one approach that works. Always, always, always fight to cultivate and enforce shared culture. It can be unpleasant early on, but it's the only way I know of to build a team that's both happy _and_ productive.
 
+h3. Code review everything
+
+It helps a lot.
+
 h3. It's the product, stupid
 
 Ability to build great software and ability to build great products are two completely othogonal skills, and aptitude for the former does not in any way imply aptitude for the latter. It's best to learn early that software companies aren't about building great software. They're about building great products. You have to start with the product, and let great software be a means to an end.
 
 Make sure every engineer on the team respects this principle and fire "smug weenies":http://c2.com/cgi/wiki?SmugLispWeenie at the first sign of trouble. Whenever possible, have people that understand _products_ run the show.
 
-h3. Sprints, deadlines, and estimates
+h3. Fight complexity with all you've got
 
-This is _really_ important. Say something about this here.
+Linear increases in complexity cause superlinear increases in amount of work to be done. Be careless about complexity, and before you know it your development process will crawl to a halt.
+
+Complexity increases the surface area of your project. In software engineering, large surface area is death. Fight, fight, fight complexity with everything you've got. If you can avoid adding new functionality, fight like hell to keep it out. If you lose that fight, see if you can get 80% of the functionality with 20% of the work. Usually, you can. Fight like hell to do it that way. If you lose _this_ fight, either you've hit the one case in a thousand where complexity is warranted, or, more likely, you should have fought harder.
+
+Less is more. Avoid grand desings. Keep the codebase as small as possible.
 
 h3. Pick abstractions carefully
 
 Pick the simplest, most concrete possible implementation that solves the customer's problem. Avoid big abstractions -- functions are better than "lenses":http://hackage.haskell.org/package/lens 99.999% of the time. Use simpler language features whenever possible -- an if statement is better than a template specialization. Great abstractions feel both simultaneously very abstract in that you can do an enormous number of different things with them, and very concrete in that doing any specific thing is easy and simple to understand. That's why functions and pipes are better abstractions than monads and "arrows":http://www.haskell.org/arrows/.
 
 Avoid grand beautiful designs -- they're never as grand and as beautiful as you've envisioned them.
+
+h3. Sprints, deadlines, and estimates
+
+This is _really_ important. Say something about this here.
+
+h3. Treat big projects with care
+
+Only do one at a time. Have a structure. Peer review everything. Pair program.
 
 h3. Overallocate resources
 
@@ -41,22 +57,6 @@ Here's a resource allocation algorithm:
 # With the remaining people go to step 1.
 
 Overparallelization is death.
-
-h3. Code review everything
-
-It helps a lot.
-
-h3. Fight complexity with all you've got
-
-Linear increases in complexity cause superlinear increases in amount of work to be done. Be careless about complexity, and before you know it your development process will crawl to a halt.
-
-Complexity increases the surface area of your project. In software engineering, large surface area is death. Fight, fight, fight complexity with everything you've got. If you can avoid adding new functionality, fight like hell to keep it out. If you lose that fight, see if you can get 80% of the functionality with 20% of the work. Usually, you can. Fight like hell to do it that way. If you lose _this_ fight, either you've hit the one case in a thousand where complexity is warranted, or, more likely, you should have fought harder.
-
-Less is more. Avoid grand desings. Keep the codebase as small as possible.
-
-h3. Treat big projects with care
-
-Only do one at a time. Have a structure. Peer review everything. Pair program.
 
 h3. Test less code more often
 
