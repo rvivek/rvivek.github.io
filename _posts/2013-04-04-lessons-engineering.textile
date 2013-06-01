@@ -8,7 +8,7 @@ h1. {{ page.title }}
 
 p(meta). 04 Apr 2013
 
-Over the course of building "RethinkDB":www.rethinkdb.com we learned many lessons. Some are rediscovered platitudes, and some are unique. In this post, I will maintain a list of lessons learned about the art and craft of software engineering.
+Over the course of building "RethinkDB":http://www.rethinkdb.com we learned many lessons. Some are rediscovered platitudes, and some are unique. In this post, I will maintain a list of lessons learned about the art and craft of software engineering.
 
 h3. Instill shared culture
 
