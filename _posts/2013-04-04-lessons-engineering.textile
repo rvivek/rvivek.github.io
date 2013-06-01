@@ -48,8 +48,6 @@ h3. Fight complexity with all you've got
 
 Linear increases in complexity cause superlinear increases in amount of work to be done. Be careless about complexity, and before you know it your development process will crawl to a halt.
 
-That one engineer you hired to create a new component? Every time it has a bug, it will undoubtedly interact with other components and take up the time of other developers. That API you made slightly more complicated to solve an edge case for a potential (read: imaginary) future customer? Other people will have to spend time learning it, and will inevitably introduce bugs because they misunderstand it (which someone, of course, will have to spend time fixing).
-
 Complexity increases the surface area of your project. In software engineering, large surface area is death. Fight, fight, fight complexity with everything you've got. If you can avoid adding new functionality, fight like hell to keep it out. If you lose that fight, see if you can get 80% of the functionality with 20% of the work. Usually, you can. Fight like hell to do it that way. If you lose _this_ fight, either you've hit the one case in a thousand where complexity is warranted, or, more likely, you should have fought harder.
 
 Less is more. Avoid grand desings. Keep the codebase as small as possible.
