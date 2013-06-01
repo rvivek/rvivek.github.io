@@ -20,7 +20,7 @@ h3. It's the product, stupid
 
 Ability to build great software and ability to build great products are two completely othogonal skills, and aptitude for the former does not in any way imply aptitude for the latter. It's best to learn early that software companies aren't about building software. They're about building great products. You have to start with the product, and let great software be a means to an end.
 
-Make sure every engineer on the team respects this principle and fire "smug weenies":http://c2.com/cgi/wiki?SmugLispWeenie at the first sign of trouble.
+Make sure every engineer on the team respects this principle and fire "smug weenies":http://c2.com/cgi/wiki?SmugLispWeenie at the first sign of trouble. Whenever possible, have people that understand _products_ run the show.
 
 h3. Sprints, deadlines, and estimates
 
