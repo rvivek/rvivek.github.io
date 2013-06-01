@@ -14,17 +14,7 @@ h3. Instill shared culture
 
 Sooner or later you'll discover you've hired engineers on your team that have very different philosophies on how software should be built. Say, a C programmer, and a C++ programmer. The former will want the codebase to look like the Linux kernel. The latter will want it to look like the boost MPL library. After observing a few squabbling sessions, you'll be faced with three progressively more unpleasant options:
 
-# Pick _The One True Way_ and enforce it everywhere.
-# Explicitly give everyone freedom to write code the way they wish.
-# Do nothing whatsoever.
-
-The first choice is very unpleasant, especially early on. You'll make some people very unhappy. You'll have to repeatedly say *no*, often to very frustrated people, and often when its least convenient. It's difficult, emotionally draining, and often downright confrontational. It's especially hard if you're the type of person who doesn't like to rock the boat. But it's the only way to grow a cohesive team.
-
-On the surface, the second choice seems easy and effective. It makes sense to ask people to let others code the way they like. Everybody can understand that. It also appears effective. Give the C programmer their gotos and the C++ programmer their templates, and they'll work at peak efficiency. But in practice a heterogeneous codebase in a small team is a disaster. People run into each other's code far more often than one would think. That means constantly stepping on each other's toes and getting bogged down by learning a plethora of drastically different coding styles.
-
-The last choice is the worst of all worls. It combines the ineffectiveness of a heterogeneous codebase with the stressfulness of constant arguments and bikeshedding. In the long run, it's also the most painful (not in the least because your project isn't getting anywhere).
-
-I've tried all three and I will _always_ pick the first choice when managing small teams. It can be unpleasant early on, but it's the only way to build a team that's both happy _and_ productive. Always, always, always fight to cultivate and enforce shared culture.
+I've tried all possible ways of addressing the ensuing social issues (including doing nothing), and found that there is only one approach that works. Always, always, always fight to cultivate and enforce shared culture. It can be unpleasant early on, but it's the only way I know of to build a team that's both happy _and_ productive.
 
 h3. It's the product, stupid
 
