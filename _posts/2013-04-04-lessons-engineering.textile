@@ -28,7 +28,9 @@ This is _really_ important. Say something about this here.
 
 h3. Pick abstractions carefully
 
-Pick the simplest, most concrete possible implementation that solves the customer's problem. Avoid big abstractions -- functions are better than lenses 99.999% of the time. Use simpler language features whenever possible -- an if statement is better than template specialization. Great abstractions feel both simultaneously very abstract in that you can do an enormous number of different things with them, and very concrete in that doing any specific thing is easy and simple. That's why functions and pipes are better abstractions than monads and lenses. Avoid grand beautiful designs -- they're never as grand and as beautiful as you've envisioned them.
+Pick the simplest, most concrete possible implementation that solves the customer's problem. Avoid big abstractions -- functions are better than "lenses":http://hackage.haskell.org/package/lens 99.999% of the time. Use simpler language features whenever possible -- an if statement is better than template specialization. Great abstractions feel both simultaneously very abstract in that you can do an enormous number of different things with them, and very concrete in that doing any specific thing is easy and simple. That's why functions and pipes are better abstractions than monads and "arrows":http://www.haskell.org/arrows/.
+
+Avoid grand beautiful designs -- they're never as grand and as beautiful as you've envisioned them.
 
 h3. Overallocate resources
 
