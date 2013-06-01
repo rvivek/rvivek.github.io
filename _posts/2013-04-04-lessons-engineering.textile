@@ -42,7 +42,10 @@ Avoid grand beautiful designs -- they're never as grand and as beautiful as you'
 
 h3. Sprints, deadlines, and estimates
 
-This is _really_ important. Say something about this here.
+I've observed the following two aspects of software development so many times, I've learned to accept them as axioms:
+
+1. Humans are terrible at time estimation for anything longer than 2-4 days of work.
+2. Lack of deadlines is a sure road to complex software with bad, overengineered abstractions.
 
 h3. Treat big projects with care
 
