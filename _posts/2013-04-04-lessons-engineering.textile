@@ -18,7 +18,7 @@ I've tried all possible ways of addressing the ensuing social issues (including 
 
 h3. It's the product, stupid
 
-Ability to build great software and ability to build great products are two completely othogonal skills, and aptitude for the former does not in any way imply aptitude for the latter. It's best to learn early that software companies aren't about building software. They're about building great products. You have to start with the product, and let great software be a means to an end.
+Ability to build great software and ability to build great products are two completely othogonal skills, and aptitude for the former does not in any way imply aptitude for the latter. It's best to learn early that software companies aren't about building great software. They're about building great products. You have to start with the product, and let great software be a means to an end.
 
 Make sure every engineer on the team respects this principle and fire "smug weenies":http://c2.com/cgi/wiki?SmugLispWeenie at the first sign of trouble. Whenever possible, have people that understand _products_ run the show.
 
@@ -28,7 +28,7 @@ This is _really_ important. Say something about this here.
 
 h3. Pick abstractions carefully
 
-Pick the simplest, most concrete possible implementation that solves the customer's problem. Avoid big abstractions -- functions are better than "lenses":http://hackage.haskell.org/package/lens 99.999% of the time. Use simpler language features whenever possible -- an if statement is better than template specialization. Great abstractions feel both simultaneously very abstract in that you can do an enormous number of different things with them, and very concrete in that doing any specific thing is easy and simple. That's why functions and pipes are better abstractions than monads and "arrows":http://www.haskell.org/arrows/.
+Pick the simplest, most concrete possible implementation that solves the customer's problem. Avoid big abstractions -- functions are better than "lenses":http://hackage.haskell.org/package/lens 99.999% of the time. Use simpler language features whenever possible -- an if statement is better than a template specialization. Great abstractions feel both simultaneously very abstract in that you can do an enormous number of different things with them, and very concrete in that doing any specific thing is easy and simple to understand. That's why functions and pipes are better abstractions than monads and "arrows":http://www.haskell.org/arrows/.
 
 Avoid grand beautiful designs -- they're never as grand and as beautiful as you've envisioned them.
 
