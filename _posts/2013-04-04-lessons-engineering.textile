@@ -12,7 +12,7 @@ Over the course of building "RethinkDB":http://www.rethinkdb.com we learned many
 
 h3. Instill shared culture
 
-Sooner or later you'll discover you've hired engineers on your team that have very different philosophies on how software should be built. Say, a C programmer, and a C++ programmer. The former will want the codebase to look like the Linux kernel. The latter will want it to look like the boost MPL library. After observing a few squabbling sessions, you'll be faced with three progressively more unpleasant options:
+Sooner or later you'll discover you've hired engineers on your team that have very different philosophies on how software should be built. Say, a C programmer, and a C++ programmer. The former will want the codebase to look like the Linux kernel. The latter will want it to look like the boost MPL library. What's a well-meaning engineering manager to do?
 
 I've tried all possible ways of addressing the ensuing social issues (including doing nothing), and found that there is only one approach that works. Always, always, always fight to cultivate and enforce shared culture. It can be unpleasant early on, but it's the only way I know of to build a team that's both happy _and_ productive.
 
