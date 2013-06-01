@@ -20,7 +20,7 @@ h3. Code review everything
 
 The absolute best way to instill shared culture is to code review every line of code before it ever goes into mainline. (Why _every_ line of code? Because code reviews don't stick if you do them selectively. Take my word for it -- some rules need to be absolute.)
 
-Here's how we do it. By default, the reviewer is always right, and the author must fix every defect (we ask the reviewers to be tough but reasonable). If the author has a strong disagreement, they can appeal to a tech lead. Tech lead's decision is final, and cannot be appealed. You can find a different way to do it, but we found this to be a pretty good system.
+Here's how we do it. By default, the reviewer is always right, and the author must fix every defect (we ask the reviewers to be tough, but reasonable). If the author has a strong disagreement, they can appeal to a tech lead. Tech lead's decision is final, and cannot be appealed. You can find a different way to do it, but we found this to be a pretty good system.
 
 Code review is like exercise. Painful at the beginning, and any given session might feel like a waste of time. But over the lifetime of a project, it makes _all_ the difference. Always code review _every single commit_. No ifs, no buts, no exceptions.
 
