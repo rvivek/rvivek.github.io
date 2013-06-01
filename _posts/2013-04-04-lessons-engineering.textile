@@ -47,6 +47,10 @@ I've observed the following two aspects of software development so many times, I
 1. Humans are terrible at time estimation for anything longer than 2-4 days of work.
 2. Lack of deadlines is a sure road to complex software with bad, overengineered abstractions.
 
+Despite smelling like a fad, sprints are a surprisingly good solution to the seemingly impossible scheduling problem. Break up all work into no more than 2-4 day chunks (usually represented as issues in a tracker). Assign these issues to people, and group them into sprints of one to two weeks. Then work like hell together to get everything in a sprint done on time.
+
+It's strange, but with the right people it works really, really well. (Some people can't work in this environment -- in that case your best option is to kindly ask them to switch employers).
+
 h3. Treat big projects with care
 
 Only do one at a time. Have a structure. Peer review everything. Pair program.
