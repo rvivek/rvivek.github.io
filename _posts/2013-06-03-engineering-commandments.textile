@@ -63,7 +63,7 @@ Not all projects can be broken up in a way that allows fitting them into a singl
 
 Firstly, fight as hard as you can to _not_ build big projects. Break them up into smaller ones, find a different approach, don't build the feature in the first place, do everything you have to do to keep them out.
 
-If you've done all you can and still _must_ build a big project, build the absolute most minimal prototype possible. Cut corners, dumb it down, do all you can to decrease the scope. Make sure there is a single engineer in charge of the project, and put structure around it. Do a peer review of the initial design. Then set up deliverable milestones, and do peer reviews for each milestone. Once the project is feature complete in the shortest possible amount of time, assign improvements as part of the standard sprint schedule.
+If you've done all you can and still _must_ build a big project, build the absolute most minimal version that solves the customer's problem. Do all you can to decrease the scope. Make sure there is a single engineer in charge of the project, and put structure around it. Do a peer review of the initial design. Then set up deliverable milestones, and do peer reviews for each milestone. Once the project is feature complete in the shortest possible amount of time, assign improvements as part of the standard sprint schedule.
 
 Keep the number of concurrent big projects to absolute minimum. One big project per team of about eight to ten engineers is a good rule of thumb.
 
