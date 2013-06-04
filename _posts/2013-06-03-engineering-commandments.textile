@@ -6,7 +6,7 @@ wip: true
 
 h1. {{ page.title }}
 
-p(meta). 04 Apr 2013
+p(meta). 03 Jun 2013
 
 Over the course of building "RethinkDB":http://www.rethinkdb.com we learned many software engineering lessons. Most of these lessons feel like rediscovered platitudes, but we still managed to mess them up. Considering how many teams are struggling with shipping software, I thought these lessons are worth repeating.
 
