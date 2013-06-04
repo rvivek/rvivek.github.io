@@ -87,3 +87,9 @@ The temptation of high code coverage results in long tests that aren't possible 
 Instead, have fewer tests that everyone runs after every commit. Use a tool like "Travis CI":https://travis-ci.org/, and replace thousands of bitrotted unit tests with a few carefully selected integration tests.
 
 Fewer tests that are always green _always_ beat more tests that are bitrotted, and sooner or later every project is forced to choose between these two options.
+
+h3. Prepare to fight for your beliefs
+
+As the Klingons say it, "the truth must be won on the battlefield." Sooner or later, some of your team members will strongly disagree with some of these ideas.
+
+Debate everything vigorously, but once the decision is made, make sure _everyone_ is on board. That means pestering people to follow the rules until the process becomes self-perpetuating, confronting people that are undermining decisions they disagree with, and, in pathological cases, firing talented engineers who can't buy into the overall engineering culture. It sucks, but it must be done. Remember -- your first responsibility is to the team.
