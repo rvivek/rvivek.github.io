@@ -36,7 +36,7 @@ Linear increases in complexity cause superlinear increases in amount of work to 
 
 Complexity increases the surface area of your project. In software engineering, large surface area is death. Fight, fight, fight complexity with everything you've got. If you can avoid adding new functionality, fight like hell to keep it out. If you lose that fight, see if you can get 80% of the functionality with 20% of the work. Usually, you can. Fight like hell to do it that way. If you lose _this_ fight, either you've hit the one case in a thousand where complexity is warranted, or, more likely, you should have fought harder.
 
-Less is more. Avoid grand desings. Keep the codebase as small as possible.
+Less is more. Avoid grand designs. Keep the codebase as small as possible.
 
 h3. Pick abstractions carefully
 
