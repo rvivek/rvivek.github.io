@@ -86,4 +86,4 @@ The temptation of high code coverage results in long tests that aren't possible 
 
 Instead, have fewer tests that everyone runs after every commit. Use a tool like "Travis CI":https://travis-ci.org/, and replace thousands of bitrotted unit tests with a few carefully selected integration tests.
 
-Fewer tests that are always green _always_ beat more tests that are bitrotted, and unfortunately sooner or later every project is forced to choose between these two options.
+Fewer tests that are always green _always_ beat more tests that are bitrotted, and sooner or later every project is forced to choose between these two options.
