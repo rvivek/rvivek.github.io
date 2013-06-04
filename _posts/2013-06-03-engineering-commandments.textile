@@ -71,7 +71,7 @@ Software rewrites and perpetual refactoring are a special case of big projects, 
 
 If you absolutely must do a big refactoring project, be tripple vigilent about it. Peer review the initial idea, peer review milestones, be ruthless about cutting complexity. A big refactor will take at least three times what you've estimated (if you're lucky).
 
-Always keep a refactoring stack of at most despth one. If someone is refactoring a part of the codebase (within the confines of a sprint, or heavens forbid as a large project), make sure they don't run off refactoring other components as part of the original refactor. Always schedule refactoring as you would any other change.
+Always keep a refactoring stack of at most depth one. If someone is refactoring a part of the codebase (within the confines of a sprint, or heavens forbid as a large project), make sure they don't run off refactoring other components as part of the original refactor. Always schedule refactoring as you would any other change.
 
 h3. Test less code more often
 
