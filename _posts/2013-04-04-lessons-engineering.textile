@@ -75,5 +75,15 @@ It kills you.
 
 h3. Test less code more often
 
-As opposed to more code less often.
+We've all heard the TDD mantra -- write tests first, always keep them green, maximize code coverage. Empirically, I've found that this testing philosophy produced very binary results. You get one of two outcomes:
 
+1. High code coverage with mostly failing, bitrotted tests.
+2. Relatively low code coverage with always green tests.
+
+When forced to choose (and you _will_ be forced) between these two outcomes, always pick the second one.
+
+The temptation of high code coverage results in long tests that aren't possible to run after every commit. If you can't run tests after every commit, it becomes increasingly more impractical to run every test before committing a change to mainline. If you can't run every test before committing to mainline, your tests _will_ bitrot.
+
+Instead, have fewer tests that everyone runs after every commit. Use a tool like "Travis CI":https://travis-ci.org/, and replace thousands of bitrotted unit tests with a few carefully selected integration tests.
+
+Fewer tests that are always green _always_ beat more tests that are bitrotted, and unfortunately it looks like every project is forced to choose between these two options.
