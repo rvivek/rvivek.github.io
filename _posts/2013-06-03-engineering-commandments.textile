@@ -26,7 +26,7 @@ Code review is like exercise. Painful at the beginning, and any given session mi
 
 h3. It's the product, stupid
 
-Ability to build great software and ability to build great products are two completely othogonal skills, and aptitude for the former does not in any way imply aptitude for the latter. It's best to learn early that software companies aren't about building great software. They're about building great products. You have to start with the product, and let great software be a means to an end.
+Ability to build great software and ability to build great products are two completely orthogonal skills, and aptitude for the former does not in any way imply aptitude for the latter. It's best to learn early that software companies aren't about building great software. They're about building great products. You have to start with the product, and let great software be a means to an end.
 
 Make sure every engineer on the team respects this principle and fire "smug weenies":http://c2.com/cgi/wiki?SmugLispWeenie at the first sign of trouble. Whenever possible, have people that understand _products_ run the show.
 
@@ -69,9 +69,9 @@ h3. Never do large rewrites
 
 Software rewrites and perpetual refactoring are a special case of big projects, and are so prevalent that they deserve special attention. Fight like hell _not_ to allow big refactors. Always, always, always keep refactoring within the confines of a sprint.
 
-If you absolutely must do a big refactoring project, be tripple vigilent about it. Peer review the initial idea, peer review milestones, be ruthless about cutting complexity and scope. A big refactor will take at least three times what you've estimated (if you're lucky).
+If you absolutely must do a big rewrite, be tripple vigilent about it. Peer review the initial idea, peer review milestones, be ruthless about cutting complexity and scope. A big rewrite will take at least three times what you've estimated (if you're lucky).
 
-Always keep a refactoring stack of at most depth one. If someone is refactoring a part of the codebase (within the confines of a sprint, or heavens forbid as a large project), make sure they don't run off refactoring other components as part of the original refactor. Always schedule refactoring as you would any other change.
+Always keep a refactoring stack of at most depth one. If someone is refactoring a part of the codebase (within the confines of a sprint, or heavens forbid as a large project), make sure they don't run off refactoring other components. Always schedule refactoring as you would any other change.
 
 h3. Test less code more often
 
