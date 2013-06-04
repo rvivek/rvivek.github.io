@@ -40,7 +40,7 @@ Less is more. Avoid grand designs. Keep the codebase as small as possible.
 
 h3. Pick abstractions carefully
 
-Pick the simplest, most concrete possible implementation that solves the customer's problem. Avoid big abstractions -- functions are better than "lenses":http://hackage.haskell.org/package/lens 99.999% of the time. Use simpler language features whenever possible -- an if statement is better than a template specialization. Great abstractions feel both simultaneously very powerful in that you can do an enormous number of different things with them, and very concrete in that doing any specific thing is easy and simple to understand. That's why functions and pipes are better abstractions than monads and "arrows":http://www.haskell.org/arrows/.
+Pick the simplest, most concrete possible implementation that solves the customer's problem. Avoid big abstractions -- functions are better than "lenses":http://hackage.haskell.org/package/lens 99.999% of the time. Use simpler language features whenever possible -- an if statement is better than a template specialization. Great abstractions simultaneously feel very powerful in that you can do an enormous number of different things with them, and very concrete in that doing any specific thing is easy and simple to understand. That's why functions and pipes are better abstractions than monads and "arrows":http://www.haskell.org/arrows/.
 
 Avoid grand beautiful designs -- they're never as grand and as beautiful as you've envisioned them.
 
