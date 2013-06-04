@@ -8,11 +8,11 @@ h1. {{ page.title }}
 
 p(meta). 03 Jun 2013
 
-Over the course of building "RethinkDB":http://www.rethinkdb.com we learned many software engineering lessons. Most of these lessons feel like rediscovered platitudes, but we still managed to mess them up. Considering how many teams are struggling with shipping software, I thought these lessons are worth repeating.
+Over the course of building "RethinkDB":http://www.rethinkdb.com we learned many software engineering lessons. Most of these lessons feel like rediscovered platitudes, but we still managed to mess them up. Considering how many teams are struggling with shipping software, I think these lessons are worth repeating.
 
 h3. Instill shared culture
 
-Sooner or later you'll discover you've hired engineers on your team that have very different philosophies on how software should be built. Say, a C programmer, and a C++ programmer. The former will want the codebase to look like the Linux kernel. The latter will want it to look like the boost MPL library. What's a well-meaning engineering manager to do?
+Sooner or later you'll discover you've hired engineers that have very different philosophies on how software should be built. Say, a C programmer and a C++ programmer. The former will want the codebase to look like the Linux kernel. The latter will want it to look like the boost MPL library. What's a well-meaning engineering manager to do?
 
 I've tried all possible ways of addressing the ensuing social issues (including doing nothing), and found that there is only one approach that works. Always, always, always fight to cultivate and enforce shared culture. It can be unpleasant early on, but it's the only way I know of to build a team that's both happy _and_ productive.
 
@@ -20,7 +20,7 @@ h3. Code review everything
 
 The absolute best way to instill shared culture is to code review every line of code before it ever goes into mainline. (Why _every_ line of code? Because code reviews don't stick if you do them selectively. Take my word for it -- some rules need to be absolute.)
 
-Here's how we do it. By default, the reviewer is always right, and the author must fix every defect (we ask the reviewers to be tough, but reasonable). If the author _really_ disagrees with the reviewer, they can appeal to a tech lead. The tech lead's decision is final, and cannot be appealed. You can find a different way to do it, but we found this to be a pretty good system.
+Here's how we do it. By default, the reviewer is always right, and the author must fix every defect (we ask the reviewers to be tough, but reasonable). If the author _really_ disagrees with the reviewer, they can appeal to a tech lead. The tech lead's decision is final, and cannot be appealed. You can find a different way to do it, but we've found this to be a pretty good system.
 
 Code review is like exercise. Painful at the beginning, and any given session might feel like a waste of time. But over the lifetime of a project, it makes _all_ the difference. Always code review _every single commit_. No ifs, no buts, no exceptions.
 
@@ -40,7 +40,7 @@ Less is more. Avoid grand designs. Keep the codebase as small as possible.
 
 h3. Pick abstractions carefully
 
-Pick the simplest, most concrete possible implementation that solves the customer's problem. Avoid big abstractions -- functions are better than "lenses":http://hackage.haskell.org/package/lens 99.999% of the time. Use simpler language features whenever possible -- an if statement is better than a template specialization. Great abstractions simultaneously feel very powerful in that you can accomplish an enormous number of different tasks with them, and very concrete in that doing any specific task is easy and simple to understand. That's why functions and pipes are better abstractions than monads and "arrows":http://www.haskell.org/arrows/.
+Pick the simplest, most concrete possible implementation that solves the customer's problem. Avoid big abstractions -- functions are better than "lenses":http://hackage.haskell.org/package/lens 99% of the time. Use simpler language features whenever possible -- an if statement is better than a template specialization. Great abstractions feel very powerful because they allow you to accomplish an enormous number of different tasks. They also feel very concrete because doing any specific task is easy and simple to understand. That's why functions and pipes are better abstractions than monads and "arrows":http://www.haskell.org/arrows/.
 
 Avoid grand beautiful designs -- they're never as grand and as beautiful as you've envisioned them.
 
@@ -69,7 +69,7 @@ h3. Never do large rewrites
 
 Software rewrites and perpetual refactoring are a special case of big projects, and are so prevalent that they deserve special attention. Fight like hell _not_ to allow big refactors. Always, always, always keep refactoring within the confines of a sprint.
 
-If you absolutely must do a big rewrite, be tripple vigilent about it. Peer review the initial idea, peer review milestones, be ruthless about cutting complexity and scope. A big rewrite will take at least three times what you've estimated (if you're lucky).
+If you absolutely must do a big rewrite, be triple-vigilant about it. Peer review the initial idea, peer review milestones, be ruthless about cutting complexity and scope. A big rewrite will take at least three times what you've estimated (if you're lucky).
 
 Always keep a refactoring stack of at most depth one. If someone is refactoring a part of the codebase (within the confines of a sprint, or heavens forbid as a large project), make sure they don't run off refactoring other components. Always schedule refactoring as you would any other change.
 
