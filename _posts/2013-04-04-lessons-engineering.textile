@@ -55,10 +55,6 @@ Despite smelling like a fad, sprints are a surprisingly good solution to the see
 
 It's strange, but with the right people it works really, really well. (Some people can't work in this environment -- in that case your best option is to kindly ask them to switch employers).
 
-h3. Treat big projects with care
-
-Only do one at a time. Have a structure. Peer review everything. Pair program.
-
 h3. Overallocate resources
 
 Here's a resource allocation algorithm:
@@ -69,11 +65,15 @@ Here's a resource allocation algorithm:
 
 Overparallelization is death.
 
-h3. Test less code more often
+h3. Treat big projects with care
 
-As opposed to more code less often.
+Only do one at a time. Have a structure. Peer review everything. Pair program.
 
 h3. Never do large rewrites
 
 It kills you.
+
+h3. Test less code more often
+
+As opposed to more code less often.
 
