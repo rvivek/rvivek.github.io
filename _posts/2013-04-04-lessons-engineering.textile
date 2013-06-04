@@ -75,7 +75,7 @@ It kills you.
 
 h3. Test less code more often
 
-We've all heard the TDD mantra -- write tests first, always keep them green, maximize code coverage. Empirically, I've found that this testing philosophy produced very binary results. You get one of two outcomes:
+We've all heard the TDD mantra -- write tests first, always keep them green, maximize code coverage. Empirically, I've found that this testing philosophy produces very binary results. You get one of two outcomes:
 
 1. High code coverage with mostly failing, bitrotted tests.
 2. Relatively low code coverage with always green tests.
