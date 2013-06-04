@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Software engineering, lessons learned
+title: Software engineering commandments
 wip: true
 ---
 
@@ -55,16 +55,6 @@ Despite smelling like a fad, sprints are a surprisingly good solution to the see
 
 It's strange, but with the right people it works really, really well. (Some people can't work in this environment -- in that case your best option is to kindly ask them to switch employers).
 
-h3. Overallocate resources
-
-Here's a resource allocation algorithm:
-
-# Pick the most important priority.
-# Allocate as many people to it as the task can handle. Don't be afraid of overallocating, be terrified of underallocating.
-# With the remaining people go to step 1.
-
-Overparallelization is death.
-
 h3. Treat big projects with care
 
 Not all projects can be broken up in a way that allows fitting them into a single sprint. Some projects are just too big. You have to treat these projects differently.
@@ -73,7 +63,7 @@ Firstly, fight as hard as you can to _not_ build big projects. Break them up int
 
 If you've done all you can and still _must_ build a big project, build the absolute most minimal prototype possible. Cut corners, dumb it down, do all you can to decrease the scope. Make sure there is a single engineer in charge of the project, and put structure around it. Do a peer review of the initial design. Then set up deliverable milestones, and do peer reviews for each milestone. Once the project is feature complete in the shortest possible amount of time, assign improvements as part of the standard sprint schedule.
 
-Keep the number of concurrent big projects to absolute minimum. One big project per team of about eight - ten engineers is a good rule of thumb.
+Keep the number of concurrent big projects to absolute minimum. One big project per team of about eight to ten engineers is a good rule of thumb.
 
 h3. Never do large rewrites
 
