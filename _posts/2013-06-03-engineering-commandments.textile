@@ -28,7 +28,7 @@ Code review is like exercise. Painful at the beginning, and any given session mi
 
 h3. It's the product, stupid
 
-Ability to build great software and ability to build great products are two completely orthogonal skills, and aptitude for the former does not in any way imply aptitude for the latter. It's best to learn early that software companies aren't about building great software. They're about building great products. You have to start with the product, and let great software be a means to an end.
+Ability to build great software and ability to build great products are two completely orthogonal skills, and aptitude for the former does not imply aptitude for the latter. It's best to learn early that software companies aren't about building great software. They're about building great products. You have to start with the product, and let great software be a means to an end.
 
 Make sure every engineer on the team respects this principle. Whenever possible, have people that understand _products_ run the show. Beware of people that care about a particular programming language, technology, or an obscure technical sticking point more than about making your users happy. They can derail your whole team and firing them is often your best option.
 
