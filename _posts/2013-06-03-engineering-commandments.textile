@@ -67,7 +67,11 @@ Keep the number of concurrent big projects to absolute minimum. One big project 
 
 h3. Never do large rewrites
 
-It kills you.
+Software rewrites and perpetual refactoring are a special case of big projects, and are so prevalent that they deserve a special mention. Fight like hell _not_ to allow big refactors. Always, always, always keep refactoring within the confines of a sprint.
+
+If you absolutely must do a big refactoring project, be tripple vigilent about it. Peer review the initial idea, peer review milestones, be ruthless about cutting complexity. A big refactor will take at least three times what you've estimated (if you're lucky).
+
+Always keep a refactoring stack of at most despth one. If someone is refactoring a part of the codebase (within the confines of a sprint, or heavens forbid as a large project), make sure they don't run off refactoring other components as part of the original refactor. Always schedule refactoring as you would any other change.
 
 h3. Test less code more often
 
