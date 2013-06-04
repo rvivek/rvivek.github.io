@@ -79,13 +79,11 @@ h3. Testing religion
 
 There are hundreds of books written about different testing methodologies (unit tests, integration tests, whitebox, blackbox, etc.), but we've found that there is a much simpler way to categorize tests: short ones and long ones.
 
-Integrate any test that runs in less than a few seconds (including unit and integration tests) into your __development__ process. Use a tool like "Travis CI":https://travis-ci.org/, and run the short test suite after every commit. Never merge code that breaks the short test suite into mainline -- be religious about it, and make it a part of the code review process.
+Integrate any test that runs in less than a few seconds (including unit and integration tests) into your *development* process. Use a tool like "Travis CI":https://travis-ci.org/, and run the short test suite after every commit. Never merge code that breaks the short test suite into mainline -- be religious about it, and make it a part of the code review process. Don't write automated tests that take more time to maintain than the code itself, but do write automated tests.
 
-Any test that takes longer than a minute to run is a long test. Integrate long tests into your __release__ process. Since you can't run long tests after every commit, they lag behind development and tend to bitrot. Maintaining long tests requires a lot of dedication and planning, and is often impractical until you have full-time QA and release management teams.
+Any test that takes longer than a minute to run is a long test. Integrate long tests into your *release* process. Since you can't run long tests after every commit, they lag behind development and tend to bitrot. Maintaining long tests requires a lot of dedication and planning, and is often impractical until you have full-time QA and release management teams.
 
-Many software teams mix short and long tests, discover that they can't afford the discipline to keep long tests up to date, and abandon _both_ test suites altogether. This is why the distinction between short and long tests is useful. Even a small test suite that integrates into the development process makes an enormous difference in quality. Avoid the temptation to abandon _all_ testing because you don't have the organization support structure to manage long test suites.
-
-Don't write automated tests that take more time to maintain than the code itself, but do write automated tests. 
+Many software teams mix short and long tests, discover that they can't afford the discipline to keep long tests up to date, and abandon _both_ test suites altogether. This is why the distinction between short and long tests is useful. Even a small test suite that integrates into the development process makes an enormous difference in quality. Avoid the temptation to abandon _all_ testing because you don't yet have the organization support structure to manage long test suites.
 
 h3. Prepare to fight for your beliefs
 
