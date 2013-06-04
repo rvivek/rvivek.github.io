@@ -75,20 +75,17 @@ If you absolutely must do a big rewrite, be triple-vigilant about it. Peer revie
 
 Always keep a refactoring stack of at most depth one. If someone is refactoring a part of the codebase (within the confines of a sprint, or heavens forbid as a large project), make sure they don't run off refactoring other components. Always schedule refactoring as you would any other change.
 
-h3. Test less code more often
+h3. Testing religion
 
-We've all heard the TDD mantra -- write tests first, always keep them green, maximize code coverage. Empirically, I've found that this testing philosophy produces very binary results. You get one of two outcomes:
+There are hundreds of books written about different testing methodologies (unit tests, integration tests, whitebox, blackbox, etc.), but we've found that there is a much simpler way to categorize tests: short ones and long ones.
 
-1. High code coverage with mostly failing, bitrotted tests.
-2. Relatively low code coverage with always green tests.
+Integrate any test that runs in less than a few seconds (including unit and integration tests) into your __development__ process. Use a tool like "Travis CI":https://travis-ci.org/, and run the short test suite after every commit. Never merge code that breaks the short test suite into mainline -- be religious about it, and make it a part of the code review process.
 
-When forced to choose (and you _will_ be forced) between these two outcomes, always pick the second one.
+Any test that takes longer than a minute to run is a long test. Integrate long tests into your __release__ process. Since you can't run long tests after every commit, they lag behind development and tend to bitrot. Maintaining long tests requires a lot of dedication and planning, and is often impractical until you have full-time QA and release management teams.
 
-The temptation of high code coverage results in long tests that aren't possible to run after every commit. If you can't run tests after every commit, it becomes increasingly more impractical to run every test before committing a change to mainline. If you can't run every test before committing to mainline, your tests _will_ bitrot.
+Many software teams mix short and long tests, discover that they can't afford the discipline to keep long tests up to date, and abandon _both_ test suites altogether. This is why the distinction between short and long tests is useful. Even a small test suite that integrates into the development process makes an enormous difference in quality. Avoid the temptation to abandon _all_ testing because you don't have the organization support structure to manage long test suites.
 
-Instead, have fewer tests that everyone runs after every commit. Use a tool like "Travis CI":https://travis-ci.org/, and replace thousands of bitrotted unit tests with a few carefully selected integration tests.
-
-Fewer tests that are always green _always_ beat more tests that are bitrotted, and sooner or later every project is forced to choose between these two options.
+Don't write automated tests that take more time to maintain than the code itself, but do write automated tests. 
 
 h3. Prepare to fight for your beliefs
 
