@@ -10,19 +10,27 @@ p(meta). 04 Apr 2013
 
 When I first started RethinkDB I was absolutely terrible at designing _products_. I didn't need to be -- I just didn't know better. Here's a list of most important lessons I learned about product design.
 
+h3. Importance of school
+
+Never build a product without a corresponding field. (http://www.lettersofnote.com/2012/06/if-im-not-writer-then-im-nothing.html)
+
+h3. Depth first vs breadth first
+
+Newbies do it depth first. Experts do it breadth first.
+
 h3. Differentiation vs neutralization
 
 Learn it and live it. For feature X there are only two questions that matter -- will they buy *because* of X, will they *not* buy because of X?
+
+h3. README first
+
+Figure out a sales pitch, then build the product to match the pitch. Not the other way around.
 
 h3. Products sell inspite of issues
 
 They don't sell because there are no issues.
 
-h3. Importance of school
-
-Never build a product without a corresponding field. (http://www.lettersofnote.com/2012/06/if-im-not-writer-then-im-nothing.html)
-
-h3. Importance of packaging
+h3. Fashion vs principle
 
 Iambic pentameter can be packaged into a Shakespearean play, or into a hip hop song. Pick the right packaging for the time and the audience. Have the courage to stand for principles, but don't be afraid of fashion. Embrace it.
 
