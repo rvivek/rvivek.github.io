@@ -77,7 +77,7 @@ If you absolutely must do a big rewrite, be triple-vigilant about it. Peer revie
 
 Always keep a refactoring stack of at most depth one. If someone is refactoring a part of the codebase (within the confines of a sprint, or heavens forbid as a large project), make sure they don't run off refactoring other components. Always schedule refactoring as you would any other change.
 
-h3. Testing religion
+h3. Find a way to test religiously
 
 There are hundreds of books written about different testing methodologies (unit tests, integration tests, whitebox, blackbox, etc.), but we've found that there is a much simpler way to categorize tests: short ones and long ones.
 
@@ -85,7 +85,7 @@ Integrate any test that runs in less than a few seconds (including unit and inte
 
 Any test that takes longer than a minute to run is a long test. Integrate long tests into your *release process*. Since you can't run long tests after every commit, they lag behind development and tend to bitrot. Maintaining long tests requires a lot of dedication and planning, and is often impractical until you have full-time QA and release management teams.
 
-Don't abandon _both_ test suites because you don't yet have the organizational support structure to manage long tests. Even a small test suite that integrates into the development process makes an enormous difference in quality.
+Don't abandon _all_ automated testing because you don't yet have the organizational support structure to manage long tests or because you wrote tests early on that required too much overhead. Even a small test suite that integrates into the development process makes an enormous difference in quality.
 
 h3. Prepare to fight for your beliefs
 
