@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Software engineering commandments
-wip: true
 ---
 
 h1. {{ page.title }}
