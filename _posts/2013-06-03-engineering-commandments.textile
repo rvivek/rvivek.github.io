@@ -42,9 +42,11 @@ Less is more. Avoid grand designs. Keep the codebase as small as possible.
 
 h3. Pick abstractions carefully
 
-Pick the simplest, most concrete possible implementation that solves the customer's problem. Avoid big abstractions -- functions are better than "lenses":http://hackage.haskell.org/package/lens 99% of the time. Use simpler language features whenever possible -- an if statement is better than a template specialization. Great abstractions feel very powerful because they allow you to accomplish an enormous number of different tasks. They also feel very concrete because doing any specific task is easy and simple to understand. That's why functions and pipes are better abstractions than monads and "arrows":http://www.haskell.org/arrows/.
+Pick the simplest, most concrete possible implementation that solves the customer's problem. Avoid big abstractions -- functions are better than "lenses":http://hackage.haskell.org/package/lens 99% of the time. Use simpler language features whenever possible -- an if statement is better than a template specialization. Great abstractions tend to feel very concrete because they make complex tasks easy and simple to understand. That's why functions and pipes are better abstractions than monads and "arrows":http://www.haskell.org/arrows/. Avoid grand beautiful designs -- they're never as grand and as beautiful as you've envisioned them.
 
-Avoid grand beautiful designs -- they're never as grand and as beautiful as you've envisioned them.
+Be careful about swinging too far to the other extreme. Once you commit your project to an architecture, it can be extremely difficult to change. If your abstractions aren't flexible enough to solve the customer's problems, your competition will be right at your heels.
+
+Picking the right abstractions requires a great deal of care and experience. Be thoughtful about this problem -- if technology is a differentiating factor in your product, this can mean the difference between life and death.
 
 h3. Sprints, deadlines, and estimates
 
