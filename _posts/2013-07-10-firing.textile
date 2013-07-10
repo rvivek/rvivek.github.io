@@ -16,15 +16,15 @@ The vast majority of decisions are made by concensus. The relevant people get to
 
 h3. Tie-breakers
 
-Occassionally when matters of taste are involved, concesus cannot be reached. When discussions  don't converge to a unanimous decision, I (as a product lead) appoint a tie-breaker who makes the final decision. Typically, it's a person who has a really good taste at the relevant class of issues.
+Occassionally when matters of taste are involved, concesus cannot be reached. When discussions  don't converge to a unanimous decision, I (as a product lead) appoint a tie-breaker who makes the final decision. Typically, it's a person who has really good taste at the relevant class of issues.
 
 We currently have three official tie-breakers -- one for coding style, one for language design, and one for visual design. We also have many informal tie-breakers -- people who are masters of their craft that others trust to make good decisions and concede to their judgement in case of ties. Between concensus and tie-breakers, we can resolve close to 99% of all decisions.
 
 h3. Course corrections
 
-Occassionally, the team arrives at unanimous concesus and I feel the decision is wrong. Usually it means something about the underlying goals or values had to change to accomodate reality, but I failed to communicate it to the team. (One example of this is "being user-focused":http://www.defmacro.org/2013/04/03/issue-etiquette.html). Most of the time I can sit everyone down, explain my concerns, and have everyone re-evaluate the decision. In some cases, it might take some time for people to adjust, in which case I have to override their decision by authority.
+Occassionally, the team arrives at unanimous concesus and I feel the decision is wrong. Usually it means something about the underlying goals or values had to change to accomodate reality, but I failed to communicate it to the team. (One example of this is "being user-focused":http://www.defmacro.org/2013/04/03/issue-etiquette.html). Most of the time I can sit everyone down, explain my concerns, and have everyone re-evaluate the decision. In some cases, it takes time for people to adjust, in which case I have to override their decision by authority.
 
-Our company is small enough and everyone here is talanted enough that I can't use formal authority to enforce my will (nor would I want to). I have to use the political capital I've built up, which requires an enormous degree of bilateral trust. I have to trust people to do their jobs, and they have to trust me to accept decisions they disagree with. Cultivating this trust is a big part of what makes RethinkDB tick.
+Our company is small enough and everyone here is talented and mobile enough that I can't use formal authority to enforce my will (nor would I want to). I have to use the political capital I've built up, which requires an enormous degree of bilateral trust. I have to trust people to do their jobs, and they have to trust me to accept decisions they disagree with. Cultivating this trust is a big part of what makes RethinkDB tick.
 
 h3. Required qualities
 
