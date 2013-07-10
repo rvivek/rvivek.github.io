@@ -8,8 +8,8 @@ h1. {{ page.title }}
 
 p(meta). 10 Jul 2013
 
-[RethinkDB](http://www.rethinkdb.com) is a tribe (or, more accurately,
-a [band](http://en.wikipedia.org/wiki/Band_society)). We spend a lot
+"RethinkDB":http://www.rethinkdb.com is a tribe (or, more accurately,
+a "band":http://en.wikipedia.org/wiki/Band_society). We spend a lot
 of time together, and have a shared set of goals and values. We're
 also small enough that decisions can be made by concensus, but big
 enough that no one person could keep track of everything going
