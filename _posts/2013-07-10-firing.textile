@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When to fire people
+title: Fire quickly and compassionately
 wip: true
 ---
 

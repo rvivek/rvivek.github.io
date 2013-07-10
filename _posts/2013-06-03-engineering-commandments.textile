@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Software engineering commandments
+title: The ten project management commandments
 ---
 
 h1. {{ page.title }}
