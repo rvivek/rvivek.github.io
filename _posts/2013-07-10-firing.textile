@@ -12,7 +12,9 @@ p(meta). 10 Jul 2013
 
 Most decisions are made by concensus. The relevant people get together, interrogate the issue for a while, and voluntarily arrive at a unanimous decision. When a decision is reached, everyone goes off and does the work. Most technical and many non-technical decisions are made this way. This process is self-sustaining -- it works smoothly on its own, and requires very little management. However, there are circumstances where this process breaks down.
 
-Occassionally when matters of taste are involved, concesus cannot be reached. When discussions  don't converge to a unanimous decision, I (as a product lead) appoint a tie-breaker who makes the final decision. Typically, it's a person who has a really good taste at the relevant class of issues. We currently have three official tie-breakers -- "@srh":https://github.com/srh for code style, "@mlucy":https://github.com/mlucy for language design, and "@mglukhovsky":https://github.com/mglukhovsky for visual design. We also have many informal tie breakers -- people who are masters of their craft that others trust to make good decisions and concede to their judgement in case of ties. Between concensus and tie breakers, we can probably resolve close to 99% of all decisions.
+Occassionally when matters of taste are involved, concesus cannot be reached. When discussions  don't converge to a unanimous decision, I (as a product lead) appoint a tie-breaker who makes the final decision. Typically, it's a person who has a really good taste at the relevant class of issues.
+
+We currently have three official tie-breakers -- one for code style, one for language design, and one for visual design. We also have many informal tie-breakers -- people who are masters of their craft that others trust to make good decisions and concede to their judgement in case of ties. Between concensus and tie-breakers, we can probably resolve close to 99% of all decisions.
 
 
 
