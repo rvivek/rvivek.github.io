@@ -28,24 +28,16 @@ Our company is small enough and everyone here is talanted enough that I can't us
 
 h3. Required qualities
 
+The way we work is only possible because everyone on our team consistently displays the following qualities:
 
+* *Passion matched by raw talent.* foo
+* *Shared sense of taste.* foo
+* *Emotional maturity.* foo
 
+There is one more quality that doesn't necessarily follow from the process outlined above, but is so important it deserves a special mention:
 
-Over the course of growing the team at RethinkDB I learned an enormous amount about how to manage people. Perhaps the most important lesson is when to fire someone.
+* *Shipping quickly.* foo
 
-h3. Push vs. pull people
+h3. Firing
 
-Someone people do stuff of their own volition. It may not be the stuff you want. It may not be the quality you want. But they do it. They push stuff onto you.
-
-h3. Coach vs. babyshit people
-
-Some people can be coached. You have a conversation about how they're doing, and they change. Other people make having such conversations awkward and difficult, or welcome them but don't change at all.
-
-h3. Versatility
-
-Some people can perform a wide variety of work. Others start slacking (other on push vs pull or coachability, which means different things -- they don't want to do the job, or can't do the job)
-
-h3. Consistency
-
-Some people are consistent in their push and coach metrics on a given job. Others aren't.
-
+foo
