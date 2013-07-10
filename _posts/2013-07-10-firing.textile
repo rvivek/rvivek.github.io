@@ -18,7 +18,7 @@ h3. Tie-breakers
 
 Occasionally when matters of taste are involved, consensus cannot be reached. When discussions  don't converge to a unanimous decision, I (as a product lead) appoint a tie-breaker who makes the final decision. Typically, it's a person who has really good taste at the relevant class of issues.
 
-We currently have three official tie-breakers -- one for coding style, one for language design, and one for visual design. We also have many informal tie-breakers -- people who are masters of their craft that others trust to make good decisions and concede to their judgment in case of ties. Between consensus and tie-breakers, we can resolve close to 99% of all decisions.
+We currently have three official tie-breakers -- one for coding style, one for language design, and one for visual design. We also have many informal tie-breakers -- people who are masters of their craft that others trust to make good decisions and concede to their judgment in case of ties. Between consensus and tie-breakers, we can resolve close to 99% of all issues.
 
 h3. Course corrections
 
@@ -36,7 +36,7 @@ The way we work is only possible because everyone on our team consistently displ
 
 There is one more quality that doesn't necessarily follow from the process outlined above, but is so important it deserves a special mention:
 
-* *Shipping quickly.* Does the person drive issues to a close and go out of their way to get the product out the door ASAP?
+* *Shipping quickly.* Does the person drive issues to a close and go out of their way to get the product out the door ASAP without being nudged?
 
 In aggregate, these questions provide a good framework for deciding whether someone is a good fit for the team (and conversely, whether the team is a good fit for them).
 
