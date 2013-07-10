@@ -6,7 +6,25 @@ wip: true
 
 h1. {{ page.title }}
 
-p(meta). 22 Apr 2013
+p(meta). 10 Jul 2013
+
+[RethinkDB](http://www.rethinkdb.com) is a tribe (or, more accurately,
+a [band](http://en.wikipedia.org/wiki/Band_society)). We spend a lot
+of time together, and have a shared set of goals and values. We're
+also small enough that decisions can be made by concensus, but big
+enough that no one person could keep track of everything going
+on. Under these circmustances, we evolved a simple and effective
+decision making process.
+
+Most decisions are made by concensus. The relevant people get
+together, interrogate the issue for a while, and voluntarily arrive at
+a unanimous decision. Most technical and many non-technical decisions
+are made this way. However, there are circumstances where this process
+breaks down.
+
+
+
+
 
 Over the course of growing the team at RethinkDB I learned an enormous amount about how to manage people. Perhaps the most important lesson is when to fire someone.
 
