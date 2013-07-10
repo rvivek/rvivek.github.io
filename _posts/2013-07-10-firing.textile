@@ -30,16 +30,20 @@ h3. Required qualities
 
 The way we work is only possible because everyone on our team consistently displays the following qualities:
 
-* *Passion matched by raw talent.* foo
-* *Shared sense of taste.* foo
-* *Emotional maturity.* foo
+* *Passion matched by raw talent.* Is there one thing crucial to the organization's success that the person is spectacular at? Will they independently exercise the drive, focus, and attention to detail to advance the product in the way they alone can?
+* *Shared sense of taste.* Does the person drive concensus in the right direction in accordance with our goals and values? Do they have the courage to disagree with the group when they feel the rest of the team is going in the wrong direction?
+* *Emotional maturity.* Is the person able to put aside their personal reservations and accept decisions they disagree with when it's necessary?
 
 There is one more quality that doesn't necessarily follow from the process outlined above, but is so important it deserves a special mention:
 
-* *Shipping quickly.* foo
+* *Shipping quickly.* Does the person drive issue to a close and go out of their way to get the product out the door ASAP?
+
+In aggregate, these questions provide a good framework for deciding whether someone is a good fit for the team (and conversely, whether the team is a good fit for them).
+
+h3. Firing
 
 foo
 
-h3. Firing
+h3. Emotions
 
 foo
