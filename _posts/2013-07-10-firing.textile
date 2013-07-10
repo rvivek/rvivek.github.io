@@ -38,6 +38,8 @@ There is one more quality that doesn't necessarily follow from the process outli
 
 * *Shipping quickly.* foo
 
+foo
+
 h3. Firing
 
 foo
