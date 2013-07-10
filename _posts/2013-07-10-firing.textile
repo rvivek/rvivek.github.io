@@ -8,13 +8,20 @@ h1. {{ page.title }}
 
 p(meta). 10 Jul 2013
 
-"RethinkDB":http://www.rethinkdb.com is a tribe (or, more accurately, a "band":http://en.wikipedia.org/wiki/Band_society). We spend a lot of time together, and have a shared set of goals and values. We're also small enough that decisions can be made by concensus, but big enough that no one person could keep track of everything going on. Under these circmustances, we evolved a simple and effective development process.
+"RethinkDB":http://www.rethinkdb.com is a tribe (or, more accurately, a "band":http://en.wikipedia.org/wiki/Band_society). We spend a lot of time together, and have a shared set of goals and values. We're also small enough that decisions can be made by concensus, but big enough that no one person could keep track of everything going on. Under these circmustances, we evolved a simple and effective decision making process.
 
-Most decisions are made by concensus. The relevant people get together, interrogate the issue for a while, and voluntarily arrive at a unanimous decision. When a decision is reached, everyone goes off and does the work. Most technical and many non-technical decisions are made this way. This process is self-sustaining -- it works smoothly on its own, and requires very little management. However, there are circumstances where this process breaks down.
+h3. Concensus
+
+The vast majority of decisions are made by concensus. The relevant people get together, interrogate the issue for a while, and voluntarily arrive at a unanimous decision. When a decision is reached, everyone goes off and does the work. Most technical and many non-technical decisions are made this way. This process is self-sustaining -- it works smoothly on its own, and requires very little management. However, there are circumstances where this process breaks down.
+
+h3. Tie-breakers
 
 Occassionally when matters of taste are involved, concesus cannot be reached. When discussions  don't converge to a unanimous decision, I (as a product lead) appoint a tie-breaker who makes the final decision. Typically, it's a person who has a really good taste at the relevant class of issues.
 
-We currently have three official tie-breakers -- one for code style, one for language design, and one for visual design. We also have many informal tie-breakers -- people who are masters of their craft that others trust to make good decisions and concede to their judgement in case of ties. Between concensus and tie-breakers, we can probably resolve close to 99% of all decisions.
+We currently have three official tie-breakers -- one for code style, one for language design, and one for visual design. We also have many informal tie-breakers -- people who are masters of their craft that others trust to make good decisions and concede to their judgement in case of ties. Between concensus and tie-breakers, we can resolve close to 99% of all decisions.
+
+h3. Course corrections
+
 
 
 
