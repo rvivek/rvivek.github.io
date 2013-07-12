@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Fire quickly and compassionately
-wip: true
 ---
 
 h1. {{ page.title }}
