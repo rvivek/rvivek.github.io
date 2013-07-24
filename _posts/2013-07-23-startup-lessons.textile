@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Startup lessons
+title: 54 startup lessons
 wip: true
 ---
 
 h1. {{ page.title }}
 
 p(meta). 23 Jul 2013
+
+There are already very good lists of startup lessons written by really talanted, experienced people ("90 Things I’ve Learned From Founding 4 Technology Companies":http://betashop.com/post/32913573235/90-things-ive-learned-from-founding-4-technology, "http://blog.samaltman.com/startup-advice":http://blog.samaltman.com/startup-advice). I'd like to add another one. I learned these lessons the hard way in the past four years. If you're starting a company, I hope you have an easier path.
 
 h2. People
 <br />
