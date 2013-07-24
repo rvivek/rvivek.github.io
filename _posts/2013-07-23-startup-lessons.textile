@@ -22,9 +22,7 @@ h2. People
 # Fire people that are difficult, unproductive, have no product sense, or aren't pragmatic. Do it quickly.
 # Some friction is good. Too much friction is deadly. Fire people that cause too much friction. Good job + bad behavior == you're fired.
 
-<br />
-h2. Fundraising
-<br />
+<h2><br />Fundraising<br /></h2>
 
 #11 If you have to give away more than 15% of the company at any given fundraising round, your company didn't germinate correctly. It's salvageable but not ideal.
 # If you haven't earned people's respect yet, fundraising on traction is an order of magnitude easier than fundraising on a story. If have to rase on a story but don't have the reputation, something's wrong.
