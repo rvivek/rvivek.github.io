@@ -27,7 +27,7 @@ h2. People
 <h2 style="margin-left: -8px;"><br />Fundraising<br /><br /></h2>
 
 #11 If you have to give away more than 15% of the company at any given fundraising round, your company didn't germinate correctly. It's salvageable but not ideal.
-# If you haven't earned people's respect yet, fundraising on traction is an order of magnitude easier than fundraising on a story. If have to raise on a story but don't have the reputation, something's wrong.
+# If you haven't earned people's respect yet, fundraising on traction is an order of magnitude easier than fundraising on a story. If you have to raise on a story but don't have the reputation, something's wrong.
 # Treat your fundraising pitch as a minimum viable product. Get it out, then iterate after every meeting.
 # Most investor advice is very good for optimizing and scaling a working business. Listen to it.
 # Most investor advice isn't very good for building a magical product. Nobody can help you build a magical product -- that's your job.
