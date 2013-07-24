@@ -23,7 +23,7 @@ h2. People
 # Some friction is good. Too much friction is deadly. Fire people that cause too much friction. Good job + bad behavior == you're fired.
 
 <br />
-h2. Fundraising
+<h2>Fundraising</h2>
 <br />
 
 #_ If you have to give away more than 15% of the company at any given fundraising round, your company didn't germinate correctly. It's salvageable but not ideal.
