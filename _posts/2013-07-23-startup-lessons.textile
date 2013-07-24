@@ -13,7 +13,7 @@ There are already very good lists of startup lessons written by really talented,
 h2. People
 <br />
 
-# If you can't get to profitability with a team of 2 - 4 within six months to a year, something's wrong. (You can choose not to be profitable, but it must be your choice, not something forced on you by the market).
+# If you can't get to ramen profitability with a team of 2 - 4 within six months to a year, something's wrong. (You can choose not to be profitable, but it must be your choice, not something forced on you by the market).
 # Split the stock between the founding team evenly.
 # Always have a vesting schedule.
 # Make most decisions by consensus, but have a single CEO whose decisions are final. Make it clear from day one.
@@ -40,7 +40,7 @@ h2. People
 # Starting with the right idea matters. Empirically, you can only pivot so far.
 # Assume the market is efficient and valuable ideas are discovered by multiple teams nearly instantaneously.
 # Pick new ideas because they've been made possible by other social or technological change. Get on the train as early as possible, but make sure the technology is there to make the product be enough better that it matters.
-# If there is an old idea that didn't work and there is no social or technological change that can plausibly make it work now, assume it will fail.
+# If there is an old idea that didn't work before and there is no social or technological change that can plausibly make it work now, assume it will fail.
 # Educating a market that doesn't want your product is a losing battle. Stick to your ideals and vision, but respect trends. If you believe the world needs iambic pentameter poetry, sell hip hop, not sonnets.
 
 <h2 style="margin-left: -8px;"><br />Products<br /><br /></h2>
