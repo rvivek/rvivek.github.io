@@ -8,7 +8,7 @@ h1. {{ page.title }}
 
 p(meta). 23 Jul 2013
 
-There are already very good lists of startup lessons written by really talanted, experienced people ("here":http://betashop.com/post/32913573235/90-things-ive-learned-from-founding-4-technology and "here":http://blog.samaltman.com/startup-advice). I'd like to add another one. I learned these lessons the hard way in the past four years. If you're starting a company, I hope you have an easier path.
+There are already very good lists of startup lessons written by really talented, experienced people ("here":http://betashop.com/post/32913573235/90-things-ive-learned-from-founding-4-technology and "here":http://blog.samaltman.com/startup-advice). I'd like to add another one. I learned these lessons the hard way in the past four years. If you're starting a company, I hope you have an easier path.
 
 h2. People
 <br />
@@ -16,7 +16,7 @@ h2. People
 # If you can't get to profitability with a team of 2 - 4 within six months to a year, something's wrong. (You can choose not to be profitable, but it must be your choice, not something forced on you by the market).
 # Split the stock between the founding team evenly.
 # Always have a vesting schedule.
-# Make most decisions by consesus, but have a single CEO whose decisions are final. Make it clear from day one.
+# Make most decisions by consensus, but have a single CEO whose decisions are final. Make it clear from day one.
 # Authority is earned. You start with a non-zero baseline. It grows if you have victories and dwindles if you don't. Don't try to use authority you didn't earn.
 # Morale is very real and self-perpetuating. If you work too long without victories, your investors, employees, family, and yourself will lose faith. Work like hell not to get yourself into this position.
 # Pick the initial team *very* carefully. Everyone should be pleasant to work with, have at least one skill relevant to the business they're spectacular at, be extremely effective and pragmatic. Everyone should have product sense and a shared vision for the product and the company.
@@ -27,7 +27,7 @@ h2. People
 <h2 style="margin-left: -8px;"><br />Fundraising<br /><br /></h2>
 
 #11 If you have to give away more than 15% of the company at any given fundraising round, your company didn't germinate correctly. It's salvageable but not ideal.
-# If you haven't earned people's respect yet, fundraising on traction is an order of magnitude easier than fundraising on a story. If have to rase on a story but don't have the reputation, something's wrong.
+# If you haven't earned people's respect yet, fundraising on traction is an order of magnitude easier than fundraising on a story. If have to raise on a story but don't have the reputation, something's wrong.
 # Treat your fundraising pitch as a minimum viable product. Get it out, then iterate after every meeting.
 # Most investor advice is very good for optimizing and scaling a working business. Listen to it.
 # Most investor advice isn't very good for building a magical product. Nobody can help you build a magical product -- that's your job.
@@ -49,7 +49,7 @@ h2. People
 # Don't build something that already exists. Customers won't buy it just because it's yours.
 # Make sure you know why users will have no choice but to switch to your product, and why they won't be able to switch back. Don't trust yourself -- test your assumptions as much as possible.
 # Ask two questions for every product feature. Will people buy because of this feature? Will people not buy because of lack of this feature? No amount of the latter will make up for lack of the former. Don't build features if the answer to both questions is "no".
-# Build a product people want to buy inspite of rough edges, not because there are no rough edges. The former is pleasant and highly paid, the latter is unpleasant and takes forever.
+# Build a product people want to buy in spite of rough edges, not because there are no rough edges. The former is pleasant and highly paid, the latter is unpleasant and takes forever.
 # Beware of chicken and egg products. Make sure your product provides immediate utility.
 # Learn the difference between people who might buy your product and people who are just commenting. Pay obsessive attention to the former. Ignore the latter.
 
