@@ -40,7 +40,7 @@ h2. People
 # Starting with the right idea matters. Empirically, you can only pivot so far.
 # Assume the market is efficient and valuable ideas will be discovered by multiple teams nearly instantaneously.
 # Pick new ideas because they've been made possible by other social or technological change. Get on the train as early as possible, but make sure the technology is there to make the product be enough better that it matters.
-# If there is an old idea that didn't work before and there is no social or technological change that can plausibly make it work now, assume it will fail.
+# If there is an old idea that didn't work before and there is no social or technological change that can plausibly make it work now, assume it will fail. (That's the efficient market hypothesis again. If an idea could have been brought to fruition, it would have been. It's only worth trying again if something changed.)
 # Educating a market that doesn't want your product is a losing battle. Stick to your ideals and vision, but respect trends. If you believe the world needs iambic pentameter poetry, sell hip hop, not sonnets.
 
 <h2 style="margin-left: -8px;"><br />Products<br /><br /></h2>
