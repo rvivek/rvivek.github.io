@@ -85,12 +85,12 @@ h2. People
 # If you must do something that doesn't fit into a sprint, put as much structure and peer review around it as possible.
 # Working on the wrong thing for a month is equivalent to not showing up to work for a month at all.
 
-<h2 style="margin-left: -8px;"><br />Administration<br /><br /></h2>
+<h2 style="margin-left: -8px;"><br />Company administration<br /><br /></h2>
 
 #_ Don't waste time picking office buildings, accountants, bookkeepers, janitors, furniture, hosted tools, payroll companies, etc. Make sure it's good enough and move on.
 # Take the time to find a good, inexpensive lawyer. It will make a difference.
 
-<h2 style="margin-left: -8px;"><br />Psychology<br /><br /></h2>
+<h2 style="margin-left: -8px;"><br />Personal well-being<br /><br /></h2>
 
 #_ Do everything you can not to attach your self esteem to your startup (you'll fail, but try anyway). Do the best you can every day, then step back. Work in such a way that when the dust settles you can be proud of the choices you've made, regardless of the outcome.
 # Every once in a while, get away. Go hiking, visit family in another city, go dancing, play chess, tennis, *anything*. It will make you more effective and make the people around you happier.
