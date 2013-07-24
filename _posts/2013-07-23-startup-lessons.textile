@@ -19,7 +19,7 @@ h2. People
 # Morale is very real and self-perpetuating. If you work too long without victories, your investors, employees, family, and yourself will lose faith. Work like hell not to get yourself into this position.
 # Pick the initial team *very* carefully. Everyone should be pleasant to work with, have at least one skill relevant to the business they're spectacular at, be extremely effective and pragmatic. Everyone should have product sense and a shared vision for the product and the company.
 # The standard you walk past is the standard you accept. Pick a small set of non-negotiable rules that matter to you most and enforce them ruthlessly.
-# Fire people that are difficult, unproductive, have no product sense, or aren't pragmatic. Do it quickly.
+# Fire people that are difficult, unproductive, unreliable, have no product sense, or aren't pragmatic. Do it quickly.
 # Some friction is good. Too much friction is deadly. Fire people that cause too much friction. Good job + bad behavior == you're fired.
 
 <h2 style="margin-left: -8px;"><br />Fundraising<br /><br /></h2>
