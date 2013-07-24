@@ -36,7 +36,7 @@ h2. People
 <h2 style="margin-left: -8px;"><br />Markets<br /><br /></h2>
 
 #_ The best products don't get built in a vacuum. They win because they reach the top of a field over all other products designed to fill the same niche. Find your field and be the best. If there is no field, something's wrong.
-# Work on a problem that has an immediately useful solution, but has enormous potential for growth. If it doesn't augment the human condition for a huge number of people in a meaningful way, it's not worth doing. For example, Google touches billions of lives by filling a very concrete space in their daily routine. It changes the way people behave and perceive their immediate physical surroundings. Shoot for building a product of this magnitude.
+# Work on a problem that has an immediately useful solution, but has enormous potential for growth. If it doesn't augment the human condition for a huge number of people in a meaningful way, it's not worth doing. For example, Google touches billions of lives by filling a very concrete space in people's daily routine. It changes the way people behave and perceive their immediate physical surroundings. Shoot for building a product of this magnitude.
 # Starting with the right idea matters. Empirically, you can only pivot so far.
 # Assume the market is efficient and valuable ideas will be discovered by multiple teams nearly instantaneously.
 # Pick new ideas because they've been made possible by other social or technological change. Get on the train as early as possible, but make sure the technology is there to make the product be enough better that it matters.
