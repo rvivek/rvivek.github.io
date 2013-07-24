@@ -23,7 +23,7 @@ h2. People
 
 h2. Fundraising
 
-11. If you have to give away more than 15% of the company at any given fundraising round, your company didn't germinate correctly. It's salvageable but not ideal.
+#_ If you have to give away more than 15% of the company at any given fundraising round, your company didn't germinate correctly. It's salvageable but not ideal.
 # If you haven't earned people's respect yet, fundraising on traction is an order of magnitude easier than fundraising on a story. If have to rase on a story but don't have the reputation, something's wrong.
 # Treat your fundraising pitch as a minimum viable product. Get it out, then iterate after every meeting.
 # Most investor advice is very good for optimizing and scaling a working business. Listen to it.
@@ -32,7 +32,7 @@ h2. Fundraising
 
 h2. Markets
 
-# Best products don't get built in a vacuum. They win over everything else in their field. Find your field and be the best. If there is no field, something's wrong.
+#_ Best products don't get built in a vacuum. They win over everything else in their field. Find your field and be the best. If there is no field, something's wrong.
 # Work on a problem that has an immediately useful solution, but has enormous potential for growth. If it doesn't augment the human condition for a huge number of people in a meaningful way, it's not worth doing.
 # Starting with the right idea matters. Empirically, you can only pivot so far.
 # Assume the market is efficient and valuable ideas are discovered by multiple teams nearly instantaneously.
@@ -42,7 +42,7 @@ h2. Markets
 
 h2. Products
 
-# Product sense is everything. Learn it as quickly as you can. Being good at engineering has nothing to do with being good at product management.
+#_ Product sense is everything. Learn it as quickly as you can. Being good at engineering has nothing to do with being good at product management.
 # Don't build something that already exists. Customers won't buy it just because it's yours.
 # Make sure you know why users will have no choice but to switch to your product, and why they won't be able to switch back. Don't trust yourself -- test your assumptions as much as possible.
 # Ask two questions for every product feature. Will people buy because of this feature? Will people not buy because of lack of this feature? No amount of the latter will make up for lack of the former. Don't build features if the answer to both questions is "no".
@@ -52,7 +52,7 @@ h2. Products
 
 h2. Marketing
 
-# Product comes first. If people love your product, the tiniest announcements will get attention. If people don't love your product, no amount of marketing effort will help.
+#_ Product comes first. If people love your product, the tiniest announcements will get attention. If people don't love your product, no amount of marketing effort will help.
 # Try to have marketing built into the product. If possible, have the YouTube effect (your users can frequently send people a link to something interesting on your platform), and Facebook effect (if your users are on the product, their friends will need to get on the product too).
 # Watch "Jiro Dreams of Sushi":http://en.wikipedia.org/wiki/Jiro_Dreams_of_Sushi, then do marketing that way. Pick a small set of tasks, do them consistently, and get better every day.
 # Reevaluate effectiveness on regular basis. Cut things that don't work, double down on things that do.
@@ -63,7 +63,7 @@ h2. Marketing
 
 h2. Sales
 
-# Sales fix everything. You can screw up everything else and get through it if your product sells well.
+#_ Sales fix everything. You can screw up everything else and get through it if your product sells well.
 # Product comes first. Selling a product everyone wants is easy and rewarding. Selling a product no one wants is an unpleasant game of numbers.
 # Be relentless about working the game of numbers while the product is between the two extremes above. Even if you don't sell anything, you'll learn invaluable lessons.
 # Qualify ruthlessly. Spending time with a user who's unlikely to buy is equivalent to doing no work at all.
@@ -71,7 +71,7 @@ h2. Sales
 
 h2. Development
 
-# Development speed is everything.
+#_ Development speed is everything.
 # Minimize complexity. The simpler the product, the more likely you are to actually ship it, and the more likely you are to fix problems quickly.
 # Pick implementations that give 80% of the benefit with 20% of the work.
 # Use off the shelf components whenever possible.
@@ -83,6 +83,6 @@ h2. Development
 
 h2. Administration
 
-# Don't waste time picking office buildings, accountants, bookkeepers, janitors, furniture, hosted tools, payroll companies, etc. Make sure it's good enough and move on.
+#_ Don't waste time picking office buildings, accountants, bookkeepers, janitors, furniture, hosted tools, payroll companies, etc. Make sure it's good enough and move on.
 # Take the time to find a good, inexpensive lawyer. It will make a difference.
 
