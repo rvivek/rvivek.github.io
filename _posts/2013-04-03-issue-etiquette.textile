@@ -127,16 +127,13 @@ h3. EG8. Always use friendly tone
 
 Many open source projects consider it ok to be abrasive on the tracker. I think it's never ok. If someone commenting on the issue frustrates you, most of the time it's because they need a little additional guidance. Even when it's not the case, kindness and firmness are not mutually exclusive.
 
-Here's a real example of a "comment":https://github.com/rethinkdb/rethinkdb/issues/561#issuecomment-16321252 that has poor tone:
+Here's an example of a comment that has poor tone:
 
-bq. This entire thread arguing about the technical possibility of doing this is pointless because @wmrowan's first reply is the right answer.
-Even if the conversation didn't end with gotchyas about how wrapping things in parentheses would cause worse confusion, it would still be a bad idea because such a finish to the conversation doesn't mean such gotchyas don't exist. The rest of the thread is people entertaining each other's inability to reason with incomplete information.
-Trying to make a friendlier error message is a better solution.
+bq. Your proposal to switch from virtual functions to templates is stupid -- it won't speed anything up because cached vtable lookups are very fast, and adding templates will only increase the code size and blow the instruction cache. Not to mention that it will make our lives worse because it'll increase the compilation time. The right decision here is to stick with virtual tables.
 
 Here's this same example, rewritten with friendlier tone. The content is exactly the same, but the rewritten comment makes everyone happier:
 
-bq. I feel really strongly that @wmrowan's first reply is the right answer. It _may_ be technically possible to make this better, but I don't think we should. We already came up with a few gotchyas about how wrapping things in parentheses would confuse people, but even if we didn't, it's very likely that more such gotchayas are lurking under the surface.
-I think that trying to make a friendlier error message is a much better solution. What do you think of doing that instead?
+bq. I really think the proposal to switch from virtual functions to templates is a bad idea. It's unlikely to speed anything up because cached vtable lookups are very fast, and adding templates will almost certainly increase the code size and blow the instruction cache. Also, an additional downside of using templates is that it will make development harder because it will increase the build times. I really think we should stick with virtual tables.
 
 You have an enormous power over other people's emotions. Use it wisely. Keep debate collaborative, be kind to others, and welcome criticism. It makes for a better product and a happier community.
 
