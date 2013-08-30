@@ -14,6 +14,7 @@
   <link href="http://www.defmacro.org/" rel="alternate" type="text/html" />
 
   {% for post in site.posts limit: 10 %}
+    {% unless post.wip %}
     <entry>
       <id>http://www.defmacro.org/{{ post.id }}</id>
       <title>{{ post.title | xml_escape }}</title>
@@ -29,5 +30,6 @@
         ]]>
       </content>
     </entry>
+    {% endunless %}
   {% endfor %}
 </feed>

@@ -1,0 +1,29 @@
+---
+layout: post
+title: How to pitch startup ideas
+wip: true
+---
+
+h1. {{ page.title }}
+
+p(meta). 21 Aug 2013
+
+One side effect of running a startup is that I get pitched a lot of startup ideas. Most pitches are really bad, but I already heard through the grapevine that it's the case, so it didn't surprise me. However, what did surprise is *why* they're bad. It quickly became very clear that most pitches aren't bad because of the form, or presentation, or polish. They're bad, because most people approac starting a company in a completely wrong way.
+
+I'm going to give an example of a typical bad pitch, and then show what a good pitch actually sounds like. I'll then explain specifically what's wrong with a typical pitch, hopefully to give people a better idea of how to approach starting a company.
+
+h3. A bad pitch
+
+foo
+
+h3. If you haven't started a company yet, and it's your first startup
+
+bq. I decided to start a company, and I wanted to get your feedback. I'm starting to learn how to evaluate markets and product ideas, and I'm especially interested in starting a company to build kitty mp3 players. I've found myself to be dissatisfied with the current mp3 player technology because the modern devices don't allow for personalization. I started looking into it, and discovered a lot of evidence that an enormous number of people longs for personalized devices, and I think building kitty mp3 players can make very important impact on people's happiness. I believe people will be willing to pay a premium for kitty mp3 players, and I was wondering if you could help me explore these ideas.
+
+h3. If you've already started your company
+
+foo
+
+h3. What's better about my examples
+
+foo
