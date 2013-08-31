@@ -29,7 +29,8 @@ First, I wrote a shell one-liner to get the data into RethinkDB:
 
 Phew. I then switched to the data explorer and Javascript (which is also Bill's doing). I first made sure things imported correctly:
 
-<pre><code class="javascript">r.table('commits').count()
+{% highlight javascript %}
+r.table('commits').count()
 // 20580
 
 r.table('commits').nth(0)
@@ -39,7 +40,8 @@ r.table('commits').nth(0)
 //   "id":  "00128bd3b456d369319e307f5f1bbf99dab85f98" ,
 //   "subject":  "fixing missing subcommand string in log statement \
                   for unrecognized subcommand"
-// }</code></pre>
+// }
+{% endhighlight %}
 
 Looks good. I then switched to the hero of the occassion himself:
 
