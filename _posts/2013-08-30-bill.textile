@@ -12,7 +12,7 @@ Today is Bill Rowan's last day at RethinkDB. Bill has done some really amazing w
 
 First, I wrote a shell one-liner to get the data into RethinkDB:
 
-<pre><code>git log --pretty=format:"%H|%ae|%at|%s" |     \
+<pre><code>git log --pretty=format:"%H|%ae|%at|%s" |                \
   python -c "                                            \
     import rethinkdb as r;                               \
     import sys;                                          \
@@ -41,7 +41,7 @@ r.table('commits').nth(0)
                   for unrecognized subcommand"
 // }</code></pre>
 
-Looks good. I then switched to the here of the occassion himself:
+Looks good. I then switched to the hero of the occassion himself:
 
 <pre><code class="javascript">r.table('commits').filter({email: 'bill@rethinkdb.com'}).count()
 // 942</code></pre>
