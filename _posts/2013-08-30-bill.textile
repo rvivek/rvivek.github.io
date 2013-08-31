@@ -148,4 +148,4 @@ And... it's about the @onFinished_callback@ in the Node.js implementation of the
 
 -----
 
-Dude, we're going to miss you. We'll continue working hard to make sure your code gets used by millions of people. In the meantime, I don't doubt for a moment that you'll go on boldly where no man has gone before, and end up doing amazing things. Live long and prosper!
+Dude, we're going to miss you. We'll continue working hard to make sure your code gets used by millions of people. In the meantime, I don't doubt for a moment that you'll go on boldly where no man has gone before, and end up doing amazing things. Live long and prosper, my friend!
