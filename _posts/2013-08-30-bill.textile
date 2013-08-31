@@ -8,7 +8,7 @@ h1. {{ page.title }}
 
 p(meta). 30 Aug 2013
 
-Today is Bill Rowan's last day at RethinkDB. Bill has done some really amazing work here, including the recently completed Javascript and Python drivers. He decided to move on to work on something totally different (but equally cool). We'll miss him dearly, but I just couldn't let him go without doing a bit of a retrospective (using RethinkDB, and Bill's very own driver code, of course!) So, let's get started!
+Today is Bill Rowan's last day at RethinkDB. Bill has done some really amazing work here, including the recently completed Javascript and Python drivers. He decided to move on to work on something totally different (but equally cool). We'll miss him dearly, but I just couldn't let him go without doing a bit of a retrospective (using RethinkDB, and Bill's very own driver code, of course!) So, let's get started.
 
 First, I wrote a shell one-liner to import @git log@ data into RethinkDB:
 
