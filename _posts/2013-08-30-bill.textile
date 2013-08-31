@@ -13,12 +13,17 @@ Today is Bill Rowan's last day at RethinkDB. Bill has done some really amazing w
 First, I wrote a shell one-liner to get the data into RethinkDB:
 
 <pre><code>git log --pretty=format:"%H|%ae|%at|%s" |     \
-  python -c "import rethinkdb as r;           \
-             import sys;                      \
-             r.connect().repl();              \
-             r.table_create('commits').run(); \
-             r.table('commits').insert([dict(map(lambda x, y: [x, y], ['id', 'email', 'date', 'subject'], line.split('|', 3))) for line in sys.stdin]).run(durability='soft'); \
-             r.table('commits').update({'date': r.epoch_time(r.row['date'].coerce_to('number')) }).run(durability='soft');"</code></pre>
+  python -c "                                            \
+    import rethinkdb as r;                               \
+    import sys;                                          \
+    r.connect().repl();                                  \
+    r.table_create('commits').run();                     \
+    r.table('commits').insert([dict(map(lambda x, y: [x, y],                 \
+                                        ['id', 'email', 'date', 'subject'],  \
+                                        line.split('|', 3))) for line in sys.stdin])
+     .run(durability='soft');                            \
+    r.table('commits').update({'date': r.epoch_time(r.row['date'].coerce_to('number')) }) \
+     .run(durability='soft');"</code></pre>
 
 Phew. I then switched to the data explorer and Javascript (which is also Bill's doing). I first made sure things imported correctly:
 
@@ -30,7 +35,8 @@ r.table('commits').nth(0)
 //   "date": Fri Mar 08 2013 02:17:05 GMT+00:00 ,
 //   "email": marc@rethinkdb.com,
 //   "id":  "00128bd3b456d369319e307f5f1bbf99dab85f98" ,
-//   "subject":  "fixing missing subcommand string in log statement for unrecognized subcommand"
+//   "subject":  "fixing missing subcommand string in log statement \
+                  for unrecognized subcommand"
 // }</code></pre>
 
 Looks good. I then switched to the here of the occassion himself:
@@ -40,7 +46,8 @@ Looks good. I then switched to the here of the occassion himself:
 
 During his tenure here, Bill pushed 942 commits. Cool! Let's see what his very first commit was:
 
-<pre><code class="javascript">r.table('commits').filter({email: 'bill@rethinkdb.com'}).orderBy('date').nth(0)
+<pre><code class="javascript">r.table('commits').filter({email: 'bill@rethinkdb.com'})
+ .orderBy('date').nth(0)
 // {
 //   "date": Fri Jun 17 2011 22:22:51 GMT+00:00 ,
 //   "email": bill@rethinkdb.com,
@@ -50,7 +57,8 @@ During his tenure here, Bill pushed 942 commits. Cool! Let's see what his very f
 
 Ah, that was back when Bill was an intern in 2011. RethinkDB still had a memcached front-end back then (way before we implemented ReQL and Bill's drivers I'm using to run these queries). I then wondered what his last commit was:
 
-<pre><code class="javascript">r.table('commits').filter({email: 'bill@rethinkdb.com'}).orderBy(r.desc('date')).nth(0)
+<pre><code class="javascript">r.table('commits').filter({email: 'bill@rethinkdb.com'})
+ .orderBy(r.desc('date')).nth(0)
 // {
 //   "date": Thu Aug 29 2013 22:15:34 GMT+00:00 ,
 //   "email": bill@rethinkdb.com,
@@ -72,10 +80,12 @@ Ah, just yesterday Bill merged Python 3 support into the very Python driver I us
 
 Makes sense! Bill was an intern at RethinkDB for a small part of 2011. He then went back to school to complete his masters, and came back in 2012. His productivity really picked up in 2013, when he made 511 commits. Let's look at some of the bugs Bill fixed in RethinkDB:
 
-<pre><code class="javascript">r.table('commits').filter({email: 'bill@rethinkdb.com'}).filter(r.row('subject').match('fixes')).count()
+<pre><code class="javascript">r.table('commits').filter({email: 'bill@rethinkdb.com'})
+ .filter(r.row('subject').match('fixes')).count()
 // 145
 
-r.table('commits').filter({email: 'bill@rethinkdb.com'}).filter(r.row('subject').match('fixes')).sample(5)('subject')
+r.table('commits').filter({email: 'bill@rethinkdb.com'})
+ .filter(r.row('subject').match('fixes')).sample(5)('subject')
 // [
 //   "fixes infinite loop issue introduced by previous",
 //   "Merge branch 'next' into sprint_3_driver_fixes",
@@ -86,10 +96,12 @@ r.table('commits').filter({email: 'bill@rethinkdb.com'}).filter(r.row('subject')
 
 What about some features he added?
 
-<pre><code class="javascript">r.table('commits').filter({email: 'bill@rethinkdb.com'}).filter(r.row('subject').match('adds')).count()
+<pre><code class="javascript">r.table('commits')
+ .filter({email: 'bill@rethinkdb.com'}).filter(r.row('subject').match('adds')).count()
 // 127
 
-r.table('commits').filter({email: 'bill@rethinkdb.com'}).filter(r.row('subject').match('adds')).sample(5)('subject')
+r.table('commits').filter({email: 'bill@rethinkdb.com'})
+ .filter(r.row('subject').match('adds')).sample(5)('subject')
 // [
 //   "adds variatic get all to JS driver",
 //   "js client, adds append #1035",
