@@ -20,9 +20,11 @@ First, I wrote a shell one-liner to get the data into RethinkDB:
     r.table_create('commits').run();                     \
     r.table('commits').insert([dict(map(lambda x, y: [x, y],                 \
                                         ['id', 'email', 'date', 'subject'],  \
-                                        line.split('|', 3))) for line in sys.stdin])
-     .run(durability='soft');                            \
-    r.table('commits').update({'date': r.epoch_time(r.row['date'].coerce_to('number')) }) \
+                                        line.split('|', 3)))                 \
+                               for line in sys.stdin])                       \
+     .run(durability='soft');                                                \
+    r.table('commits')                                                       \
+     .update({'date': r.epoch_time(r.row['date'].coerce_to('number')) })     \
      .run(durability='soft');"</code></pre>
 
 Phew. I then switched to the data explorer and Javascript (which is also Bill's doing). I first made sure things imported correctly:
