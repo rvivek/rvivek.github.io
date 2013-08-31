@@ -63,7 +63,7 @@ r.table('commits').filter({email: 'bill@rethinkdb.com'})
 // }
 {% endhighlight %}
 
-Ah, that was back when Bill was an intern in 2011. RethinkDB still had a memcached front-end back then (way before we implemented ReQL and Bill's drivers I'm using to run these queries). I then wondered what his last commit was:
+Ah, that was back when Bill was an intern in 2011. RethinkDB still had a memcached front-end back then (way before we implemented ReQL and Bill's drivers that I'm using to run these queries). I then wondered what his last commit was:
 
 {% highlight javascript %}
 r.table('commits').filter({email: 'bill@rethinkdb.com'})
