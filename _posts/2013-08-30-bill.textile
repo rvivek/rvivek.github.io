@@ -82,11 +82,13 @@ Ah, just yesterday Bill merged Python 3 support into the very Python driver I us
 
 Makes sense! Bill was an intern at RethinkDB for a small part of 2011. He then went back to school to complete his masters, and came back in 2012. His productivity really picked up in 2013, when he made 511 commits. Let's look at some of the bugs Bill fixed in RethinkDB:
 
-<pre><code class="javascript">r.table('commits').filter({email: 'bill@rethinkdb.com'})
+<pre><code class="javascript">r.table('commits')
+ .filter({email: 'bill@rethinkdb.com'})
  .filter(r.row('subject').match('fixes')).count()
 // 145
 
-r.table('commits').filter({email: 'bill@rethinkdb.com'})
+r.table('commits')
+ .filter({email: 'bill@rethinkdb.com'})
  .filter(r.row('subject').match('fixes')).sample(5)('subject')
 // [
 //   "fixes infinite loop issue introduced by previous",
@@ -99,10 +101,12 @@ r.table('commits').filter({email: 'bill@rethinkdb.com'})
 What about some features he added?
 
 <pre><code class="javascript">r.table('commits')
- .filter({email: 'bill@rethinkdb.com'}).filter(r.row('subject').match('adds')).count()
+ .filter({email: 'bill@rethinkdb.com'})
+ .filter(r.row('subject').match('adds')).count()
 // 127
 
-r.table('commits').filter({email: 'bill@rethinkdb.com'})
+r.table('commits')
+ .filter({email: 'bill@rethinkdb.com'})
  .filter(r.row('subject').match('adds')).sample(5)('subject')
 // [
 //   "adds variatic get all to JS driver",
