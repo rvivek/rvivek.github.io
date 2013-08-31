@@ -130,7 +130,7 @@ r.table('commits')
 // ]
 {% endhighlight %}
 
-Lots of driver work! Let's look at one random commit that Bill will be remembered by:
+Lots of driver work! Let's look at one last random commit that Bill will be remembered by:
 
 {% highlight javascript %}
 r.table('commits').filter({email: 'bill@rethinkdb.com'}).sample(1)
