@@ -101,7 +101,7 @@ r.table('commits').filter({email: 'bill@rethinkdb.com'}).filter(r.row('subject')
 
 p. Lots of driver work! Let's look at one random commit that Bill will be remembered by:
 
-bc. r.table('commits').filter({email: 'bill@rethinkdb.com'}).sample(1)
+bc[js]. r.table('commits').filter({email: 'bill@rethinkdb.com'}).sample(1)
 // [
 //   {
 //   "date": Fri May 31 2013 21:17:52 GMT+00:00 ,
@@ -109,7 +109,7 @@ bc. r.table('commits').filter({email: 'bill@rethinkdb.com'}).sample(1)
 //   "id":  "81f46036345ea047b2e23aa968cfc94bd8691644" ,
 //   "subject":  "Merge branch 'next' into 443_onFinished_callback"
 // }
-]
+// ]
 
 And... it's about the `onFinished_callback` in the Node.js implementation of the Javascript driver Bill loved to hate so much!
 
