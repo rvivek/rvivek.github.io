@@ -144,7 +144,7 @@ r.table('commits').filter({email: 'bill@rethinkdb.com'}).sample(1)
 // ]
 {% endhighlight %}
 
-And... it's about the @onFinished_callback@ in the Node.js implementation of the Javascript driver Bill loved to hate so much!
+And... it's about the @onFinished_callback@ function in the Node.js implementation of the Javascript driver Bill loved to hate so much!
 
 -----
 
