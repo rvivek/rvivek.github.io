@@ -12,20 +12,17 @@ Today is Bill Rowan's last day at RethinkDB. Bill has done some really amazing w
 
 First, I wrote a shell one-liner to get the data into RethinkDB:
 
-```
-git log --pretty=format:"%H|%ae|%at|%s" |     \
+bc. git log --pretty=format:"%H|%ae|%at|%s" |     \
   python -c "import rethinkdb as r;           \
              import sys;                      \
              r.connect().repl();              \
              r.table_create('commits').run(); \
              r.table('commits').insert([dict(map(lambda x, y: [x, y], ['id', 'email', 'date', 'subject'], line.split('|', 3))) for line in sys.stdin]).run(durability='soft'); \
              r.table('commits').update({'date': r.epoch_time(r.row['date'].coerce_to('number')) }).run(durability='soft');"
-```
 
 Phew. I then switched to the data explorer and Javascript (which is also Bill's doing). I first made sure things imported correctly:
 
-```javascript
-r.table('commits').count()
+bc. r.table('commits').count()
 // 20580
 
 r.table('commits').nth(0)
@@ -36,43 +33,35 @@ r.table('commits').nth(0)
 //   "id":  "00128bd3b456d369319e307f5f1bbf99dab85f98" ,
 //   "subject":  "fixing missing subcommand string in log statement for unrecognized subcommand"
 // }
-```
 
-Looks good. I then switched to the here of the occassion himself:
+p. Looks good. I then switched to the here of the occassion himself:
 
-```javascript
-r.table('commits').filter({email: 'bill@rethinkdb.com'}).count()
+bc. r.table('commits').filter({email: 'bill@rethinkdb.com'}).count()
 // 942
-```
 
 During his tenure here, Bill pushed 942 commits. Cool! Let's see what his very first commit was:
 
-```javascript
-r.table('commits').filter({email: 'bill@rethinkdb.com'}).orderBy('date').nth(0)
+bc. r.table('commits').filter({email: 'bill@rethinkdb.com'}).orderBy('date').nth(0)
 // {
 //   "date": Fri Jun 17 2011 22:22:51 GMT+00:00 ,
 //   "email": bill@rethinkdb.com,
 //   "id":  "2da08b172d83ac5edea179689f32659d94ee2854" ,
 //   "subject":  "fixed a bug in the memcached protocol implementation."
 // }
-```
 
 Ah, that was back when Bill was an intern in 2011. RethinkDB still had a memcached front-end back then (way before we implemented ReQL and Bill's drivers I'm using to run these queries). I then wondered what his last commit was:
 
-```javascript
-r.table('commits').filter({email: 'bill@rethinkdb.com'}).orderBy(r.desc('date')).nth(0)
+bc. r.table('commits').filter({email: 'bill@rethinkdb.com'}).orderBy(r.desc('date')).nth(0)
 // {
 //   "date": Thu Aug 29 2013 22:15:34 GMT+00:00 ,
 //   "email": bill@rethinkdb.com,
 //   "id":  "d5453cb99908160a33d174bd4bc546b56c644602" ,
 //   "subject":  "Merge branch 'python_3' into next"
 // }
-```
 
 Ah, just yesterday Bill merged Python 3 support into the very Python driver I used to import this data. Looks like he worked till the very end, though he slacked off on his last day! Hmm, let's see how productive Bill was over the years:
 
-```javascript
-r.table('commits').filter({email: 'bill@rethinkdb.com'})
+bc. r.table('commits').filter({email: 'bill@rethinkdb.com'})
  .groupedMapReduce(r.row('date').year(),
                    function() {return 1;},
                    function(x, y) { return x.add(y); })
@@ -81,12 +70,10 @@ r.table('commits').filter({email: 'bill@rethinkdb.com'})
 //   { "group": 2012, "reduction": 357 },
 //   { "group": 2013, "reduction": 511 }
 // ]
-```
 
 Makes sense! Bill was an intern at RethinkDB for a small part of 2011. He then went back to school to complete his masters, and came back in 2012. His productivity really picked up in 2013, when he made 511 commits. Let's look at some of the bugs Bill fixed in RethinkDB:
 
-```javascript
-r.table('commits').filter({email: 'bill@rethinkdb.com'}).filter(r.row('subject').match('fixes')).count()
+bc. r.table('commits').filter({email: 'bill@rethinkdb.com'}).filter(r.row('subject').match('fixes')).count()
 // 145
 
 r.table('commits').filter({email: 'bill@rethinkdb.com'}).filter(r.row('subject').match('fixes')).sample(5)('subject')
@@ -97,12 +84,10 @@ r.table('commits').filter({email: 'bill@rethinkdb.com'}).filter(r.row('subject')
 //   "fixes #527 automagically convert floats to integers",
 //   "fixes orderby for python"
 // ]
-```
 
-What about some features he added?
+p. What about some features he added?
 
-```javascript
-r.table('commits').filter({email: 'bill@rethinkdb.com'}).filter(r.row('subject').match('adds')).count()
+bc. r.table('commits').filter({email: 'bill@rethinkdb.com'}).filter(r.row('subject').match('adds')).count()
 // 127
 
 r.table('commits').filter({email: 'bill@rethinkdb.com'}).filter(r.row('subject').match('adds')).sample(5)('subject')
@@ -113,11 +98,10 @@ r.table('commits').filter({email: 'bill@rethinkdb.com'}).filter(r.row('subject')
 //   "adds return false to each to stop iteration",
 //   "adds test for #992"
 // ]
-```
 
-Lots of driver work! Let's look at one random commit that Bill will be remembered by:
+p. Lots of driver work! Let's look at one random commit that Bill will be remembered by:
 
-```javascript
+bc. r.table('commits').filter({email: 'bill@rethinkdb.com'}).sample(1)
 // [
 //   {
 //   "date": Fri May 31 2013 21:17:52 GMT+00:00 ,
@@ -126,7 +110,6 @@ Lots of driver work! Let's look at one random commit that Bill will be remembere
 //   "subject":  "Merge branch 'next' into 443_onFinished_callback"
 // }
 ]
-```
 
 And... it's about the `onFinished_callback` in the Node.js implementation of the Javascript driver Bill loved to hate so much!
 
