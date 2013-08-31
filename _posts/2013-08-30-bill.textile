@@ -52,7 +52,8 @@ r.table('commits').filter({email: 'bill@rethinkdb.com'}).count()
 
 During his tenure here, Bill pushed 942 commits. Cool! Let's see what his very first commit was:
 
-<pre><code class="javascript">r.table('commits').filter({email: 'bill@rethinkdb.com'})
+{% highlight javascript %}
+r.table('commits').filter({email: 'bill@rethinkdb.com'})
  .orderBy('date').nth(0)
 // {
 //   "date": Fri Jun 17 2011 22:22:51 GMT+00:00 ,
