@@ -39,14 +39,16 @@ r.table('commits').nth(0)
 //   "email": marc@rethinkdb.com,
 //   "id":  "00128bd3b456d369319e307f5f1bbf99dab85f98" ,
 //   "subject":  "fixing missing subcommand string in log statement \
-                  for unrecognized subcommand"
+//                for unrecognized subcommand"
 // }
 {% endhighlight %}
 
 Looks good. I then switched to the hero of the occassion himself:
 
-<pre><code class="javascript">r.table('commits').filter({email: 'bill@rethinkdb.com'}).count()
-// 942</code></pre>
+{% highlight javascript %}
+r.table('commits').filter({email: 'bill@rethinkdb.com'}).count()
+// 942
+{% endhighlight %}
 
 During his tenure here, Bill pushed 942 commits. Cool! Let's see what his very first commit was:
 
@@ -57,22 +59,26 @@ During his tenure here, Bill pushed 942 commits. Cool! Let's see what his very f
 //   "email": bill@rethinkdb.com,
 //   "id":  "2da08b172d83ac5edea179689f32659d94ee2854" ,
 //   "subject":  "fixed a bug in the memcached protocol implementation."
-// }</code></pre>
+// }
+{% endhighlight %}
 
 Ah, that was back when Bill was an intern in 2011. RethinkDB still had a memcached front-end back then (way before we implemented ReQL and Bill's drivers I'm using to run these queries). I then wondered what his last commit was:
 
-<pre><code class="javascript">r.table('commits').filter({email: 'bill@rethinkdb.com'})
+{% highlight javascript %}
+r.table('commits').filter({email: 'bill@rethinkdb.com'})
  .orderBy(r.desc('date')).nth(0)
 // {
 //   "date": Thu Aug 29 2013 22:15:34 GMT+00:00 ,
 //   "email": bill@rethinkdb.com,
 //   "id":  "d5453cb99908160a33d174bd4bc546b56c644602" ,
 //   "subject":  "Merge branch 'python_3' into next"
-// }</code></pre>
+// }
+{% endhighlight %}
 
 Ah, just yesterday Bill merged Python 3 support into the very Python driver I used to import this data. Looks like he worked till the very end, though he slacked off on his last day! Hmm, let's see how productive Bill was over the years:
 
-<pre><code class="javascript">r.table('commits').filter({email: 'bill@rethinkdb.com'})
+{% highlight javascript %}
+r.table('commits').filter({email: 'bill@rethinkdb.com'})
  .groupedMapReduce(r.row('date').year(),
                    function() {return 1;},
                    function(x, y) { return x.add(y); })
@@ -80,11 +86,13 @@ Ah, just yesterday Bill merged Python 3 support into the very Python driver I us
 //   { "group": 2011, "reduction": 74 },
 //   { "group": 2012, "reduction": 357 },
 //   { "group": 2013, "reduction": 511 }
-// ]</code></pre>
+// ]
+{% endhighlight %}
 
 Makes sense! Bill was an intern at RethinkDB for a small part of 2011. He then went back to school to complete his masters, and came back in 2012. His productivity really picked up in 2013, when he made 511 commits. Let's look at some of the bugs Bill fixed in RethinkDB:
 
-<pre><code class="javascript">r.table('commits')
+{% highlight javascript %}
+r.table('commits')
  .filter({email: 'bill@rethinkdb.com'})
  .filter(r.row('subject').match('fixes')).count()
 // 145
@@ -98,11 +106,13 @@ r.table('commits')
 //   "funcall tests and fixes",
 //   "fixes #527 automagically convert floats to integers",
 //   "fixes orderby for python"
-// ]</code></pre>
+// ]
+{% endhighlight %}
 
 What about some features he added?
 
-<pre><code class="javascript">r.table('commits')
+{% highlight javascript %}
+r.table('commits')
  .filter({email: 'bill@rethinkdb.com'})
  .filter(r.row('subject').match('adds')).count()
 // 127
@@ -116,11 +126,13 @@ r.table('commits')
 //   "js client adds getter for last connection",
 //   "adds return false to each to stop iteration",
 //   "adds test for #992"
-// ]</code></pre>
+// ]
+{% endhighlight %}
 
 Lots of driver work! Let's look at one random commit that Bill will be remembered by:
 
-<pre><code class="javascript">r.table('commits').filter({email: 'bill@rethinkdb.com'}).sample(1)
+{% highlight javascript %}
+r.table('commits').filter({email: 'bill@rethinkdb.com'}).sample(1)
 // [
 //   {
 //     "date": Fri May 31 2013 21:17:52 GMT+00:00 ,
@@ -128,7 +140,8 @@ Lots of driver work! Let's look at one random commit that Bill will be remembere
 //     "id":  "81f46036345ea047b2e23aa968cfc94bd8691644" ,
 //     "subject":  "Merge branch 'next' into 443_onFinished_callback"
 //   }
-// ]</code></pre>
+// ]
+{% endhighlight %}
 
 And... it's about the @onFinished_callback@ in the Node.js implementation of the Javascript driver Bill loved to hate so much!
 
