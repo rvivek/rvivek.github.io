@@ -8,42 +8,9 @@ h1. {{ page.title }}
 
 p(meta). 30 Aug 2013
 
-Today is Bill Rowan's last day at RethinkDB. Bill has done some really amazing work here, including the recently completed Javascript and Python drivers. He decided to move on to work on something totally different (but equally cool). We'll miss him dearly, but I just couldn't let him go without doing a bit of a retrospective (using RethinkDB, and Bill's very own driver code, of course!) So, let's get started.
+Today is Bill Rowan's last day at RethinkDB. Bill has done some really amazing work here, including the recently completed Javascript and Python drivers. He decided to move on to work on something totally different (but equally cool). We'll miss him dearly, but I couldn't let him go without doing a bit of a retrospective on the things he accomplished here (using Bill's very own code, of course!)
 
-First, I wrote a shell one-liner to import @git log@ data into RethinkDB:
-
-<pre><code>git log --pretty=format:"%H|%ae|%at|%s" |                \
-  python -c "                                            \
-    import rethinkdb as r;                               \
-    import sys;                                          \
-    r.connect().repl();                                  \
-    r.table_create('commits').run();                     \
-    r.table('commits').insert([dict(map(lambda x, y: [x, y],                 \
-                                        ['id', 'email', 'date', 'subject'],  \
-                                        line.split('|', 3)))                 \
-                               for line in sys.stdin])                       \
-     .run(durability='soft');                                                \
-    r.table('commits')                                                       \
-     .update({'date': r.epoch_time(r.row['date'].coerce_to('number')) })     \
-     .run(durability='soft');"</code></pre>
-
-Phew. I then switched to the data explorer and Javascript (which is also Bill's doing). I first made sure things imported correctly:
-
-{% highlight javascript %}
-r.table('commits').count()
-// 20580
-
-r.table('commits').nth(0)
-// {
-//   "date": Fri Mar 08 2013 02:17:05 GMT+00:00 ,
-//   "email": marc@rethinkdb.com,
-//   "id":  "00128bd3b456d369319e307f5f1bbf99dab85f98" ,
-//   "subject":  "fixing missing subcommand string in log statement \
-//                for unrecognized subcommand"
-// }
-{% endhighlight %}
-
-Looks good. I then switched to the hero of the occassion himself:
+First, I imported @git log@ data into RethinkDB using Bill's Python driver. (If you'd like to follow along Bill's adventure, see the code "here":https://gist.github.com/coffeemug/6417983) I then switched to the data explorer and Javascript (which is also Bill's doing) and focused on the hero of the occassion himself:
 
 {% highlight javascript %}
 r.table('commits').filter({email: 'bill@rethinkdb.com'}).count()
@@ -63,7 +30,7 @@ r.table('commits').filter({email: 'bill@rethinkdb.com'})
 // }
 {% endhighlight %}
 
-Ah, that was back when Bill was an intern in 2011. RethinkDB still had a memcached front-end back then (way before we implemented ReQL and Bill's drivers that I'm using to run these queries). I then wondered what his last commit was:
+Ah, that was back when Bill was an intern in 2011. He was still working on a memcached front-end back then, which we later scrapped in favor of ReQL and Bill's new drivers. I then wondered what his last commit was:
 
 {% highlight javascript %}
 r.table('commits').filter({email: 'bill@rethinkdb.com'})
