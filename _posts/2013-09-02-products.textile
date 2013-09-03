@@ -20,7 +20,7 @@ Despite its terseness, Marc's post accomplishes something most business books do
 
 # __The need__ (the market) arises first, as a result of some social or technological change.[^1^]
 # Once the need arises, multiple products that attempt to satisfy it will quickly arise.
-# The first product to actually satisfy the need wins. It doesn't matter how good it is, as long as it's good enough.[^2^]
+# The first product to actually satisfy the need wins. It doesn't matter how good it is. It doesn't matter what else it can or cannot do. It's only necessary for it to be good enough at satisfying the actual need.[^2^]
 # The upper bound of success is determined solely by the size of the market.
 
 These dynamics are so universal, they're basically natural laws. Startups that don't understand them might as well be leaping off a building without understanding gravity. And yet, countless startups screw this up. How does one __not__ screw it up? The recipe, I think, is to ask three simple questions: __why now?__, __how big?__, and __which one/why us?__.
