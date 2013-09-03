@@ -8,7 +8,7 @@ h1. {{ page.title }}
 
 p(meta). 02 Sep 2013
 
-The best article on the Internet about building a magical product for a massive market is the one on "reaching product/market fit":http://blog.jedchristiansen.com/pmarcaarchive/the-pmarca-guide-to-startups-part-4-the-only by Marc Andreessen. It's an excellent piece of advice, but by its own admission, Marc's article opens way more questions than it answers. It helps immensely if you know what you're looking for, but it leaves you profoundly stuck if you don't.
+The best article I know of about building a magical product for a massive market is the one on "reaching product/market fit":http://blog.jedchristiansen.com/pmarcaarchive/the-pmarca-guide-to-startups-part-4-the-only by Marc Andreessen. It's an excellent piece of advice, but by its own admission, Marc's article opens way more questions than it answers. It helps immensely if you know what you're looking for, but it leaves you profoundly stuck if you don't.
 
 My startup is going through this very process right now. I feel like we've got things __nearly__ figured out, but at the same time we're not quite there, not quite over the line. This places me in a very unique position to talk about this problem. I'm not a complete newbie so I can talk about it with a bit of authority, but I also didn't have a clear major success yet, so I don't have the benefit of hindsight and years of pattern matching experience to affect my judgement.
 
