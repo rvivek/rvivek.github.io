@@ -8,7 +8,7 @@ h1. {{ page.title }}
 
 p(meta). 02 Sep 2013
 
-The best article I know of on building a magical product for a massive market is the one on "reaching product/market fit":http://blog.jedchristiansen.com/pmarcaarchive/the-pmarca-guide-to-startups-part-4-the-only by Marc Andreessen. It's an excellent piece of advice, but by its own admission, it opens way more questions than it answers. If you know what you're looking, for it can help immensely. If you don't, it leaves you profoundly stuck.
+The best article I know of on building a magical product for a massive market is the one on "reaching product/market fit":http://blog.jedchristiansen.com/pmarcaarchive/the-pmarca-guide-to-startups-part-4-the-only by Marc Andreessen. It's an excellent piece of advice, but by its own admission, it opens way more questions than it answers. If you know what you're looking for, it can help immensely. If you don't, it leaves you profoundly stuck.
 
 My startup is going through this process now. We've got things __nearly__ figured out, but at the same time we're not quite there, not quite over the line. This places me in a unique position to talk about this problem. I'm not a complete newbie so I can talk about it with some authority, but I also didn't have a major success yet, so I don't have the benefit of hindsight and years of pattern matching experience to affect my judgement.
 
@@ -16,9 +16,9 @@ So, from the perspective of someone who's smack in the middle of trying to catch
 
 h3. Market dynamics
 
-Despite its terseness, Marc's post accomplishes something most business books do not -- it covers pretty much all the dynamics of how products and markets interact. Let's summarize these dynamics here:
+Despite its terseness, Marc's post accomplishes something most business books do not -- it covers pretty much all the dynamics of how products and markets interact. Let's summarize them here:
 
-# Most of the time __the customer need__ comes first, as a result of some social or technological change.[^1^]
+# __The need__ (the market) arises first, as a result of some social or technological change.[^1^]
 # Once the need arises, multiple products that attempt to satisfy it will quickly arise.
 # The first product to actually satisfy the need wins. It doesn't matter how good it is, as long as it's good enough.[^2^]
 # The upper bound of success is determined solely by the size of the market.
