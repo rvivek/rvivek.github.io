@@ -8,18 +8,18 @@ h1. {{ page.title }}
 
 p(meta). 02 Sep 2013
 
-The best article I know of on building a magical product for a massive market is the one on "reaching product/market fit":http://blog.jedchristiansen.com/pmarcaarchive/the-pmarca-guide-to-startups-part-4-the-only by Marc Andreessen. It's an excellent piece of advice, but by its own admission, it opens way more questions than it answers. If you know what you're looking for it can help immensely, but if you don't, it leaves you profoundly stuck.
+The best article I know of on building a magical product for a massive market is the one on "reaching product/market fit":http://blog.jedchristiansen.com/pmarcaarchive/the-pmarca-guide-to-startups-part-4-the-only by Marc Andreessen. It's an excellent piece of advice, but by its own admission, it opens way more questions than it answers. If you know what you're looking, for it can help immensely. If you don't, it leaves you profoundly stuck.
 
-My startup is going through this process right now. We've got things __nearly__ figured out, but at the same time we're not quite there, not quite over the line. This places me in a very unique position to talk about this problem. I'm not a complete newbie so I can talk about it with some authority, but I also didn't have a clear major success yet, so I don't have the benefit of hindsight and years of pattern matching experience to affect my judgement.
+My startup is going through this process now. We've got things __nearly__ figured out, but at the same time we're not quite there, not quite over the line. This places me in a unique position to talk about this problem. I'm not a complete newbie so I can talk about it with some authority, but I also didn't have a major success yet, so I don't have the benefit of hindsight and years of pattern matching experience to affect my judgement.
 
-So, how __does__ one build something people want that reaches product/market fit, from the perspective of someone who's smack in the middle of trying to catch the wave?
+So, from the perspective of someone who's smack in the middle of trying to catch the wave, how __does__ one reach product/market fit?
 
 h3. Market dynamics
 
-Despite its terseness, Marc's product/market fit post accomplishes something most business books do not -- it covers pretty much all the dynamics of how products and markets interact. Let's summarize these dynamics here:
+Despite its terseness, Marc's post accomplishes something most business books do not -- it covers pretty much all the dynamics of how products and markets interact. Let's summarize these dynamics here:
 
-# Most of the time __the need__ (also known as the market) comes first, as a result of some social or technological change.[^1^]
-# Once the need arises, multiple products that attempt to satisfy the need will quickly arise. You can count on that.
+# Most of the time __the customer need__ comes first, as a result of some social or technological change.[^1^]
+# Once the need arises, multiple products that attempt to satisfy it will quickly arise.
 # The first product to actually satisfy the need wins. It doesn't matter how good it is, as long as it's good enough.[^2^]
 # The upper bound of success is determined solely by the size of the market.
 
@@ -29,11 +29,11 @@ h3. Game of Thrones vs. Hunger Games
 
 To illustrate this a little better, let's look at two products slightly outside of the startup world -- Game of Thrones, and Hunger Games (the screen versions, but you can also apply this to books). To a naive observer these franchines came out of nowhere. But if you look a little deeper, you'll see that the model I described here applies perfectly.
 
-Both shows came into being at roughly the same time. __Why now?__ Arguably for two reasons. The first is that popular media has been on a trajectory towards more violence, more grit, and youger, more sexualized characters. The second reason is that movies like Lord of the Rings and Harry Potter paved the way for popular acceptance of fantasy worlds. Combine these two factors, and you see a need -- an extremely violent, sexualized, mass market fantasy world. Neither should would have been possible ten years ago. Both shows will be old news ten years from now. But __right now__, these shows are seeing phenomenal traction because there is a need, and it must be filled.
+Both shows came into being at roughly the same time. __Why now?__ Arguably for two reasons. The first is that popular media has been on a trajectory towards more violence, more grit, and youger, more sexualized characters. The second reason is that movies like Lord of the Rings and Harry Potter paved the way for popular acceptance of fantasy worlds. Combine these two factors, and you see a need -- an extremely violent, sexualized, mass market fantasy world for adults. Neither franchise would have been possible ten years ago. Both franchises will be old news ten years from now. But __right now__, these products are seeing phenomenal traction because there is a need, and it must be filled.
 
-__How big__ is this market? Very, very big. Lord of the Rings big. Harry Potter big. Escapism for adults big (the key insight here is that adults want a few hours of escape from their lives even more than children do).
+__How big__ is this market? Very, very big. Lord of the Rings big. Harry Potter big. Escapism for adults big (the key insight here is that adults want a few hours of escape from their lives even more than children do). We don't even need to do back of the napkin math big.
 
-__Which one__ will win? As far as franchises go, my money is on Game of Thrones. Why? Because it doesn't equivocate. It's unfraid of picking a unique direction to satisfy a need and taking it to its logical conclusion. Hunger Games, on the other hand, __does__ equivocate. It's dealing with children, and it's obvious the creators are worried about stepping too far. The violence isn't as gritty, and the sex is largely missing. Possibly because it's on the big screens it isn't as free to take a stance as Game of Thrones is on HBO, so now even the teenagers who Hunger Games was designed for want to see Game of Thrones instead.[^3^] Hunger Games is good, but it isn't quite good enough at satisfying the need (for a violent, sexual fantasy world).
+__Which one__ will win? As far as franchises go, my money is on Game of Thrones. Why? Because it doesn't equivocate. It's unfraid of picking a unique direction to satisfy a need and taking it to its logical conclusion. Hunger Games, on the other hand, __does__ equivocate. It's dealing with children, and the creators are worried about stepping too far. It's on the big screens, so it isn't as free to take a stance as Game of Thrones is on HBO. The violence isn't as gritty, and the sex is largely missing. Even the teenagers who Hunger Games was designed for, want Game of Thrones instead.[^3^] Hunger Games is good, but it isn't quite __good enough__ at satisfying the actual need (for a really violent, really sexual fantasy world).
 
 h3. The importance of the school
 
