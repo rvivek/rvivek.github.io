@@ -22,7 +22,7 @@ h3. Market dynamics
 
 Despite its terseness, Marc's product/market fit post accomplishes something most business books do not -- it covers pretty much all the dynamics of how products and markets interact. Let's summarize these dynamics here:
 
-# Most of the time __the need__ (also known as the market) comes first, as a result of some social or technological change.^1^
+# Most of the time __the need__ (also known as the market) comes first, as a result of some social or technological change. ^1^
 # The product to satisfy the need will arise very quickly after the need arises. You can count on __that__.
 # The first product to actually satisfy the need wins. It doesn't matter how good it is, as long as it's good enough.
 # The upper bound of success is determined solely by the size of the market.
@@ -33,6 +33,6 @@ Foo
 
 -----
 
-^1^Some products are so transformative, they themselves act as the necessary social or technological change to unlock a pent up need. But it's rare enough that I wouldn't count on it.
+^1^ Some products are so transformative, they themselves act as the necessary social or technological change to unlock a pent up need. But it's rare enough that I wouldn't count on it.
 
 
