@@ -14,9 +14,9 @@ Another way to look at this problem is a phrase coined by Paul Graham -- "build 
 
 Both pieces of advice seem like fingers pointed at the moon. They help immensely if you know what you're looking for, but they leave you profoundly stuck if you don't.
 
-My startup is going through this very process right now. I feel like we've got things *nearly* figured out, but at the same time we're not quite there, not quite over the line. This places me in a very unique position to talk about this problem. I'm not a complete newbie so I can talk about it with a bit of authority, but I'm also not over the line, so I don't have the benefit of hindsight and years of pattern matching experience to affect my judgement.
+My startup is going through this very process right now. I feel like we've got things __nearly__ figured out, but at the same time we're not quite there, not quite over the line. This places me in a very unique position to talk about this problem. I'm not a complete newbie so I can talk about it with a bit of authority, but I'm also not over the line, so I don't have the benefit of hindsight and years of pattern matching experience to affect my judgement.
 
-So, how *does* one actually build something people want that reaches product/market fit, from the point of view of someone who's smack in the middle of catching the wave?
+So, how __does__ one actually build something people want that reaches product/market fit, from the point of view of someone who's smack in the middle of catching the wave?
 
 h3. School's of thought
 
