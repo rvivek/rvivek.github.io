@@ -37,13 +37,15 @@ __Which one__ will win? As far as franchises go, my money is on Game of Thrones.
 
 That's all there is to it. Doing this type of analysis is half the battle. Unfortunately, being objective while applying it to your own startup without the benefit of hindsight turns out to be really, really hard.
 
-h3. Picking a market.
+h3. Startup ideas.
 
-Foo
+If you take the market dynamics to their logical conclusion, you'll quickly realize that startups are __very__ tricky business. The moment a new market need arises, multiple teams will quickly discover the problem and start working on it. Furthermore, you have to assume that at least a few of those teams will be at least as good as you are, and will work at least as fast.[^4^] Most importantly, the moment __one__ of these teams delivers a baseline acceptable product that solves the underlying problem, the game is over. How can you plan to win in these conditions?
+
+I think there are two approaches you can take to generating startup ideas. The first, is to try and discover the market need before everyone else does. The second, is to enter a market after a few teams have already started working on it.
 
 -----
 
 ^1^ Some products are so transformative, they themselves act as the necessary social or technological change to unlock a pent up need. But it's rare enough that I wouldn't count on it.
 ^2^ Depending on the market the second product might also do ok (but a lot worse). The third product almost certainly won't matter.
 ^3^ The market is so huge, that both franchies will probably do ok. There might even be enough space for a third one.
-
+^4^ In practice things often turn out to be slightly easier. Some time usually passes before other teams discover the market, and building great products is so hard almost everyone will screw it up. But you can't depend on that -- if things happen that way, you can thank your gods for this extraordinary piece of good luck. In the meantime, you have to plan for the worst.
