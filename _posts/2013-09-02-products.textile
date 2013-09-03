@@ -8,15 +8,15 @@ h1. {{ page.title }}
 
 p(meta). 02 Sep 2013
 
-The best article I've ever read on the most important thing in a startup -- product/market fit -- is "this one":http://blog.jedchristiansen.com/pmarcaarchive/the-pmarca-guide-to-startups-part-4-the-only by Marc Andreessen. By its own admission, Marc's post opens way more questions than it answers. It talks about something very important, but unless you already know what to do, the advice doesn't seem very actionable.
+The best article I've ever read on the most important thing in a startup is the one on "product/market fit":http://blog.jedchristiansen.com/pmarcaarchive/the-pmarca-guide-to-startups-part-4-the-only by Marc Andreessen. By its own admission, Marc's article opens way more questions than it answers. It talks about something very important, but unless you already know what to do, the advice doesn't seem very actionable.
 
 Another way to look at this problem is a phrase coined by Paul Graham -- "build something people want." Paul wrote a "number":http://www.paulgraham.com/good.html of "essays":http://www.paulgraham.com/start.html about it, but they seem to suffer from the same problem as Marc's post -- they open more questions than they answer.
 
-Both pieces of advice seem like fingers pointed at the moon. They help immensely if you know what you're looking for, but they leave you profoundly stuck if you don't.
+Both pieces of advice are excellent (and arguably the best there is), but both seem like fingers pointed at the moon. They help immensely if you know what you're looking for, but they leave you profoundly stuck if you don't.
 
 My startup is going through this very process right now. I feel like we've got things __nearly__ figured out, but at the same time we're not quite there, not quite over the line. This places me in a very unique position to talk about this problem. I'm not a complete newbie so I can talk about it with a bit of authority, but I'm also not over the line, so I don't have the benefit of hindsight and years of pattern matching experience to affect my judgement.
 
-So, how __does__ one actually build something people want that reaches product/market fit, from the point of view of someone who's smack in the middle of catching the wave?
+So, how __does__ one build something people want that reaches product/market fit, from the point of view of someone who's smack in the middle of catching the wave?
 
 h3. School's of thought
 
