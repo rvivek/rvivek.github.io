@@ -37,7 +37,7 @@ __Which one__ will win? As far as franchises go, my money is on Game of Thrones.
 
 That's all there is to it. Doing this type of analysis is half the battle. Unfortunately, being objective while applying it to your own startup without the benefit of hindsight turns out to be really, really hard.
 
-h3. Startup ideas.
+h3. Startup ideas
 
 A good startup idea is always a combination of a set of trends, and a hypothesis that follows from these trends. For example, in case of TV shows above, the two trends are a tendency of mass market media to be more violent and more sexualized, and mass market acceptance of fantasy worlds. The hypothesis is that there is a market for an extremely violent, extremely sexualized fantasy world.
 
@@ -51,7 +51,11 @@ Finding a newly discovered market need is surprisingly easy. You just have to kn
 
 h3. From hypothesis to a product
 
-When a market need is found, various teams jump in and make their decisions, staking out different claims on the decision tree. If you can find a unique territory based on some key piece of insight, you'll be poised to win.
+When a market need is found, various teams jump in and make their decisions, staking out different claims on the decision tree. If you can find a unique territory based on some key piece of insight, you'll be poised to win. The first step to doing that is to make three buckets to categorize features:
+
+* *As much as possible* -- most of your resources and creative power will be spent on features in this bucket (MBAs call this __differentiation__). These are the features that make customers want to buy your product.
+* *As little as possible* (or __as much as necessary__) -- you'll do minimum passable amount of work on any feature that ends up in this bucket (MBAs call this __neutralization__). These features don't make customers buy your product, but prevent them from buying if they're missing.
+* *Unnecessary* -- you won't implement any feature that ends up in this bucket.
 
 -----
 
