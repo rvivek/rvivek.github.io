@@ -23,7 +23,7 @@ Despite its terseness, Marc's post accomplishes something most business books do
 # The first product to actually satisfy the need wins. It doesn't matter how good it is. It doesn't matter what else it can or cannot do. It's only necessary for it to be good enough at satisfying the actual need.[^2^]
 # The upper bound of success is determined solely by the size of the market.
 
-These dynamics are so universal, they're basically natural laws. Startups that don't understand them might as well be leaping off a building without understanding gravity. And yet, countless startups screw this up. How does one __not__ screw it up? The recipe, I think, is to ask three simple questions: __why now?__, __how big?__, and __why us?__.
+If you take the market dynamics to their logical conclusion, you'll quickly realize that startups are __very__ tricky business. The moment a new market need arises, multiple teams will quickly discover the problem and start working on it. Furthermore, you have to assume that a few of those teams will be at least as good as you are, and will work just as fast.[^4^] Most importantly, the moment __just one__ of these teams delivers a baseline acceptable product that solves the underlying problem, the game is over. How can you plan to win in these conditions? The recipe, I think, is to ask three simple questions: __why now?__, __how big?__, and __why us?__.
 
 h3. Game of Thrones vs. Hunger Games
 
@@ -38,8 +38,6 @@ __Which one__ will win? As far as franchises go, my money is on Game of Thrones.
 That's all there is to it. Doing this type of analysis is half the battle. Unfortunately, being objective while applying it to your own startup without the benefit of hindsight turns out to be really, really hard.
 
 h3. Startup ideas.
-
-If you take the market dynamics to their logical conclusion, you'll quickly realize that startups are __very__ tricky business. The moment a new market need arises, multiple teams will quickly discover the problem and start working on it. Furthermore, you have to assume that a few of those teams will be at least as good as you are, and will work just as fast.[^4^] Most importantly, the moment __just one__ of these teams delivers a baseline acceptable product that solves the underlying problem, the game is over. How can you plan to win in these conditions?
 
 A good startup idea is always a combination of a set of trends, and a hypothesis that follows from these trends. For example, in case of TV shows above, the two trends are a tendency of mass market media to be more violent and more sexualized, and mass market acceptance of fantasy worlds. The hypothesis is that there is a market for an extremely violent, extremely sexualized fantasy world.
 
