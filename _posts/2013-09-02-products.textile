@@ -53,9 +53,9 @@ h3. From hypothesis to a product
 
 When a market need is found, various teams jump in and make their decisions, staking out different claims on the decision tree. If you can find a unique territory based on some key piece of insight, you'll be poised to win. The first step to doing that is to make three buckets to categorize features:
 
-* *As much as possible* -- most of your resources and creative power will be spent on features in this bucket. These are the features that make customers want to buy your product.
-* *As little as possible* (or __as much as necessary__) -- you'll do minimum passable amount of work on any feature that ends up in this bucket. These features don't make customers buy your product, but prevent them from buying if they're missing (which means you should do minimum amount of work you can get away with).
-* *Unnecessary* -- you won't implement any of the features that ends up in this bucket.
+* *As much as possible* -- These are the features that make customers want to buy your product. Most of your resources and creative power will be spent on features in this bucket.
+* *As little as possible* (or __as much as necessary__) -- These features don't make customers buy your product, but prevent them from buying if they're missing. You'll do minimum passable amount of work on any feature that ends up in this bucket.
+* *Unnecessary* -- You won't implement any of the features that ends up in this bucket.
 
 Your job is to come up with a simple function that takes any feature you can ever imagine for your product and place it in one of these categories. This function will depend on who you are, what you want to build, and what you believe the market wants. Most importantly, it should categorize features in a drastically different way than any other product in the market. Good functions are simple, can be easily explained to people of various walks of life (investors, employees, customers), and leave little room for guesswork.
 
