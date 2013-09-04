@@ -63,5 +63,5 @@ Your job is to come up with a simple function that takes any feature you can eve
 __^1^ Some products are so transformative, they themselves act as the necessary social or technological change to unlock a pent up need. But it's rare enough that I wouldn't count on it.__
 __^2^ Depending on the market the second product might also do ok (but a lot worse). The third product almost certainly won't matter.__
 __^3^ In practice things often turn out to be slightly easier. Some time usually passes before other teams discover the market, and building great products is so hard almost everyone will screw it up. But you can't depend on that -- if things happen that way, you can thank your gods for this extraordinary piece of good luck. In the meantime, you have to plan for the worst.__
-__^4^ The market is so huge, that both franchies will probably do ok. There might even be enough space for a third one.__
+__^4^ The market is so huge that both franchies will probably do ok. There might even be enough space for a third one.__
 
