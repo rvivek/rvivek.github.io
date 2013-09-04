@@ -94,4 +94,6 @@ h2. People
 #_ Do everything you can not to attach your self esteem to your startup (you'll fail, but try anyway). Do the best you can every day, then step back. Work in such a way that when the dust settles you can be proud of the choices you've made, regardless of the outcome.
 # Every once in a while, get away. Go hiking, visit family in another city, go dancing, play chess, tennis, *anything*. It will make you more effective and make the people around you happier.
 
+
+
 __Thanks to Michael Glukhovsky for reviewing this post.__
