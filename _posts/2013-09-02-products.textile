@@ -59,12 +59,10 @@ When a market need is found, various teams jump in and make their decisions, sta
 
 Your job is to come up with a simple function that takes any feature you can ever imagine for your product and place it in one of these categories. This function will depend on who you are, what you want to build, and what you believe the market wants. Most importantly, it should categorize features in a drastically different way than any other product in the market. Good functions are simple, can be easily explained to people of various walks of life (investors, employees, customers), and leave little room for guesswork.
 
+<br />
 
-
------
-
-^1^ Some products are so transformative, they themselves act as the necessary social or technological change to unlock a pent up need. But it's rare enough that I wouldn't count on it.
-^2^ Depending on the market the second product might also do ok (but a lot worse). The third product almost certainly won't matter.
-^3^ In practice things often turn out to be slightly easier. Some time usually passes before other teams discover the market, and building great products is so hard almost everyone will screw it up. But you can't depend on that -- if things happen that way, you can thank your gods for this extraordinary piece of good luck. In the meantime, you have to plan for the worst.
-^4^ The market is so huge, that both franchies will probably do ok. There might even be enough space for a third one.
+__^1^ Some products are so transformative, they themselves act as the necessary social or technological change to unlock a pent up need. But it's rare enough that I wouldn't count on it.__
+__^2^ Depending on the market the second product might also do ok (but a lot worse). The third product almost certainly won't matter.__
+__^3^ In practice things often turn out to be slightly easier. Some time usually passes before other teams discover the market, and building great products is so hard almost everyone will screw it up. But you can't depend on that -- if things happen that way, you can thank your gods for this extraordinary piece of good luck. In the meantime, you have to plan for the worst.__
+__^4^ The market is so huge, that both franchies will probably do ok. There might even be enough space for a third one.__
 
