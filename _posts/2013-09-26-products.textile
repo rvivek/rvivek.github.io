@@ -26,7 +26,7 @@ This short example gives you three buckets to categorize any given feature:
 * __A showstopper.__ People won't buy your product because you're missing this feature.
 * __A distraction.__ This feature will make no measurable impact on adoption.
 
-Empirically, successful products have one to three gamechanging features, dozens of features that neutralize showstoppers, and very few features that are distractions. Your job is to build an intuition about your space to be able to tell these categories apart as quickly as possible. That's still pretty hard (is a built-in phone projector a gamechanger or a distraction? if you drastically improve voice quality, will voice calls still be a showstopper, or will you propell them to gamechangers?), but at least this structure gives you a plan of attack.
+Empirically, successful products have one to three gamechanging features, dozens of features that neutralize showstoppers, and very few features that are distractions. Your job is to build an intuition about your space to be able to tell these categories apart as quickly as possible. That's still pretty subtle (is a built-in phone projector a gamechanger or a distraction?), but at least this structure gives you a plan of attack.
 
 h2. Resource allocation
 
