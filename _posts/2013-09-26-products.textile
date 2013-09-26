@@ -81,12 +81,23 @@ Suppose you've developed product intuition in your field, and can easily (and co
 
 A great way to get around these problems is to write down a product mission. Think of it as a function that accepts a given feature as an argument, and returns one of the three categories above. A good function definition is concise, understable, and repeatable. Ideally after reading it, most people on your team will be able to categorize features themselves in the same way you would.
 
-Here is a humorous product mission I came up with for RethinkDB that worked surprisingly well for us:
+"Here":https://github.com/rethinkdb/rethinkdb/issues/1000 is a humorous product mission I came up with for RethinkDB that worked surprisingly well for us:
 
 bq. *Database tools should be indistinguishable from magic*
 Surprise and amaze people with developer tools for building real-time, data-driven web applications they could only dream of building, and bring sheer joy and simplicity to the process of building great software.
 
-Foo
+On the surface these two sentences don't say very much, but if you dig in a little, this product mission has surprisingly high information density:
+
+* It tells people we're building a database.
+* It tells people we treat the product as a developer tool first. This resolves the tension between developer features (like the query language) and operations features (like monitoring). All of our gamechanging features revolve around developers. We treat operations as a showstopper.
+* It explains what we expect our users to do with RethinkDB (build real-time, data-driven web applications).
+* It gives people a sense of how far we'll go on certain features (surprise and amaze). Being good enough for developers isn't enough for us. These people spend many hours a day using our software -- we want to make the experience __pleasant__.
+* It suggests that we are willing to accept more complex implementations to make our users's lives easier.
+* It guides us to build features that let developers build new types of applications, not just the ones that already exist.
+* It's self-aware and leaks a healthy sense of humor we have as a team. This gives people a sense of who we are.
+* We can test feature proposals against this product mission, and with a bit of additional shared knowledge it lets most team members independently categorize features in roughly the same way.
+
+It took us three years to understand what we're doing well enough to come up with this product mission. If I were building a new product from scratch, the mission would be the first thing I'd start with. If we had it on day one, it would probably help us cut development time in half -- may be more.
 
 <br />
 
