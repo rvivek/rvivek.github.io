@@ -12,7 +12,7 @@ If you believe that "sales fix everything":http://www.defmacro.org/2013/07/23/st
 
 Building great products is hard, but the difficulty is greatly exacerbated if you have no good mental model on how to analyze products and features. Without a mental model you're left with looking at a never-ending stream of feature ideas and taking half-informed shots in the dark. Some people can pull this off because they start out with a phenomenal innate intuition for product design. But most people aren't blessed with this superpower on day one.
 
-I started out with a terrible intuition (and didn't even know it). Over the past three years I've stared at our user metrics every day, creating a feedback loop to train my brain on what makes a good product. Eventually I got quite good at predicting an impact of any given feature, so I started thinking of a mental model that captures the essense of what I've learned. Here is what I arrived at.
+I started out with terrible intuition (and didn't even know it). Over the past three years I've stared at our user metrics every day, creating a feedback loop to train my brain on what makes a good product. Eventually I got quite good at predicting an impact of any given feature, so I started thinking of a mental model that captures the essense of what I've learned. Here is what I arrived at.
 
 h2. Gamechangers, showstoppers, and distractions
 
@@ -60,23 +60,37 @@ Suppose you've decided to design your mobile phone in a form factor of a walkie 
 
 For complex business sales, you have to pay attention to all the parties and make sure all the stakeholders are satisfied. Are the construction workers strong influencers on the manager's decision? If so, spending time on a unique design might not be a bad idea. If not, you might be wasting your time. It's true even for consumer products. If you're designing a luxury phone and pricing it above every other phone on the market, you probably have to do something that convinces not only the buyer, but their spouse as well.
 
-Make sure you know the difference between your users and people who are just commenting. A feature is only a gamechanger if the person signing the proverbial check recognizes it as one. Otherwise, it's a showstopper at best, but more likely it's just a distraction. A corollary of this is that you can't design a great product unless you know __exactly__ who your user is, what their problems are, how __they__ perceive your product, and who are the people in their lives that help them make a buying decision. Your vision and intuition has to align with how the customers will perceive your product. Otherwise, you're just wasting time.
+Make sure you know the difference between your users and people who are just commenting. A feature is only a gamechanger if the person signing the proverbial check recognizes it as one. Otherwise, it's a showstopper at best, but more likely it's just a distraction. A corollary of this is that you can't design a great product unless you know __exactly__ who your user is, what their problems are, how __they__ perceive your product, and who are the people in their lives that help them make a buying decision. Your intuition has to mirror how the customers will perceive your product. Categorizing features is only useful if it's a good predictor of your users's response. Otherwise, you're just wasting time.
 
 h2. Aggregate gamechangers
 
 A particularly thorny issue in product management is features that aren't sufficiently impressive on their own, but become gamechangers in aggregate. For example, suppose you design a unique set of icons for your phone. Is that a gamechanger? Probably not. What about a unique color scheme? It doesn't seem like a gamechanger either. How about a unique family of phone cases? It's hard to imagine people buying a phone because of a pretty case.[^3^] But what if you put these features together? A unique design direction that combines a novel icon set, color scheme, and family of phone cases sounds like it might be a sufficient gamechanger to attract consumers.
 
-Features that become gamechangers in aggregate are dangerous for three reasons. Firstly, it becomes harder to tell what combination of individual features is and isn't a gamechanger and what is a good time to stop adding more. Secondly, aggregate gamechangers are expensive -- instead of making a couple of good decision on a feature, you have to make dozens or hundreds of good decision for a whole family of features. Thirdly, it makes it easier to convince yourself that if you add just one more feature, you'll strike a gamechanger. Building great products is already difficult. Introducing a subtlety like this makes it even harder.
+Features that become gamechangers in aggregate are dangerous for three reasons. Firstly, it becomes harder to tell what combination of individual features is and isn't a gamechanger. Secondly, aggregate gamechangers are expensive -- instead of making a couple of good decisions on a feature, you have to make dozens or hundreds of good decisions for a whole family of features. Thirdly, it makes it easier to convince yourself that if you add just one more feature, you'll strike a gamechanger. Building great products is already difficult. Introducing a subtlety like this makes it even harder.
 
 Many products do succeed in exactly this way, but if possible, try to avoid it. If you have no choice but to resort to aggregate gamechangers, it probably means you're working in a relatively mature market. Often, that's ok, but it should prompt you to do some soul searching. Is it really worth being in this market, or does it make sense to find another one where you can innovate more easily?
 
-h2. Product function
+h2. Product mission
 
-foo
+Suppose you've developed product intuition in your field, and can easily (and correctly) categorize features. You're now ahead of most product managers, but you're still not quite done. There are a few problems with this approach:
+
+* If you're categorizing features ad-hoc, it's easy to make mistakes and then construct a rhetoric in your mind to convince you that you've done the right thing.
+* While you're building the product, you'll have to be a part of every single decision because other people have no guidance.
+* Your engineers will get frustrated, because they'll think you're pulling decisions out of thin air.
+* Before the product is done you'll have to convince many other people to help you -- journalists, investors, potential hires and customers. Convincing people is hard if you're making decisions ad-hoc.
+
+A great way to get around these problems is to write down a product mission. Think of it as a function that accepts a given feature as an argument, and returns one of the three categories above. A good function definition is concise, understable, and repeatable. Ideally after reading it, most people on your team will be able to categorize features themselves in the same way you would.
+
+Here is a humorous product mission I came up with for RethinkDB that worked surprisingly well for us:
+
+bq. *Database tools should be indistinguishable from magic*
+Surprise and amaze people with developer tools for building real-time, data-driven web applications they could only dream of building, and bring sheer joy and simplicity to the process of building great software.
+
+Foo
 
 <br />
 
 __^1^ There are also questions of distribution and economics, but the number of early stage startups that fail for these reasons pales in comparison to the number of startups that pick small markets or don't manage to deliver great products on time.__
 __^2^ I don't mean to imply that picking a good market is easier than building a great product. In fact, the opposite is true. It's far easier to get a handle on great product management, so I decided to tackle this subject first.__
-__^2^ In practice it often turns out that people do buy phones because of unique colors or cases. But I'm ignoring this subtlety to focus on a larger point.__
+__^3^ In practice it often turns out that people do buy phones because of unique colors or cases. But I'm ignoring this subtlety to focus on a larger point.__
 
