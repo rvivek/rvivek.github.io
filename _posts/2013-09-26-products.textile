@@ -1,0 +1,13 @@
+---
+layout: post
+title: How to build great products
+wip: true
+---
+
+h1. {{ page.title }}
+
+p(meta). 26 Sep 2013
+
+If you believe that "sales fix everything":http://www.defmacro.org/2013/07/23/startup-lessons.html, it follows that most startups fail because they don't end up shipping a great product to a large market before they run out of money.[^1^]]
+
+__^1^ There are also questions of distribution and economics, but the number of early stage startups that fail for these reasons pale in comparison to the number of startups that pick small markets or don't manage to deliver great products.__
