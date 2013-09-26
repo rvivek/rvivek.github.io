@@ -18,7 +18,7 @@ h2. Gamechangers, showstoppers, and distractions
 
 Let's start with an example. Suppose you are building a new mobile phone. It has to be able to call people, or no one will buy it since it wouldn't be much of a phone. But the reverse isn't true -- having voice calls won't make anybody buy your phone because every other phone already does that. So for your mobile phone product, voice calls are a showstopper.
 
-On the other hand, suppose you added a feature that allows projecting videos onto a surface. No other phone does that, so this feature could be a gamechanger that excites a lot of potential buyers. Alternatively, it's possible that most people won't care about it at all, in which case it's just a distraction.
+On the other hand, suppose you added a feature that allows projecting videos onto a surface. No other phone does that, so this feature could be a gamechanger that excites a lot of consumers. Alternatively, it's possible that most people won't care about it at all, in which case it's just a distraction.
 
 This short example gives you three buckets to categorize any given feature:
 
@@ -26,7 +26,7 @@ This short example gives you three buckets to categorize any given feature:
 * __A showstopper.__ People won't buy your product because you're missing this feature.
 * __A distraction.__ This feature will make no measurable impact on adoption.
 
-foo
+Empirically, successful products have one to three gamechanging features, dozens of features that neutralize showstoppers, and very few features that are distractions. Your job is to build an intuition about your space to be able to tell these categories apart as quickly as possible. (This is easier said than done -- is a built-in phone projector a gamechanger or a distraction?)
 
 h2. Resource allocation
 
