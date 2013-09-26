@@ -18,9 +18,9 @@ h2. Gamechangers, showstoppers, and distractions
 
 Assume that any given product feature can be categorized in one of three buckets:
 
-# __A gamechanger.__ People will want to buy your product because of this feature.
-# __A showstopper.__ People won't buy your product because you're missing this feature.
-# __A distraction.__ This feature will make no measurable impact on adoption.
+* __A gamechanger.__ People will want to buy your product because of this feature.
+* __A showstopper.__ People won't buy your product because you're missing this feature.
+* __A distraction.__ This feature will make no measurable impact on adoption.
 
 For example, suppose we're building a new mobile phone. It has to be able to call people, otherwise no one will buy it since it's not much of a phone. But the reverse isn't true -- having voice calls won't make anybody buy our phone because every other phone already does that. So for our mobile phone product, voice calls are a __showstopper__.
 
