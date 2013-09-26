@@ -10,7 +10,7 @@ p(meta). 26 Sep 2013
 
 If you believe that "sales fix everything":http://www.defmacro.org/2013/07/23/startup-lessons.html, it follows that most startups fail because they don't end up shipping a great product in a growing market before they run out of money.[^1^] Assuming you've picked an explosive market, how do you go about building a great product?
 
-Building great products is hard, but the problem is greatly exacerbated if you have no good mental model of how to go about it. Without a mental model you're left with looking at a never-ending stream of feature ideas and taking half-informed shots in the dark. Some people call pull this off because they start out with a phenomenal innate intuition for product design. But most people aren't blessed with such intuition on day one.
+Building great products is hard, but the problem is greatly exacerbated if you have no good mental model of how to go about it. Without a mental model you're left with looking at a never-ending stream of feature ideas and taking half-informed shots in the dark. Some people can pull this off because they start out with a phenomenal innate intuition for product design. But most people aren't blessed with such intuition on day one.
 
 Over the past three years I learned a lot about building products. Here's the mental model I arrived at.
 
@@ -26,13 +26,17 @@ This short example gives you three buckets to categorize any given feature:
 * __A showstopper.__ People won't buy your product because you're missing this feature.
 * __A distraction.__ This feature will make no measurable impact on adoption.
 
-Empirically, successful products have one to three gamechanging features, dozens of features that neutralize showstoppers, and very few features that are distractions. Your job is to build an intuition about your space to be able to tell these categories apart as quickly as possible. This is easier said than done -- is a built-in phone projector a gamechanger or a distraction?
+Empirically, successful products have one to three gamechanging features, dozens of features that neutralize showstoppers, and very few features that are distractions. Your job is to build an intuition about your space to be able to tell these categories apart as quickly as possible. That's still pretty hard (is a built-in phone projector a gamechanger or a distraction?), but at least this structure gives you a plan of attack.
 
 h2. Resource allocation
 
 foo
 
 h2. Product function
+
+foo
+
+h2. Mistakes
 
 foo
 
