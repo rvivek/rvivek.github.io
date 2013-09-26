@@ -12,7 +12,7 @@ If you believe that "sales fix everything":http://www.defmacro.org/2013/07/23/st
 
 Building great products is hard, but the difficulty is greatly exacerbated if you have no good mental model on how to analyze products and features. Without a mental model you're left with looking at a never-ending stream of feature ideas and taking half-informed shots in the dark. Some people can pull this off because they start out with a phenomenal innate intuition for product design. But most people aren't blessed with this superpower on day one.
 
-I started out with terrible intuition (and didn't even know it). Over the past three years I've stared at our user metrics every day, creating a feedback loop to train my brain on what makes a good product. Eventually I got quite good at predicting an impact of any given feature, so I started thinking of a mental model that captures the essense of what I've learned. Here is what I arrived at.
+I started out with terrible intuition (and didn't even know it). Over the past three years I've stared at our user metrics every day, creating a feedback loop to train my brain on what makes a good product. Eventually I got quite good at predicting an impact of any given feature, so I started thinking of a mental model that captures the essence of what I've learned. Here is what I arrived at.
 
 h2. Gamechangers, showstoppers, and distractions
 
@@ -38,7 +38,7 @@ If you're doing more showstopper features than you absolutely need to, you're wa
 
 If you put more effort into any given showstopper feature than the absolute minimum you can get away with, you're wasting resources. The first iPhone had pretty bad voice quality, but it was good enough -- most people were willing to live with it. It made calls, and it wasn't terrible. Improving the voice quality by another 10% would have made little measurable impact on adoption.
 
-If you're doing more than three gamechanging features, you're wasting resources. Empirically, few distruptive products are good at a dozen things. Shipping gamechanging features is __hard__. Three is probably the most you can get away with, and even that is a stretch.
+If you're doing more than three gamechanging features, you're wasting resources. Empirically, few disruptive products are good at a dozen things. Shipping gamechanging features is __hard__. Three is probably the most you can get away with, and even that is a stretch.
 
 Finally, if you don't pour enough creative energy into any given gamechanging feature, you're wasting resources. If a gamechanging feature doesn't absolutely blow people away, it's not much of a gamechanger -- it's just a distraction. In this category you can't go half way.
 
@@ -79,7 +79,7 @@ Suppose you've developed product intuition in your field, and can easily (and co
 * Your engineers will get frustrated, because they'll think you're pulling decisions out of thin air.
 * Before the product is done you'll have to convince many other people to help you -- journalists, investors, potential hires, and customers. Convincing people is hard if you're making decisions ad-hoc.
 
-A great way to get around these problems is to write down a product mission. Think of it as a function that accepts a given feature as an argument, and returns one of the three categories above. A good function definition is concise, understable, and repeatable. Ideally after reading it, most people on your team will be able to categorize features themselves in the same way you would.
+A great way to get around these problems is to write down a product mission. Think of it as a function that accepts a given feature as an argument, and returns one of the three categories above. A good function definition is concise, understandable, and repeatable. Ideally after reading it, most people on your team will be able to categorize features themselves in the same way you would.
 
 "Here":https://github.com/rethinkdb/rethinkdb/issues/1000 is a humorous product mission we came up with for RethinkDB that worked surprisingly well:
 
