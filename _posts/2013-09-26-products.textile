@@ -8,9 +8,11 @@ h1. {{ page.title }}
 
 p(meta). 26 Sep 2013
 
-If you believe that "sales fix everything":http://www.defmacro.org/2013/07/23/startup-lessons.html, it follows that most startups fail because they don't end up shipping a great product to a growing market before they run out of money.[^1^] Let's assume you've picked an explosive market. How do you go about building a great product?
+If you believe that "sales fix everything":http://www.defmacro.org/2013/07/23/startup-lessons.html, it follows that most startups fail because they don't end up shipping a great product in a growing market before they run out of money.[^1^] Assuming you've picked an explosive market, how do you go about building a great product?
 
-Building great products is hard, but the problem is greatly exacerbated if you have no good mental model of how to go about it. It's easy to look at the never-ending stream of feature ideas and take half-informed shots in the dark. Some people have phenomenal innate intuition for product design, and in their case taking shots in the dark works out. But it doesn't work for most people. Empirically, I found the following model to work really well.
+Building great products is hard, but the problem is greatly exacerbated if you have no good mental model of how to go about it. Without a mental model you're left with looking at the never-ending stream of feature ideas and take half-informed shots in the dark. Some people call pull this off because they have phenomenal innate intuition for product design. But most people aren't blessed with such intuition.
+
+Empirically, I found that the following model works really well.
 
 h2. Gamechangers, showstoppers, and distractions
 
