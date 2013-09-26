@@ -60,7 +60,7 @@ Suppose you've decided to design your mobile phone in a form factor of a walkie 
 
 For complex business sales, you have to pay attention to all the parties and make sure all the stakeholders are satisfied. Are the construction workers strong influencers on the manager's decision? If so, spending time on a unique design might not be a bad idea. If not, you might be wasting your time. It's true even for consumer products. If you're designing a luxury phone and pricing it above every other phone on the market, you probably have to do something that convinces not only the buyer, but their spouse as well.
 
-Make sure you know the difference between your users and people who are just commenting. A feature is only a gamechanger if the person signing the proverbial check recognizes it as one. Otherwise, it's a showstopper at best, but more likely it's just a distraction. A corollary of this is that you can't design a great product unless you know __exactly__ who your user is, what their problems are, and who are the people in their lives that help them make a buying decision.
+Make sure you know the difference between your users and people who are just commenting. A feature is only a gamechanger if the person signing the proverbial check recognizes it as one. Otherwise, it's a showstopper at best, but more likely it's just a distraction. A corollary of this is that you can't design a great product unless you know __exactly__ who your user is, what their problems are, and who are the people in their lives that help them make a buying decision. Your vision and intuition has to align with how the customers will perceive your product. Otherwise, you're just wasting time.
 
 h2. Aggregates
 
