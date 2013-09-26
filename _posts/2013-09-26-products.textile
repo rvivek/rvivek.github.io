@@ -16,15 +16,15 @@ Empirically, I found that the following model works really well.
 
 h2. Gamechangers, showstoppers, and distractions
 
-Assume that any given product feature can be categorized in one of three buckets:
+Let's start with an example. Suppose you are building a new mobile phone. It has to be able to call people, or no one will buy it since it wouldn't be much of a phone. But the reverse isn't true -- having voice calls won't make anybody buy your phone because every other phone already does that. So for your mobile phone product, voice calls are a showstopper.
+
+On the other hand, suppose you added a feature that allows projecting videos onto a surface. No other phone does that, so this feature could be a gamechanger that excites a lot of potential buyers. Alternatively, it's possible that most people won't care about it at all, in which case it's just a distraction.
+
+This example gives you three buckets to categorize any give feature:
 
 * __A gamechanger.__ People will want to buy your product because of this feature.
 * __A showstopper.__ People won't buy your product because you're missing this feature.
 * __A distraction.__ This feature will make no measurable impact on adoption.
-
-For example, suppose you are building a new mobile phone. It has to be able to call people, or no one will buy it since it wouldn't be much of a phone. But the reverse isn't true -- having voice calls won't make anybody buy your phone because every other phone already does that. So for your mobile phone product, voice calls are a __showstopper__.
-
-On the other hand, suppose you added a feature that allows projecting videos onto a surface. No other phone does that, so this feature might attrack potential buyers, in which case it's a __gamechanger__. Alternatively, it's possible that most people won't care about this feature, in which case it's a __distraction__.
 
 h2. Resource allocation
 
