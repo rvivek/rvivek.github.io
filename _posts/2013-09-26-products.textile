@@ -30,7 +30,15 @@ Empirically, successful products have one to three gamechanging features, dozens
 
 h2. Resource allocation
 
-foo
+If you had infinite time, you could ignore these categories and blindly iterate on the product until it finds enough resonance with the market. But your time is finite. The longer you take to find a great product, the more likely you are to run out of cash, squander morale, or miss the market moving under your feet. Thinking about product management in terms of the three categories is extremely useful because they allow you to treat product management as a resource allocation problem:
+
+* If you put any effort into distractions, or you're wasting resources.
+* If put more effort into showstoppers than the absolute minimum you can get away with, you're wasting resources.
+* If you're doing more showstopper features than you absolutely need to, you're wasting resources
+* If you're doing more than three gamechanging features, you're wasting resources.
+* Pour as much of your creative energy into gamechanging features as possible.
+
+Foo
 
 h2. Product function
 
@@ -51,3 +59,4 @@ foo
 <br />
 
 __^1^ There are also questions of distribution and economics, but the number of early stage startups that fail for these reasons pales in comparison to the number of startups that pick small markets or don't manage to deliver great products on time.__
+
