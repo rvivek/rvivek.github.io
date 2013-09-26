@@ -8,7 +8,7 @@ h1. {{ page.title }}
 
 p(meta). 26 Sep 2013
 
-If you believe that "sales fix everything":http://www.defmacro.org/2013/07/23/startup-lessons.html, it follows that most startups fail because they don't end up shipping a great product in a growing market before they run out of money.[^1^] Assuming you've picked an explosive market, how do you go about building a great product?
+If you believe that "sales fix everything":http://www.defmacro.org/2013/07/23/startup-lessons.html, it follows that most startups fail because they don't end up shipping a great product in a growing market before they run out of money.[^1^] Assuming you've picked an explosive market, how do you go about building a great product?[^2^]
 
 Building great products is hard, but the difficulty is greatly exacerbated if you have no good mental model of how to go about it. Without a mental model you're left with looking at a never-ending stream of feature ideas and taking half-informed shots in the dark. Some people can pull this off because they start out with a phenomenal innate intuition for product design. But most people aren't blessed with this superpower on day one.
 
@@ -59,4 +59,6 @@ foo
 <br />
 
 __^1^ There are also questions of distribution and economics, but the number of early stage startups that fail for these reasons pales in comparison to the number of startups that pick small markets or don't manage to deliver great products on time.__
+
+__^2^ I don't mean to imply that picking a good market is easier than building a great product. In fact, the opposite is true. I decided to tackle product management first, because it's easier to get a handle on it.__
 
