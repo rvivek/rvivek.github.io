@@ -8,6 +8,34 @@ h1. {{ page.title }}
 
 p(meta). 26 Sep 2013
 
-If you believe that "sales fix everything":http://www.defmacro.org/2013/07/23/startup-lessons.html, it follows that most startups fail because they don't end up shipping a great product to a large market before they run out of money.[^1^]]
+If you believe that "sales fix everything":http://www.defmacro.org/2013/07/23/startup-lessons.html, it follows that most startups fail because they don't end up shipping a great product to a growing market before they run out of money.[^1^] Let's assume you've picked an explosive market. How do you go about building a great product?
 
-__^1^ There are also questions of distribution and economics, but the number of early stage startups that fail for these reasons pale in comparison to the number of startups that pick small markets or don't manage to deliver great products.__
+Building great products is hard, but the problem is greatly exacerbated if you have no good mental model of how to go about it. It's easy to look at the never-ending stream of feature ideas and take half-informed shots in the dark. Some people have phenomenal innate intuition for product design, and in their case taking shots in the dark works out. But it doesn't work for most people. Empirically, I found the following model to work really well.
+
+h2. Gamechangers, showstoppers, and distractions
+
+Assume that any given product feature can be categorized in one of three buckets:
+
+# *A gamechanger.* People will want to buy your product because of this feature.
+# *A showstopper.* People won't buy your product because you're missing this feature.
+# *A distraction.* This feature will make no measurable impact on adoption.
+
+For example, suppose we're building a new mobile phone. It has to be able to call people, otherwise no one will buy it since it's not much of a phone. But the reverse isn't true -- having voice calls won't make anybody buy our phone because every other phone already does that. So for our mobile phone product, voice calls are a __showstopper__.
+
+On the other hand, suppose we added a feature to our phone that allows projecting videos onto a surface. No other phone does that, so this feature might attrack potential buyers, in which case it's a __gamechanger__. Alternatively, it's possible that most people won't care about this feature, in which case it's a __distraction__.
+
+h2. Resource allocation
+
+foo
+
+h2. Product function
+
+foo
+
+h2. Aggregates
+
+foo
+
+<br />
+
+__^1^ There are also questions of distribution and economics, but the number of early stage startups that fail for these reasons pales in comparison to the number of startups that pick small markets or don't manage to deliver great products on time.__
