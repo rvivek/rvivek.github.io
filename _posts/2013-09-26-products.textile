@@ -30,25 +30,27 @@ Empirically, successful products have one to three gamechanging features, dozens
 
 h2. Resource allocation
 
-If you had infinite time, you could ignore these categories and blindly iterate on the product until it finds enough resonance with the market. But your time is finite. The longer you take to find a great product, the more likely you are to run out of cash, squander morale, or miss the market moving under your feet. Thinking about product management in terms of the three categories is extremely valuable because they allow you to treat product management as a resource allocation problem.
+If you had infinite time, you could ignore these categories and blindly iterate on the product until it finds enough resonance with the market. But your time is finite. The longer you take to find a great product, the more likely you are to run out of cash, squander morale, or miss the market moving under your feet. Thinking about product management in terms of the three categories is extremely valuable because it allows you to treat product management as a resource allocation problem.
 
 If you put any effort into distractions, you're wasting resources. That much is obvious.
 
 If you're doing more showstopper features than you absolutely need to, you're wasting resources. Lack of copy-pasting on the first iPhone might have been a showstopper for some people, but Apple correctly determined that enough consumers will still buy the phone. There was no need to delay.
 
-If put more effort into any given showstopper feature than the absolute minimum you can get away with, you're wasting resources. The first iPhone had pretty bad voice quality, but it was good enough -- most people were willing to live with it. It made calls, and it wasn't terrible. Improving the voice quality by another 10% would have made little measurable impact on adoption.
+If you put more effort into any given showstopper feature than the absolute minimum you can get away with, you're wasting resources. The first iPhone had pretty bad voice quality, but it was good enough -- most people were willing to live with it. It made calls, and it wasn't terrible. Improving the voice quality by another 10% would have made little measurable impact on adoption.
 
 If you're doing more than three gamechanging features, you're wasting resources. Empirically, few distruptive products are good at a dozen things. Shipping gamechanging features is __hard__. Three is probably the most you can get away with, and even that is a stretch.
 
 Finally, if you don't pour enough creative energy into any given gamechanging feature, you're wasting resources. If a gamechanging feature doesn't absolutely blow people away, it's not much of a gamechanger -- it's just a distraction. In this category you can't go half way.
 
-You can get away with making some mistakes -- very few products absolutely nail this out of the gate. But most first time product managers break all of these all the time, probably because they're not aware of them. Break these rules at your own peril. The fewer mistakes you make relative to your competition, the better. Every mistake can be incredibly costly -- make too many and someone else will run circles around you.
-
-Foo
+You can get away with making some mistakes -- very few products absolutely nail this out of the gate. But most first time product managers break all of these rules all the time, probably because they're not aware of them. Break these rules at your own peril. The fewer mistakes you make relative to your competition, the better. Every mistake can be incredibly costly -- make too many and someone else will run circles around you.
 
 h2. Craftsmanship
 
-foo
+The most tricky part of building products is learning how to tell the difference between the categories and knowing when a given category is full. Is a built-in phone projector a gamechanger or a distraction? If it's a gamechanger, is it big enough to attrack sufficient demand, or do you need another game changer? If you invented the technology to increase voice quality by 50%, does that became a game changer or is it still just a showstopping feature? How about 200%? How many showstoppers do you have to neutralize to build a compelling phone?
+
+I have no idea what the answers are for the mobile phone market, but in my area -- unstructured data, I can look at any given feature and tell which category it falls into quite easily. Sometimes I'm wrong, but that's ok. I just have to be wrong less often than my competitors.
+
+The best way to build this intuition is to talk to a lot of people. Talk to potential users. What do they think? Talk to people who tried to build a product in your space and failed. What can you learn from their failure? Talk to competitors. How do they approach the problem? Talk to engineers in big companies. What can they tell you about the state of technology? Talk to other entrepreneurs in adjacent spaces, investors, journalists, grad students, professors, even the naysayers. The sooner you can learn about the history of the space, the state of technology, the opinions of potential users, the direction of the competition, the sooner you can form a coherent view of the space and develop a unique vision for your product.
 
 h2. Aggregates
 
