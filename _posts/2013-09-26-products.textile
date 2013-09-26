@@ -10,9 +10,9 @@ p(meta). 26 Sep 2013
 
 If you believe that "sales fix everything":http://www.defmacro.org/2013/07/23/startup-lessons.html, it follows that most startups fail because they don't end up shipping a great product in a growing market before they run out of money.[^1^] Assuming you've picked an explosive market, how do you go about building a great product?
 
-Building great products is hard, but the problem is greatly exacerbated if you have no good mental model of how to go about it. Without a mental model you're left with looking at a never-ending stream of feature ideas and taking half-informed shots in the dark. Some people call pull this off because they have phenomenal innate intuition for product design. But most people aren't blessed with such intuition.
+Building great products is hard, but the problem is greatly exacerbated if you have no good mental model of how to go about it. Without a mental model you're left with looking at a never-ending stream of feature ideas and taking half-informed shots in the dark. Some people call pull this off because they start out with a phenomenal innate intuition for product design. But most people aren't blessed with such intuition on day one.
 
-Empirically, I found that the following model works really well.
+Over the past three years I learned a lot about building products. Here's the mental model I arrived at.
 
 h2. Gamechangers, showstoppers, and distractions
 
