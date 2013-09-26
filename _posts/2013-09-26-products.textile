@@ -91,7 +91,6 @@ On the surface these two sentences don't say very much, but if you dig in a litt
 It took us three years to understand what we're doing well enough to come up with this product mission. If we had it on day one, it would probably help us cut development time in half -- may be more. If you're building a product, the mission should be the first thing you should do. Get it right, and everything else will fall into place.
 
 <br />
-
 __^1^ There are also questions of distribution and economics, but the number of early stage startups that fail for these reasons pales in comparison to the number of startups that pick small markets or don't manage to deliver great products on time.__
 __^2^ I don't mean to imply that picking a good market is easier than building a great product. In fact, the opposite is true. It's far easier to get a handle on great product management, so I decided to tackle this subject first.__
 __^3^ In practice it often turns out that people do buy phones because of unique colors or cases. But I'm ignoring this subtlety to focus on a larger point.__
