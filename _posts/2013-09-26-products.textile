@@ -10,7 +10,7 @@ p(meta). 26 Sep 2013
 
 If you believe that "sales fix everything":http://www.defmacro.org/2013/07/23/startup-lessons.html, it follows that most startups fail because they don't end up shipping a great product in a growing market before they run out of money.[^1^] Assuming you've picked an explosive market, how do you go about building a great product?
 
-Building great products is hard, but the problem is greatly exacerbated if you have no good mental model of how to go about it. Without a mental model you're left with looking at the never-ending stream of feature ideas and take half-informed shots in the dark. Some people call pull this off because they have phenomenal innate intuition for product design. But most people aren't blessed with such intuition.
+Building great products is hard, but the problem is greatly exacerbated if you have no good mental model of how to go about it. Without a mental model you're left with looking at a never-ending stream of feature ideas and taking half-informed shots in the dark. Some people call pull this off because they have phenomenal innate intuition for product design. But most people aren't blessed with such intuition.
 
 Empirically, I found that the following model works really well.
 
@@ -18,9 +18,9 @@ h2. Gamechangers, showstoppers, and distractions
 
 Assume that any given product feature can be categorized in one of three buckets:
 
-# *A gamechanger.* People will want to buy your product because of this feature.
-# *A showstopper.* People won't buy your product because you're missing this feature.
-# *A distraction.* This feature will make no measurable impact on adoption.
+# __A gamechanger.__ People will want to buy your product because of this feature.
+# __A showstopper.__ People won't buy your product because you're missing this feature.
+# __A distraction.__ This feature will make no measurable impact on adoption.
 
 For example, suppose we're building a new mobile phone. It has to be able to call people, otherwise no one will buy it since it's not much of a phone. But the reverse isn't true -- having voice calls won't make anybody buy our phone because every other phone already does that. So for our mobile phone product, voice calls are a __showstopper__.
 
@@ -35,6 +35,10 @@ h2. Product function
 foo
 
 h2. Aggregates
+
+foo
+
+h2. Craftsmanship
 
 foo
 
