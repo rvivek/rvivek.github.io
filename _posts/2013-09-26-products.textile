@@ -30,25 +30,23 @@ Empirically, successful products have one to three gamechanging features, dozens
 
 h2. Resource allocation
 
-If you had infinite time, you could ignore these categories and blindly iterate on the product until it finds enough resonance with the market. But your time is finite. The longer you take to find a great product, the more likely you are to run out of cash, squander morale, or miss the market moving under your feet. Thinking about product management in terms of the three categories is extremely valuable because they allow you to treat product management as a resource allocation problem:
+If you had infinite time, you could ignore these categories and blindly iterate on the product until it finds enough resonance with the market. But your time is finite. The longer you take to find a great product, the more likely you are to run out of cash, squander morale, or miss the market moving under your feet. Thinking about product management in terms of the three categories is extremely valuable because they allow you to treat product management as a resource allocation problem.
 
 If you put any effort into distractions, you're wasting resources. That much is obvious.
 
 If you're doing more showstopper features than you absolutely need to, you're wasting resources. Lack of copy-pasting on the first iPhone might have been a showstopper for some people, but Apple correctly determined that enough consumers will still buy the phone. There was no need to delay.
 
-If put more effort into showstoppers than the absolute minimum you can get away with, you're wasting resources. The first iPhone had pretty bad terrible voice quality, but it was good enough -- most people were willing to live with it. It made calls, and it wasn't terrible. Improving the voice quality by another 10% would have made little measurable impact on adoption.
+If put more effort into any given showstopper feature than the absolute minimum you can get away with, you're wasting resources. The first iPhone had pretty bad voice quality, but it was good enough -- most people were willing to live with it. It made calls, and it wasn't terrible. Improving the voice quality by another 10% would have made little measurable impact on adoption.
 
-If you're doing more than three gamechanging features, you're wasting resources. 
+If you're doing more than three gamechanging features, you're wasting resources. Empirically, few distruptive products are good at a dozen things. Shipping gamechanging features is __hard__. Three is probably the most you can get away with, and even that is a stretch.
 
-If you don't pour enough creative energy into gamechanging features, you're wasting resources.
+Finally, if you don't pour enough creative energy into any given gamechanging feature, you're wasting resources. If a gamechanging feature doesn't absolutely blow people away, it's not much of a gamechanger -- it's just a distraction. In this category you can't go half way.
+
+You can get away with making some mistakes -- very few products absolutely nail this out of the gate. But most first time product managers break all of these all the time, probably because they're not aware of them. Break these rules at your own peril. The fewer mistakes you make relative to your competition, the better. Every mistake can be incredibly costly -- make too many and someone else will run circles around you.
 
 Foo
 
-h2. Product function
-
-foo
-
-h2. Mistakes
+h2. Craftsmanship
 
 foo
 
@@ -56,7 +54,7 @@ h2. Aggregates
 
 foo
 
-h2. Craftsmanship
+h2. Product function
 
 foo
 
