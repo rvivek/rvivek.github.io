@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building magical products
+title: Markets
 wip: true
 ---
 
