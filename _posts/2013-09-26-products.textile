@@ -20,7 +20,7 @@ Let's start with an example. Suppose you are building a new mobile phone. It has
 
 On the other hand, suppose you added a feature that allows projecting videos onto a surface. No other phone does that, so this feature could be a gamechanger that excites a lot of potential buyers. Alternatively, it's possible that most people won't care about it at all, in which case it's just a distraction.
 
-This example gives you three buckets to categorize any give feature:
+This short example gives you three buckets to categorize any given feature:
 
 * __A gamechanger.__ People will want to buy your product because of this feature.
 * __A showstopper.__ People won't buy your product because you're missing this feature.
