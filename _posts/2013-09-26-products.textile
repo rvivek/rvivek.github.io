@@ -26,6 +26,8 @@ This example gives you three buckets to categorize any give feature:
 * __A showstopper.__ People won't buy your product because you're missing this feature.
 * __A distraction.__ This feature will make no measurable impact on adoption.
 
+foo
+
 h2. Resource allocation
 
 foo
