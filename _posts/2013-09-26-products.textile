@@ -64,7 +64,7 @@ Make sure you know the difference between your users and people who are just com
 
 h2. Aggregates
 
-foo
+A particularly thorny issue in product management is features that aren't sufficiently impressive on their own, but become gamechangers in aggregate.
 
 h2. Product function
 
