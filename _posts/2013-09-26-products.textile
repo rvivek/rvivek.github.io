@@ -22,7 +22,7 @@ Assume that any given product feature can be categorized in one of three buckets
 * __A showstopper.__ People won't buy your product because you're missing this feature.
 * __A distraction.__ This feature will make no measurable impact on adoption.
 
-For example, suppose we're building a new mobile phone. It has to be able to call people, otherwise no one will buy it since it's not much of a phone. But the reverse isn't true -- having voice calls won't make anybody buy our phone because every other phone already does that. So for our mobile phone product, voice calls are a __showstopper__.
+For example, suppose we're building a new mobile phone. It has to be able to call people, or no one will buy it since it wouldn't be much of a phone. But the reverse isn't true -- having voice calls won't make anybody buy our phone because every other phone already does that. So for our mobile phone product, voice calls are a __showstopper__.
 
 On the other hand, suppose we added a feature to our phone that allows projecting videos onto a surface. No other phone does that, so this feature might attrack potential buyers, in which case it's a __gamechanger__. Alternatively, it's possible that most people won't care about this feature, in which case it's a __distraction__.
 
