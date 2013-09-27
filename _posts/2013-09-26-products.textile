@@ -74,7 +74,7 @@ Many products do succeed in exactly this way, but if possible, try to avoid it. 
 
 h2. Product mission
 
-Suppose you've developed product intuition in your field, and can easily (and correctly) categorize features. You're now ahead of most product managers, but you're still not quite done. There are a few problems with this approach:
+Suppose you've developed product intuition to apply the three bucket model to your field. You can easily (and correctly) categorize features. You're now ahead of most product managers. But you're still not quite done. There are a few problems with this approach:
 
 * If you're categorizing features ad-hoc, it's easy to make mistakes and then construct a rhetoric in your mind to convince yourself that you've done the right thing.
 * While you're building the product, you'll have to be a part of every single decision because other people have no guidance.
