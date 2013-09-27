@@ -10,7 +10,7 @@ p(meta). 26 Sep 2013
 
 If you believe that "sales fix everything":http://www.defmacro.org/2013/07/23/startup-lessons.html, it follows that most startups fail because they don't ship a great product in a growing market before they run out of money. Assuming you've picked an explosive market, how do you go about building a great product?[^1^]
 
-Building great products is hard, but the difficulty is greatly exacerbated if you have no good model for analyzing products and features. Without a model you're left with a never-ending stream of feature ideas and taking half-informed shots in the dark. Some people can pull this off because they start out with a phenomenal product intuition. But most people aren't blessed with this superpower on day one.
+Building great products is hard, but the difficulty is greatly exacerbated if you have no good model for analyzing products and features. Without a model you're left with a never-ending stream of feature ideas and half-informed shots in the dark. Some people can pull this off because they start out with a phenomenal product intuition. But most people aren't blessed with this superpower on day one.
 
 I started out with terrible intuition (and didn't even know it). Over the past three years I looked at our user metrics every day, creating a feedback loop to train my brain on what makes a good product. Eventually I got quite good at predicting the impact of any given feature, so I started thinking of a model that captures the essence of what I've learned.
 
