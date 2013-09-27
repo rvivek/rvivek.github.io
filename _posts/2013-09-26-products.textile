@@ -1,7 +1,6 @@
 ---
 layout: post
 title: How to build great products
-wip: true
 ---
 
 h1. {{ page.title }}
