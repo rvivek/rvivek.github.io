@@ -54,15 +54,19 @@ I have no idea what the answers are for the mobile phone market, but in my area,
 
 The best way to build this intuition is to talk to a lot of people. Talk to potential users. What do they think? Talk to people who tried to build a product in your space and failed. What can you learn from their failure? Talk to competitors. How do they approach the problem? Talk to engineers in big companies. What can they tell you about the state of technology? Talk to other entrepreneurs in adjacent spaces, investors, journalists, grad students, professors, even the naysayers. The best way to get a sense of taste in a given space is to inject yourself into the industry and talk to as many people as you can.
 
-h2. Pundits, stakeholders, and buyers
+h2. Buyers, stakeholders, and pundits
 
 The sooner you can learn about the history of the space, the state of the technology, the opinions of potential users, and the direction of your competition, the sooner you can form a coherent view of the space and develop a unique vision for your product. But be careful. It's easy to start taking advice from the wrong people.
 
 Suppose you've decided to design your mobile phone in a form factor of a walkie talkie for construction workers, and you've determined that the best way to sell it is to construction managers top-down. If you talk to construction workers, they might be enamored by beautiful icons and an unusual color scheme. You might determine that the unique design of your phone is a gamechanger. But ultimately, it's the construction manager who's writing the check. For the construction manager, a beautiful design is nice, but it isn't a gamechanger. It doesn't help him run the business any better than he did before.
 
-For complex business sales, you have to pay attention to all the parties and make sure all the stakeholders are satisfied. Are the construction workers strong influencers on the manager's decision? If so, spending time on a unique design might not be a bad idea. If not, you might be wasting your time. It's true even for consumer products. If you're designing a luxury phone and pricing it above every other phone on the market, do your customers have to convince their spouse? Do most families make shared decisions about buying luxury items, or do people splurge on luxury items independently? If they have to convince their spouse, can you add a feature to make it easier? Find out!
+For complex business sales, you have to pay attention to all the parties and make sure all the stakeholders are satisfied. Are the construction workers strong influencers on the manager's decision? If so, spending time on a unique design might not be a bad idea. If not, you might be wasting your time.
 
-Make sure you know the difference between your users and people who are just commenting. A feature is only a gamechanger if the person signing the proverbial check recognizes it as one. Otherwise, it's a showstopper at best, but more likely it's just a distraction. A corollary of this is that you can't design a great product unless you know __exactly__ who your user is, what their problems are, how __they__ perceive your product, and who are the people in their lives that help them make a buying decision. Your intuition has to mirror how the customers will perceive your product. Categorizing features is only useful if it's a good predictor of your users's response. Otherwise, you're just wasting time.
+It's true even for consumer products. If you're designing a luxury phone and pricing it above every other phone on the market, do your customers have to convince their spouse? Do most families make shared decisions about buying luxury items, or do people splurge on luxury items independently? If they have to convince their spouse, can you add a feature to make it easier? Find out!
+
+Make sure you know the difference between your users and people who are just commenting. A feature is only a gamechanger if the person signing the proverbial check recognizes it as one. Otherwise, it's a showstopper at best, but more likely it's just a distraction.
+
+A corollary of this is that you can't design a great product unless you know __exactly__ who your user is, what their problems are, how __they__ perceive your product, and who are the people in their lives that help them make a buying decision. Your intuition has to mirror how the customers will perceive your product. Categorizing features is only useful if it's a good predictor of your users's response. Otherwise, you're just wasting time.
 
 h2. Aggregate gamechangers
 
