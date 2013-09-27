@@ -16,4 +16,4 @@ Fewer people stumble on an idea, then think of how to design a product in a "sys
 
 Even fewer people stumble on an idea, then take the time to evaluate if it's worth working on. If it is, they jump in. If not, they rinse and repeat. That's better still, but not ideal. What if your default algorithm for generating ideas produces bad ideas? Then you're just picking the best idea from a bad set.
 
-Finally, very few people have a systematic process both for generation ideas, and for evaluating them. That's spectacular. This opens up two questions. What's a good way to generate startup ideas, and what's a good way to evaluate them?
+Finally, very few people have a systematic process both for generating ideas, and for evaluating them. That's spectacular. This opens up two questions. What's a good way to generate startup ideas, and what's a good way to evaluate them?
