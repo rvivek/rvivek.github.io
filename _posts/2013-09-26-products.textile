@@ -66,7 +66,7 @@ It's true even for consumer products. If you're designing a luxury phone and pri
 
 Make sure you know the difference between your users and people who are just commenting. A feature is only a gamechanger if the person signing the proverbial check recognizes it as one. Otherwise, it's a showstopper at best, but more likely it's just a distraction.
 
-A corollary of this is that you can't design a great product unless you know __exactly__ who your user is, what their problems are, how __they__ perceive your product, and who are the people in their lives that help them make a buying decision. Your intuition has to mirror how the customers will perceive your product. Categorizing features is only useful if it's a good predictor of your users's response. Otherwise, you're just wasting time.
+A corollary of this is that you can't design a great product unless you live, eat, and breathe like your users do. You need to know __exactly__ who your user is, what their problems are, how __they__ perceive your product, and who helps them make buying decisions. Your intuition has to mirror how the customers will perceive your product. Categorizing features is only useful if it's a good predictor of your users's response. Otherwise, you're just wasting time.
 
 h2. Aggregate gamechangers
 
