@@ -24,7 +24,7 @@ On the other hand, suppose your phone could project videos onto a surface. No ot
 This example gives you three buckets to categorize any given feature:
 
 * *A gamechanger.* People will want to buy your product because of this feature.
-* *A showstopper.* People won't buy your product because you're missing this feature, but adding it won't generate demand.
+* *A showstopper.* People won't buy your product if you're missing this feature, but adding it won't generate demand.
 * *A distraction.* This feature will make no measurable impact on adoption.
 
 Empirically, successful products have one to three gamechanging features, dozens of features that neutralize showstoppers, and very few features that are distractions. Your job is to build an intuition about your space to be able to tell these categories apart. That's still pretty subtle (is a built-in phone projector a gamechanger or a distraction?), but at least this model gives you a plan of attack.
