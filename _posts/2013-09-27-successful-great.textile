@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Successful vs. great
+wip: true
 ---
 
 h1. {{ page.title }}
