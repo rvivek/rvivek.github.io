@@ -12,7 +12,7 @@ There is a "relativity of wrong":http://chem.tufts.edu/answersinscience/relativi
 
 Most people stumble on an idea, think of everything they can do with it in a fairly depth-first way, and then start working on it. That's pretty bad. The outcome is usually a bad product in a bad market.
 
-Fewer people stumble on an idea, then think of how to design a product in a "systematic way":http://www.defmacro.org/2013/09/26/products.html, and then start working on that. That's a little better, but the outcome is still pretty bad. Empirically a good product in a bad market isn't that much better than a bad product in a good market.
+Fewer people stumble on an idea, then think of how to design a product in a "systematic way":http://www.defmacro.org/2013/09/26/products.html, and then start working on that. That's a little better, but the outcome is still pretty bad. Empirically a good product in a bad market isn't that much better than a bad product in a bad market.
 
 Even fewer people stumble on an idea, then take the time to evaluate if it's worth working on in the first place. If it is, they jump in. If not, they rinse and repeat. That's better still, but not ideal. What if your default mode of idea generation produces bad ideas and you're just picking the best idea from a bad set?
 
