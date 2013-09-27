@@ -7,7 +7,7 @@ h1. {{ page.title }}
 
 p(meta). 27 Sep 2013
 
-In response to my post on "how to build great products":http://www.defmacro.org/2013/09/26/products.html, __calinet6__ "pointed out":https://news.ycombinator.com/item?id=6457801 on Hacker News that there is a difference between products that are great and products that are successful:
+In response to my post on "how to build great products":http://www.defmacro.org/2013/09/26/products.html, __calinet6__ "pointed out":https://news.ycombinator.com/item?id=6458895 on Hacker News that there is a difference between products that are great and products that are successful:
 
 bq. Keep in mind that a successful product for a market does not necessarily equate to a high quality product.
 
