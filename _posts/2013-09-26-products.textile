@@ -14,7 +14,7 @@ Building great products is hard, but the difficulty is greatly exacerbated if yo
 
 I started out with terrible intuition (and didn't even know it). Over the past three years I looked at our user metrics every day, creating a feedback loop to train my brain on what makes a good product. Eventually I got quite good at predicting the impact of any given feature, so I started thinking of a model that captures the essence of what I've learned.
 
-h2. Gamechangers, showstoppers, and distractions
+h2. The three bucket model
 
 The most important aspect of product management is categorizing features into three buckets: gamechangers, showstoppers, and distractions. When I first started building products, all features looked roughly the same. Over time, I formed the three bucket model and now my mind automatically slots every feature into one of these buckets.
 
