@@ -14,7 +14,7 @@ Building great products is hard, but the difficulty is greatly exacerbated if yo
 
 I started out with terrible intuition (and didn't even know it). Over the past three years I looked at our user metrics every day, creating a feedback loop to train my brain on what makes a good product. Eventually I got quite good at predicting the impact of any given feature, so I started thinking of a model that captures the essence of what I've learned.
 
-h3. The three bucket model
+h2. The three bucket model
 
 The most important aspect of product management is categorizing features into three buckets: gamechangers, showstoppers, and distractions. When I first started building products, all features looked roughly the same. Over time, I formed the three bucket model and now my mind automatically slots every feature into one of these buckets.
 
@@ -30,7 +30,7 @@ This example gives you three buckets to categorize any given feature:
 
 Empirically, successful products have one to three gamechanging features, dozens of features that neutralize showstoppers, and very few features that are distractions. Your job is to build an intuition about your space to be able to tell these categories apart. That's still pretty subtle (is a built-in phone projector a gamechanger or a distraction?), but at least this model gives you a plan of attack.
 
-h3. Resource allocation
+h2. Resource allocation
 
 If you had infinite time, you could ignore these categories and blindly iterate on the product until it resonates with the market. But your time is finite. The longer you take to find a great product, the more likely you are to run out of cash, squander morale, or miss the market moving under your feet. Modeling product management in terms of the three categories is extremely valuable because it allows you to treat product management as a resource allocation problem.
 
@@ -46,7 +46,7 @@ Finally, if you don't pour enough creative energy into any given gamechanging fe
 
 You can get away with making some mistakes. Very few products absolutely nail this on launch. But most first time product managers break all of these rules all the time, probably because they're not aware of them. Break these rules at your own peril. The fewer mistakes you make relative to your competition, the better. Every mistake can be incredibly costly. Make too many and someone else will run circles around you.
 
-h3. Craftsmanship
+h2. Craftsmanship
 
 The trickiest part of building products is learning how to tell the difference between the categories and knowing when a given category is full. Is a built-in phone projector a gamechanger or a distraction? If it's a gamechanger, is it big enough to attract sufficient demand, or do you need another gamechanger? If you invented the technology to increase voice quality by 50%, does that become a gamechanger or is it still just a showstopping feature? How about 200%? How many showstoppers do you have to neutralize to build a compelling phone?
 
@@ -54,7 +54,7 @@ I have no idea what the answers are for the mobile phone market, but in my area,
 
 The best way to build this intuition is to talk to a lot of people. Talk to potential users. What do they think? Talk to people who tried to build a product in your space and failed. What can you learn from their failure? Talk to competitors. How do they approach the problem? Talk to engineers in big companies. What can they tell you about the state of technology? Talk to other entrepreneurs in adjacent spaces, investors, journalists, grad students, professors, even the naysayers. The best way to get a sense of taste in a given space is to inject yourself into the industry and talk to as many people as you can.
 
-h3. Buyers, stakeholders, and pundits
+h2. Buyers, stakeholders, and pundits
 
 The sooner you can learn about the history of the space, the state of the technology, the opinions of potential users, and the direction of your competition, the sooner you can form a coherent view of the space and develop a unique vision for your product. But be careful. It's easy to start taking advice from the wrong people.
 
@@ -68,7 +68,7 @@ Beware of noise. Learn the difference between your users and people who are just
 
 A corollary of this is that you can't design a great product unless you live, eat, and breathe like your users do. You need to know __exactly__ who your user is, what their problems are, how __they__ perceive your product, and who helps them make buying decisions. Your intuition has to mirror how the customers will perceive your product. Categorizing features is only useful if it's a good predictor of your actual users's response. Otherwise, you're just wasting time.
 
-h3. Aggregate gamechangers
+h2. Aggregate gamechangers
 
 There is a subtlety to the model we haven't discussed so far. Some features aren't sufficiently impressive on their own, but become gamechangers in aggregate. For example, suppose you design a unique set of icons for your phone. Is that a gamechanger? Probably not. What about a unique color scheme? It doesn't seem like a gamechanger either. How about a unique family of phone cases? It's hard to imagine people buying a phone because of a pretty case.[^2^] But what if you put these features together? A unique design direction that combines a novel icon set, color scheme, and family of phone cases sounds like it might be a sufficient gamechanger to attract consumers.
 
@@ -76,7 +76,7 @@ Features that become gamechangers in aggregate are dangerous for three reasons. 
 
 Many products do succeed in exactly this way, but if possible, try to avoid it. If you have no choice but to resort to aggregate gamechangers, it probably means you're working in a relatively mature market. Often, that's ok, but it should prompt you to do some soul searching. Is it really worth being in this market, or does it make sense to find another one where you can innovate more easily?
 
-h3. Product mission
+h2. Product mission
 
 Suppose you've developed product intuition to apply the three bucket model to your field. You can easily (and correctly) categorize features. You're now ahead of most product managers. But you're still not quite done. There are a few problems with this approach:
 
