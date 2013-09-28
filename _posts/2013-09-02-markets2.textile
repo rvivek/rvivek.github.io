@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markets 2
+title: How to pick startup ideas
 wip: true
 ---
 
@@ -16,4 +16,14 @@ Fewer people stumble on an idea, then think of how to design a product in a "sys
 
 Even fewer people stumble on an idea, then take the time to evaluate if it's worth working on. If it is, they jump in. If not, they rinse and repeat. That's better still, but not ideal. What if your default algorithm for generating ideas produces bad ideas? Then you're just picking the best idea from a bad set.
 
-Finally, very few people have a systematic process both for generating ideas, and for evaluating them. That's spectacular. But it opens up two questions. What's a good way to generate startup ideas, and what's a good way to evaluate them?
+Finally, very few people have a systematic process both for generating ideas, and for evaluating them. That's spectacular.
+
+It opens up two questions. What's a good way to generate startup ideas, and what's a good way to evaluate them? Suppose you came up with good answers to these questions. You're still not done. If you're on the internet, you can sell to anyone in the world, but so can anyone else. You're competing with __everyone__ in the world. So it's enough to just have good ideas. People can come and eat your lunch. So you have to think about that too.
+
+To get a handle on this, you need a model of how markets work and how technology innovation happens. So let's start with that.
+
+h2. Markets
+
+There are three basic models on how markets work.
+
+The first is...
