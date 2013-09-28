@@ -24,6 +24,10 @@ To get a handle on this, you need a model of how markets work and how technology
 
 h2. Markets
 
-There are three basic models on how markets work.
+There are three basic models for how technology markets work.
 
-The first is...
+The first model is Marc Andreessen's theory on "product/market fit":http://blog.jedchristiansen.com/pmarcaarchive/the-pmarca-guide-to-startups-part-4-the-only. This is basically the efficient market hypothesis. A market will arise precisely when it's time for it to arise, and not before (since we're assuming the world is efficient, if it could have happened earlier it already would have). Soon after the need arises, multiple teams jump in and start working on it (again, the world is efficient). Because technology markets are usually winner-take-all, the first baseline capable product that satisfies the need takes the market.
+
+If you've ever started a technology company, this theory seems correct. Build the product too early, and nobody wants it. But the moment someone wants it, you'll find yourself among dozens of companies competing with you.
+
+The second model is Peter Thiel's theory on "secrets":http://blakemasters.com/post/22866240816/peter-thiels-cs183-startup-class-11-notes-essay. This is basically the inefficient market hypothesis -- the opposite of Marc's theory. The markets, of course, aren't perfectly efficient. If they were, how could new markets ever arise and new products get built? Since people seem to be pretty quick at exploiting inefficiencies once they're discovered, it follows that market inefficies happen because of secrets -- things we don't know about nature or ourselves.
