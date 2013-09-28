@@ -18,7 +18,7 @@ Even fewer people stumble on an idea, then take the time to evaluate if it's wor
 
 Finally, very few people have a systematic process both for generating ideas, and for evaluating them. That's spectacular.
 
-It opens up two questions. What's a good way to generate startup ideas, and what's a good way to evaluate them? Suppose you came up with good answers to these questions. You're still not done. If you're on the internet, you can sell to anyone in the world, but so can anyone else. You're competing with __everyone__ in the world. So it's enough to just have good ideas. People can come and eat your lunch. So you have to think about that too.
+It opens up two questions. What's a good way to generate startup ideas, and what's a good way to evaluate them? Suppose you came up with good answers to these questions. You're still not done. If you're on the internet, you can sell to anyone in the world, but so can anyone else. You're competing with __everyone__ in the world. So it's not enough to just have good ideas. Other people will come and eat your lunch. So you have to think about that too.
 
 To get a handle on this, you need a model of how markets work and how technology innovation happens. So let's start with that.
 
