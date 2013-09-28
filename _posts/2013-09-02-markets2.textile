@@ -14,13 +14,11 @@ Most people stumble on an idea, think of everything they can do with it in a fai
 
 Fewer people stumble on an idea, then think of how to design a product in a "systematic way":http://www.defmacro.org/2013/09/26/products.html, and then start working on that. That's a little better, but the outcome is still pretty bad. Empirically a good product in a bad market doesn't do that much better than a bad product in a bad market.
 
-Even fewer people stumble on an idea, then take the time to evaluate if it's worth working on. If it is, they jump in. If not, they rinse and repeat. That's better still, but not ideal. What if your default algorithm for generating ideas produces bad ideas? Then you're just picking the best idea from a bad set.
+Even fewer people stumble on an idea, then take the time to evaluate if it's worth working on. If they think it is, they jump in. If not, they rinse and repeat. That's better still, but not ideal. What if your default algorithm for generating ideas produces bad ideas? Then you're just picking the best idea from a bad set.
 
 Finally, very few people have a systematic process both for generating ideas, and for evaluating them. That's spectacular.
 
-It opens up two questions. What's a good way to generate startup ideas, and what's a good way to evaluate them? Suppose you came up with good answers to these questions. You're still not done. If you're on the internet, you can sell to anyone in the world, but so can anyone else. You're competing with __everyone__ in the world. So it's not enough to just have good ideas. Other people will come and eat your lunch. You have to think about that too.
-
-To get a handle on this, you need a model of how markets work and how technology innovation happens. So let's start with that.
+It opens up two questions. What's a good way to generate startup ideas, and what's a good way to evaluate them? To get a handle on this, you need a model of how markets work and how technology innovation happens. So let's start with that.
 
 h2. Markets
 
@@ -31,3 +29,7 @@ The first model is Marc Andreessen's theory on "product/market fit":http://blog.
 If you've ever started a technology company, this theory seems correct. Build the product too early, and nobody wants it. But the moment someone wants it, you'll find yourself among dozens of companies competing with you.
 
 The second model is Peter Thiel's theory on "secrets":http://blakemasters.com/post/22866240816/peter-thiels-cs183-startup-class-11-notes-essay. This is basically the inefficient market hypothesis -- the opposite of Marc's theory. The markets, of course, aren't perfectly efficient. If they were, how could new markets ever arise and new products get built? Since people seem to be pretty quick at exploiting inefficiencies once they're discovered, it follows that market inefficies happen because of secrets -- things we don't know about nature or ourselves.
+
+h2. Competition
+
+Suppose you came up with good answers to these questions. You're still not done. If you're on the internet, you can sell to anyone in the world, but so can anyone else. You're competing with __everyone__ in the world. So it's not enough to just have good ideas. Other people will come and eat your lunch. You have to think about that too.
