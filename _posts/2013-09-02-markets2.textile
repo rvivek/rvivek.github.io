@@ -8,11 +8,9 @@ h1. {{ page.title }}
 
 p(meta). 02 Sep 2013
 
-A startup is a living, breathing, working proof by induction. Your base case is a "product":http://www.defmacro.org/2013/09/26/products.html that a small subset of target customers really love. Your inductive step is superlinear distribution. You put @$X@ dollars in, and get @o(X)@ users out. Between the great product and the superlinear distribution, is an explosive market.
+A startup is a living, breathing, working proof by induction. Your base case is a "product":http://www.defmacro.org/2013/09/26/products.html that a small subset of target customers really love. Your inductive step is superlinear distribution. You put @$X@ dollars in, and get @o(X)@ users out. Between the great product and the superlinear distribution, is an explosive market. Of these three concepts -- product, market, and distribution, "the market is most important":http://blog.jedchristiansen.com/pmarcaarchive/the-pmarca-guide-to-startups-part-4-the-only. When you're building software, when the market conditions are good you can usually figure out how to build a great product and get non-linear distribution. So how do you find a great market?
 
-Of these three concepts -- product, market, and distribution, "the market is most important":http://blog.jedchristiansen.com/pmarcaarchive/the-pmarca-guide-to-startups-part-4-the-only. When the market conditions are good, you can usually figure out how to build a great product and get non-linear distribution. So how do you find a great market?
-
-The majority of startup ideas seem to come from three sources. 
+One way to answer this question is to try to reduce it by looking at where most startup ideas come from and trying to figure out what works and what doesn't. The majority of startup ideas seem to come from three sources. 
 
 But there is a "relativity of wrong":http://chem.tufts.edu/answersinscience/relativityofwrong.htm when picking startup ideas.
 
@@ -24,9 +22,9 @@ Even fewer people stumble on an idea, then take the time to evaluate if it's wor
 
 Finally, very few people have a systematic process both for generating ideas, and for evaluating them.
 
+So the question "how do I find a great market?" reduces to much more granular questions. What's a good way to generate startup ideas? What's a good way to evaluate them? 
 
-
-It opens up two questions. What's a good way to generate startup ideas, and what's a good way to evaluate them? To get a handle on this, you need a model of how markets work and how technology innovation happens. So let's start with that.
+To get a handle on this, you need a model of how markets work and how technology innovation happens. Let's start with that.
 
 h2. Markets
 
