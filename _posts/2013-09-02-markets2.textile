@@ -8,7 +8,7 @@ h1. {{ page.title }}
 
 p(meta). 02 Sep 2013
 
-A startup is a living, breathing, working proof by induction. Your base case is a "product":http://www.defmacro.org/2013/09/26/products.html a small subset of target customers really love. Your inductive step is superlinear distribution. You put $X dollars in, and get o(X) users out. Between the great product and the superlinear distribution, is an explosive market.
+A startup is a living, breathing, working proof by induction. Your base case is a "product":http://www.defmacro.org/2013/09/26/products.html a small subset of target customers really love. Your inductive step is superlinear distribution. You put @$X@ dollars in, and get @o(X)@ users out. Between the great product and the superlinear distribution, is an explosive market.
 
 The majority of startup ideas seem to come from three sources. 
 
