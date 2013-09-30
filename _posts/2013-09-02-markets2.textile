@@ -8,15 +8,21 @@ h1. {{ page.title }}
 
 p(meta). 02 Sep 2013
 
+A startup is a living, breathing, working proof by induction. Your base case is a "product":http://www.defmacro.org/2013/09/26/products.html a small subset of target customers really love. Your inductive step is superlinear distribution. You put $X dollars in, and get o(X) users out. Between the great product and the superlinear distribution, is an explosive market.
+
+The majority of startup ideas seem to come from three sources. 
+
 There is a "relativity of wrong":http://chem.tufts.edu/answersinscience/relativityofwrong.htm when picking startup ideas.
 
 Most people stumble on an idea, think of everything they can do with it in a fairly depth-first way, and then start working on it. That's pretty bad. The outcome is usually a bad product in a bad market.
 
-Fewer people stumble on an idea, then think of how to design a product in a "systematic way":http://www.defmacro.org/2013/09/26/products.html, and then start working on that. That's a little better, but the outcome is still pretty bad. Empirically a good product in a bad market doesn't do that much better than a bad product in a bad market.
+Fewer people stumble on an idea, then think of how to design a product in a systematic way, and then start working on that. That's a little better, but the outcome is still pretty bad. Empirically a good product in a bad market doesn't do that much better than a bad product in a bad market.
 
 Even fewer people stumble on an idea, then take the time to evaluate if it's worth working on. If they think it is, they jump in. If not, they rinse and repeat. That's better still, but not ideal. What if your default algorithm for generating ideas produces bad ideas? Then you're just picking the best idea from a bad set.
 
-Finally, very few people have a systematic process both for generating ideas, and for evaluating them. That's spectacular.
+Finally, very few people have a systematic process both for generating ideas, and for evaluating them.
+
+
 
 It opens up two questions. What's a good way to generate startup ideas, and what's a good way to evaluate them? To get a handle on this, you need a model of how markets work and how technology innovation happens. So let's start with that.
 
@@ -24,7 +30,7 @@ h2. Markets
 
 There are three basic schools of thought for how technology markets work -- the markets are efficient, the markets are inefficient, and the markets are unpredictable.
 
-The efficient market hypothesis postulates that a market will arise precisely when external social or technological conditions make it possible for it to arise, not before and not after. It also postulates that after the market arises, multiple teams jump in and start working on the problem. Because technology markets are usually winner-take-all, the first baseline capable product that satisfies the need takes the market. Marc Andreessen's "product/market fit":http://blog.jedchristiansen.com/pmarcaarchive/the-pmarca-guide-to-startups-part-4-the-only idea is largely based on the implications of working in a world where the market is efficient.
+The efficient market hypothesis postulates that a market will arise precisely when external social or technological conditions make it possible for it to arise, not before and not after. It also postulates that after the market arises, multiple teams jump in and start working on the problem. Because technology markets usually can support exponential growth, the first baseline capable product that satisfies the need takes the market. Marc Andreessen's "product/market fit":http://blog.jedchristiansen.com/pmarcaarchive/the-pmarca-guide-to-startups-part-4-the-only idea is largely based on the implications of working in a world where the market is efficient.
 
 There is a lot of evidence to support the efficient market hypothesis. For example, the fact that a great number of technical innovations were patented in different parts of the world nearly simultaniously. If you've ever started a technology company, this hypothesis intuitively seems correct. Build the product too early, and nobody wants it. But the moment someone wants it, you'll find yourself among dozens of companies competing with you.
 
@@ -32,6 +38,6 @@ The inefficient market hypothesis is a refinement of the efficient market hypoth
 
 
 
-h2. Competition
+h2. Competition / timing
 
 Suppose you came up with good answers to these questions. You're still not done. If you're on the internet, you can sell to anyone in the world, but so can anyone else. You're competing with __everyone__ in the world. So it's not enough to just have good ideas. Other people will come and eat your lunch. You have to think about that too.
