@@ -16,7 +16,7 @@ Is your products a piece of backend infrastructure for web applications? Then wh
 
 Most products and services have their own section for integrations. Get your integration component listed there. Do they have user groups? Conferences? Go there and talk about how you are solving your users's problems. Don't make your product the focus of your talks -- give other people a reason to promote it.
 
-Where do your users ask questions to get support? Don't make it a walled garden. Use a platform your target users already know. GitHub for issue tracking and product management. StackOverflow for technical questions. Twitter for short questions about your product. Let your users find out about your product organically, through other tools, resources, and communities they already love. Don't count on your website for exponential growth.
+Where do your users ask questions to get support? Don't make it a walled garden. Use a platform your target users already know. GitHub for issue tracking and product management. StackOverflow for technical questions. Twitter for short questions about your product. Let people users find out about your product organically, through other tools, resources, and communities they already love. Don't count on your website for exponential growth.
 
 h2. Be direct
 
