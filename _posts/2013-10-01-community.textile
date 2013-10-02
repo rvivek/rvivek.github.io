@@ -8,39 +8,39 @@ h1. {{ page.title }}
 
 p(meta). 01 Oct 2013
 
-# Focus on your users #
+h2. Focus on your users
 
 Ecosystem integration
 Technical content
 
-# Be direct #
+h2. Be direct
 
 Determining positioning and market strategy.
 Product marketing content.
 Procedural content.
 
-# Be accessible #
+h2. Be accessible
 
 Community support.
 Social media management.
 Event management.
 
-# Give recognition #
+h2. Give recognition
 
 t-shirts, recognition.
 
-# Impress consistently #
+h2. Impress consistently
 
 Product tactics.
 
-# Empower your users #
+h2. Empower your users
 
 PR. RethinkDB gems.
 
-# Measure everything #
+h2. Measure everything
 
 Growth and engagement metrics tools.
 
-# Go outside your garden #
+h2. Go outside your garden
 
 Stack overflow, etc. Ecosystem integration.
