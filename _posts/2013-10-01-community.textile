@@ -8,6 +8,14 @@ h1. {{ page.title }}
 
 p(meta). 01 Oct 2013
 
+h2. Focus on your users
+
+Your users don't see your product the way you do. Instead of product features they see use cases. Help them discover and understand your product through that lens. Go where they go. See what they see.
+
+Is your products a piece of backend infrastructure for web applications? What are the modern web development tools? Find out. Integrate with them. How easy is it to use your product from Django? Ruby on Rails? AngularJS? PHP? What other products do web developers use? Analytics platforms? Monitoring tools? Deployment scripts? Can your product integrate with them? Write componets to make it easy. Document them well. Add a special section for each tool to your site. Make your users feel comfortable.
+
+Stack overflow, etc. Ecosystem integration.
+
 h2. Be direct
 
 You will have to write. A lot. Product benefits, feature descriptions, technical documentation, release announcements, blog posts, social media comments, whitepapers, even e-mails to users.
@@ -17,12 +25,6 @@ Always be humble, concise, and direct. Don't try to sound impressive. State what
 Always stay kind and polite. Treat everyone who took the time to use your product with reverence. Take all but the most crass questions seriously. Avoid talking about your competitors (but if you must, stick to facts).
 
 Read the text out loud. If you can't imagine saying it to a friend or a colleague, rewrite it.
-
-h2. Focus on your users
-
-Your users don't see your product the way you do. Instead of product features they see use cases. Help them discover and understand your product through that lens. Speak their language. Go where they go. Focus on __their__ problems.
-
-Stack overflow, etc. Ecosystem integration.
 
 h2. Empower others
 
