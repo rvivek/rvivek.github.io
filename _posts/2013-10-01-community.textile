@@ -14,7 +14,7 @@ Your users don't see your product the way you do. Instead of product features th
 
 Is your products a piece of backend infrastructure for web applications? Then what are the popular web development tools? Find out. Integrate with them. How easy is it to use your product from Django? AngularJS? PHP? What other products and services do web developers use? Analytics platforms? Monitoring tools? Can your product integrate with them? Write componets to make it easy. Document them well. Add a special section for each tool to your site. Make users who are used to other tools feel comfortable.
 
-Most products and services have their own section for integrations. Get your integration component listed there. Do they have user groups? Conferences? Go there and talk about your component. Don't make your product the focus of your talk -- give other people a reason to promote it.
+Most products and services have their own section for integrations. Get your integration component listed there. Do they have user groups? Conferences? Go there and talk about the problems your users are solving. Don't make your product the focus of your talk -- give other people a reason to promote it.
 
 Stack overflow, etc.
 
