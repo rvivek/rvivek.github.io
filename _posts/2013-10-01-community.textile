@@ -34,7 +34,7 @@ h2. Be accessible
 
 Your product is new and likely has bugs. That's ok -- your users will cut you a lot of slack. They just have to know you appreciate their efforts, respect their time, and listen to their feedback.
 
-Be accessible! Keep your development process open on GitHub -- it lets your current and prospective users give you invaluable feedback. Make it easy to ask questions. Be available channels that are convenient for your users -- GitHub, Twitter, IRC, Google Groups, StackOverflow, and e-mail. Tell people how to reach you on your website. Set a maximum time limit a question can go unanswered, and stick to it. Keep office hours. Let people drop by your office and meet the development team. Host developer events. Let people drop by, have some food, share tips, and talk about cool stuff they're building with your product.
+Be accessible! Keep your development process open on GitHub. The feedback from your current and prospective users will be invaluable. Make it easy to ask questions. Be available channels that are convenient for your users -- GitHub, Twitter, IRC, Google Groups, StackOverflow, and e-mail. Tell people how to reach you on your website. Set a maximum time limit a question can go unanswered, and stick to it. Keep office hours. Let people drop by your office and meet the development team. Host developer events. Let people drop by, have some food, share tips, and talk about cool stuff they're building with your product.
 
 h2. Empower others
 
