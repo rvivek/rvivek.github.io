@@ -32,7 +32,7 @@ h2. Be accessible
 
 Your product is new and likely has bugs. That's ok -- your users will cut you a lot of slack. They just have to know you appreciate their efforts, respect their time, and listen to their feedback.
 
-Be accessible! Set a maximum time limit a question can go unanswered, and try to stick it.
+Be accessible! Set a maximum time limit a question can go unanswered, and try to stick to it.
 
 Community support.
 Social media management.
