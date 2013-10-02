@@ -10,20 +10,13 @@ p(meta). 01 Oct 2013
 
 h2. Focus on your users
 
-Ecosystem integration
-Technical content
+Your users don't see your product the way you do. Instead of features and details they see a use case. Help them discover and understand your product through the lens of that use case.
 
 h2. Be direct
 
 You will have to write. A lot. Product benefits, feature descriptions, technical documentation, release announcements, blog posts, social media comments, whitepapers, even e-mails to users.
 
 Always be humble, concise, and direct. Don't try to sound impressive. State what the product does and doesn't do and let your users make their own judmenent. Short is better than long. Concrete is better than abstract. Try to avoid adverbs and adjectives -- use nouns and verbs. Review all copy with an eye for prefabricated phrases and marketing speak. Cut ruthlessly. Regularly read ""Politics and the English Language"":https://www.mtholyoke.edu/acad/intrel/orwell46.htm and follow it religiously.
-
-
-
-Product marketing content.
-Determining positioning and market strategy.
-Procedural content.
 
 h2. Be accessible
 
