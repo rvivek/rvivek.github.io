@@ -30,7 +30,7 @@ Read what you wrote out loud. If you would feel awkward saying it to a friend or
 
 h2. Be accessible
 
-Your product is new and likely has bugs. That's ok -- your users will cut you a lot of slack. People will spend hours of their time on a product that doesn't have the maturity of existing tools, but they have to know you appreciate their efforts, respect their time, and listen to their feedback.
+Your product is new and likely has bugs. That's ok -- your users will cut you a lot of slack. They just have to know you appreciate their efforts, respect their time, and listen to their feedback.
 
 Be accessible! Set a maximum time limit a question can go unanswered, and try to stick it.
 
