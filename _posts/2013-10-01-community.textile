@@ -10,7 +10,7 @@ p(meta). 01 Oct 2013
 
 h2. Focus on your users
 
-Your users don't see your product the way you do. Instead of features and details they see a use case. Help them discover and understand your product through that lens.
+Your users don't see your product the way you do. Instead of product features they see a use case. Help them discover and understand your product through that lens.
 
 h2. Be direct
 
