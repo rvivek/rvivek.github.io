@@ -36,7 +36,7 @@ Your product is new and likely has bugs. That's ok -- your users will cut you a 
 
 Be accessible! Keep your development process open on GitHub. The feedback from your current and prospective users will be invaluable. Make it easy to ask questions. Be available on channels that are convenient for your users. For example, our users can talk to our team on GitHub, Twitter, IRC, Google Groups, StackOverflow, and e-mail. Tell people how to reach you on your website. Set a maximum time limit a question can go unanswered, and stick to it. Keep office hours. Let people drop by your office and meet the development team. Host developer events. Let people drop by, have some food, share tips, and talk about cool stuff they're building with your product.
 
-Do go above and beyond, but learn how to politely say no. Your responsibility is to your community as a whole. Spending too much time with a single user can hurt others who might not be able to get answers as quickly as they need. Set expectations on the kind of support you will and will not do early.
+Do go above and beyond, but learn how to politely say no. Your responsibility is to your community as a whole. Spending too much time with a single user can hurt others who might not be able to get answers as quickly as they need. Set expectations on the kind of free support you will and will not do.
 
 h2. Empower others
 
