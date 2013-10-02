@@ -1,0 +1,46 @@
+---
+layout: post
+title: Building communities
+wip: true
+---
+
+h1. {{ page.title }}
+
+p(meta). 01 Oct 2013
+
+# Focus on your users #
+
+Ecosystem integration
+Technical content
+
+# Be direct #
+
+Determining positioning and market strategy.
+Product marketing content.
+Procedural content.
+
+# Be accessible #
+
+Community support.
+Social media management.
+Event management.
+
+# Give recognition #
+
+t-shirts, recognition.
+
+# Impress consistently #
+
+Product tactics.
+
+# Empower your users #
+
+PR. RethinkDB gems.
+
+# Measure everything #
+
+Growth and engagement metrics tools.
+
+# Go outside your garden #
+
+Stack overflow, etc. Ecosystem integration.
