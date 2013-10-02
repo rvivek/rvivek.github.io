@@ -26,7 +26,7 @@ Always be humble, concise, and direct. Don't try to sound impressive. State what
 
 Always stay kind and polite. Treat everyone who took the time to use your product with reverence. Take all but the most crass questions seriously. Avoid talking about your competitors (but if you must, stick to facts).
 
-Read what you wrote out loud. If it would feel awkward saying it to a friend or a colleague, rewrite it.
+Read what you wrote out loud. If you would feel awkward saying it to a friend or a colleague, rewrite it.
 
 h2. Be accessible
 
