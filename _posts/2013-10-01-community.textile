@@ -15,8 +15,12 @@ Technical content
 
 h2. Be direct
 
-Determining positioning and market strategy.
+You will have to write. A lot. Product benefits, feature descriptions, technical documentation, release announcements, blog posts, social media comments, whitepapers, even e-mails to users. Always be humble, concise, and direct. Don't try to sound impressive. Just state what the product does and does not do and let your users make their own judmenent. Short is better than long. Concrete is better than abstract. Try to avoid adverbs and adjectives -- use nouns and verbs. Review all copy with an eye for prefabricated phrases and marketing speak. Cut ruthlessly.
+
+
+
 Product marketing content.
+Determining positioning and market strategy.
 Procedural content.
 
 h2. Be accessible
@@ -44,3 +48,7 @@ Growth and engagement metrics tools.
 h2. Go outside your garden
 
 Stack overflow, etc. Ecosystem integration.
+
+h2. Kaizen
+
+foo
