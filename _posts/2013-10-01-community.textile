@@ -18,7 +18,7 @@ You will have to write. A lot. Product benefits, feature descriptions, technical
 
 Always be humble, concise, and direct. Don't try to sound impressive. State what the product does and doesn't do and let your users make their own judmenent. Short is better than long. Concrete is better than abstract. Try to avoid adverbs and adjectives -- use nouns and verbs. Review all copy with an eye for prefabricated phrases and marketing speak. Cut ruthlessly. Regularly read ""Politics and the English Language"":https://www.mtholyoke.edu/acad/intrel/orwell46.htm and follow it religiously.
 
-Always be kind and humble. Take everyone who took the time to use your product with reverence. Answer all but the most crass questions seriously. Avoid talking about your competitors (but if you must, stick to facts).
+Always be kind and polite. Take everyone who took the time to use your product with reverence. Answer all but the most crass questions seriously. Avoid talking about your competitors (but if you must, stick to facts).
 
 Read the text out loud. If you can't imagine saying it to a friend or a colleague, rewrite it.
 
