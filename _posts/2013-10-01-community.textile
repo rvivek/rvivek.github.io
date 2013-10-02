@@ -12,9 +12,9 @@ h2. Focus on your users
 
 Your users don't see your product the way you do. Instead of product features they see use cases. Help them discover and understand your product through that lens. Go where they go. See what they see.
 
-Is your products a piece of backend infrastructure for web applications? What are the modern web development tools? Find out. Integrate with them. How easy is it to use your product from Django? Ruby on Rails? AngularJS? PHP? What other products and services do web developers use? Analytics platforms? Monitoring tools? Deployment scripts? Can your product integrate with them? Write componets to make it easy. Document them well. Add a special section for each tool to your site. Make your users feel comfortable.
+Is your products a piece of backend infrastructure for web applications? What are the modern web development tools? Find out. Integrate with them. How easy is it to use your product from Django? Ruby on Rails? AngularJS? PHP? What other products and services do web developers use? Analytics platforms? Monitoring tools? Deployment scripts? Can your product integrate with them? Write componets to make it easy. Document them well. Add a special section for each tool to your site. Make users who are used to other tools feel comfortable.
 
-Most products and services have their own section for integrations. Get your integration component listed there. Go their user groups and do a talk about it. Let your users find out about your product through other tools they already use.
+Most products and services have their own section for integrations. Get your integration component listed there. Go their user groups and talk about it. Let your users find out about your product through other tools they already use.
 
 Stack overflow, etc.
 
