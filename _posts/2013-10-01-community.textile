@@ -12,7 +12,7 @@ h2. Focus on your users
 
 Your users don't see your product the way you do. Instead of product features they see use cases. Help them discover and understand your product through that lens. Speak their language. Go where they go. Focus on __their__ problems.
 
-
+Stack overflow, etc. Ecosystem integration.
 
 h2. Be direct
 
@@ -46,10 +46,6 @@ h2. Measure everything
 
 Growth and engagement metrics tools.
 
-h2. Go outside your garden
-
-Stack overflow, etc. Ecosystem integration.
-
-h2. Kaizen
+h2. Kaizen/jiro dreams of sushi
 
 foo
