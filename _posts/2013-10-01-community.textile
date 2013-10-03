@@ -22,7 +22,7 @@ Where do your users ask questions to get support? Don't make it a walled garden.
 
 h2. Be kind, humble, and direct
 
-You will have to write. A lot. Product benefits, feature descriptions, technical documentation, release announcements, blog posts, social media comments, whitepapers, even e-mails to users.
+You will have to write a lot of content. Product benefits, feature descriptions, technical documentation, release announcements, blog posts, social media comments, whitepapers, even e-mails to users.
 
 Always be humble, concise, and direct. Don't try to sound impressive. State what the product does and doesn't do and let your users make their own judmenent. Short is better than long. Concrete is better than abstract. Avoid adverbs and adjectives -- use nouns and verbs. Review all copy with an eye for prefabricated phrases and marketing speak. Cut ruthlessly. Read ""Politics and the English Language"":https://www.mtholyoke.edu/acad/intrel/orwell46.htm and follow it religiously.
 
