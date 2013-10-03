@@ -46,9 +46,11 @@ If possible, make your product integration friendly. For example, at RethinkDB w
 
 Encourage your users to blog and do talks about how they're solving problems with your product. If someone is writing a post or doing a talk, make yourself accessible to answer their questions. Spending a little time to help them improve their content will make authors happy and will help get the word out. When your community members build software on top of your product, write a blog post, or do a talk, promote it to your users! Post a link on your site, tweet about it, blog about important projects.
 
-If your product solves a real need, your users will promote it at their workplace. Give them the resources to do it successfully! Ask them what information their colleagues need to make an informed decision about your product. Do they need a whitepaper? A more business-oriented presenation? A press clipping to demonstrate that your product is the real deal? Make that information available to them.
+If your product solves a real need, your users will promote it at their workplace. Give them the resources to do it successfully! Ask them what information their colleagues need to make an informed decision about your product. Do they need a whitepaper? A more business-oriented presenation? A press clipping to demonstrate that your product is the real deal? Make that information available to them. Put genuine care and thought into helping your users's with their challenges, and they'll surprise you with their efforts to evangelize your product!
 
-Find creative ways to thank your users for taking the time to tell others about your product. Send them a t-shirt. Write a hand-written note. Even a quick e-mail can go a long way. Put genuine care and thought into helping your users's with their challenges, and they'll surprise you with their efforts to evangelize your product!
+h2. Give thanks
+
+Find creative ways to thank your users for taking the time to get involved in the community. When your users write a blog post, do a talk, create a cool project, or submit an important bug report, take the time to show them your gratitude. Send them a t-shirt. Write a hand-written note. Even a quick e-mail can go a long way. Care about your users, and they'll care about you.
 
 h2. Consistently improve the product
 
