@@ -68,4 +68,6 @@ You can only optimize a few things at a time. Collect the data, but don't go ove
 
 h2. Kaizening
 
-foo
+Don't try to do too much right away. Optimize for consistency and quality of interactions with your users. Pick a few tasks, and do them every day. Give yourself time to make it a part of your process. As soon as doing them becomes a habit, try to improve. Brainstorm with your team and your users -- how can you do better? Don't add more tasks until existing ones become second nature. Watch "Jiro Dreams of Sushi":http://en.wikipedia.org/wiki/Jiro_Dreams_of_Sushi. It gives a great sense of what it means to do few things and do them well. Apply this philosophy to your work on building a community around your product.
+
+Be consistent, care about your users, and always try to do better.
