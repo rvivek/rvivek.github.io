@@ -14,7 +14,7 @@ h2. Focus on your users
 
 Your users don't see your product the way you do. Instead of product features they see use cases. Help them discover and understand your product through that lens. Go where they go. See what they see.
 
-Is your products a piece of backend infrastructure for web applications? Then what are the popular web development tools? Find out. Integrate with them. How easy is it to use your product from Django? AngularJS? PHP? What other products and services do web developers use? Analytics platforms? Monitoring tools? Can your product integrate with those? Write componets to make it easy. Document them well. Add a special section for each tool to your site. Make users who are used to other tools feel comfortable.
+Is your products a piece of backend infrastructure for web applications? Then what are the popular web development tools? Find out. Integrate with them. How easy is it to use your product from Django? AngularJS? PHP? What other products and services do web developers use? Analytics platforms? Monitoring tools? Can your product integrate with those? Write components to make it easy. Document them well. Add a special section for each tool to your site. Make users who are used to other tools feel comfortable.
 
 Most products and services have their own section for integrations. Get your integration component listed there. Do they have user groups? Conferences? Go there and talk about how you are solving your users's problems. Don't make your product the focus of your talks -- give other people a reason to promote it.
 
@@ -24,7 +24,7 @@ h2. Be kind, humble, and direct
 
 You will have to write a lot of content. Product benefits, feature descriptions, technical documentation, release announcements, blog posts, social media comments, whitepapers, even e-mails to users.
 
-Always be humble, concise, and direct. Don't try to sound impressive. State what your product does and doesn't do and let your users make their own judmenent. Short is better than long. Concrete is better than abstract. Avoid adverbs and adjectives -- use nouns and verbs. Review all copy with an eye for prefabricated phrases and marketing speak. Cut ruthlessly. Read ""Politics and the English Language"":https://www.mtholyoke.edu/acad/intrel/orwell46.htm and follow it religiously.
+Always be humble, concise, and direct. Don't try to sound impressive. State what your product does and doesn't do and let your users make their own judgement. Short is better than long. Concrete is better than abstract. Avoid adverbs and adjectives -- use nouns and verbs. Review all copy with an eye for prefabricated phrases and marketing speak. Cut ruthlessly. Read ""Politics and the English Language"":https://www.mtholyoke.edu/acad/intrel/orwell46.htm and follow it religiously.
 
 Always stay kind and polite. Treat everyone who took the time to use your product with reverence. Take all but the most crass questions seriously. Avoid talking about your competitors (but if you must, stick to facts).
 
@@ -46,7 +46,7 @@ If possible, make your product integration friendly. For example, at RethinkDB w
 
 Encourage your users to blog and do talks about how they're solving problems with your product. If someone is writing a post or doing a talk, make yourself accessible to answer their questions. Spending a little time to help them improve their content will make authors happy and will help get the word out. When your community members build software on top of your product, write a blog post, or do a talk, promote it to your users! Post a link on your site, tweet about it, blog about important projects.
 
-If your product solves a real need, your users will promote it at their workplace. Give them the resources to do it successfully! Ask them what information their colleagues need to make an informed decision about your product. Do they need a whitepaper? A more business-oriented presenation? A press clipping to demonstrate that your product is the real deal? Make that information available to them. Put genuine care and thought into helping your users's with their challenges, and they'll surprise you with their efforts to evangelize your product!
+If your product solves a real need, your users will promote it at their workplace. Give them the resources to do it successfully! Ask them what information their colleagues need to make an informed decision about your product. Do they need a whitepaper? A more business-oriented presentation? A press clipping to demonstrate that your product is the real deal? Make that information available to them. Put genuine care and thought into helping your users's with their challenges, and they'll surprise you with their efforts to evangelize your product!
 
 h2. Give thanks
 
@@ -62,7 +62,7 @@ Here is an example RethinkDB release that follows this template: ""RethinkDB 1.7
 
 h2. Measure impact
 
-When the community around your product gets big, you can no longer rely on your intuition. You have to start measuring the impact you're making and use the instruments to guide your decisions. How many people are actively using your product? What's the attrition rate? How engaged are the existing users? How many support messages do you get daily? How many feature requests? Are you closing issues faster than they're accumilating? Which support channels are your users using most frequently? Build the tools to collect the data __before__ your community gets so big that your intuition breaks down. Your findings may surprise you.
+When the community around your product gets big, you can no longer rely on your intuition. You have to start measuring the impact you're making and use the instruments to guide your decisions. How many people are actively using your product? What's the attrition rate? How engaged are the existing users? How many support messages do you get daily? How many feature requests? Are you closing issues faster than they're accumulating? Which support channels are your users using most frequently? Build the tools to collect the data __before__ your community gets so big that your intuition breaks down. Your findings may surprise you.
 
 You can only optimize a few things at a time. Collect the data, but don't go overboard and measure everything. Pick three to five metrics that are most important to you and focus on them. Metrics are a great way to measure how well you're doing, but a poor substitute for creativity. Use the instruments, but don't underestimate the human factor.
 
