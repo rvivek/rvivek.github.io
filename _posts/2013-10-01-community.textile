@@ -24,7 +24,7 @@ h2. Be kind, humble, and direct
 
 You will have to write a lot of content. Product benefits, feature descriptions, technical documentation, release announcements, blog posts, social media comments, whitepapers, even e-mails to users.
 
-Always be humble, concise, and direct. Don't try to sound impressive. State what the product does and doesn't do and let your users make their own judmenent. Short is better than long. Concrete is better than abstract. Avoid adverbs and adjectives -- use nouns and verbs. Review all copy with an eye for prefabricated phrases and marketing speak. Cut ruthlessly. Read ""Politics and the English Language"":https://www.mtholyoke.edu/acad/intrel/orwell46.htm and follow it religiously.
+Always be humble, concise, and direct. Don't try to sound impressive. State what your product does and doesn't do and let your users make their own judmenent. Short is better than long. Concrete is better than abstract. Avoid adverbs and adjectives -- use nouns and verbs. Review all copy with an eye for prefabricated phrases and marketing speak. Cut ruthlessly. Read ""Politics and the English Language"":https://www.mtholyoke.edu/acad/intrel/orwell46.htm and follow it religiously.
 
 Always stay kind and polite. Treat everyone who took the time to use your product with reverence. Take all but the most crass questions seriously. Avoid talking about your competitors (but if you must, stick to facts).
 
@@ -40,15 +40,15 @@ Do go above and beyond, but learn how to politely say no. Your responsibility is
 
 h2. Empower others
 
-No matter how vast the resources at your disposal, they're still limited. There are only so many integration components you can build, blog posts you can write, and conferences you can attend. Give your users the ammunition to evangelize your product! They're using your software because they're excited about the way you're trying to improve technology, and will be happy to tell others about what you're doing. They just need a little help.
+No matter how vast the resources at your disposal, they're still limited. There are only so many integration components you can build, blog posts you can write, and conferences you can attend. Give your users the ammunition to evangelize your product! They're using your software because they're excited about the way you're improving technology, and will be happy to tell others about what you're doing. They just need a little help.
 
-If possible, make your product integration friendly. For example, at RethinkDB we're always looking for simpler ways "to get data in":https://github.com/rethinkdb/rethinkdb/issues/1383 from other systems, "get it back out":https://github.com/rethinkdb/rethinkdb/issues/997 in realtime, and "make integration with monitoring tools easier":https://github.com/rethinkdb/rethinkdb/issues/1391. If the product supports simple ways to integrate with others platforms, your users will write integration components for their tools of choice, and then happily promote these components to your users. Make it easy for them!
+If possible, make your product integration friendly. For example, at RethinkDB we're always looking for simpler ways "to get data in":https://github.com/rethinkdb/rethinkdb/issues/1383 from other systems, "get it back out":https://github.com/rethinkdb/rethinkdb/issues/997 in realtime, and "make integration with monitoring tools easier":https://github.com/rethinkdb/rethinkdb/issues/1391. If your product supports simple ways to integrate with others platforms, your users will write integration components for their tools of choice, and then happily promote these components to your users. Make it easy for them!
 
 Encourage your users to blog and do talks about your product. If someone is writing a post or doing a talk, make yourself accessible to answer their questions. Spending a little time to help them improve their content will make authors happy and will help immensely to get the word out. When your community members build software on top of your product, write a blog post, or do a talk, promote it to your users! Post a link on your site, tweet about it, blog about important projects.
 
+If your product solves a real need, your users will promote it at their workplace. Give them the resources they need to do it successfully! Ask them what information their colleagues need to make an informed decision about your product. Do they need a whitepaper? A more business-oriented description of your product? A press clipping to demonstrate that your product is the real deal? Make that information available to them!
 
-
-Put genuine care and thought into promoting your users's work, and they'll surprise you with their efforts to evangelizing your product.
+Put genuine care and thought into helping your users's with their challenges, and they'll surprise you with their efforts to evangelizing your product.
 
 h2. Give recognition
 
