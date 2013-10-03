@@ -20,7 +20,7 @@ Most products and services have their own section for integrations. Get your int
 
 Where do your users ask questions to get support? Don't make it a walled garden. Use a platform your target users already know. GitHub for issue tracking and product management. StackOverflow for technical questions. Twitter for short questions about your product. Let people find out about your product organically, through other tools, resources, and communities they already love. Don't count on your website for exponential growth.
 
-h2. Be kind, humble, and direct
+h2. Write clearly
 
 You will have to write a lot of content. Product benefits, feature descriptions, technical documentation, release announcements, blog posts, social media comments, whitepapers, even e-mails to users.
 
