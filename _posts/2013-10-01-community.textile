@@ -56,7 +56,7 @@ Product tactics.
 
 h2. Measure impact
 
-When the community around your product gets big, you can no longer rely on your intuition. You have to start measuring the impact you're making and use the instruments to guide your decisions. How many people are actively using your product? What's the attrition rate? How engaged are the existing users? How many support messages do you get daily? How many feature requests? Are you closing issues faster than they're accumilating? Which support channels are your users using most frequently? Build the tools to collect the data __before__ your community gets so big that your intuition breaks down.
+When the community around your product gets big, you can no longer rely on your intuition. You have to start measuring the impact you're making and use the instruments to guide your decisions. How many people are actively using your product? What's the attrition rate? How engaged are the existing users? How many support messages do you get daily? How many feature requests? Are you closing issues faster than they're accumilating? Which support channels are your users using most frequently? Build the tools to collect the data __before__ your community gets so big that your intuition breaks down. Your findings may surprise you.
 
 You can only optimize a few things at a time. Collect the data, but don't go overboard and measure everything. Pick three to five metrics that are most important to you and focus on them. Metrics are a great way to measure how well you're doing, but a poor substitute for creativity. Use the instruments, but don't underestimate the human factor.
 
