@@ -54,7 +54,7 @@ h2. Consistently improve the product
 
 Product tactics.
 
-h2. Measure everything
+h2. Use the instruments
 
 When the community around your product gets big, you can no longer rely on your intuition. You have to start measuring the impact you're making and use the instruments to guide your decisions. How many people are actively using your product? What's the attrition rate? How engaged are the existing users? How many support messages do you get daily? How many feature requests? Are you closing issues faster than they're accumilating? Which support channels are your users using most frequently? Build the tools to collect the data __before__ your community gets so big that your intuition breaks down.
 
