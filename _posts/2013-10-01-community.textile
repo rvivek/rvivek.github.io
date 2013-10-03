@@ -40,6 +40,10 @@ Do go above and beyond, but learn how to politely say no. Your responsibility is
 
 h2. Empower others
 
+No matter how vast the resources at your disposal, they're still limited. There are only so many integration components you can build, blog posts you can write, and conferences you can attend. Give your users the ammunition to evangelize your product! They're using your software because they're excited about the way you're trying to improve technology, and will be happy to tell others about what you're doing. They just need a little help.
+
+If possible, make your product integration friendly. For example, at RethinkDB we're always looking for simpler ways "to get data in":https://github.com/rethinkdb/rethinkdb/issues/1383 from other systems, "get it back out":https://github.com/rethinkdb/rethinkdb/issues/997 in realtime, and "make integration with monitoring tools easier":https://github.com/rethinkdb/rethinkdb/issues/1391. If the product supports simple ways to integrate with others platforms, your users will write components to integrate with their tools of choice, and then happily promote those components to your users. Make it easy for them!
+
 PR. RethinkDB gems. Allow for integrations. Encourage talks.
 
 h2. Give recognition
