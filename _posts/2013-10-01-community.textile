@@ -48,7 +48,7 @@ Encourage your users to blog and do talks about your product. If someone is writ
 
 If your product solves a real need, your users will promote it at their workplace. Give them the resources to do it successfully! Ask them what information their colleagues need to make an informed decision about your product. Do they need a whitepaper? A more business-oriented description of your product? A press clipping to demonstrate that your product is the real deal? Make that information available to them.
 
-<img src="https://pbs.twimg.com/media/BS2PvhWIYAAXgBY.jpg:large" style="float: right;" />
+<img src="https://pbs.twimg.com/media/BS2PvhWIYAAXgBY.jpg:large" style="float: right; width: 20%; height: 20%;" />
 
 Put genuine care and thought into helping your users's with their challenges, and they'll surprise you with their efforts to evangelizing your product!
 
