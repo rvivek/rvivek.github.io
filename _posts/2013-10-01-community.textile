@@ -8,7 +8,7 @@ h1. {{ page.title }}
 
 p(meta). 01 Oct 2013
 
-Building a community around your product is a powerful way to get the word out. Do it right and you'll have dedicated community members evangelizing your product in places you didn't even know exist. Do it wrong and your users will root against you (or worse, ignore you). Here is what we've learned about building a community by doing it for RethinkDB.
+Building a community around your product is a powerful way to get the word out. Do it right and you'll have dedicated community members evangelizing your product in ways you didn't think of. Do it wrong and your users will root against you (or worse, ignore you). Here is what we've learned about building a community at "RethinkDB":http://www.rethinkdb.com.
 
 h2. Focus on your users
 
