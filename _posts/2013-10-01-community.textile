@@ -62,6 +62,6 @@ When the community around your product gets big, you can no longer rely on your 
 
 You can only optimize a few things at a time. Collect the data, but don't try go overboard on measuring everything. Pick three to five metrics that are most important to you and focus on them. Metrics are a great way to measure how well you're doing, but a poor substitute for creativity. Use the instruments, but don't underestimate the human factor.
 
-h2. Kaizen/jiro dreams of sushi
+h2. Kaizening
 
 foo
