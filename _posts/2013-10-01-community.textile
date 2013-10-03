@@ -54,7 +54,11 @@ Find creative ways to thank your users for taking the time to get involved in th
 
 h2. Consistently improve the product
 
-Product tactics.
+One of the most important things you can do to foster community growth is consistent product releases. We release a new version of RethinkDB every six weeks. Find a good release cycle for your product, and get into the groove.
+
+For every product release, include at least one feature that resolves a complaint from existing users, one feature that attracts new users, and one feature you find interesting. Pick one feature from each category, and weave it into the release announcement. Give each release a title, preferably under 80 characters in length. Take the time to announce it. Write a short blog post explaining what goes into the release and why it matters. Put it on Hacker News, Twitter, or other channels where your audience hangs out. Consider having a team member create a short video explaining the release.
+
+Here is an example RethinkDB release that follows this template: "RethinkDB 1.7: hot backup, atomic set/get, 10x insert performance improvement":http://rethinkdb.com/blog/1.7-release/.
 
 h2. Measure impact
 
