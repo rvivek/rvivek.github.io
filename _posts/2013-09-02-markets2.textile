@@ -14,18 +14,24 @@ Of these three concepts -- product, market, and distribution, "the market is mos
 
 So how do you find a great market?
 
-h2. Markets
+h3. Efficient market hypothesis
 
-There are three basic schools of thought for how technology markets work -- the markets are efficient, the markets are inefficient, and the markets are unpredictable.
+Efficient market hypothesis.
 
-The efficient market hypothesis postulates that a market will arise precisely when external social or technological conditions make it possible for it to arise, not before and not after. It also postulates that after the market arises, multiple teams jump in and start working on the problem. Because technology markets usually can support exponential growth, the first baseline capable product that satisfies the need takes the market. Marc Andreessen's "product/market fit":http://blog.jedchristiansen.com/pmarcaarchive/the-pmarca-guide-to-startups-part-4-the-only idea is largely based on the implications of working in a world where the market is efficient.
+# __The need__ (the market) arises first, as a result of some social or technological change.[^1^]
+# Once the need arises, multiple products that attempt to satisfy it will quickly arise.
+# The first product to actually satisfy the need wins. It doesn't matter how good it is. It doesn't matter what else it can or cannot do. It's only necessary for it to be good enough at satisfying the actual need.[^2^]
+# The upper bound of success is determined solely by the size of the market.
 
-There is a lot of evidence to support the efficient market hypothesis. For example, the fact that a great number of technical innovations were patented in different parts of the world nearly simultaniously. If you've ever started a technology company, this hypothesis intuitively seems correct. Build the product too early, and nobody wants it. But the moment someone wants it, you'll find yourself among dozens of companies competing with you.
+If you take these dynamics to their logical conclusion, you'll quickly realize that startups are __very__ tricky business. The moment a new market need arises, multiple teams will quickly discover the problem and start working on it. Furthermore, you have to assume that a few of those teams will be at least as good as you are, and will work just as fast.[^3^] Most importantly, the moment __just one__ of these teams delivers a baseline acceptable product that solves the underlying problem, the game is over. How can you plan to win in these conditions? The recipe, I think, is to ask three simple questions: __why now?__, __how big?__, and __why us?__.
 
-The inefficient market hypothesis is a refinement of the efficient market hypothesis. The idea is that the markets, of course, aren't perfectly efficient. If they were, how could new markets ever arise and new products get built? Since people seem to be pretty quick at exploiting inefficiencies once they're discovered, it follows that market inefficies happen because of information assymetry -- things we don't know about nature or ourselves. Peter Thiel's idea of "secrets":http://blakemasters.com/post/22866240816/peter-thiels-cs183-startup-class-11-notes-essay is largely based on the implications of working in a world where the market is inefficient.
+h3. Game of Thrones vs. Hunger Games
 
+To illustrate this a little better, let's look at two products slightly outside of the startup world -- Game of Thrones, and Hunger Games (the screen versions, but you can also apply this to books). To a naive observer these franchises came out of nowhere. But if you look a little deeper, you'll see that the model I described here applies perfectly.
 
+Both franchises came into being at roughly the same time. __Why now?__ Arguably for two reasons. The first is that mass market media has been on a trajectory towards more violence, more grit, and youger, more sexualized characters. The second reason is that movies like Lord of the Rings and Harry Potter paved the way for mass market acceptance of fantasy worlds. Combine these two factors, and you see a need -- an extremely violent, sexualized, mass market fantasy world for adults. Neither franchise would have been possible ten years ago. Both franchises will be old news ten years from now. But __right now__, these products are seeing phenomenal traction because there is a need, and it must be filled.
 
-h2. Competition / timing
+__How big__ is this market? Very, very big. Lord of the Rings big. Harry Potter big. Escapism for adults big (the key insight here is that adults want a few hours of escape from their lives even more than children do). We don't even need to do back of the napkin math big.
 
-Suppose you came up with good answers to these questions. You're still not done. If you're on the internet, you can sell to anyone in the world, but so can anyone else. You're competing with __everyone__ in the world. So it's not enough to just have good ideas. Other people will come and eat your lunch. You have to think about that too.
+__Which one__ will win? As far as franchises go, my money is on Game of Thrones. Why? Because it doesn't equivocate. It's unafraid of picking a unique direction to satisfy a need and taking it to its logical conclusion. Hunger Games, on the other hand, __does__ equivocate. It's dealing with children, so the creators are worried about stepping too far. It's on the big screen, so it isn't as free to take a stance as Game of Thrones is on HBO. The violence isn't as gritty, and the sex is largely missing. Even the teenagers who Hunger Games was designed for want Game of Thrones instead.[^4^] Hunger Games is good, but it isn't quite __good enough__ at satisfying the actual need. They tried to add bells and whistles like fancy costumes and CGI, but the market doesn't care. The market wants a fantasy world that's as violent and as sexualized as possible. It wants Game of Thrones.
+
