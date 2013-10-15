@@ -16,6 +16,8 @@ One dangerous piece of conventional wisdom is that a good team will find a way t
 
 The startup world is full of exceptions. Let exceptions save you when you run into trouble, but don't count on being exceptional. Exceptions are no excuse to avoid understanding market dynamics or failing to plan.
 
+Fortunately people have built up a lot of knowledge on how markets work. We only need to extend it to the startup world.
+
 h3. Efficient market hypothesis
 
 Efficient market hypothesis.
