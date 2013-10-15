@@ -8,7 +8,15 @@ h1. {{ page.title }}
 
 p(meta). 02 Sep 2013
 
-A startup is a living, breathing, working proof by induction. Your base case is a "product":http://www.defmacro.org/2013/09/26/products.html that a small subset of target customers love. Your inductive step is a superlinear distribution. You put @$X@ dollars in, and get @o(X)@ users out. The medium to support a superlinear distribution is a large market.
+If you've never started a company, the world seems very inefficient. Energy is too expensive (and too damaging to the environment), transportation is too inconvenient, software is too buggy, and microwaves have terrible UI. If only you had the resources to start a company, you could do so much better. You'd take over the obtusely inefficient world!
+
+Then you set out to start your company. You badger enough people, and eventually someone funds you. You buy countless experts coffee and build connections in your field. You surround yourself with experienced people who genuinely want to see you succeed. You cross your fingers, and start building your product. One by one, your competitors launch their offerings before you can. Your precious product doesn't seem so differentiated anymore. Against the odds, your team continues to work on their baby, and you finally get to market. Customers start asking the dreaded question -- how is this better than half a dozen products that already exist? Your competitors start gaining more mindshare, and raise more capital. You find it harder and harder to compete. Other companies in your field shoot right past you, and you start running out of cash. You realize you can't raise more, not without giving away most of your company. You pour yourself a glass of scotch, think it over, and face up to the facts. The game is over. You lost.
+
+Every first time entrepreneur knows this story all too well. It's likely that one of two things happened. You didn't know "how to build products":http://www.defmacro.org/2013/09/26/products.html, or you've picked a terrible market. In this post, I want to deal with the latter.
+
+h2. Market dynamics
+
+A startup is a living, breathing, working proof by induction. Your base case is a product that a small subset of target customers love. Your inductive step is a superlinear distribution. You put @$X@ dollars in, and get @o(X)@ users out. The medium to support a superlinear distribution is a large market.
 
 Of these three concepts -- product, market, and distribution, "the market is most important":http://blog.jedchristiansen.com/pmarcaarchive/the-pmarca-guide-to-startups-part-4-the-only. When you're building software with a baseline competent team, you can usually figure out how to build a great product and get to superlinear distribution when favorable market conditions fill your sails. Conversely, if the market conditions are poor, you'll never get past the base case. The inductive step doesn't work if you don't have a fertile medium for growth.
 
@@ -16,11 +24,9 @@ One pernicious piece of conventional wisdom is that a good team will find a way 
 
 The startup world is full of exceptions. Allow serendipitous events to save you when you run into trouble, but don't count on being exceptional. Exceptions are no excuse to avoid understanding market dynamics or failing to plan. Fortunately people have built up a lot of knowledge on how markets work. We only need to extend it to the startup world.
 
-h3. Efficient market hypothesis
+h2. Efficient market hypothesis
 
-If you've never started a company, the world seems very inefficient. Energy is too expensive (and too damaging to the environment), transportation is too inconvenient, software is too buggy, and microwaves have terrible UI. If only you had the resources to start a company, you could do so much better. You'd take over the obtusely inefficient world!
-
-Then you set out to start your company. You badger enough people, and eventually someone funds you. You buy countless experts coffee and build connections in your field. You surround yourself with experienced people who genuinely want to see you succeed. You cross your fingers, and start building your product. You soon discover that one by one, competitors launch their offerings before you can. Your precious product doesn't seem so differentiated anymore. You finally get to market and discover that customers ask the dreaded question -- how is this better than half a dozen products that already exist? Your competitors start gaining more mindshare, and raise more capital. You find it harder and harder to compete. Other companies in your field shoot right past you, and you start running out of cash. You realize you can't raise more, not without giving away most of your company. You pour yourself a glass of scotch, think it over, and face up to the facts. The game is over. You lost.
+Efficient market hypothesis.
 
 # __The need__ (the market) arises first, as a result of some social or technological change.
 # Once the need arises, multiple products that attempt to satisfy it will quickly arise.
@@ -29,7 +35,7 @@ Then you set out to start your company. You badger enough people, and eventually
 
 If you take these dynamics to their logical conclusion, you'll quickly realize that startups are __very__ tricky business. The moment a new market need arises, multiple teams will quickly discover the problem and start working on it. Furthermore, you have to assume that a few of those teams will be at least as good as you are, and will work just as fast. Most importantly, the moment __just one__ of these teams delivers a baseline acceptable product that solves the underlying problem, the game is over. How can you plan to win in these conditions? The recipe, I think, is to ask three simple questions: __why now?__, __how big?__, and __why us?__.
 
-h3. Game of Thrones vs. Hunger Games
+h2. Game of Thrones vs. Hunger Games
 
 To illustrate this a little better, let's look at two products slightly outside of the startup world -- Game of Thrones, and Hunger Games (the screen versions, but you can also apply this to books). To a naive observer these franchises came out of nowhere. But if you look a little deeper, you'll see that the model I described here applies perfectly.
 
