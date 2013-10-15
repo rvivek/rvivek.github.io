@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to pick startup ideas
+title: How to find startup ideas
 wip: true
 ---
 
