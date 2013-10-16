@@ -14,7 +14,7 @@ Then you set out to start your company. You badger enough people, and eventually
 
 Every first time entrepreneur knows this story all too well. It's likely that at least one of four things went wrong: you didn't know "how to manage engineering":http://www.defmacro.org/2013/06/03/engineering-commandments.html, you didn't know "how to build products":http://www.defmacro.org/2013/09/26/products.html, you didn't know how to tell people about what you've built, or you didn't know how to evaluate markets. In this post, I'd like to deal with the latter of the four -- picking great markets.
 
-h2. Market dynamics
+h2. Proof by induction
 
 A startup is a living, breathing, working proof by induction. Your base case is a product that a small subset of target customers love. Your inductive step is a superlinear distribution. You put @$X@ dollars in, and get @o(X)@ users out. The medium to support a superlinear distribution is a large market.
 
