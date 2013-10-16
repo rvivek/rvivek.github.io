@@ -16,7 +16,7 @@ Every first time entrepreneur knows this story all too well. It's likely that at
 
 h2. Proof by induction
 
-A startup is a living, breathing, working proof by induction. Your base case is a product that a small subset of target customers love. Your inductive step is a superlinear distribution. You put @$X@ dollars in, and get @o(X)@ users out. The medium to support a superlinear distribution is a large market.
+A startup is a living, breathing, working proof by induction. Your base case is a product that a small subset of target customers love. Your inductive step is superlinear distribution. You put @$X@ dollars in, and get @o(X)@ users out. The medium to support superlinear distribution is a large market.
 
 Of these three concepts -- product, market, and distribution, "the market is most important":http://blog.jedchristiansen.com/pmarcaarchive/the-pmarca-guide-to-startups-part-4-the-only. When you're building software with a baseline competent team, you can usually figure out how to build a great product and get to superlinear distribution when favorable market conditions fill your sails. Conversely, if the market conditions are poor, you'll never get past the base case. The inductive step doesn't work if you don't have a fertile medium for growth.
 
