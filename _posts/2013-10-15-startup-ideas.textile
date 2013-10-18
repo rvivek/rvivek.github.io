@@ -28,12 +28,14 @@ The startup world is full of exceptions, but you can't count on being exceptiona
 
 h2. Efficient market hypothesis
 
-Efficient market hypothesis.
+Most first time entrepreneurs structure their companies to depend on a multitude of serendipitous events. They hope their startup idea will stick with customers, expect competitors to ship infeir products, and depend on journalists and PR to generate demand. While serendipitous events do happen, this is a suboptimal path. It makes much more sense to structure your company to depend on as few outside factors as possible, and be very disciplined about picking unlikely events that have to occur for you to succeed. The best way to build this discipline is to assume the markets are efficient, and work backwards.
 
-# __The need__ (the market) arises first, as a result of some social or technological change.
-# Once the need arises, multiple products that attempt to satisfy it will quickly arise.
-# The first product to actually satisfy the need wins. It doesn't matter how good it is. It doesn't matter what else it can or cannot do. It's only necessary for it to be good enough at satisfying the actual need.
-# The upper bound of success is determined solely by the size of the market.
+Here is what the efficient market hypothesis means for startups if you take it to its logical conclusion:
+
+# __The need__ (the market) arises first, as a result of some social or technological change, precisely when it can arise and no earlier. If the market could have arised earlier, it already would have.
+# Once the need arises, multiple teams with start working on it, and multiple products that attempt to satisfy it will arise nearly instantaniously.
+# Customers always err on the side of inertia, which suggests winner take all markets. The first product to actually satisfy the need wins. It doesn't matter how good it is. It doesn't matter what else it can or cannot do. It's only necessary for it to be good enough at satisfying the actual need.
+# The upper bound of success for the winning product is determined solely by the size of the market.
 
 If you take these dynamics to their logical conclusion, you'll quickly realize that startups are __very__ tricky business. The moment a new market need arises, multiple teams will quickly discover the problem and start working on it. Furthermore, you have to assume that a few of those teams will be at least as good as you are, and will work just as fast. Most importantly, the moment __just one__ of these teams delivers a baseline acceptable product that solves the underlying problem, the game is over. How can you plan to win in these conditions? The recipe, I think, is to ask three simple questions: __why now?__, __how big?__, and __why us?__.
 
