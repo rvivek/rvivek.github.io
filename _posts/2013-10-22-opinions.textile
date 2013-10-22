@@ -13,7 +13,7 @@ bq. I’m convinced that no one can amount to a damn in the arts if he becomes s
 
 Everyone I know in the startup world who is worth their salt has strong opinions on a wide range of subjects.
 
-Deadlines are necessary to produce successful software products. Software timelines are unpredictable so do away with deadlines. Raise as little money as possible to get you to the next milestone. The best way to build a company is to raise as much money as you can. PaaS is the future because there is no money in support and licensing. PaaS has terrible economics and it's best to charge for support and licensing instead.
+Deadlines are necessary to produce successful software products. Software timelines are unpredictable so do away with deadlines. Raise as little money as possible to get you to the next milestone. The best way to build a company is to raise as much money as possible. PaaS is the future because there is no money in support and licensing. PaaS has terrible economics and it's best to charge for support and licensing instead.
 
 I interact with people who have strong opinions like these all the time. It's good, because strong opinions are necessary. You must have strong opinions to decide between hundreds of available technologies, make progress in heated product debates, and make business decisions quickly when time is a factor. But there is another aspect to the company building equation. It's not enough to be opinionated. You have to be opinionated and "right":http://www.amazon.com/Values-Careers-Homepage/b?ie=UTF8&node=239365011, at least most of the time.
 
@@ -25,7 +25,7 @@ In the course of my work I find myself having strong opinions on people manageme
 * What criteria am I using to gauge whether my opinion is correct?
 * What evidence would I need to convince myself I'm wrong?
 
-These questions are clarifying. Most of the time I ask myself what evidence I would need to convince myself I'm wrong, I find myself stumbling through the answer. It becomes painfully clear I haven't thought things through. It's the first step to abandoning a cookie-cutter, knee-jerk reaction and getting a *real* answer.
+These questions are clarifying. Most of the time I ask myself what evidence I would need to convince myself I'm wrong, I find myself stumbling through the answer. It becomes painfully clear I haven't thought things through. It's the first step to abandoning cookie-cutter reactions and getting to a *real* answer.
 
 h2. Role models
 
