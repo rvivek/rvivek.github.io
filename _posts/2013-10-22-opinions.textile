@@ -9,6 +9,6 @@ h1. {{ page.title }}
 p(meta). 22 Oct 2013
 
 bq. I’m convinced that no one can amount to a damn in the arts if he becomes sweetly reasonable, seeing all sides of a picture, forgiving all sins.
-bq.   -- Kurt Vonnegut
+  -- Kurt Vonnegut
 
 All engineers I know who are worth their salt have very strong opinions on a wide range of subjects. That's good. 
