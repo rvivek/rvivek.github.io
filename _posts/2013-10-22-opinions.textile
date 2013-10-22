@@ -19,7 +19,7 @@ I encounter strong opinions like these all the time, in others and in myself. It
 
 h2. Asking questions
 
-In the course of my work I find myself having strong opinions on people management, fundraising, market dynamics, product management, marketing, sales, engineering, even personal psychology. I try to be direct about it to avoid wasting people's time. "I have a strong opinion on X and I disagree with your view." But whenever I find myself having a strong opinion, I also try to ask myself three questions:
+In the course of my work I find myself having strong opinions on people management, fundraising, market dynamics, product management, marketing, sales, engineering, even personal psychology. I try to be direct about it to avoid wasting people's time. "I have a strong opinion on X and I disagree with your view." But whenever I find myself having a strong opinion, I  try hard to make a habit of asking myself three questions:
 
 * How did I come to form this opinion?
 * What criteria am I using to gauge whether my opinion is correct?
