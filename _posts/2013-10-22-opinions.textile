@@ -15,7 +15,7 @@ Everyone I know in the startup world who is worth their salt has strong opinions
 
 Deadlines are necessary to produce successful software products. Software timelines are unpredictable so do away with deadlines. Raise as little money as possible to get you to the next milestone. The best way to build a company is to raise as much money as possible. PaaS is the future because there is no money in support and licensing. PaaS has terrible economics and it's best to charge for support and licensing instead.
 
-I interact with people who have strong opinions like these all the time. It's good, because strong opinions are necessary. You must have strong opinions to decide between hundreds of available technologies, make progress in heated product debates, and make business decisions quickly when time is a factor. But there is another aspect to the company building equation. It's not enough to be opinionated. You have to be opinionated and "right":http://www.amazon.com/Values-Careers-Homepage/b?ie=UTF8&node=239365011, at least most of the time.
+I encounter strong opinions like these all the time, in others and in myself. It's good, because strong opinions are necessary. You must have strong opinions to decide between hundreds of available technologies, make progress in heated product debates, and make business decisions quickly when time is a factor. But there is another aspect to the company building equation. It's not enough to be opinionated. You have to be opinionated and "right":http://www.amazon.com/Values-Careers-Homepage/b?ie=UTF8&node=239365011, at least most of the time.
 
 h2. Asking questions
 
