@@ -21,4 +21,4 @@ All engineers I know who are worth their salt have very strong opinions on a wid
 
 That's good. You must have strong opinions to decide between hundreds of available technologies, make progress in heated technical debates, and make decisions quickly when time is a factor. But there is another aspect to the software development equation. Strong opinions are necessary but not sufficient. You have to be "opinionated and right":http://www.amazon.com/Values-Careers-Homepage/b?ie=UTF8&node=239365011, at least most of the time.
 
-We interview many engineering candidates who have strong opinions. Some of them say this outright -- "I have strong opinions on this and I disagree with your direction." 
+We interview many engineering candidates who have strong opinions. Some of them say this outright -- "I have strong opinions on [SUBJECT] and I disagree with your direction." 
