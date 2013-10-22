@@ -17,7 +17,7 @@ All engineers I know who are worth their salt have very strong opinions on a wid
 * Weak typing allows for quick iteration so we should use Python instead of Java
 * Deadlines are necessary to produce successful software products
 * Software timelines are unpredictable so we should do away with deadlines
-* We have to refactor this component to make the product fast enough to be usable by customers
+* We have to refactor to make the product fast enough to be usable by customers
 * Customers don't care about speed in this case, so refactoring is a waste of time
 
 That's good. You must have strong opinions to decide between hundreds of available technologies, make progress in heated technical debates, and make decisions quickly when time is a factor. But there is another aspect to the software development equation. Strong opinions are necessary but not sufficient. You have to be "opinionated and right":http://www.amazon.com/Values-Careers-Homepage/b?ie=UTF8&node=239365011, at least most of the time.
