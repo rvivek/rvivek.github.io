@@ -17,8 +17,8 @@ Everyone I know in the startup world who is worth their salt has strong opinions
 * Software timelines are unpredictable so we do away with deadlines
 * Raise as little money as possible to get you to the next milestone
 * The best way to build a company is to raise as much money as you can
-* We're building a PaaS because there is no money in open source
-* PaaS has terrible economics so we charge for support instead
+* We're building a PaaS because there is no money in support and licensing
+* PaaS has terrible economics so we charge for support and licensing instead
 * ...
 
 That's good. You must have strong opinions to decide between hundreds of available technologies, make progress in heated product debates, and make business decisions quickly when time is a factor. But there is another aspect to the company building equation. Strong opinions are necessary but not sufficient. You have to be opinionated and "right":http://www.amazon.com/Values-Careers-Homepage/b?ie=UTF8&node=239365011, at least most of the time.
