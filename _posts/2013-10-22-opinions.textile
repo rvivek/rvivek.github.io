@@ -17,6 +17,8 @@ Deadlines are necessary to produce successful software products. Software timeli
 
 I meet people with strong opinions all the time. It's good, because strong opinions are necessary. You must have strong opinions to decide between hundreds of available technologies, make progress in heated product debates, and make business decisions quickly when time is a factor. But there is another aspect to the company building equation. It's not enough to be opinionated. You have to be opinionated and "right":http://www.amazon.com/Values-Careers-Homepage/b?ie=UTF8&node=239365011, at least most of the time.
 
+h2. Asking questions
+
 In the course of my work I find myself having strong opinions on people management, fundraising, market dynamics, product management, marketing, sales, engineering, even personal psychology. I try to be direct about it to avoid wasting people's time. "I have a strong opinion on X and I disagree with your view." But whenever I find myself having a strong opinion, I also try to ask myself three questions:
 
 * How did I come to form this opinion?
@@ -24,6 +26,12 @@ In the course of my work I find myself having strong opinions on people manageme
 * What evidence would I need to convince myself I'm wrong?
 
 These questions are clarifying. Most of the time I ask myself what evidence I would need to convince myself I'm wrong, I find myself stumbling through the answer. It becomes painfully clear I haven't thought things through.
+
+h2. Role models
+
+Foo
+
+h2. Avoiding dogma
 
 bq. In studying a philosopher, the right attitude is neither reverence nor contempt, but first a kind of hypothetical sympathy, until it is possible to know what it feels like to believe in his theories, and only then a revival of the critical attitude, which should resemble, as far as possible, the state of mind of a person abandoning opinions which he hitherto held. Contempt interferes with the first part of this process, and reverence with the second.
 -- Bertrand Russell
