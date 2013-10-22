@@ -21,6 +21,11 @@ In the course of my work I find myself having strong opinions on people manageme
 
 * How did I come to form this opinion?
 * What criteria am I using to gauge whether my opinion is correct?
-* What evidence would I need to see to convince me I'm wrong?
+* What evidence would I need to convince myself I'm wrong?
 
-Foo
+These questions are clarifying. Most of the time I ask myself what evidence I would need to convince myself I'm wrong, I find myself stumbling through the answer. It becomes painfully clear I haven't thought things through.
+
+bq. In studying a philosopher, the right attitude is neither reverence nor contempt, but first a kind of hypothetical sympathy, until it is possible to know what it feels like to believe in his theories, and only then a revival of the critical attitude, which should resemble, as far as possible, the state of mind of a person abandoning opinions which he hitherto held. Contempt interferes with the first part of this process, and reverence with the second.
+-- Bertrand Russell
+
+Foo.
