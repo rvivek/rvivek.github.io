@@ -23,10 +23,10 @@ Everyone I know in the startup world who is worth their salt has strong opinions
 
 That's good. You must have strong opinions to decide between hundreds of available technologies, make progress in heated product debates, and make business decisions quickly when time is a factor. But there is another aspect to the company building equation. Strong opinions are necessary but not sufficient. You have to be opinionated and "right":http://www.amazon.com/Values-Careers-Homepage/b?ie=UTF8&node=239365011, at least most of the time.
 
-In the course of my work I meet a lot of potential investors, advisors, users, and engineers who have strong opinions. Some of them say this outright -- "I have strong opinions on X and I disagree with your direction." This is a great sign. It means I'm likely to learn something new because the person has a new perspective on my field. But then, I ask about the second part of the equation.
+In the course of my work I find myself having strong opinions on people management, fundraising, market dynamics, product management, marketing, sales, engineering, even personal psychology. I try to be direct about it to avoid wasting people's time. "I have strong opinions on X and I disagree with our direction." But whenever I find myself having a strong opinion, I also try to ask myself three questions:
 
-* How did you come to form this opinion?
-* What criteria are you using to gauge whether your opinion is correct?
-* What evidence would you need to see to convince you you're wrong?
+* How did I come to form this opinion?
+* What criteria am I using to gauge whether my opinion is correct?
+* What evidence would I need to see to convince me I'm wrong?
 
 Foo
