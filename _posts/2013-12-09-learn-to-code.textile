@@ -27,5 +27,5 @@ The late nineties, Russian immigrant version of the learn to code movement *real
 
 By 2000 the whole thing went bust. Most people taking these courses never managed to get a job, and everyone found out soon enough. Most of the few people that did manage to get jobs lost them after the dot-com crash. Everyone found out about that too. Trade school TV advertisements stopped entirely, replaced by advertisements of medical and dental offices. By 2005 everyone forgot about the whole thing.
 
-I don't know what it means for the learn to code movement. All I know is that my uncle is one of the very few people who are to this day making a living programming the IBM AS/400.
+I don't know what it means for today's learn to code movement, or whether there are any useful parallels to be drawn from its 1996 counterpart. In many ways today's movement feels similar, but there are many crucial ways in which it's different. All I know is that my uncle is one of the very few people who are to this day making a living programming the IBM AS/400.
 
