@@ -7,7 +7,7 @@ h1. {{ page.title }}
 
 p(meta). 09 Dec 2013
 
-I've been meaning to write up my take on the learn to code movement for quite some time now, but for one reason or another haven't managed to get around to it. Now that the "president is endorsing Computer Science and telling Americans to learn to code":https://www.youtube.com/watch?v=6XvmhE1J9PY&list=TL6euzOUWjLwl8_6zUc-uxbfDbAZw-8RhW, this post has jumped to the top of my priority list.
+I've been meaning to write up my take on the learn to code movement for quite some time now, but for one reason or another haven't managed to get around to it. Now that the president is endorsing Computer Science and "telling Americans to learn to code":https://www.youtube.com/watch?v=6XvmhE1J9PY&list=TL6euzOUWjLwl8_6zUc-uxbfDbAZw-8RhW, this post has jumped to the top of my priority list.
 
 After all, I have a unique perspective on this movement that most commentators are missing. I was a Russian immigrant in NYC in 1996.
 
