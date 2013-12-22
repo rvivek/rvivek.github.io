@@ -1,0 +1,29 @@
+---
+layout: post
+title: The next Steve Jobs
+wip: true
+---
+
+h1. {{ page.title }}
+
+p(meta). 23 Dec 2013
+
+I'd like to talk about the practice in the startup ecosystem of
+thinking about promising founders as the next @X@ (where @X@ is Steve
+Jobs, Mark Zuckerberg, or any other notoriously successful startup
+CEO). Investors think this way when evaluating deals, employees think
+this way when considering joining young startups, and startup founders
+think this way when they meet other founders.
+
+That in itself wouldn't be so bad. But what *is* bad is how this
+atmosphere encourages startup founders to think this way when
+evaluating themselves. I've seen countless people struggle with this
+line of thinking for years, and it hasn't been that long since I've
+struggled with it myself.
+
+I think It's an extremely destructive pattern. I wouldn't be surprised
+if it cut the odds of startup success in half.
+
+
+
+
