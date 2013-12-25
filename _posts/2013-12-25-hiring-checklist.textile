@@ -8,16 +8,9 @@ h1. {{ page.title }}
 
 p(meta). 10 Mar 2013
 
-There are times when I find myself under a lot of pressure to extend
-offers to candidates who aren't quite a good fit for our team. Every
-time I'm about to reject a candidate, my mind wobbles. I fear that I
-might miss out on a good person because of some irrelevancy, or that
-the cost of not staffing quickly enough exceeds the cost of hiring an
-imperfect candidate, or that I'm looking for the wrong attributes and
-ought to be looking for something else.
+There are times when I find myself under a lot of pressure to extend offers to candidates who aren't quite a good fit for our team. Every time I'm about to reject a candidate, my mind wobbles. I fear that I might miss out on a good person because of some irrelevancy, or that the cost of not staffing quickly enough exceeds the cost of hiring an imperfect candidate, or that I'm looking for the wrong attributes and ought to be looking for something else.
 
-This is a framework I wrote down for myself to keep myself from making
-silly in-the-moment hiring mistakes.
+This is a checklist I wrote down for myself to keep myself from making silly in-the-moment hiring mistakes.
 
 h2. The one unique attribute
 
