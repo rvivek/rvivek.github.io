@@ -8,23 +8,23 @@ h1. {{ page.title }}
 
 p(meta). 10 Mar 2013
 
-There are times when I find myself under a lot of pressure to extend offers to candidates who aren't quite a good fit for our team. Every time I'm about to reject a candidate, my mind wobbles. I fear that I might miss out on a good person because of some irrelevancy, or that the cost of not staffing quickly enough exceeds the cost of hiring an imperfect candidate, or that I'm looking for the wrong attributes and ought to be looking for something else.
+There are times when I find myself under a lot of pressure to extend offers to candidates who aren't quite a good fit for our team. Every time I'm about to reject someone, my mind wobbles. I fear that I might miss out on a good person because of some irrelevancy, or that the cost of not staffing quickly enough exceeds the cost of hiring an imperfect candidate, or that I'm looking for the wrong attributes and ought to be looking for something else.
 
 This is a checklist I wrote down for myself to keep myself from making silly in-the-moment hiring mistakes.
 
 h2. The one unique attribute
 
-Always make sure the candidate possesses *dramatically* impressive talent and passion in one concrete, unique area, *and* that this area is critical to the team's success. Ask yourself -- what would happen if they worked on the product for a month without any oversight? The result may not be what you would have liked, but would you be proud of the quality?
+Always make sure the candidate possesses a *dramatically* impressive talent and passion in one concrete, unique area, *and* that this area is critical to the team's success. Ask yourself -- what would happen if they worked on the product for a month without any oversight? The result may not be what you would have liked, but would you be proud of the quality?
 
 h2. Common attributes
 
-Lack of any one of these attributes obliterates the delicate balance necessary for a well-gelled, well-run team. Never settle for someone who doesn't have one or more of these attributes, no matter how talanted they are, or how understaffed you are.
+Lack of any one of these attributes obliterates the delicate balance necessary for a well-gelled, well-run team. Never settle for someone who doesn't have one or more of these attributes, no matter how talented they are, or how understaffed you are.
 
 # *Commitment.* A candidate who doesn't share your excitement for what the company is trying to accomplish will do mediocre work despite their best efforts. Don't hire mercenaries, it's rarely worth it.
 # *Humility.* An egotistical person won't accept criticism or responsibility for mistakes. They'll attribute the team's success to themselves, and failure to everyone else. They won't only challenge your decisions, but your authority to make them.
 # *Pragmatism.* Strongly opinionated people are wonderful, so long as they validate the merit of their opinions by the success of their practical application to the company's goals.
-# *Effectiveness.* Some people have every other quality, but just can't get things done to your standard of speed and quality. Give the candidate a short, concrete, well defined project inspired by your daily work. It will quickly expose how effective they really are.
-# *Openness.* You don't have to instantaneously become best friends, but you do have to be able to establish some rapport. Make sure the candidate open and positive, and welcomes feedback on their opinions and prior work.
+# *Effectiveness.* Some people have every other quality, but just can't get things done to your standard of speed and quality. Give the candidate a short, concrete, well-defined project inspired by your daily work. It will quickly expose how effective they really are.
+# *Openness.* You don't have to instantaneously become best friends, but you do have to be able to establish some rapport. Make sure the candidate is open and positive, and welcomes feedback on their opinions and prior work.
 
 You should be able to tell these qualities by having a simple conversation. Where did the person grow up? What do they want to accomplish? How do they know if their work is good? How do they handle disagreements? Asking a few simple questions and paying attention to the answers will go a very long way.
 
@@ -32,6 +32,6 @@ h2. What not to do
 
 Don't hire for lack of weaknesses (outside of the common attributes you look for in all employees). Don't pass on a stellar designer because his JavaScript is weak, or a stellar C++ programmer because his Python is weak.
 
-Don't look for pedigree or experience. If someone is talanted and passionate, committed to your company, huble, pragmatic, effective, and open, it doesn't matter whether they went to Harvard and worked at Facebook, or went to a community college and worked at a company you've never heard of. On the other hand, if they lack at least one critical attribute, what does it matter where they  worked or went to school?
+Don't be swayed by pedigree or experience. If someone is talented and passionate, committed to your company, humble, pragmatic, effective, and open, it doesn't matter whether they went to Harvard and worked at Facebook, or went to a community college and worked at a company you've never heard of. On the other hand, if they lack at least one critical attribute, what does it matter where they  worked or went to school?
 
-If a candidate doesn't quite possess a dramatic talent or one of the other attributes you're looking for, don't hire them! Don't come up with complex models or structures. If you start thinking about pairing a candidate with someone else to get good results, trying to redefine your company's objectives, or starting to consider compromisng on your values, default to a no.
+If a candidate doesn't quite possess a dramatic talent or one of the other attributes you're looking for, don't hire them! Don't come up with complex models or structures. If you start thinking about pairing a candidate with someone else to get good results, trying to redefine your company's objectives, or starting to consider compromising on your values, just move on!
