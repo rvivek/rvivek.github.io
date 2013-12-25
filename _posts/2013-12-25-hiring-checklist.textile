@@ -14,17 +14,19 @@ Always make sure the candidate possesses *dramatically* impressive talent and pa
 
 h2. Common attributes
 
-Lack of any one of these attributes obliterates the delicate balance necessary for a well-gelled, well-run team. Never settle for a candidate who doesn't have one of these attributes, no matter how talanted they are, or how understaffed you are.
+Lack of any one of these attributes obliterates the delicate balance necessary for a well-gelled, well-run team. Never settle for a candidate who doesn't have one or more of these attributes, no matter how talanted they are, or how understaffed you are.
 
 # *Commitment.* A candidate who doesn't share your excitement for what the company is trying to accomplish will do mediocre work despite their best efforts. Don't hire mercenaries, it's rarely worth it.
 # *Humility.* An egotistical person won't accept criticism or responsibility for mistakes. They'll attribute the team's success to themselves, and failure to everyone else. They won't only challenge your decisions, but your authority to make them.
 # *Pragmatism.* Strongly opinionated people are wonderful, so long as they validate the merit of their opinions by the success of their practical application to the company's goals.
-# *Effectiveness.* 
+# *Effectiveness.* Some people have every other quality, but just can't get things done to your standard of speed and quality. Give the candidate a short, concrete, well defined project inspired by your daily work. It will quickly expose how effective they really are.
 # *Openness.* You don't have to instantaneously become best friends with the candidate, but you do have to be able to establish some rapport. Make sure the candidate is open and positive, and welcomes feedback on their opinions and prior work.
 
 You should be able to tell if the candidate has these qualities by having a simple conversation with them. Where did they grow up? What do they want to accomplish? How do they know if their work is good? How do they handle disagreements? Asking a few simple questions and paying attention to the answers will go a very long way.
 
 h2. What not to do
+
+Don't hire for lack of weaknesses (outside of the common attributes you look for in all candidates). Don't pass on a stellar designer because his JavaScript is weak, or a stellar C++ programmer because his Python is weak.
 
 Don't look for pedigree or experience. If the candidate is talanted and passionate, committed to your company, huble, pragmatic, effective, and open, it doesn't matter whether they went to Harvard and worked at Facebook, or went to a community college and worked at a company you've never heard of. On the other hand, if they lack at least one critical attribute, what does it matter where they  worked or went to school?
 
