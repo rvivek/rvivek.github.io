@@ -22,6 +22,8 @@ Lack of any one of these attributes obliterates the delicate balance necessary f
 # *Effectiveness* where rubber meets the road.
 # *Openness.*
 
+<br />
+
 h2. What not to do
 
 Don't look for pedigree or experience. If the candidate is talanted and passionate, committed to your company, huble, pragmatic, effective, and open, it doesn't matter whether they went to Harvard and worked at Facebook, or went to a community college and worked at a company you've never heard of. On the other hand, if they lack at least one critical attribute, what does it matter where they  worked or went to school?
