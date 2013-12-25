@@ -1,37 +1,29 @@
 ---
 layout: post
-title: The effective engineer’s handbook
+title: Hiring checklist
 wip: true
 ---
 
-Common attributes:
+h1. {{ page.title }}
 
-Lack of any one of these attributes obliterates the delicate balanace
-necessary for a well-gelled, well-run team. Never settle for a
-candidate who doesn't have one of these attributes, no matter how
-talanted they are, or how understaffed you are.
+p(meta). 10 Mar 2013
 
-- Commitment. A person who isn't excited about the company's mission
-  will perform mediocre work despite their best efforts.
+h2. Common attributes
 
-- Humility. An egotistical person won't accept criticism or
-  responsibility for mistakes. They'll always attribute the team's
-  success to themselves, and failure to everyone else.
+Lack of any one of these attributes obliterates the delicate balanace necessary for a well-gelled, well-run team. Never settle for a candidate who doesn't have one of these attributes, no matter how talanted they are, or how understaffed you are.
 
-- Pragmatism. Strongly opinionated people are wonderful, so long as
-  they validate the merit of their opinions in terms of the success of
-  their practical application to the company's goals.
-
+- __Commitment__. A person who isn't excited about the company's mission will perform mediocre work despite their best efforts.
+- Humility. An egotistical person won't accept criticism or responsibility for mistakes. They'll always attribute the team's success to themselves, and failure to everyone else.
+- Pragmatism. Strongly opinionated people are wonderful, so long as they validate the merit of their opinions in terms of the success of their practical application to the company's goals.
 - Effectiveness where rubber meets the road.
-
 - Openness.
 
-Unique attribute:
+h2. Unique attribute
 
 - Dramatic talent and passion in a concrete, unique area critical to
   the team's success.
 
-Attributes not to look for:
+h2. Attributes to ignore
 
 Pedigree, experience
 Don't come up with complex structures (pairing people, etc.)
