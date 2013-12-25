@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Learn to code like it's 1996
+other: true
 ---
 
 h1. {{ page.title }}

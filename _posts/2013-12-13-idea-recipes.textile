@@ -1,0 +1,19 @@
+---
+layout: post
+title: Startup idea recipes
+wip: true
+---
+
+h1. {{ page.title }}
+
+p(meta). 13 Dec 2013
+
+Don't look at a hypergrowth company and try to compete. That's a bad idea.
+
+- Divide and conquer. Amazon -> Gilt, Zappos, etc.
+- Look at a hypergrowth company/technology. Determine what changed to make it possible. See if that change applies to other things. (AirBnB -> Lyft)
+- Look at a hypergrowth company/technology. Assume it takes over the world. See what complementary company you can build. (Git -> GitHub, MongoDB -> MongoHQ)
+- Look for moral values on the cusp of a big change. See if you can build a company around them (23andme, ashley madison [and most dating sites])
+- Look at an expensive technology and see if you can make it assymptotically more accessible (sgi -> nvidia)
+- Look at old, promising companies/technologies/ideas that never quite worked. See if something changes so you can make them work now. (Google, Oculus)
+- Flipping the default (Snapchat)
