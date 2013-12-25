@@ -10,7 +10,7 @@ p(meta). 10 Mar 2013
 
 h2. The one unique attribute
 
-Always make sure the candidate possesses *dramatically* impressive talent and passion in one concrete, unique area, *and* that the area is critical to the team's success.
+Always make sure the candidate possesses *dramatically* impressive talent and passion in one concrete, unique area, *and* that this area is critical to the team's success. Always ask yourself -- what would happen if the candidate worked on the product for a month without any oversight? The result may not be what you would have liked, but would you be proud of the quality?
 
 h2. Common attributes
 
