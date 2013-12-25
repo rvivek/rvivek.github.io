@@ -8,9 +8,13 @@ h1. {{ page.title }}
 
 p(meta). 10 Mar 2013
 
+h2. The one unique attribute
+
+Always make sure the candidate possesses *dramatically* impressive talent and passion in one concrete, unique area, *and* that the area is critical to the team's success.
+
 h2. Common attributes
 
-Lack of any one of these attributes obliterates the delicate balanace necessary for a well-gelled, well-run team. Never settle for a candidate who doesn't have one of these attributes, no matter how talanted they are, or how understaffed you are.
+Lack of any one of these attributes obliterates the delicate balance necessary for a well-gelled, well-run team. Never settle for a candidate who doesn't have one of these attributes, no matter how talanted they are, or how understaffed you are.
 
 # *Commitment.* A person who isn't excited about the company's mission will perform mediocre work despite their best efforts.
 # *Humility.* An egotistical person won't accept criticism or responsibility for mistakes. They'll always attribute the team's success to themselves, and failure to everyone else.
@@ -18,11 +22,8 @@ Lack of any one of these attributes obliterates the delicate balanace necessary 
 # *Effectiveness* where rubber meets the road.
 # *Openness.*
 
-h2. Unique attribute
+h2. What not to do
 
-# *Dramatic talent* and passion in a concrete, unique area critical to the team's success.
+Don't look for pedigree or experience. If the candidate is talanted and passionate, committed to your company, huble, pragmatic, effective, and open, it doesn't matter whether they went to Harvard and worked at Facebook, or went to a community college and worked at a company you've never heard of. On the other hand, if they lack at least one critical attribute, what does it matter where they  worked or went to school?
 
-h2. Attributes to ignore
-
-Pedigree, experience
-Don't come up with complex structures (pairing people, etc.)
+If a candidate doesn't quite possess a dramatic talent or one of the other attributes you're looking for, don't hire them! Don't come up with complex models or structures. If you start thinking about pairing a candidate with someone else to get good results, trying to redefine your company's objectives, or starting to consider compromisng on your values, default to a no.
