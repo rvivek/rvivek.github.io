@@ -46,7 +46,7 @@ If possible, try to hire candidates with attributes that complement the team. If
 
 h2. Holding the bus
 
-Sometimes there is pressure to hire someone with a strongly negative attribute. A highly talanted engineer who refuses to communicate, is an egotist whose skills you really need, etc.
+Sometimes there is pressure to hire someone with a strongly negative attribute. A highly talanted engineer who refuses to communicate, an egotist whose skills you really need, etc.
 
 Remember that this person will affect everyone who's neutral on your team in a very profound way. He'll have conflicts with people who are strongly positive on this attribute. You're setting yourself up for turmoil.
 
