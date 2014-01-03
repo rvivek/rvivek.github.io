@@ -12,27 +12,52 @@ There are times when I find myself under a lot of pressure to extend offers to c
 
 This is a checklist I wrote down for myself to keep myself from making silly in-the-moment hiring mistakes.
 
-h2. The one unique attribute
-
-Always make sure the candidate possesses a *dramatically* impressive talent and passion in one concrete, unique area, *and* that this area is critical to the team's success. Ask yourself -- what would happen if they worked on the product for a month without any oversight? The result may not be what you would have liked, but would you be proud of the quality? Will they naturally push the company in roughly the right direction?
-
 h2. Common attributes
 
 Lack of any one of these attributes obliterates the delicate balance necessary for a well-gelled, well-run team. Never settle for someone who is missing even one these attributes, no matter how talented they are, or how understaffed you are.
 
-# *Commitment.* A candidate who doesn't share your excitement for what the company is trying to accomplish will do mediocre work despite their best efforts. Don't hire mercenaries, it's rarely worth it.
+# *Talent.* Does the candidate possesses a *dramatically* impressive talent and passion in one concrete, unique area that is critical to the team's success? What would happen if they worked on the product for a month without any oversight? Would you be proud of the quality? Will they naturally push the company in roughly the right direction?
 # *Humility.* An egotistical person won't accept criticism or responsibility for mistakes. They'll attribute the team's success to themselves, and failure to everyone else. They won't only challenge your decisions, but your authority to make them.
+# *Openness.* You don't have to instantaneously become best friends, but you do have to be able to establish some rapport. Make sure the candidate is open and positive, and welcomes feedback on their opinions and prior work.
 # *Pragmatism.* Strongly opinionated people are wonderful, so long as they validate the merit of their opinions by the success of their practical application to the company's goals.
 # *Effectiveness.* Give the candidate a short, concrete, well-defined project inspired by your daily work. How quickly can they get it done? Does it pass your standard of quality?
-# *Openness.* You don't have to instantaneously become best friends, but you do have to be able to establish some rapport. Make sure the candidate is open and positive, and welcomes feedback on their opinions and prior work.
-# *Hustle.* Is the candidate willing to run faster than necessary, move sooner than necessary, and try harder than necessary? Do they naturally treat work with urgency and intensity it deserves?
+# *Commitment.* A candidate who doesn't share your excitement for what the company is trying to accomplish will do mediocre work despite their best efforts. Don't hire mercenaries, it's rarely worth it.
+# *Hustle.* Is the candidate willing to run faster than necessary, move sooner than necessary, and try harder than necessary? Do they naturally treat work with urgency and intensity it deserves? Are they willing to energetically do boring work when necessary because it benefits the team?
 
-You should be able to tell these qualities by having a simple conversation. Where did the person grow up? What do they want to accomplish? How do they know if their work is good? How do they handle disagreements? Asking a few simple questions and paying attention to the answers will go a very long way.
+Use a combination of a rigorous technical interview and an informal conversation to gauge these qualities. Where did the person grow up? What do they want to accomplish? How do they know if their work is good? How do they handle disagreements? Asking a few simple questions and paying attention to the answers will go a very long way.
+
+h2. Team dynamics
+
+Let's quantize each attribute into one of three categories: strongly negative, neutral, strongly positive.
+
+In a context of a team, people with neutral attributes will typically behave situationally with respect to these attributes. A person who doesn't have overly strong opinions about pragmatism will typically behave pragmatically around pragmatic people, and impractically around impractical people.
+
+People with strong attributes won't behave situationally with respect to these attributes. A truly humble person will remain humble wherever they are. An egotist will remain an egotist no matter who's around them.
+
+When you hire a person with a strong attribute, they will effect everyone else on your team who's neutral on that attribute. A pragmatic person will turn everyone else who's neutral on this attribute into a pragmatic person. An egotist will turn everyone who isn't naturally humble into an egotist while he's around.
+
+h2. General rules
+
+Now that we have a model for evaluating a given candidate and how a group of candidates will behave in a team, we can draw some conclusions about how to hire (and fire).
+
+If you have a candidate who's strongly positive on a couple of attributes and neutral everywhere else, hire them.
+
+If possible, try to hire candidates with attributes that complement the team. If your team is largely neutral on an attribute, try to hire a candidate who's strongly positive on that attribute. It will affect your team in a very positive direction. If you generally follow this principle, you'll have a very strong team.
+
+h2. Holding the bus
+
+Sometimes there is pressure to hire someone with a strongly negative attribute. A highly talanted engineer who refuses to communicate, is an egotist whose skills you really need, etc.
+
+Remember that this person will affect everyone who's neutral on your team in a very profound way. He'll have conflicts with people who are strongly positive on this attribute. You're setting yourself up for turmoil.
+
+If you hire someone like this you'll have to personally mitigate the consequences of their behavior -- an extremely time consuming and emotionally draining activity. Sometimes it's worth it. Most of the time it isn't.
+
+To use a sports analogy, if you're going to "hold the bus" for someone, make sure you don't do it for more than one person at a time. Empirically, doing it for one person is difficult, but doable. Doing it for multiple people is a disaster.
 
 h2. What not to do
 
-Don't hire for lack of weaknesses (outside of the common attributes you look for in all employees). Don't pass on a stellar designer because his JavaScript is weak, or a stellar C++ programmer because his Python is weak.
+Don't hire for lack of weaknesses when it comes to talent. Don't pass on a stellar designer because his JavaScript is weak, or a stellar C++ programmer because his Python is weak.
 
 Don't be swayed by pedigree or experience. If someone is talented and passionate, committed to your company, humble, pragmatic, effective, and open, it doesn't matter whether they went to Harvard and worked at Facebook, or went to a community college and worked at a company you've never heard of. On the other hand, if they lack at least one critical attribute, what does it matter where they  worked or went to school?
 
-If a candidate doesn't quite possess a dramatic talent or one of the other attributes you're looking for, don't hire them! Don't come up with complex models or structures. If you start thinking about pairing a candidate with someone else to get good results, trying to redefine your company's objectives, or starting to consider compromising on your values, just take ten seconds to send a polite rejection and move on.
+If a candidate doesn't quite possess a dramatic talent or has strongly negative attributes you aren't necessarily willing to personally mitigate, don't hire them! Don't come up with complex models or structures. If you start thinking about pairing a candidate with someone else to get good results, trying to redefine your company's objectives, or starting to consider compromising on your values, just take ten seconds to send a polite rejection and move on.
