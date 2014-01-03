@@ -14,7 +14,7 @@ This is a checklist I wrote down for myself to keep myself from making silly in-
 
 h2. Common attributes
 
-Lack of any one of these attributes obliterates the delicate balance necessary for a well-gelled, well-run team. Never settle for someone who is missing even one these attributes, no matter how talented they are, or how understaffed you are.
+Here are seven dimentions  you can use to evaluate a candidate. Empirically, I found these to be useful in making hiring (and firing) decisions.
 
 # *Talent.* Does the candidate possesses a *dramatically* impressive talent and passion in one concrete, unique area that is critical to the team's success? What would happen if they worked on the product for a month without any oversight? Would you be proud of the quality? Will they naturally push the company in roughly the right direction?
 # *Humility.* An egotistical person won't accept criticism or responsibility for mistakes. They'll attribute the team's success to themselves, and failure to everyone else. They won't only challenge your decisions, but your authority to make them.
