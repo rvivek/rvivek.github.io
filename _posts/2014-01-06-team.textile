@@ -10,9 +10,9 @@ p(meta). 10 Mar 2013
 
 There is a lot of startup advice on how to build and manage great teams. Roughly, it boils down to three maxims:
 
-* Hire outstanding people, set a vision, and get out of the way
-* Outstanding people are smart and get things done
-* Hire slowly, fire quickly
+* Hire outstanding people, set a vision, and get out of the way.
+* Outstanding people are smart and get things done.
+* Hire slowly, fire quickly.
 
 If you absolutely must fit team-building advice into a tweet and let first-time founders sink or swim, these three maxims get to the crux of the matter. For me, this advice was hopelessly incomplete. What about people who are smart, get things done, but are jerks? What if they're poor communicators? What if they don't really care about what you're trying to accomplish? How do you operate in a real world with enormous pressures to hire quickly, and where "smart" and "gets things done" are continuums instead of absolutes?
 
@@ -22,13 +22,13 @@ h2. Quantizing the human equation
 
 Empirically, I found that there are seven orthogonal attributes necessary for a reasonably good objective evaluation of the human equation:
 
-# *Talent.* Does the candidate possesses a *dramatically* impressive talent and passion in one concrete, unique area that is critical to the team's success? What would happen if they worked on the product for a month without any oversight? Would you be proud of the quality? Will they naturally push the company in roughly the right direction?
-# *Humility.* An egotistical person won't accept criticism or responsibility for mistakes. They'll attribute the team's success to themselves, and failure to everyone else. They won't only challenge your decisions, but your authority to make them.
-# *Openness.* You don't have to instantaneously become best friends, but you do have to be able to establish some rapport. Make sure the candidate is open and positive, and welcomes feedback on their opinions and prior work.
-# *Pragmatism.* Strongly opinionated people are wonderful, so long as they validate the merit of their opinions by the success of their practical application to the company's goals.
-# *Effectiveness.* Give the candidate a short, concrete, well-defined project inspired by your daily work. How quickly can they get it done? Does it pass your standard of quality?
-# *Commitment.* A candidate who doesn't share your excitement for what the company is trying to accomplish will do mediocre work despite their best efforts. Don't hire mercenaries, it's rarely worth it.
-# *Hustle.* Is the candidate willing to run faster than necessary, move sooner than necessary, and try harder than necessary? Do they naturally treat work with urgency and intensity it deserves? Are they willing to energetically do boring work when necessary because it benefits the team?
+# *Talent* and passion in one concrete area critical to the team's success.
+# *Humility* to accept criticism, take responsibility for mistakes, and challenge decisions but not authority to make them.
+# *Collaboration* with other teams members in a pleasant way.
+# *Pragmatism* to validate the merit of opinions by the success of their practical application.
+# *Effectiveness* to produce concrete results and not just action.
+# *Commitment* for what the company is trying to accomplish.
+# *Hustle* to move faster than necessary, inject positive energy, and do grunt work when necessary.
 
 Use a combination of a rigorous technical interview and an informal conversation to gauge these qualities. Where did the person grow up? What do they want to accomplish? How do they know if their work is good? How do they handle disagreements? Asking a few simple questions and paying attention to the answers will go a very long way.
 
