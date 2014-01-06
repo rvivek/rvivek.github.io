@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hiring checklist
+title: How to build a startup team
 wip: true
 ---
 
@@ -8,9 +8,15 @@ h1. {{ page.title }}
 
 p(meta). 10 Mar 2013
 
-There are times when I find myself under a lot of pressure to extend offers to candidates who aren't quite a good fit for our team. Every time I'm about to reject someone, my mind wobbles. I fear that I might miss out on a good person because of some irrelevancy, or that the cost of not staffing quickly enough exceeds the cost of hiring an imperfect candidate, or that I'm looking for the wrong attributes and ought to be looking for something else.
+There is a lot of startup advice on how to build and manage great teams. Roughly, it boils down to three maxims:
 
-This is a checklist I wrote down for myself to keep myself from making silly in-the-moment hiring mistakes.
+* Hire outstanding people, set a vision, and get out of the way
+* Outstanding people are smart and get things done
+* Hire slowly, fire quickly
+
+If you absolutely must fit team-building advice into a tweet and let first-time founders sink or swim, these three maxims get to the crux of the matter. But when I was getting started, I found this advice hopelessly incomplete to effectively apply it in practice. What about people who are smart, get things done, but are jerks? What if they're poor communicators? What if they don't really care about what you're trying to accomplish? How do you operate in a real world where you're under enormous pressure to hire quickly, and "smart" and "gets things done" are continuums instead of absolutes?
+
+Over time, as I watched many different people work together, I evolved a more complete attribute system. It has been invaluable in helping me think through the edge cases.
 
 h2. Common attributes
 
