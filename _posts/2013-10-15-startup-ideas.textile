@@ -36,3 +36,14 @@ __How big__ is this market? Very, very big. Lord of the Rings big. Harry Potter 
 
 __Which one__ will win? As far as franchises go, my money is on Game of Thrones. Why? Because it doesn't equivocate. It's unafraid of picking a unique direction to satisfy a need and taking it to its logical conclusion. Hunger Games, on the other hand, __does__ equivocate. It's dealing with children, so the creators are worried about stepping too far. It's on the big screen, so it isn't as free to take a stance as Game of Thrones is on HBO. The violence isn't as gritty, and the sex is largely missing. Even the teenagers who Hunger Games was designed for want Game of Thrones instead. Hunger Games is good, but it isn't quite __good enough__ at satisfying the actual need. They tried to add bells and whistles like fancy costumes and CGI, but the market doesn't care. The market wants a fantasy world that's as violent and as sexualized as possible. It wants Game of Thrones.
 
+h2. Recipes
+
+Don't look at a hypergrowth company and try to compete. That's a bad idea.
+
+- Divide and conquer. Amazon -> Gilt, Zappos, etc.
+- Look at a hypergrowth company/technology. Determine what changed to make it possible. See if that change applies to other things. (AirBnB -> Lyft)
+- Look at a hypergrowth company/technology. Assume it takes over the world. See what complementary company you can build. (Git -> GitHub, MongoDB -> MongoHQ)
+- Look for moral values on the cusp of a big change. See if you can build a company around them (23andme, ashley madison [and most dating sites])
+- Look at an expensive technology and see if you can make it assymptotically more accessible (sgi -> nvidia)
+- Look at old, promising companies/technologies/ideas that never quite worked. See if something changes so you can make them work now. (Google, Oculus)
+- Flipping the default (Snapchat)
