@@ -8,17 +8,7 @@ h1. {{ page.title }}
 
 p(meta). 02 Sep 2013
 
-If you've never started a company, the world seems oddly inefficient. Energy is too expensive (and too damaging to the environment), transportation is too inconvenient, software is buggy, and microwaves have a terrible UI. If only you had the necessary resources, you could do so much better. You'd take over this obtusely inefficient world!
-
-Then you set out to start your company. You badger enough people, and eventually someone funds you. You buy countless experts coffee and build connections in your field. You surround yourself with experienced people who genuinely want to see you succeed. You cross your fingers, and start building your product.
-
-One by one, your competitors launch their offerings before you can. Your precious product doesn't seem so differentiated anymore. Against the odds, your team continues to work on their baby, and you finally get to market. Customers start asking the dreaded question -- how is this better than half a dozen products that already exist? Your competitors start gaining more mindshare, and raise more capital. You find it harder and harder to compete. Other companies in your field shoot right past you, and you start running out of cash. You realize you can't raise more, not without giving away most of your company. You start dreading coming in to work because you don't want to face your team. They've been working hard, at below market salaries, and you've failed them. You writhe in your own skin for months, trying to find a non-existent solution to an impossible problem. Eventually you pour yourself a glass of scotch and face up to the facts. The game is over. You lost.
-
-Every first time entrepreneur knows this story all too well. It's likely that at least one of four things went wrong: you didn't know "how to manage engineering":http://www.defmacro.org/2013/06/03/engineering-commandments.html, you didn't know "how to build products":http://www.defmacro.org/2013/09/26/products.html, you didn't know how to effectively tell the world about what you've built, or you didn't know how to evaluate markets. In this post, I'd like to deal with the latter of the four problems -- evaluating markets and picking startup ideas.
-
-h2. Proof by induction
-
-A startup is a living, breathing, working proof by induction. Your base case is a product that a small subset of target customers love. Your inductive step is superlinear distribution. You put @$X@ dollars in, and get @o(X)@ users out. The medium to support superlinear distribution is a large market.
+A startup is a living proof by induction. The base case is a product that a small subset of target customers love. The inductive step is superlinear distribution. You put @$X@ dollars in, and get @o(X)@ dollars out. The medium to support superlinear distribution is a large, fertile market.
 
 Of these three concepts -- product, market, and distribution, "the market is most important":http://blog.jedchristiansen.com/pmarcaarchive/the-pmarca-guide-to-startups-part-4-the-only. When you're building software with a baseline competent team, you can usually figure out how to build a great product and get to superlinear distribution when favorable market conditions fill your sails. Conversely, if the market conditions are poor, you'll never get past the base case. The inductive step doesn't work if you don't have a fertile medium for growth.
 
