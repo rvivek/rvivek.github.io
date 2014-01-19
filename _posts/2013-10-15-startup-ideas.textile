@@ -12,7 +12,9 @@ A startup is a living proof by induction. The base case is a product that a smal
 
 There is "art and science to building great products":/2013/09/26/products.html, but if you're perceptive and willing to work hard you can usually figure out the base case for almost any idea. Building something just one person will love isn't _that_ hard once you get the knack for it. And if your product satisfies one person, it will usually satisfy a dozen. The world is a big place.
 
-The question is how to go from a dozen happy users to a hundred million in just a few years. You can't do that by a sheer force of will or puritan work ethic, any more than you can hit the moon on a clear night with bow and arrow after years of diligent practice. When it comes to exponential growth, some ideas work far better than others. There are natural laws which govern the arrival and propagation of products, ideas, and technologies. Understanding these laws is crucial to sifting through ideas and finding the few gems worth working on.
+The question is how to go from a dozen happy users to a hundred million in just a few years. When it comes to the inductive step, you can't make every idea work by a sheer force of will or puritan work ethic, any more than you can hit the moon on a clear night with bow and arrow after years of diligent practice. So you need a method to tell promising ideas from unpromising ones. Are there natural laws which govern the arrival and propagation of products, ideas, and technologies? Can you understanding these laws and apply them to find and evaluate startup ideas?
+
+
 
 h2. Efficient market hypothesis
 
