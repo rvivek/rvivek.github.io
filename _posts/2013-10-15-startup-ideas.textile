@@ -8,7 +8,7 @@ h1. {{ page.title }}
 
 p(meta). 02 Sep 2013
 
-A startup is a living proof by induction. The base case is a product that a small subset of target customers love. The inductive step is superlinear distribution. You put some amount of dollars in, and get an asymptotically larger amount of users (and dollars) out. The medium to support superlinear distribution is a large, fertile market.
+You can think of a startup a living proof by induction. The base case is a product that a small subset of target customers love. The inductive step is superlinear distribution. You put some amount of dollars in, and get an asymptotically larger amount of users (and dollars) out. The medium to support superlinear distribution is a large, fertile market.
 
 There is "art and science to building great products":/2013/09/26/products.html, but if you're perceptive and willing to work hard you can usually figure out the base case for almost any idea. Building something just one person will love isn't _that_ hard once you get the knack for it. And if your product satisfies one person, it will usually satisfy a dozen. The world is a big place.
 
