@@ -14,7 +14,7 @@ There is "art and science to building great products":/2013/09/26/products.html,
 
 The question is how to go from a dozen happy users to a hundred million in just a few years. When it comes to the inductive step, you can't make every idea work by a sheer force of will or puritan work ethic, any more than you can hit the moon on a clear night with bow and arrow after years of diligent practice. Tenacity, determination, resourcefulness -- all are necessary but insufficient. If you want a moon shot, it's not enough to work hard. You have to work hard on the right problem.
 
-So you need a method to tell promising problems from unpromising ones. One school of thought is that it's all chance, and you should just work on what interests you and see what sticks. I don't think so. I'm interested in Lisp compilers, and I know I could make one _someone_ will love. But it's an obviously bad idea. Why? What are the natural laws which govern the arrival and propagation of products, ideas, and technologies? How can you understand these laws and apply them to find and evaluate startup ideas? 
+So you need a method to tell promising problems from unpromising ones. One school of thought is that it's all chance, and you should just work on what interests you and see what sticks. I don't think so. I'm interested in Lisp compilers, and I know I could make one _someone_ will love. But it's an obviously bad idea. Why? What are the natural laws which govern the arrival and propagation of products, ideas, and technologies? How can you understand these laws and apply them to find and evaluate promising startups? 
 
 h2. Efficient market hypothesis
 
