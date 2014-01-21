@@ -16,7 +16,7 @@ The question is how to go from a dozen happy users to a hundred million in just 
 
 So you need a method to tell promising problems from unpromising ones. One school of thought is that no such method could be devised, so you should just work on what interests you and see what sticks. I don't think so. I'm interested in Lisp compilers, and I know I could make one _someone_ will love. But it's obviously a bad idea. Why? What natural laws govern the arrival and propagation of products, ideas, and technologies? And how can you understand these laws and apply them to find and evaluate promising startups? 
 
-h2. Efficient market hypothesis
+h2. Four laws of change
 
 To a reasonable observer the world seems curiously inefficient. Microwaves have atrocious UIs, politicians enact obviously shoddy policies, restaurant franchises throw out food instead of shipping it to poor families in third-world countries. From this vantage point it's not unreasonable to suspect collusion or conspiracy.
 
@@ -26,15 +26,20 @@ From the perspective of new ventures, the market, it turns out, is _efficient_. 
 
 And yet, change does happen. Technology improves at a tremendous rate. Living under the most corrupt modern democracy is typically better than living under the best of European monarchies in the middle ages. The quality of life in third world countries has seen steady improvements decade after decade. If the market is efficient, how does the world improve?
 
-I posit three natural laws of change:
+I posit four natural laws of change:
 
 # Implementing a given improvement requires energy expenditure inversely proportional to the magnitude of the improvement from the point of view of the target user.
 # Organizations are able to expend energy in proportion to their size.
 # Organizations are able to respond to new conditions with speed inversely proportional to their size.
+# Latent energy will be expended as quickly as possible.
 
-So, if you ship a cell phone service that's one dollar per month cheaper than the alternative, it would take enormous energy to convince anyone to switch. If your service is $5/month cheaper, it will take a smaller, but still non-trivial amount of energy. And if your service costs one dollar per month, all other things being equal people will switch without any convincing -- there is enough ambient energy in the atmosphere for them to make the jump.
+The first law says that if you ship a cell phone service that's one dollar per month cheaper than the alternative, it would take enormous energy to convince anyone to switch. If your service is $5/month cheaper, it will take a smaller, but still non-trivial amount of energy. And if your service costs one dollar per month, all other things being equal people will switch without any convincing -- there is enough ambient energy in the atmosphere for them to make the jump.
 
-The thing about brute force energy expenditure is that a big company will beat a startup every single time. 
+The second law says that.
+
+The third law says that.
+
+The fourth law says that.
 
 <pre style="border: none; background-color: white;">
                +-------------------+-------------------+
