@@ -45,17 +45,17 @@ The fourth law says that when innovation, disruptive or incremental, becomes pos
                +-------------------+-------------------+
                |                   |                   |
                |                   |                   |
-               |                   |        IPO        |
-      Startup  |       Death       |         /         |
-               |                   |    Acquisition    |
+               |                   |                   |
+      Startup  |       Death       |        IPO        |
+               |                   |                   |
                |                   |                   |
                |                   |                   |
                +-------------------+-------------------+
                |                   |                   |
                |                   |                   |
-               |                   |     Confusion     |
-       BigCo   |   Modus Operandi  |        then       |
-               |                   |    Acquisition    |
+               |                   |                   |
+       BigCo   |   Modus Operandi  |     Confusion     |
+               |                   |                   |
                |                   |                   |
                |                   |                   |
                +-------------------+-------------------+
