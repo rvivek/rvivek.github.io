@@ -17,19 +17,22 @@ Ahh, the question from hell.
 
 Side note to interviewees. This is a wonderful way to get back at startup founders for seven hours of technical torture. By all means, use this opportunity! But next time you ask this question, remember this post. To you, it's just a question. To them, it's an existential can of worms. "Does my startup have a good enough reason to exist? Am I a failure? Will I have to crawl back to mom and admit this whole Silicon Valley thing was a mistake?" You get the idea. Your question will cut deep. So try to be gentle.
 
-But back to regular programming. You _are_ asking a very good question. 
+But back to regular programming. You _are_ asking a very good question. Particularly because it's a good general question. Ignoring the specifics of a particular company, is it _ever_ a good idea to work for a startup? Why or why not?
+
+It turns out there is at least one reason to work for a startup, and it's a very strong reason indeed. But first, let's look at all the reasons why you _shouldn't_ work for a startup.
 
 h2. Why not
 
-You want to get rich quick. A median exit of a post series A startup is X, and at 1-2% of equity you'll get Y.
+Firstly, don't work for a startup if you want to get rich quick. According to YC numbers, the average value of a YC startup is $24M[1]. If you get in really early and get 1% of the company in equity, your expected value is about $240K. Nothing to sneeze at, but not rags to riches either. If you're in it for the money, a better way might be to move into shady industries where the margins are higher, such as bank robberies or quantitative analysis on Wall St.
+
+You want to work on interesting problems. Sure machine learning, scale, blah blah. You'll be putting together yet another python server. You know it.
 
 You want to learn to start a startup. There is no substitute for holding the reigns.
 
 You want to learn from the founders. You'll likely be working with a guy or gal who's muddling their way through and are in no position to teach you anything.
 
-You want to work on interesting problems. Sure machine learning, scale, blah blah. You'll be putting together yet another python server. You know it.
-
 h2. Why, then?
 
 To learn the most valuable skill you'll ever learn in your career and can't learn anywhere else. The difference between action and motion.
 
+[1] http://ycombinator.com/nums.html
