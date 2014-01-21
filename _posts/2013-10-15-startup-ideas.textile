@@ -35,7 +35,7 @@ There are four natural laws that explain most of the market dynamics you'll ever
 
 This is a bit cryptic. Let's look more closely at what it means.
 
-First, if you ship, say, a cell phone service that's one dollar per month cheaper than the alternative, it would take enormous energy to convince anyone to switch. If your service is $5/month cheaper, it will take a smaller, but still non-trivial amount of energy. And if your service costs one dollar per month, all other things being equal people will switch without any convincing -- there is enough ambient energy in the atmosphere for them to make the jump.
+First, if you ship, say, a cell phone service that's one dollar per month cheaper than the alternative, it would take enormous energy to convince a meaningful number of users to switch. If your service is $5/month cheaper, it will take a smaller, but still non-trivial amount of energy. And if your service costs one dollar per month, all other things being equal people will switch without any convincing -- there is enough ambient energy in the atmosphere for them to make the jump.
 
 Second, when it comes to brute force energy expenditure, a big company will beat a startup every time. If you have to call target customers one by one to convince them to switch to your service, the most complacent corporate call center with a thousand of the most disgruntled employees will drastically outperform the most driven startup of ten. This is also the reason why startups aren't good at incremental change. They have very little energy to expend, so by the time they grow to any meaningful size, their incremental change is likely obsolete.
 
