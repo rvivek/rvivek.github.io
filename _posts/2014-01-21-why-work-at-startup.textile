@@ -13,7 +13,7 @@ Here is what the end of typical startup interview looks like when you run into s
 bq. - Thank you for interviewing with us, we'll discuss with the team and get back to you by tonight. Do you have any questions for me?
 - Yes, I have offers from Facebook and Google. Why should I work at your startup?
 
-Ahh, the question from hell. Note to interviewees. This is a wonderful way for you to get back at startup founders for seven hours of technical torture, but please show _some_ compassion. You're opening a huge existential can of worms you're not even aware of. When you ask this question, here are some thoughts that flash through their mind. "Does my startup have a good enough reason to exist? Am I a failure? Will I have to crawl back to mom and admit this whole Silicon Valley thing was a bad idea?"
+Ahh, the question from hell. Note to interviewees. This is a wonderful way for you to get back at startup founders for seven hours of technical torture, but please show _some_ compassion. To you, it's just a question. To them, it's a huge existential can of worms. "Does my startup have a good enough reason to exist? Am I a failure? Will I have to crawl back to mom and admit this whole Silicon Valley thing was a bad idea?" You get the idea.
 
 But it _is_ a really good question. 
 
