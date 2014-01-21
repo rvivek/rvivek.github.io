@@ -26,9 +26,9 @@ From the perspective of new ventures, the market, it turns out, is _efficient_. 
 
 And yet, change does happen. Technology improves at a tremendous rate. Living under the most corrupt modern democracy is typically better than living under the best of European monarchies in the middle ages. The quality of life in third world countries has seen steady improvements decade after decade. If the market is efficient, how does the world improve? I posit three natural laws that explain the dynamics above:
 
-1. Implementing any given improvement requires energy inversely proportional to the magnitude of the improvement from the point of view of the target user.
-2. Organizations are able to expend energy in proportion to their size.
-3. Organizations are able to respond to change with speed inversely proportional to their size.
+# Implementing a given improvement requires energy expenditure inversely proportional to the magnitude of the improvement from the point of view of the target user.
+# Organizations are able to expend energy in proportion to their size.
+# Organizations are able to respond to new conditions with speed inversely proportional to their size.
 
 So, if you ship a cell phone service that's one dollar per month cheaper than the alternative, it would take enormous energy to convince anyone to switch. If your service is $5/month cheaper, it will take a smaller, but still non-trivial amount of energy. And if your service costs one dollar per month, all other things being equal people will switch without any convincing -- there is enough ambient energy in the atmosphere for them to make the jump.
 
