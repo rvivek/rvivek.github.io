@@ -20,9 +20,9 @@ h2. Efficient market hypothesis
 
 To a reasonable observer the world seems curiously inefficient. Microwaves have atrocious UIs, politicians enact obviously shoddy policies, restaurant franchises throw out food instead of shipping it to poor families in third-world countries. From this vantage point it's not unreasonable to suspect collusion or conspiracy.
 
-That is, until you actually try to change something. You max out your credit card developing a better microwave, only to discover that nobody is willing to buy it a price you can sell it for to get a better UI. You get elected into public office, only to discover you can't replace the shoddy policies because the alternative is worse. You start a non-profit trying to get leftover food to poor families, and find a plethora of structural reasons preventing you from fulfilling your mission.
+That is, until you actually try to change something. You max out your credit card developing a better microwave, only to discover that nobody is willing to buy it at the lowest price you can sell it for. You get elected into public office, only to discover you can't replace the shoddy policies because alternative is worse. You start a non-profit trying to get leftover food to poor families, and find a plethora of structural reasons preventing you from fulfilling your mission.
 
-The market, it turns out, is _efficient_. 
+The market, it turns out, is _efficient_. If you write down every time you're dissatisfied with the world for a month, and then take a random entry from that log, chances are that you could not make a sustainable improvement.
 
 h2. Game of Thrones vs. Hunger Games
 
