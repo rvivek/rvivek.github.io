@@ -65,17 +65,7 @@ The fourth law says that.
                        Change             Change
 </pre>
 
-h2. Game of Thrones vs. Hunger Games
-
-To illustrate this a little better, let's look at two products slightly outside of the startup world -- Game of Thrones, and Hunger Games (the screen versions, but you can also apply this to books). To a naive observer these franchises came out of nowhere. But if you look a little deeper, you'll see that the model I described here applies perfectly.
-
-Both franchises came into being at roughly the same time. __Why now?__ Arguably for two reasons. The first is that mass market media has been on a trajectory towards more violence, more grit, and youger, more sexualized characters. The second reason is that movies like Lord of the Rings and Harry Potter paved the way for mass market acceptance of fantasy worlds. Combine these two factors, and you see a need -- an extremely violent, sexualized, mass market fantasy world for adults. Neither franchise would have been possible ten years ago. Both franchises will be old news ten years from now. But __right now__, these products are seeing phenomenal traction because there is a need, and it must be filled.
-
-__How big__ is this market? Very, very big. Lord of the Rings big. Harry Potter big. Escapism for adults big (the key insight here is that adults want a few hours of escape from their lives even more than children do). We don't even need to do back of the napkin math big.
-
-__Which one__ will win? As far as franchises go, my money is on Game of Thrones. Why? Because it doesn't equivocate. It's unafraid of picking a unique direction to satisfy a need and taking it to its logical conclusion. Hunger Games, on the other hand, __does__ equivocate. It's dealing with children, so the creators are worried about stepping too far. It's on the big screen, so it isn't as free to take a stance as Game of Thrones is on HBO. The violence isn't as gritty, and the sex is largely missing. Even the teenagers who Hunger Games was designed for want Game of Thrones instead. Hunger Games is good, but it isn't quite __good enough__ at satisfying the actual need. They tried to add bells and whistles like fancy costumes and CGI, but the market doesn't care. The market wants a fantasy world that's as violent and as sexualized as possible. It wants Game of Thrones.
-
-h2. Recipes
+h2. Dramatic improvements
 
 Don't look at a hypergrowth company and try to compete. That's a bad idea.
 
