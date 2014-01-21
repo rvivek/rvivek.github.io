@@ -37,7 +37,7 @@ The first law says that if you ship, say, a cell phone service that's one dollar
 
 The second law says that when it comes to brute force energy expenditure, a big company will beat a startup every time. If you have to call target customers one by one to convince them to switch to your service, the most complacent corporate call center with a thousand of the most disgruntled employees will drastically outperform the most driven startup of ten.
 
-The third law says that when disruptive innovation becomes possible, by the time it pops up on a big company's radar and makes its way through beuracracy, a startup can grow into a behemonth that's not so easy to stop.
+The third law says that when disruptive innovation becomes possible, by the time it pops up on a big company's radar and makes its way through the beuracracy, a startup can grow into a behemonth that's not so easy to stop.
 
 The fourth law says that when innovation, disruptive or incremental, becomes possible, it _will_ be realized as quickly as possible. If BigCo A doesn't work on reducing the costs of the aformentioned cell phone service by 5%, BigCo B will. If Elon Musk didn't start working on pure electric vehicles, sooner rather than later someone else would have. When an improvement becomes possible, it's just a matter of time until it's realized. The corollary of this law is that if an improvement hasn't been realized yet, it's either not possible to sustainably implement, or lots of smart teams are already working on it (or are about to start working on it).
 
@@ -45,17 +45,17 @@ The fourth law says that when innovation, disruptive or incremental, becomes pos
                +-------------------+-------------------+
                |                   |                   |
                |                   |                   |
-               |                   |                   |
-      Startup  |       Death       |        IPO        |
-               |                   |                   |
+               |                   |        IPO        |
+      Startup  |       Death       |         /         |
+               |                   |    Acquisition    |
                |                   |                   |
                |                   |                   |
                +-------------------+-------------------+
                |                   |                   |
                |                   |                   |
-               |                   |                   |
-       BigCo   |   Modus Operandi  |     Confusion     |
-               |                   |                   |
+               |                   |     Confusion     |
+       BigCo   |   Modus Operandi  |        then       |
+               |                   |    Acquisition    |
                |                   |                   |
                |                   |                   |
                +-------------------+-------------------+
