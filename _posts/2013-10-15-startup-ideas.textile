@@ -33,6 +33,8 @@ I posit four natural laws of change:
 # Organizations are able to respond to new conditions with speed inversely proportional to their size.
 # Latent energy will be expended as quickly as possible.
 
+As an example, let's see how these laws apply to an improvement in cellphone service.
+
 The first law says that if you ship a cell phone service that's one dollar per month cheaper than the alternative, it would take enormous energy to convince anyone to switch. If your service is $5/month cheaper, it will take a smaller, but still non-trivial amount of energy. And if your service costs one dollar per month, all other things being equal people will switch without any convincing -- there is enough ambient energy in the atmosphere for them to make the jump.
 
 The second law says that.
