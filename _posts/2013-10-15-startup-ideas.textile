@@ -24,9 +24,15 @@ That is, until you actually try to change something. You max out your credit car
 
 From the perspective of new ventures, the market, it turns out, is _efficient_. If for one month you make a note every time you're dissatisfied with the world, and then work on a random entry from that list, chances are you will not be able to make a sustainable improvement. For the most part, everything is already precisely as good as it possibly could be. Ventures that try and make improvements are on average futile -- empirically most end in failure.
 
-And yet, change does happen. Technology improves at a tremendous rate. Living under the most corrupt modern democracy is typically better than living under the best of European monarchies in the middle ages. The quality of life in third world countries has seen steady improvements decade after decade. If the market is efficient, how does the world improve?
+And yet, change does happen. Technology improves at a tremendous rate. Living under the most corrupt modern democracy is typically better than living under the best of European monarchies in the middle ages. The quality of life in third world countries has seen steady improvements decade after decade. If the market is efficient, how does the world improve? I posit three natural laws that explain the dynamics above:
 
-Let's take a closer look at your list of potential improvements. Implementing any given improvement requires some amount of energy. How much energy? Usually an amount inversely proportional to the magnitude of the change from the point of view of the target user. Ideas have an inertial quality -- people tend to stick with what they know. So if you ship a cell phone service that's one dollar per month cheaper than the alternative, it would take enormous (possibly infinite) energy to convince anyone to switch. If your service if $5/month cheaper, it will take some non-trivial (but doable) energy. And if your service costs one dollar per month, all other things being equal people will switch without any convincing -- there is enough ambient energy in the atmosphere for them to make the jump.
+1. Implementing any given improvement requires energy inversely proportional to the magnitude of the improvement from the point of view of the target user.
+2. Organizations are able to expend energy in proportion to their size.
+3. Organizations are able to respond to change with speed inversely proportional to their size.
+
+So, if you ship a cell phone service that's one dollar per month cheaper than the alternative, it would take enormous energy to convince anyone to switch. If your service is $5/month cheaper, it will take a smaller, but still non-trivial amount of energy. And if your service costs one dollar per month, all other things being equal people will switch without any convincing -- there is enough ambient energy in the atmosphere for them to make the jump.
+
+The thing about brute force energy expenditure is that a big company will beat a startup every single time. 
 
 <pre style="border: none; background-color: white;">
                +-------------------+-------------------+
