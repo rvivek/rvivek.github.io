@@ -28,7 +28,7 @@ And yet, change does happen. Technology improves at a tremendous rate, living un
 
 Let's take a closer look at your list of potential improvements.
 
-<pre>
+<pre style="border: none; background-color: white;">
                +-------------------+-------------------+
                |                   |                   |
                |                   |                   |
