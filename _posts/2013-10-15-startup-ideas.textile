@@ -26,7 +26,7 @@ From the perspective of new ventures, the market, it turns out, is _efficient_. 
 
 And yet, change does happen. Technology improves at a tremendous rate. Living under the most corrupt modern democracy is typically better than living under the best of European monarchies in the middle ages. The quality of life in third world countries has seen steady improvements decade after decade. If everything is as good as it could be at any given moment in time, how does the world improve moment to moment?
 
-I posit four natural laws of change:
+As best as I can tell, there are four natural laws that explain how the world changes:
 
 # Realizing a given improvement requires energy expenditure inversely proportional to the magnitude of the improvement from the point of view of the target user.
 # Organizations are able to expend energy in proportion to their size.
