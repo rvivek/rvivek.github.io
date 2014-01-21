@@ -24,7 +24,9 @@ That is, until you actually try to change something. You max out your credit car
 
 From the perspective of new ventures, the market, it turns out, is _efficient_. If for one month you make a note every time you're dissatisfied with the world, and then work on a random entry from that list, chances are you will not be able to make a sustainable improvement. For the most part, everything is already precisely as good as it possibly could be at this moment in time. Ventures that try and make improvements are on average futile -- empirically most end in failure.
 
-And yet, change does happen. Technology improves at a tremendous rate. Living under the most corrupt modern democracy is typically better than living under the best of European monarchies in the middle ages. The quality of life in third world countries has seen steady improvements decade after decade. If the market is efficient, how does the world improve? I posit three natural laws that explain the dynamics above:
+And yet, change does happen. Technology improves at a tremendous rate. Living under the most corrupt modern democracy is typically better than living under the best of European monarchies in the middle ages. The quality of life in third world countries has seen steady improvements decade after decade. If the market is efficient, how does the world improve?
+
+I posit three natural laws of change:
 
 # Implementing a given improvement requires energy expenditure inversely proportional to the magnitude of the improvement from the point of view of the target user.
 # Organizations are able to expend energy in proportion to their size.
