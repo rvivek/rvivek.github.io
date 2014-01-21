@@ -22,9 +22,39 @@ To a reasonable observer the world seems curiously inefficient. Microwaves have 
 
 That is, until you actually try to change something. You max out your credit card developing a better microwave, only to discover that nobody is willing to buy it at the lowest price you can sell it for. You get elected into public office, only to discover you can't replace the shoddy policies because the alternative is worse. You start a non-profit trying to get leftover food to poor families, and find a plethora of structural reasons preventing you from fulfilling your mission.
 
-From the perspective of new ventures, the market, it turns out, is _efficient_. If you make a note every time you're dissatisfied with the world for a month, and then take a random note from that log, chances are that you could not make a sustainable improvement. For the most part, everything is already precisely as good as it possibly could be. Ventures that try and make improvements are on average futile -- empirically most end in failure.
+From the perspective of new ventures, the market, it turns out, is _efficient_. If you make a note every time you're dissatisfied with the world for a month, and then take a random note from that list, chances are that you could not make a sustainable improvement. For the most part, everything is already precisely as good as it possibly could be. Ventures that try and make improvements are on average futile -- empirically most end in failure.
 
-And yet, change does happen. Technology improves at a tremendous rate, living under the most corrupt modern democracy is typically better than living under the best of European monarchies in the middle ages, and the quality of life in third world countries has seen steady improvements decade after decade. How does change happen if the market is efficient?
+And yet, change does happen. Technology improves at a tremendous rate, living under the most corrupt modern democracy is typically better than living under the best of European monarchies in the middle ages, and the quality of life in third world countries has seen steady improvements decade after decade. How does the world improve if the market is efficient?
+
+Let's take a closer look at your list of potential improvements.
+
+<pre>
+          +-------------------+-------------------+
+          |                   |                   |
+          |                   |                   |
+          |                   |                   |
+          |                   |                   |
+Startup   |       Death       |        IPO        |
+          |                   |                   |
+          |                   |                   |
+          |                   |                   |
+          |                   |                   |
+          |                   |                   |
+          +-------------------+-------------------+
+          |                   |                   |
+          |                   |                   |
+          |                   |                   |
+          |                   |                   |
+ BigCo    |   Modus Operandi  |     Confusion     |
+          |                   |                   |
+          |                   |                   |
+          |                   |                   |
+          |                   |                   |
+          |                   |                   |
+          +-------------------+-------------------+
+                Incremental         Dramatic
+                  Change             Change
+</pre>
 
 h2. Game of Thrones vs. Hunger Games
 
