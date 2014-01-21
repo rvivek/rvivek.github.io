@@ -28,7 +28,7 @@ And yet, change does happen. Technology improves at a tremendous rate. Living un
 
 I posit four natural laws of change:
 
-# Implementing a given improvement requires energy expenditure inversely proportional to the magnitude of the improvement from the point of view of the target user.
+# Realizing a given improvement requires energy expenditure inversely proportional to the magnitude of the improvement from the point of view of the target user.
 # Organizations are able to expend energy in proportion to their size.
 # Organizations are able to respond to new conditions with speed inversely proportional to their size.
 # Latent energy will be expended as quickly as possible.
