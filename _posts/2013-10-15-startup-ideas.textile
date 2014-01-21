@@ -45,10 +45,11 @@ Fourth, when innovation, disruptive or incremental, becomes possible, it _will_ 
 
 That gives you two general rules:
 
-* Work on a dramatic improvement (to be able to get anywhere in fininte time and to compete with big companies -- see rules 1, 2, and 3)
+* Work on a dramatic improvement (to be able to get anywhere in finite time and to compete with big companies -- see rules 1, 2, and 3)
 * Work very quickly (to compete with startups who'll surely try to do the same thing you're doing -- see rule 4)
 
 <pre style="border: none; background-color: white;">
+
                +-------------------+-------------------+
                |                   |                   |
                |                   |                   |
