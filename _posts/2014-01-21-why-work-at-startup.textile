@@ -1,0 +1,31 @@
+---
+layout: post
+title: Why work at a startup
+wip: true
+---
+
+h1. {{ page.title }}
+
+p(meta). 21 Jan 2014
+
+bq. - Thank you for interviewing with us, we'll discuss with the team and get back to you by tonight. Do you have any questions for me?
+- Yes, I have offers from Facebook and Google. Why should I work at your startup?
+
+Ahh, the question from hell. Note to interviewees. This is a wonderful way for you to get back at startup founders for seven hours of technical torture, but please show _some_ compassion. You're opening a huge existential can of worms you're not even aware of. When you ask this question, here are some thoughts that flash through their mind. "Does my startup have a good enough reason to exist? Am I a failure? Will I have to crawl back to mom and admit this whole Silicon Valley thing was a bad idea?"
+
+But it _is_ a really good question. 
+
+h2. Why not
+
+You want to get rich quick. A median exit of a post series A startup is X, and at 1-2% of equity you'll get Y.
+
+You want to learn to start a startup. There is no substitute for holding the reigns.
+
+You want to learn from the founders. You'll likely be working with a guy or gal who's muddling their way through and are in no position to teach you anything.
+
+You want to work on interesting problems. Sure machine learning, scale, blah blah. You'll be putting together yet another python server. You know it.
+
+h2. Why, then?
+
+To learn the most valuable skill you'll ever learn in your career and can't learn anywhere else. The difference between action and motion.
+
