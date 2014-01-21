@@ -8,7 +8,7 @@ h1. {{ page.title }}
 
 p(meta). 21 Jan 2014
 
-Here is the end of typical startup interview might look like when you run into someone good:
+Here is what the end of typical startup interview looks like when you run into someone good:
 
 bq. - Thank you for interviewing with us, we'll discuss with the team and get back to you by tonight. Do you have any questions for me?
 - Yes, I have offers from Facebook and Google. Why should I work at your startup?
