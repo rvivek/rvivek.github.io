@@ -74,3 +74,4 @@ Don't look at a hypergrowth company and try to compete. That's a bad idea.
 - Look at an expensive technology and see if you can make it assymptotically more accessible (sgi -> nvidia)
 - Look at old, promising companies/technologies/ideas that never quite worked. See if something changes so you can make them work now. (Google, Oculus)
 - Flipping the default (Snapchat)
+
