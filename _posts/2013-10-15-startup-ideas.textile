@@ -24,18 +24,16 @@ That is, until you actually try to change something. You max out your credit car
 
 From the perspective of new ventures, the market, it turns out, is _efficient_. If for one month you make a note every time you're dissatisfied with the world, and then work on a random entry from that list, chances are you will not be able to make a sustainable improvement. For the most part, everything is already precisely as good as it possibly could be at this moment in time. Ventures that try and make improvements are on average futile -- empirically most end in failure.
 
-And yet, change does happen. Technology improves at a tremendous rate. Living under the most corrupt modern democracy is typically better than living under the best of European monarchies in the middle ages. The quality of life in third world countries has seen steady improvements decade after decade. If the market is efficient, how does the world improve?
+And yet, change does happen. Technology improves at a tremendous rate. Living under the most corrupt modern democracy is typically better than living under the best of European monarchies in the middle ages. The quality of life in third world countries has seen steady improvements decade after decade. If everything is as good as it could be at any given moment in time, how does the world improve moment to moment?
 
 I posit four natural laws of change:
 
 # Realizing a given improvement requires energy expenditure inversely proportional to the magnitude of the improvement from the point of view of the target user.
 # Organizations are able to expend energy in proportion to their size.
 # Organizations are able to respond to new conditions with speed inversely proportional to their size.
-# Latent energy will be expended as quickly as possible.
+# Latent energy will be expended as quickly as possible, but usually not instanteniously.
 
-As an example, let's see how these laws apply to an improvement in cellphone service.
-
-The first law says that if you ship a cell phone service that's one dollar per month cheaper than the alternative, it would take enormous energy to convince anyone to switch. If your service is $5/month cheaper, it will take a smaller, but still non-trivial amount of energy. And if your service costs one dollar per month, all other things being equal people will switch without any convincing -- there is enough ambient energy in the atmosphere for them to make the jump.
+The first law says that if you ship, say, a cell phone service that's one dollar per month cheaper than the alternative, it would take enormous energy to convince anyone to switch. If your service is $5/month cheaper, it will take a smaller, but still non-trivial amount of energy. And if your service costs one dollar per month, all other things being equal people will switch without any convincing -- there is enough ambient energy in the atmosphere for them to make the jump.
 
 The second law says that.
 
