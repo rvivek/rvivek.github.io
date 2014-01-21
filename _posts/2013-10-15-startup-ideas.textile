@@ -35,11 +35,11 @@ I posit four natural laws of change:
 
 The first law says that if you ship, say, a cell phone service that's one dollar per month cheaper than the alternative, it would take enormous energy to convince anyone to switch. If your service is $5/month cheaper, it will take a smaller, but still non-trivial amount of energy. And if your service costs one dollar per month, all other things being equal people will switch without any convincing -- there is enough ambient energy in the atmosphere for them to make the jump.
 
-The second law says that.
+The second law says that when it comes to brute force energy expenditure, a big company will beat a startup every time. If you have to call target customers one by one to convince them to switch to your service, the most complacent corporate call center with a thousand of the most disgruntled employees will drastically outperform the most driven startup of ten.
 
-The third law says that.
+The third law says that when disruptive innovation becomes possible, by the time it pops up on a big company's radar and makes its way through beuracracy, a startup can grow into a behemonth that's not so easy to stop.
 
-The fourth law says that.
+The fourth law says that when innovation, disruptive or incremental, becomes possible, it _will_ be realized as quickly as possible. If BigCo A doesn't work on reducing the costs of the aformentioned cell phone service by 5%, BigCo B will. If Elon Musk didn't start working on pure electric vehicles, sooner rather than later someone else would have. When an improvement becomes possible, it's just a matter of time until it's realized. The corollary of this law is that if an improvement hasn't been realized yet, it's either not possible to sustainably implement, or lots of smart teams are already working on it (or are about to start working on it).
 
 <pre style="border: none; background-color: white;">
                +-------------------+-------------------+
