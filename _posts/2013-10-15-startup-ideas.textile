@@ -26,7 +26,7 @@ From the perspective of new ventures, the market, it turns out, is _efficient_. 
 
 And yet, change does happen. Technology improves at a tremendous rate. Living under the most corrupt modern democracy is typically better than living under the best of European monarchies in the middle ages. The quality of life in third world countries has seen steady improvements decade after decade. If everything is as good as it could be at any given moment in time, how does the world improve moment to moment?
 
-As best as I can tell, there are four natural laws that explain how the world changes:
+There are four natural laws that explain most of the market dynamics you'll ever run into:
 
 # Realizing a given improvement requires energy expenditure inversely proportional to the magnitude of the improvement from the point of view of the target user.
 # Organizations are able to expend energy in proportion to their size.
@@ -37,11 +37,16 @@ This is a bit cryptic. Let's look more closely at what it means.
 
 First, if you ship, say, a cell phone service that's one dollar per month cheaper than the alternative, it would take enormous energy to convince anyone to switch. If your service is $5/month cheaper, it will take a smaller, but still non-trivial amount of energy. And if your service costs one dollar per month, all other things being equal people will switch without any convincing -- there is enough ambient energy in the atmosphere for them to make the jump.
 
-Second, when it comes to brute force energy expenditure, a big company will beat a startup every time. If you have to call target customers one by one to convince them to switch to your service, the most complacent corporate call center with a thousand of the most disgruntled employees will drastically outperform the most driven startup of ten.
+Second, when it comes to brute force energy expenditure, a big company will beat a startup every time. If you have to call target customers one by one to convince them to switch to your service, the most complacent corporate call center with a thousand of the most disgruntled employees will drastically outperform the most driven startup of ten. This is also the reason why startups aren't good at incremental change. They have very little energy to expend, so by the time they grow to any meaningful size, their incremental change is likely obsolete.
 
 Third, when disruptive innovation becomes possible, by the time it pops up on a big company's radar and makes its way through the beuracracy, a startup can grow into a behemonth that's not so easy to stop.
 
 Fourth, when innovation, disruptive or incremental, becomes possible, it _will_ be realized as quickly as possible. This is just a restatement of the "efficient market hypothesis":http://en.wikipedia.org/wiki/Efficient-market_hypothesis. If carrier A doesn't work on reducing the costs of the aformentioned cell phone service by 5%, carrier B will. If Elon Musk didn't start working on pure electric vehicles, sooner rather than later someone else would have. When an improvement becomes possible, it's just a matter of time until it's realized. The corollary of this law is that if an improvement hasn't been realized yet, it's either not possible to sustainably implement, or lots of smart teams are already working on it (or are about to start working on it).
+
+That gives you two general rules:
+
+* Work on a dramatic improvement (to be able to get anywhere in fininte time and to compete with big companies -- see rules 1, 2, and 3)
+* Work very quickly (to compete with startups who'll surely try to do the same thing you're doing -- see rule 4)
 
 <pre style="border: none; background-color: white;">
                +-------------------+-------------------+
@@ -65,7 +70,17 @@ Fourth, when innovation, disruptive or incremental, becomes possible, it _will_ 
                        Change             Change
 </pre>
 
-h2. Dramatic improvements
+Now you got to the bottom of market dynamics, but you're left with a different set of questions. Where does dramatic change come from? How do you recognize it? And how do you generate ideas for dramatic improvements?
+
+h2. Dramatic innovation
+
+foo
+
+h2. The why now test
+
+bar
+
+h2. Generating ideas
 
 Don't look at a hypergrowth company and try to compete. That's a bad idea.
 
