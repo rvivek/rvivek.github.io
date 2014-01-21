@@ -71,7 +71,7 @@ That gives you two general rules:
                        Change             Change
 </pre>
 
-Now you got to the bottom of market dynamics, but you're left with a different set of questions. Where does dramatic change come from? How do you recognize it? And how do you generate ideas for dramatic improvements?
+Ok. You got to the bottom of the market dynamics. But now you're left with a different set of questions. Where does dramatic change come from? How do you recognize it? And how do you generate ideas for dramatic improvements?
 
 h2. Dramatic innovation
 
