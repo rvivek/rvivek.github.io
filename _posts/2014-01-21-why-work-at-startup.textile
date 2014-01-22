@@ -23,11 +23,11 @@ It turns out there is at least one reason to work at a startup, and it's a very 
 
 h2. Why not
 
-Firstl don't work at a startup if you want to get rich. According to YC numbers, the average value of a YC startup is $24M[1]. If you get in really early and get 1% of the company in equity, your expected value is $240K. Nothing to sneeze at, but not rags to riches either. If you're in it for the money, a better way might be to move into shady industries where the margins are higher, such as bank robberies or quantitative analysis on Wall St.
+First don't work at a startup if you want to get rich. According to YC numbers, the average value of a YC startup is $24M[1]. If you get in really early and get 1% of the company in equity, your expected value is $240K. Nothing to sneeze at, but not rags to riches either. If you're in it for the money, a better way might be to move into shady industries where the risk adjusted margins are higher, such as bank robberies or quantitative analysis on Wall St.
 
 Second, don't work at a startup if you want to work on interesting problems. I know that company you're eyeing advertises swanky machine learning and computer vision problems that no man has ever solved before. In startup speak, that means doing chi-squared tests on a dataset that would fit into RAM of an average 1996 desktop computer and cobbling together a bunch of open source libraries to implement a REST API.
 
-But wait, some startups _do_ work on interesting problems! I've heard of one where engineers actually do original computer vision research! Yes, startups like these do exist, and you don't want to touch them with a ten foot pole. Original computer vision research in a startup means never ever shipping the product, which means you can kiss your $240K exit bonus good bye. Before you join a startup, make sure they actually have a chance in hell of shipping a polished product. If you want to work on serious machine learning or computer vision problems, go to grad school.
+But wait, some startups _do_ work on interesting problems! I've heard of one where engineers actually do original computer vision research! Yes, startups like that do exist, and you don't want to touch them with a ten foot pole. Original computer vision research in a startup means never shipping an actual product, which means you can kiss your $240K exit bonus good bye. The odds of a startup shipping something, let alone something useful, are low enough. Don't join one where they're indistinguishable from zero. If you want to work on serious machine learning or computer vision problems, just go to grad school.
 
 Third, don't work at a startup because you want to learn how to start a startup. There is no substitute for holding the reigns.
 
