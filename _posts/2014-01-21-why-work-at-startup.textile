@@ -15,7 +15,7 @@ bq. - Thank you for interviewing with us, I'll discuss with the team and get bac
 
 Ahh, the question from hell.
 
-Side note to interviewees. This is a wonderful way to get back at startup founders for seven hours of technical torture. By all means, use this opportunity! But next time you ask this question, remember this post. To you, it's just a question. To them, it's an existential can of worms. "Does my startup have a good enough reason to exist? Am I a failure? Will I have to crawl back to mom and admit this whole Silicon Valley thing was a mistake?" You get the idea. Your question will cut deep. So please, be gentle!
+Side note to interviewees. This is a wonderful way to get back at startup founders for all the technical interview torture they put you through. By all means, use this opportunity! But next time you ask this question, remember this post. To you, it's just a question. To them, it's an existential can of worms. "Does my startup have a good enough reason to exist? Am I a failure? Will I have to crawl back to mom and admit this whole Silicon Valley thing was a mistake?" You get the idea. Your question will cut deep. So please, be gentle!
 
 But back to regular programming. You _are_ asking a very good question. Particularly because it's a good general question. Ignoring the specifics of a given company, is it _ever_ a good idea to work at a startup? Why or why not?
 
@@ -27,7 +27,7 @@ First don't work at a startup if you want to get rich. According to YC numbers, 
 
 Second, don't work at a startup if you want to work on interesting problems. I know that company you're eyeing advertises swanky machine learning and computer vision problems that no man has ever solved before. In startup speak, that means doing chi-squared tests on a dataset that would fit into RAM of an average 1996 desktop computer and cobbling together a bunch of open source libraries to implement a REST API.
 
-But wait, some startups _do_ work on interesting problems! I've heard of one where engineers actually do original computer vision research! Yes, startups like that do exist, and you don't want to touch them with a ten foot pole. Original computer vision research in a startup means never shipping an actual product, which means you can kiss your $240K exit bonus good bye. The odds of a startup shipping something, let alone something useful, are low enough. Don't join one where they're indistinguishable from zero. If you want to work on serious machine learning or computer vision problems, just go to grad school.
+But wait, some startups _do_ work on interesting problems! I've heard of one where engineers actually do original computer vision research! Yes, startups like that do exist, and you don't want to touch them with a ten foot pole. Original computer vision research in a startup means never shipping an actual product, which means you can kiss your expected $240K exit bonus good bye. The odds of a startup shipping something, let alone something useful, are low enough. Don't join one where they're indistinguishable from zero. If you want to work on serious machine learning or computer vision problems, just go to grad school.
 
 Third, don't work at a startup because you want to learn how to start a startup. There is no substitute for holding the reigns.
 
