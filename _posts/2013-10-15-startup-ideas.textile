@@ -43,11 +43,6 @@ Third, when disruptive innovation becomes possible, by the time it pops up on a 
 
 Fourth, when innovation, disruptive or incremental, becomes possible, it _will_ be realized as quickly as possible. This is just a restatement of the "efficient market hypothesis":http://en.wikipedia.org/wiki/Efficient-market_hypothesis. If carrier A doesn't work on reducing the costs of the aformentioned cell phone service by 5%, carrier B will. If Elon Musk didn't start working on pure electric vehicles, sooner rather than later someone else would have. If Google didn't build a better search engine, someone else would have. When an improvement becomes possible, it's just a matter of time until it's realized. The corollary of this law is that if an improvement hasn't been realized yet, it's either not possible to sustainably implement, or it just became possible and lots of smart teams are already working on it (or are about to start working on it).
 
-That gives you two general rules:
-
-* Work on a dramatic improvement (to be able to get anywhere in finite time and to compete with big companies -- see rules 1, 2, and 3)
-* Work very quickly (to compete with startups who'll surely try to do the same thing you're doing -- see rule 4)
-
 <pre style="border: none; background-color: white;">
 
                +-------------------+-------------------+
@@ -71,6 +66,11 @@ That gives you two general rules:
                        Change             Change
 </pre>
 
+That gives you two general rules:
+
+* Work on a dramatic improvement (to be able to get anywhere in finite time and to compete with big companies -- see rules 1, 2, and 3)
+* Work very quickly (to compete with startups who'll surely try to do the same thing you're doing -- see rule 4)
+
 Now you're left with a different set of questions. Where does dramatic change come from? How do you recognize it? How do you generate ideas for dramatic improvements? And how do evaluate any given idea?
 
 h2. Dramatic innovation
@@ -87,3 +87,4 @@ Don't look at a hypergrowth company and try to compete. That's a bad idea.
 
 h2. The why now test
 
+Foo
