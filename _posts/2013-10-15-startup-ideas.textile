@@ -75,7 +75,7 @@ Now you're left with a different set of questions. Where does dramatic change co
 
 h2. Dramatic innovation
 
-For all the complexity of technical innovation, the underlying principles are very simple. Dramatic technical change happens when one or more persistent incremental trends cross a threshold to allow for a qualitative change.
+For all the complexity of technical, political, or social innovation, the underlying principle is very simple. Dramatic improvement occurs when one or more persistent incremental trends cross a threshold and allow for a qualitative change.
 
 Dropping battery prices + green tech becoming fashionable = luxury electric vehicles (Tesla).
 
