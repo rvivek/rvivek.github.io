@@ -14,7 +14,7 @@ All of that is true. But it's the effect, not the cause.
 
 There are two root causes for failing startups people don't often talk about. You know something's wrong but don't know what to do about it, or you know something's wrong, know what to do about it, but don't do it because you're afraid.[^1^]
 
-About 95% of mistakes I made in the first two years of founding a startup fell into the latter category. Getting past these early fears was extremely hard on me emotionally and took a long time. But in hindsight, developing the courage to do what I know is right was one of the best things about starting up.
+About 95% of mistakes I made in the first two years of founding a startup fell into the latter category. Getting past these early fears was extremely hard on me emotionally and took a very long time. But in hindsight, developing the courage to do what I know is right was one of the best things about starting up.
 
 I still make as many mistakes as ever, but now it's because I don't have the know-how. I hate these mistakes -- they drive me nuts. But I no longer hate myself. Failing because I didn't know better? I can live with that. Failing because I knew what needed to get done but didn't have the courage to do it? That will sting for a long, long time.
 
@@ -27,7 +27,7 @@ Look at some startup questions on Quora:
 
 The authors already know what's wrong and what to do. But they're not doing it. Doing what you know to be right can be very, very hard.
 
-Everyone needs some time to work up the courage. That's ok. Just try not to take years. The sooner you get past your fears, the sooner you get a real chance to break into the big leagues.
+Everyone needs some time to work up the courage. That's ok. Just try not to take years. The sooner you face your fears, the sooner you get past them, and the sooner you get a real chance to break into the big leagues.
 
 <br />
 __^1^ One other possibility is not knowing something's wrong, but mistakes like these are very rare. Startup founders are usually so paranoid they can sense problems from a thousand miles away.__
