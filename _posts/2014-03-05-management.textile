@@ -3,6 +3,11 @@ layout: post
 title: How to manage people
 wip: true
 ---
+
+h1. {{ page.title }}
+
+p(meta). 05 Mar 2014
+
 I've been managing people for four years now. I decided to write down everything I learned about management, and discovered I can fit it in a very short list. As with other art forms, the rules are easy to learn and difficult to master. Here they are.
 
 * Become close friends. You can't create magic if you're just colleagues.
