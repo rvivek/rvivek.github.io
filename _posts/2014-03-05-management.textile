@@ -10,5 +10,15 @@ p(meta). 05 Mar 2014
 
 I've been managing people for four years now. I decided to write down everything I learned about management, and discovered I can fit it in one short paragraph. As with other art forms, the rules are easy to learn and difficult to master. Here they are.
 
-Become close friends; you can't create magic if you're just colleagues. Remember that your first responsibility is to the group; be prepared to end the friendships if necessary. Fire people that make you or others feel miserable; it's as good a metric as you're ever going to get. Notice all mistakes, no matter how trivial; you can't build a world-class organization if you ignore the details. Then tell people; feedback is a non-event that should happen dozens of times per day; evaluate the person's work, not the person themselves; don't work with people who can't handle that. Never let yourself judge or blame; always assume everyone intends to do a good job. Eradicate status; don't let anyone, including yourself, think of people as working "under" someone; deflate authority that isn't rooted in meritocracy. Some rules need to be absolute to be followed at all; be ruthless when necessary. Understand everyone's opinion well enough to argue for it. Don't let anyone pressure you into decisions. Make as few decisions as possible. Quantitative metrics make a good team better and a bad team worse.
+Become close friends; you can't create magic if you're just colleagues. Remember that your first responsibility is to the group. Be prepared to end the friendships if necessary. Fire people that make you or others feel miserable, it's as good a metric as you're ever going to get.
+
+Notice all mistakes, no matter how trivial. You can't build a world-class organization if you ignore the details. Then tell people. Feedback is a non-event that should happen dozens of times per day. Evaluate the person's work, not the person themselves. Don't work with people who can't handle that.
+
+Never let yourself judge or blame. Always assume everyone intends to do a good job. Eradicate status. Don't let anyone, including yourself, think of people as working "under" someone. Deflate authority that isn't rooted in meritocracy.
+
+Some rules need to be absolute to be followed at all. Be ruthless when necessary.
+
+Understand everyone's opinion well enough to argue for it. Don't let anyone pressure you into decisions. Make as few decisions as possible.
+
+Quantitative metrics make a good team better and a bad team worse.
 
