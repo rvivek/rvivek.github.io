@@ -8,9 +8,11 @@ h1. {{ page.title }}
 
 p(meta). 05 Mar 2014
 
-I've been managing people for four years now. I decided to write down everything I learned about management, and discovered I can fit it in one short paragraph. As with other art forms, the rules are easy to learn and difficult to master. Here they are.
+I've been managing people for four years now. I decided to write down everything I learned about management, and discovered I can fit it in one short post. As with other art forms, the rules are easy to learn and difficult to master. Here they are.
 
-Become close friends; you can't create magic if you're just colleagues. Remember that your first responsibility is to the group. Be prepared to end the friendships if necessary. Fire people that make you or others feel miserable, it's as good a metric as you're ever going to get.
+h3. Relationships
+
+Become close friends with everyone on the team. You can't create magic if you're just colleagues. But remember, your first responsibility is to the group. Be prepared to end the friendships if necessary. Fire people that make you or others feel miserable, it's as good a metric as you're ever going to get.
 
 Notice all mistakes, no matter how trivial. You can't build a world-class organization if you ignore the details. Then tell people. Feedback is a non-event that should happen dozens of times per day. Evaluate the person's work, not the person themselves. Don't work with people who can't handle that.
 
