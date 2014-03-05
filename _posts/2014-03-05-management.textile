@@ -12,15 +12,30 @@ I've been managing people for four years now. I decided to write down everything
 
 h3. Relationships
 
-Become close friends with everyone on the team. You can't create magic if you're just colleagues. But remember, your first responsibility is to the group. Be prepared to end the friendships if necessary. Fire people that make you or others feel miserable, it's as good a metric as you're ever going to get.
+Become close friends with everyone on the team. You can't create magic if you're just colleagues. But remember, your first responsibility is to the group. Be prepared to end the friendships if necessary.
+
+h3. Firing
+
+Fire people that make you or others feel miserable, it's as good a metric as you're ever going to get.
+
+h3. Feedback
 
 Notice all mistakes, no matter how trivial. You can't build a world-class organization if you ignore the details. Then tell people. Feedback is a non-event that should happen dozens of times per day. Evaluate the person's work, not the person themselves. Don't work with people who can't handle that.
 
+h3. Ego
+
 Never let yourself judge or blame. Always assume everyone intends to do a good job. Eradicate status. Don't let anyone, including yourself, think of people as working "under" someone. Deflate authority that isn't rooted in meritocracy.
+
+h3. Hard edge
 
 Some rules need to be absolute to be followed at all. Be ruthless when necessary.
 
+
+h3. Decisions
+
 Understand everyone's opinion well enough to argue for it. Don't let anyone pressure you into decisions. Make as few decisions as possible.
+
+h3. Metrics
 
 Quantitative metrics make a good team better and a bad team worse.
 
