@@ -16,70 +16,31 @@ The question is how to go from a dozen happy users to a hundred million in just 
 
 So you need a method to tell promising problems from unpromising ones. One school of thought is that no such method could be devised, so you should just work on what interests you and see what sticks. I don't think so. I'm interested in Lisp compilers, and I know I could make one _someone_ will love. But it's obviously a bad idea. Why? What natural laws govern the arrival and propagation of products, ideas, and technologies? And how can you understand these laws and apply them to find and evaluate promising startups? 
 
-h2. Four laws of change
+h2. Context and efficiency
 
-To a reasonable observer the world seems curiously inefficient. Microwaves have atrocious UIs, politicians enact obviously shoddy policies, restaurant franchises throw out food instead of shipping it to poor families in third-world countries. From this vantage point it's not unreasonable to suspect collusion or conspiracy.
+Humans always evaluate new ideas in context of what they already know.
 
-That is, until you actually try to change something. You max out your credit card developing a better microwave, only to discover that nobody is willing to buy it at the lowest price you can sell it for. You get elected into public office, only to discover you can't replace the shoddy policies because the alternative is worse. You start a non-profit trying to get leftover food to poor families, and find a plethora of structural reasons preventing you from fulfilling your mission.
+When a new opportunity comes along, usually lots of people will jump on it quickly. The corrolary is that existing markets are saturated. You've gotta jump in at just the right time.
 
-From the perspective of new ventures, the market, it turns out, is _efficient_. If you take one month to make a note every time you're dissatisfied with the world, and then pick a random problem from your list and start an organization to fix it, chances are you will not be able to make a sustainable improvement. For the most part, everything is already precisely as good as it possibly could be at any given moment in time. Ventures that try and make improvements are on average futile -- empirically most end in failure.
+h2. Evaluating startup ideas
 
-And yet, change does happen. Technology improves at a tremendous rate. Living under the most corrupt modern democracy is typically better than living under the best of European monarchies in the middle ages. The quality of life in third world countries has seen steady improvements decade after decade. Everything might be as good as it could be at any given moment, but how does the world improve moment to moment?
+Good markets seem small.
 
-There are four natural laws that explain most of the market dynamics you'll ever run into:
+Good markets seem big.
 
-# Realizing a given improvement requires energy expenditure inversely proportional to the magnitude of the improvement from the point of view of the target user.
-# Organizations are able to expend energy in proportion to their size.
-# Organizations are able to respond to new conditions with speed inversely proportional to their size.
-# Latent energy will be expended as quickly as possible (but usually not instanteniously).
+Polarizing insight. 75% of pros and 99% of laymen shouldn't see the insight.
 
-This is a bit cryptic. Let's look more closely at what it means.
+The why now test. Good markets will grow, with or without you.
 
-First, if you ship, say, a cell phone service that's one dollar per month cheaper than the alternative, it would take enormous energy to convince a meaningful number of users to switch. If your service is $5/month cheaper, it will take a smaller, but still non-trivial amount of energy. And if your service costs one dollar per month, all other things being equal people will switch without any convincing -- there is enough ambient energy in the atmosphere for them to make the jump.
+Sustainable advantage. Who else can answer "how is this different?" In a good market, nobody will be able to.
 
-Second, when it comes to brute force energy expenditure, a big company will beat a startup every time. If you have to call target customers one by one to convince them to switch to your service, the most complacent corporate call center with a thousand of the most disgruntled employees will drastically outperform the most driven startup of ten. This is also the reason why startups aren't good at incremental change. In absolute terms they have very little energy to expend, so by the time they grow to any meaningful size, their incremental change is likely obsolete.
+Good markets are accessible to you.
 
-Third, when disruptive innovation becomes possible, by the time it pops up on a big company's radar and makes its way through the beuracracy, a startup can grow into a behemonth that's not so easy to stop.
+h2. Finding startup ideas.
 
-Fourth, when innovation, disruptive or incremental, becomes possible, it _will_ be realized as quickly as possible. This is just a restatement of the "efficient market hypothesis":http://en.wikipedia.org/wiki/Efficient-market_hypothesis. If carrier A doesn't work on reducing the costs of the aformentioned cell phone service by 5%, carrier B will. If Elon Musk didn't start working on pure electric vehicles, sooner rather than later someone else would have. If Google didn't build a better search engine, someone else would have. When an improvement becomes possible, it's just a matter of time until it's realized. The corollary of this law is that if an improvement hasn't been realized yet, it's either not possible to sustainably implement, or it just became possible and lots of smart teams are already working on it (or are about to start working on it).
-
-<pre style="border: none; background-color: white;">
-               +-------------------+-------------------+
-               |                   |                   |
-               |                   |                   |
-               |                   |                   |
-      Startup  |       Death       |        IPO        |
-               |                   |                   |
-               |                   |                   |
-               |                   |                   |
-               +-------------------+-------------------+
-               |                   |                   |
-               |                   |                   |
-               |                   |                   |
-       BigCo   |   Modus Operandi  |     Confusion     |
-               |                   |                   |
-               |                   |                   |
-               |                   |                   |
-               +-------------------+-------------------+
-                     Incremental         Dramatic
-                       Change             Change
-
-</pre>
-
-That gives you two general rules:
-
-* Work on a dramatic improvement (to be able to get anywhere in finite time and to compete with big companies -- see rules 1, 2, and 3)
-* Work very quickly (to compete with startups who'll surely try to do the same thing you're doing -- see rule 4)
-
-Now you're left with a different set of questions. Where does dramatic change come from? How do you recognize it? How do you generate ideas for dramatic improvements? And how do evaluate any given idea?
-
-h2. Dramatic innovation
-
-For all the complexity of technical, political, or social innovation, the underlying principle is very simple. Dramatic improvement occurs when one or more persistent incremental trends cross a threshold and allow for a qualitative change.
+Dramatic improvement occurs when one or more persistent incremental trends cross a threshold and allow for a qualitative change.
 
 Dropping battery prices + green tech becoming fashionable = luxury electric vehicles (Tesla).
-
-Don't look at a hypergrowth company and try to compete. That's a bad idea.
 
 - Divide and conquer. Amazon -> Gilt, Zappos, etc.
 - Look at a hypergrowth company/technology. Determine what changed to make it possible. See if that change applies to other things. (AirBnB -> Lyft)
@@ -89,6 +50,3 @@ Don't look at a hypergrowth company and try to compete. That's a bad idea.
 - Look at old, promising companies/technologies/ideas that never quite worked. See if something changes so you can make them work now. (Google, Oculus)
 - Flipping the default (Snapchat)
 
-h2. The why now test
-
-Foo
