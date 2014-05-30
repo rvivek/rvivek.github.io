@@ -16,6 +16,10 @@ The question is how to go from a dozen happy users to a hundred million in just 
 
 So you need a method to generate startup ideas and separate promising problems from unpromising ones. One school of thought is that no such method could be devised, so you should just work on what interests you and see what sticks. I don't think so. I'm interested in Lisp compilers, and I know I could make one _someone_ will love. But it's obviously a bad startup idea. Following your dreams only works if they don't run counter to natural laws that govern how technology gets adopted. Let's examine these laws and see show they work.
 
+h2. Defining a market
+
+Foo
+
 h2. Markets as chess boards
 
 Like a game of chess, market dynamics are governed by a few simple rules that combine into endless complexity and require a lifetime of dedication to achieve mastery. But unlike chess, with markets you have a much richer control of your circumstances. You get to pick the timing and the location. You can survey thousands of boards with different initial setups and choose to play when you find one to your advantage. You can pick a board with dozens of existing opponents or with none at all. You don't even have to start playing at the beginning -- you can watch the boards for as long as you like and jump into any game at any time!
@@ -26,32 +30,11 @@ But by far, most boards have very trecherous paths to victory and barely any mon
 
 So you want to pick a board with a large pot of gold, an easy path to victory, and preferably no opponents (or lots of old opponents who haven't realized the game has changed).
 
----
+h2. Looking at a chessboad
 
-h2. Context and efficiency
+Context and efficiency
 
- markets don't have to be a zero sum game. You get to pick Just learning the basics will get you surprisingly far 
-
-
-Humans always evaluate new ideas in context of what they already know.
-
-When a new opportunity comes along, usually lots of people will jump on it quickly. The corrolary is that existing markets are saturated. You've gotta jump in at just the right time.
-
-h2. Evaluating startup ideas
-
-Good markets seem small.
-
-Good markets seem big.
-
-Polarizing insight. 75% of pros and 99% of laymen shouldn't see the insight.
-
-The why now test. Good markets will grow, with or without you.
-
-Sustainable advantage. Who else can answer "how is this different?" In a good market, nobody will be able to.
-
-Good markets are accessible to you.
-
-h2. Finding startup ideas.
+h2. Generating ideas.
 
 Dramatic improvement occurs when one or more persistent incremental trends cross a threshold and allow for a qualitative change.
 
@@ -64,4 +47,18 @@ Dropping battery prices + green tech becoming fashionable = luxury electric vehi
 - Look at an expensive technology and see if you can make it assymptotically more accessible (sgi -> nvidia)
 - Look at old, promising companies/technologies/ideas that never quite worked. See if something changes so you can make them work now. (Google, Oculus)
 - Flipping the default (Snapchat)
+
+h2. Evaluating ideas
+
+Good markets seem small.
+
+Good markets seem big.
+
+Polarizing insight. 75% of pros and 99% of laymen shouldn't see the insight.
+
+The why now test. Good markets will grow, with or without you.
+
+Sustainable advantage. Who else can answer "how is this different?" In a good market, nobody will be able to.
+
+Good markets are accessible to you.
 
