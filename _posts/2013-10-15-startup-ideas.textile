@@ -18,7 +18,7 @@ So you need a method to generate startup ideas and separate promising problems f
 
 h2. Context and efficiency
 
-Like a game of chess, market dynamics are governed by a few simple rules that combine into endless complexity and require a lifetime of dedication to achieve mastery. But unlike chess, with markets you have a much richer control of your circumstances. You get to pick the timing and the location. You can survey thousands of boards with different initial setups and choose to play when you find one to your advantage. You don't even have to start playing at the beginning -- you can watch the boards for as long as you want and jump into any game at any time.
+Like a game of chess, market dynamics are governed by a few simple rules that combine into endless complexity and require a lifetime of dedication to achieve mastery. But unlike chess, with markets you have a much richer control of your circumstances. You get to pick the timing and the location. You can survey thousands of boards with different initial setups and choose to play when you find one to your advantage. You can pick a board of dozens of opponents, or none at all. You don't even have to start playing at the beginning -- you can watch the boards for as long as you like and jump into any game at any time!
 
 
 
