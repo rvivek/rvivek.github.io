@@ -14,9 +14,18 @@ There is "art and science to building great products":/2013/09/26/products.html,
 
 The question is how to go from a dozen happy users to a hundred million in just a few years. When it comes to the inductive step, you can't make every idea work by a sheer force of will or puritan work ethic, any more than you can hit the moon with bow and arrow after years of diligent practice. Tenacity, determination, resourcefulness -- all are necessary but insufficient. If you want a moon shot, it's not enough to work hard. You have to work hard on the right problem.
 
-So you need a method to generate startup ideas and separate promising problems from unpromising ones. One school of thought is that no such method could be devised, so you should just work on what interests you and see what sticks. I don't think so. I'm interested in Lisp compilers, and I know I could make one _someone_ will love. But it's obviously a bad startup idea. Following your dreams only works if they don't run counter to natural laws which govern the arrival and propagation of products, ideas, and technologies.
+So you need a method to generate startup ideas and separate promising problems from unpromising ones. One school of thought is that no such method could be devised, so you should just work on what interests you and see what sticks. I don't think so. I'm interested in Lisp compilers, and I know I could make one _someone_ will love. But it's obviously a bad startup idea. Following your dreams only works if they don't run counter to natural laws that govern how technology gets adopted, so it's let's examine these laws and how they work.
 
 h2. Context and efficiency
+
+Like a game of chess, market dynamics are governed by a few simple rules that combine into endless complexity and require a lifetime of dedication to achieve mastery. But unlike chess, with markets you have a much richer control of the circumstances. You get to pick the timing and the location. You can survey thousands of boards with different initial setups and choose to play when you find one to your advantage or liking. You don't even have to start playing at the beginning -- you can watch the boards and jump in at any time.
+
+
+
+---
+
+ markets don't have to be a zero sum game. You get to pick Just learning the basics will get you surprisingly far 
+
 
 Humans always evaluate new ideas in context of what they already know.
 
