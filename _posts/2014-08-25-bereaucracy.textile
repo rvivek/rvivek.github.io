@@ -12,11 +12,11 @@ In hacker lore bereaucracy is synonymous with incompetence at best and malice at
 
 If you think about this problem as a systems engineer, you'll find a goldmine of interesting questions:
 
-- How and why does bereaucratic process come into existence?
-- What distinguishes effective bereaucracies from complacent ones?
-- How can we build effective bereuacracies from scratch?
-- How do we keep effective bereuacracies from becoming complacent?
-- How can we refactor complacent bereaucracies to be effective again?
+# How and why does bereaucratic process come into existence?
+# What distinguishes effective bereaucracies from complacent ones?
+# How can we build effective bereuacracies from scratch?
+# How do we keep effective bereuacracies from becoming complacent?
+# How can we refactor complacent bereaucracies to be effective again?
 
 
 
