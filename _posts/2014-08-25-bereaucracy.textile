@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An engineer's guide to bereaucracies
+title: A hacker's guide to bereaucracies
 wip: true
 ---
 
@@ -8,15 +8,11 @@ h1. {{ page.title }}
 
 p(meta). 25 Aug 2014
 
-In hacker lore bereaucracy is synonymous with incompetence at best and malice at worst, an evil to be eradicated rather than a virtue to be acquired. But I think hackers haven't got this quite right. It's easy to think of lethally effective bereaucracies like Napoleon's army, profoundly complacent ones like General Motors circa 2009, and all kinds in between.
+In hacker lore bereaucracy is synonymous with incompetence at best and malice at worst, an evil to be eradicated rather than a virtue to be cultivated. But I think hackers haven't got this quite right. It's easy to think of lethally effective bereaucracies like Napoleon's army, profoundly complacent ones like General Motors circa 2009, and all kinds in between.
 
-If you think about bereaucracies as a systems engineer, you'll find a goldmine of interesting questions:
+If you think about bereaucracies as a systems engineer, you'll find a goldmine of interesting questions. How and why does bereaucratic processes come into existence? What distinguishes effective bereaucracies from complacent ones? How can we build effective bereuacracies from scratch? How do we keep effective bereuacracies from becoming complacent? How can we refactor complacent bereaucracies to be effective again?
 
-* How and why does bereaucratic process come into existence?
-* What distinguishes effective bereaucracies from complacent ones?
-* How can we build effective bereuacracies from scratch?
-* How do we keep effective bereuacracies from becoming complacent?
-* How can we refactor complacent bereaucracies to be effective again?
+At seventeen people RethinkDB is still a tiny company, but we've already introduced, evolved, dismantled, and reintroduced quite a few bereaucratic processes. We don't have nearly enough data to extrapolate to the scale and complexity of massive organizations like General Motors, but we've already uncovered many interesting insights.
 
 
 
