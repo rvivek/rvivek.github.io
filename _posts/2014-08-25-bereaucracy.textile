@@ -10,9 +10,22 @@ p(meta). 25 Aug 2014
 
 In hacker lore bereaucracy is synonymous with incompetence at best and malice at worst. It's an evil to be eradicated rather than a virtue to be cultivated. But I think we got this wrong. I can think of lethally effective bereaucracies like Napoleon's army just as easily as profoundly complacent ones like General Motors circa 2009. Even if we set aside the extremes, there is a wide continuum in between -- from Facebook, to Google, to Walgreens, to the Federal Government.
 
-Most hackers reject bereaucracy outright, which is surprisingly atypical considering hacker culture. In our pursuit to advance the state of the art and prod concepts and systems for the sake of intellectual curiosity, we consider and scrutinize every tool at our disposal. Why not approach bereaucracies in the same spirit?
+Most hackers reject bereaucracy outright, which is surprisingly atypical considering the hacker culture. In our pursuit to advance the state of the art and prod concepts and systems for the sake of intellectual curiosity, we consider and scrutinize every tool at our disposal. Why not approach bereaucracies in the same spirit?
 
-When Mike and I founded RethinkDB a few years ago, we started with the conventional wisdom -- put smart people with a shared goal and necessary resources in a room, and leave them alone. Over time we saw this process succeed for some parts of the company and break down for others. We replaced the parts that didn't work with other forms of governance. Some parts of the company still operate by consensus, others are governed by benevolent dictatorship, but there is a surprisingly interesting example where bereaucracy outperforms both -- the ReQL proposal process.
+When Mike and I founded RethinkDB a few years ago, we started with the conventional hacker wisdom -- put smart people with a shared goal and necessary resources in a room, and leave them alone. Over time we saw this process succeed for some parts of the company and break down for others. We replaced the parts that didn't work with other forms of governance. Some parts of the company still operate by consensus. Others are governed by benevolent dictatorship. But there is a surprisingly interesting example where bereaucracy outperforms both -- the ReQL proposal process.
+
+h2. Bereaucracy done right
+
+ReQL proposal process.
+
+h2. Why it works
+
+* Minimum possible links
+* Finite time
+* Bias for action
+* Market backpressure
+* A champion
+
 
 
 
