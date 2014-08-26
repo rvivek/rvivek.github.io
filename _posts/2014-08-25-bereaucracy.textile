@@ -12,7 +12,7 @@ In hacker lore bereaucracy is synonymous with incompetence at best and malice at
 
 Most hackers reject bereaucracy outright, which is surprisingly atypical considering the hacker culture. In our pursuit to advance the state of the art and prod concepts and systems for the sake of intellectual curiosity, we consider and scrutinize every tool at our disposal. Why not approach bereaucracies in the same spirit?
 
-When we founded RethinkDB a few years ago, every part of the company was run by consensus. This method ended up working for some parts of the company and breaking down for others, so we replaced the parts that didn't work with other forms of governance. Many parts of the company still operate by consensus. Others are governed by benevolent dictatorship.
+When we founded RethinkDB a few years ago, every part of the company was run by consensus. This method ended up breaking down for some parts of the company, so we replaced the parts that didn't work with other forms of governance. Many parts still operate by consensus. Others are now governed by benevolent dictatorship.
 
 During this process of trial and error we stubled on a recurring problem where neither consensus nor benevelont dictatorship were particularly effective. Over time the development team evolved a fairly sophisticated bereaucratic process which turned out to dramatically outperform other forms of governance.
 
