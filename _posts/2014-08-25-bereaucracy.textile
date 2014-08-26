@@ -12,7 +12,7 @@ In hacker lore bereaucracy is synonymous with incompetence at best and malice at
 
 Most hackers reject bereaucracy outright, which is surprisingly atypical considering the hacker culture. In our pursuit to advance the state of the art and prod concepts and systems for the sake of intellectual curiosity, we consider and scrutinize every tool at our disposal. Why not approach bereaucracies in the same spirit?
 
-When Mike and I founded RethinkDB a few years ago, we started with the conventional hacker wisdom -- put smart people with a shared goal and necessary resources in a room, and leave them alone. Over time we saw this process succeed for some parts of the company and break down for others. We replaced the parts that didn't work with other forms of governance. Many parts of the company still operate by consensus. Others are governed by benevolent dictatorship.
+When Mike and I founded RethinkDB a few years ago, we started with the conventional hacker wisdom. We put smart people with a shared goal and necessary resources in a room, and leave them alone. Over time we saw this process succeed for some parts of the company and break down for others. We replaced the parts that didn't work with other forms of governance. Many parts of the company still operate by consensus. Others are governed by benevolent dictatorship.
 
 But there is a surprisingly interesting example where bereaucracy outperforms both consensus and dictatorship -- the ReQL proposal process.
 
