@@ -8,7 +8,7 @@ h1. {{ page.title }}
 
 p(meta). 25 Aug 2014
 
-In hacker lore bereaucracy is synonymous with incompetence at best and malice at worst, an evil to be eradicated rather than a virtue to be cultivated. But I think hackers have got this wrong. It's just as easy to think of lethally effective bereaucracies like Napoleon's army as it is to think of profoundly complacent ones like General Motors circa 2009. There is also a wide continuum in between the extremes.
+In hacker lore bereaucracy is synonymous with incompetence at best and malice at worst, an evil to be eradicated rather than a virtue to be cultivated. But I think hackers have got this wrong. It's just as easy to think of lethally effective bereaucracies like Napoleon's army as it is to think of profoundly complacent ones like General Motors circa 2009. There is also a wide continuum between the two extremes.
 
 Most hackers reject bereaucracy outright, which is surprisingly atypical considering the hacker culture. In our pursuit to advance the state of the art and prod concepts and systems for the sake of intellectual curiosity, we consider and scrutinize every tool at our disposal. Why not approach bereaucracies in the same spirit?
 
