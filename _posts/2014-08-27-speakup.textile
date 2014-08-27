@@ -1,0 +1,27 @@
+---
+layout: post
+title: The effective engineer’s handbook
+wip: true
+---
+
+h1. {{ page.title }}
+
+p(meta). 27 Aug 2014
+
+I just read "Linda Sandvik's letter":https://gist.github.com/drtortoise/5dc254c614d6b6a19116 announcing her resignation from the Code Club. The gist of it is that the board of directors asked her to avoid criticism of the sponsors, and she decided to step down instead.
+
+I've never met Linda and don't know anything about her beliefs. In fact, this is the first time I hear of her or of the Code Club (have I been living under a rock?) She sounds like a reasonable person, but it's possible that some of her opinions are unreasonable. I don't know. But regardless, she deserves an enormous amount of respect for her decision.
+
+People outside the industry (and even most of the insiders) don't really understand how much is left unsaid because of the enormous systemic pressure to stay quiet. Take me, for example.
+
+It seems like every few days I run into a newspaper article covering something in my field that's grossly misinformed, intellectually dishonest, or both. Most of the time I judge that debunking it isn't worth the time and energy, but every once in a while someone publishes something so outrageous that I open the editor and start writing. But then I realize the pressure's on, and I stop. What if my company needs coverage from that particular newspaper?  My users, employees, and investors depend on me. Is it worth picking this particular battle? Is now the time? Almost inevitably, I decide to wait. First we'll get the leverage then I'll be able to speak out.
+
+This isn't limited to poor journalism. Should I share my views when I notice a government agency or a corporation doing something unethical? What if they later do a Google search during a product evaluation, find my comments, and decide to go with a competitor? How about unethical behavior from VC firms? If I speak up, what happens during the next rounding of funding? Is it worth alienating the investor community over any given issue?
+
+Inevitably, I tell myself the answer is "no". Inevitably, I open the editor, start typing, and then decide to stop. Some days, in my heart of hearts, I really believe I'm doing the right thing. People depend on me, and I'm being pragmatic. Other days, I think I'm just a coward. Even in this post I'm careful not to mention any newspapers, governments, or firms. It's easy to speak out against completely outrageous or criminal behavior, when you know everyone will agree with you. It's much harder when the lines are blurry, which is almost always the case when you're on the bleeding edge of advocacy.
+
+And I'm not even important. My company is still small. What about the people who run bigger companies, who've learned more, and by virtue of their position are aware of more? What about the pressure they feel? Think of how much do they leave unsaid.
+
+I think I'm doing the right thing. If you want to do great work, you can only do one thing at a time. So you have to pick carefully, and then go all in. I've picked my battle, and I've gone all in. For me, it outweighs any given any given instance when I might want to speak up. But when I think of how much I leave unsaid in aggregate, I'm not so sure I'm making the right decision.
+
+There isn't a solution to this. These things are hard. All I know is that I have an immense amount of respect for people who choose not to stay quiet, even if I disagree with their opinions. If you don't already, you should too.
