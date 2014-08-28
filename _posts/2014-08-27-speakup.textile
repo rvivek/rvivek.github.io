@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Speak up
+other: true
 ---
 
 h1. {{ page.title }}
