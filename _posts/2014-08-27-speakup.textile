@@ -10,7 +10,7 @@ p(meta). 27 Aug 2014
 
 I just read "Linda Sandvik's letter":https://gist.github.com/drtortoise/5dc254c614d6b6a19116 announcing her resignation from the Code Club. The gist of it is that the board of directors asked her to avoid criticism of the sponsors, and she decided to step down instead.
 
-I've never met Linda and don't know anything about her beliefs. In fact, this is the first time I hear of her or of the Code Club (have I been living under a rock?) She sounds like a reasonable person, but it's possible that some of her opinions are unreasonable. I don't know. But regardless, she deserves an enormous amount of respect for her decision.
+I've never met Linda and don't know anything about her beliefs. In fact, this is the first time I hear of her or of the Code Club (have I been living under a rock?) She sounds like a reasonable person, but it's possible that some of her opinions are unreasonable. I don't know. But regardless, she deserves enormous respect for her decision.
 
 People outside the industry (and even most of the insiders) don't really understand how much is left unsaid because of the enormous systemic pressure to stay quiet. Take me, for example.
 
