@@ -11,6 +11,7 @@ p(meta). 7 Sep 2014
 There are already very good lists of startup lessons written by really talented, experienced people ("here":http://betashop.com/post/32913573235/90-things-ive-learned-from-founding-4-technology and "here":http://blog.samaltman.com/startup-advice). I'd like to add another one. I learned these lessons the hard way in the past four years. If you're starting a company, I hope you have an easier path.
 
 h2. Purpose
+
 bq. "He who has a why to live can bear with almost any how." - Friedrich
 -- _Friedrich Nietzsche_
 
