@@ -15,8 +15,6 @@ h2. Purpose
 bq. "He who has a why to live can bear with almost any how." - Friedrich
 -- _Friedrich Nietzsche_
 
-<br />
-
 # Regardless of success or failure, it's a matter of time until your passion for operational details and prestige subsides, an alternative life presents itself, and you start asking yourself "why?" It might happen when you lose a loved one, or it might happen on your deathbed, but it *will* happen.
 
 <h2 style="margin-left: -8px;"><br />Fundraising<br /><br /></h2>
