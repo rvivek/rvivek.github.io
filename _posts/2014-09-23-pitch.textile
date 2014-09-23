@@ -18,3 +18,6 @@ And then we tried again.
 
 This time it worked. Eventually we went on to raise over $12M in funding, so there is some evidence we did _something_ right. Here are the lessons we learned and the template we ended up using. As always, it's one man's opinion. Don't send angry e-mails if you use this structure and tank your fundraising round (or if you're an investor and you start getting terrible pitches with this structure).
 
+h2. Digression 1: all stories are the same.
+
+Foo.
