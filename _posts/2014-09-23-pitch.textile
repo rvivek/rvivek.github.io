@@ -38,7 +38,7 @@ h2. Slide 2: the world has changed
 
 Foo
 
-h2. Slide 3: the implications
+h2. Slide 3: implications
 
 Foo
 
