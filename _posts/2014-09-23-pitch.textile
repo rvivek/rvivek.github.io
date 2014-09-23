@@ -16,8 +16,56 @@ So I read all I could on pitching and story telling. I read "Save the cat":http:
 
 Then we tried again.
 
-This time it worked. Eventually we went on to raise over $12M in funding, so there is some evidence we did _something_ right. Here are the lessons we learned and the template we ended up using. As always, it's one man's opinion. Don't send angry e-mails if you use this structure and tank your fundraising round (or if you're an investor and you start getting terrible pitches with this structure).
+This time it worked. Eventually we went on to raise over $12M in funding, so there is some evidence we did _something_ right. Here are the lessons we learned and the template we settled on. As always, it's one man's opinion. Don't send angry e-mails if you use this structure and tank your fundraising round (or if you're an investor and you start getting terrible pitches with this structure).
 
-h2. Digression 1: all stories are the same.
+h2. Digression: all stories are the same
 
 Foo.
+
+h2. Title slide (also known as slide zero)
+
+Foo
+
+h2. Slide 1: old world in equillibrium
+
+Foo
+
+h2. Slide 2: the world has changed
+
+Foo
+
+h2. Slide 3: the implications
+
+Foo
+
+h2. Slide 4: why we're here
+
+Foo
+
+h2. Digression: your product is a commodity, and so are you
+
+Foo
+
+h2. Slide 5: market analysis
+
+Foo
+
+h2. Slide 6: competitive landscape
+
+Foo
+
+h2. Slide 7: the product
+
+Foo
+
+h2. Slide 8: go to market strategy
+
+Foo
+
+h2. Slide 9: use of funds
+
+Foo
+
+h2. Appendix slides
+
+Foo
