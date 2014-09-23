@@ -42,6 +42,10 @@ h2. Slide 3: implications
 
 Foo
 
+h2. Digression: a good story does not a true story make
+
+Foo
+
 h2. Slide 4: why we're here
 
 Foo
