@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to pick pitch your startup to investors
+title: How to pitch your startup to investors
 wip: true
 ---
 
