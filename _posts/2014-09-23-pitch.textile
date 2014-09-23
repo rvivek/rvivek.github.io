@@ -72,6 +72,8 @@ Foo
 
 h2. Slide 10: call to action
 
+Foo
+
 h2. Appendix slides
 
 Foo
