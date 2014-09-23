@@ -20,7 +20,9 @@ This time it worked. Eventually we went on to raise over $12M in funding, so the
 
 h2. Digression: don't take pitching advice from investors
 
-A great pitch is about convincing and exciting people so you can't craft it in a vacuum. You'll be presenting it a lot of people, and incorporating their feedback. To do that well, you have to separate good feedback from bad feedback, which brings us to a rather important sociological truth: humans are great at noticing problems and are terrible at proposing workable solutions. Just look at global warming, ObamaCare, or building good UIs. "Why don't you do the obviously correct thing, instead of the obviously wrong thing?" Right. If only things were that easy.
+A great pitch is about convincing and exciting people, so you can't craft it in a vacuum. You'll be presenting to a lot of people, and incorporating their feedback. To do that well, you have to separate good feedback from bad feedback, which brings us to a rather important sociological truth: humans are great at noticing problems but terrible at proposing workable solutions.
+
+Just look at global warming, ObamaCare, or building good UIs. "Why don't you do the obviously correct thing, instead of the obviously wrong thing?" Right. If only the world were that simple.
 
 
 
