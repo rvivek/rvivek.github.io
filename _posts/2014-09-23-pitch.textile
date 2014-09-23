@@ -14,7 +14,7 @@ We heard this over, and over, and over again from investors when we first starte
 
 So I read all I could on pitching and story telling. I read "Save the cat":http://www.amazon.com/Save-Last-Book-Screenwriting-Youll/dp/1932907009, and "The Hero with a Thousand Faces":http://www.amazon.com/Thousand-Faces-Collected-Joseph-Campbell/dp/1577315936, and Dan Harmon's "notes on story structure":http://channel101.wikia.com/wiki/Story_Structure_101:_Super_Basic_Shit, and Peter Theil's "startup notes":http://blakemasters.com/peter-thiels-cs183-startup, and Guy Kawasaki's "pitch deck advice":http://www.marsdd.com/mars-library/how-to-create-a-pitch-deck-for-investors/, and Pixar's "rules of storytelling":https://mastersreview.com/tips-pixars-22-rules-of-storytelling/. I read, watched, and listened to a myriad of resources. I even studied Ali G's parody of an "investor pitch":https://www.youtube.com/watch?v=48TR0vUPQCs. Hey, it doesn't hurt to learn what _not_ to do.
 
-And then we tried again.
+Then we tried again.
 
 This time it worked. Eventually we went on to raise over $12M in funding, so there is some evidence we did _something_ right. Here are the lessons we learned and the template we ended up using. As always, it's one man's opinion. Don't send angry e-mails if you use this structure and tank your fundraising round (or if you're an investor and you start getting terrible pitches with this structure).
 
