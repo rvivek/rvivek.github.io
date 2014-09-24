@@ -94,19 +94,19 @@ By now you will have explained the premise behind your company and its implicati
 - Your audience falls in love with your hypothesis
 - Your audience is intrigued with the hypothesis, but has to do more research
 
-If they don't accept your hypothesis, it doesn't matter what you do next. Be polite, finish your pitch, and move on with your day. Treat it as an opportunity to practice your pitch.
+If they don't accept your hypothesis, it doesn't matter what you do next. Be polite, finish your pitch, and move on with your day. Treat it as an opportunity to practice.
 
-The fun really begins if the audience falls in love with your hypothesis or is intrigued by it. If that happens, their minds will be bustling with a dozen questions. How far along is the company? Has the product shipped, or is it still in development? If it shipped, what does the traction look like? Are you making money yet? How big is the team working on this? Where are you located? Who are the team members? What does the market look like? How do you plan to take it? How much are you raising?
+The fun really begins if the audience falls in love with your hypothesis or is intrigued by it. If that happens, their minds will be bustling with a dozen questions. How far along is the company? Has the product shipped, or is it still in development? If it shipped, what does traction look like? Are you making money yet? How big is the team working on this? Where are you located? Who are the team members? What does the market look like? How do you plan to take it? How much are you raising?
 
 With all the questions in the air, you can't just proceed with regular programming. It doesn't matter which topic you pick to talk about next -- people will be distracted with questions. Different people in the room will often want different answers first, and they'll have trouble paying attention to anything you're saying. The best way to proceed is to preempt the questions with a summary slide. This is a brief snapshot of the company -- four to five bullet points summarizing where you are and why you're in the room:
 
-- Size of the team, location, and a brief sentence on the most impressive accomplishments of the members.
+- Size of the team, location, and a brief sentence on the most impressive accomplishments of the members
 - Addressible market size
 - State of the product (shipped, beta, etc.)
 - Traction and revenue metrics (both absolute numbers and percentage growth)
 - How much you've raised to date, and how much are you raising now
 
-"We're a team of four, all working out of a New York office. Two of us have sold companies before, and we're now tackling this five billion dollar opportunity. We shipped the product three months ago, and already sold $300k worth of product to five Fortune 500 customers, on track to sell $500k worth of product next month. We've raised a seed round of $500k, and want to offer you an opportunity to participate in our $5M series A."
+"We're a team of four, all working out of a New York office. Two of us have sold companies before, and we're now tackling this five billion dollar kitty mp3 player opportunity. We shipped KittyPlay three months ago, and already sold $300k worth of product to six thousand teenage girls, on track to sell $500k next month. We've raised a seed round of $500k, and want to offer you an opportunity to participate in our $5M series A."
 
 Now that you've summarized the answers to most frequent questions, it's time to get into the details.
 
