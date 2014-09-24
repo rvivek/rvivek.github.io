@@ -18,16 +18,6 @@ Then we tried again.
 
 This time it worked. Eventually we went on to raise over $12M in funding, so there is some evidence we did _something_ right. Here are the lessons we learned and the template we settled on. As always, it's one man's opinion. Don't send angry e-mails if you use this structure and tank your fundraising round (or if you're an investor and you start getting terrible pitches with this structure).
 
-h2. Don't take pitching advice from investors
-
-A great pitch is about convincing and exciting people, so you can't craft it in a vacuum. You'll be presenting to a lot of people, and incorporating their feedback. To do that well, you have to separate good feedback from bad feedback, which brings us to a rather important sociological truth: humans are great at noticing problems but terrible at proposing workable solutions. Just look at global warming, ObamaCare, or building good UIs. "Why don't you do the obviously correct thing, instead of the obviously wrong thing?" If only the world were that simple.
-
-Good user experience designers have known for years that customers will get confused by bad design within seconds, but then offer suggestions that make a bad problem worse. Designers listen to feedback to notice problems, but largely ignore suggestions on how to fix them. Figuring out how to solve problems is the designer's job.
-
-Investors are the customers for your pitch. They usually know a good pitch when they see one, and they definitely know a bad pitch (boy are they familiar with bad pitches), but they have no idea how to take a bad pitch and convert it to a good one. That's up to you.
-
-Pay close attention to body language and facial expressions. Notice when people frown (they don't believe something), or zone out (you've lost them), or lean in at the edge of their seat (finally, you got something right!) Take careful notes, fix the bad parts, and double down on the good parts. But be very careful about taking specific advice on how to actually improve the pitch. Incorporating suggestions verbatum will usually make a bad pitch worse.
-
 h2. All good stories are the same
 
 For all the infinite variety of storytelling, the crux of every story ever told is exactly the same. To quote Pixar's rules of storytelling:
@@ -141,3 +131,14 @@ Foo
 h2. Appendix slides
 
 Foo
+
+h2. Don't take pitching advice from investors
+
+A great pitch is about convincing and exciting people, so you can't craft it in a vacuum. You'll be presenting to a lot of people, and incorporating their feedback. To do that well, you have to separate good feedback from bad feedback, which brings us to a rather important sociological truth: humans are great at noticing problems but terrible at proposing workable solutions. Just look at global warming, ObamaCare, or building good UIs. "Why don't you do the obviously correct thing, instead of the obviously wrong thing?" If only the world were that simple.
+
+Good user experience designers have known for years that customers will get confused by bad design within seconds, but then offer suggestions that make a bad problem worse. Designers listen to feedback to notice problems, but largely ignore suggestions on how to fix them. Figuring out how to solve problems is the designer's job.
+
+Investors are the customers for your pitch. They usually know a good pitch when they see one, and they definitely know a bad pitch (boy are they familiar with bad pitches), but they have no idea how to take a bad pitch and convert it to a good one. That's up to you.
+
+Pay close attention to body language and facial expressions. Notice when people frown (they don't believe something), or zone out (you've lost them), or lean in at the edge of their seat (finally, you got something right!) Take careful notes, fix the bad parts, and double down on the good parts. But be very careful about taking specific advice on how to actually improve the pitch. Incorporating suggestions verbatum will usually make a bad pitch worse.
+
