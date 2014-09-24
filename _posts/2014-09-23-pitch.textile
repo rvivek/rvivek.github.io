@@ -18,7 +18,7 @@ Then we tried again.
 
 This time it worked. Eventually we went on to raise over $12M in funding, so there is some evidence we did _something_ right. Here are the lessons we learned and the template we settled on. As always, it's one man's opinion. Don't send angry e-mails if you use this structure and tank your fundraising round (or if you're an investor and you start getting terrible pitches with this structure).
 
-h2. Sidenote: don't take pitching advice from investors
+h2. Don't take pitching advice from investors
 
 A great pitch is about convincing and exciting people, so you can't craft it in a vacuum. You'll be presenting to a lot of people, and incorporating their feedback. To do that well, you have to separate good feedback from bad feedback, which brings us to a rather important sociological truth: humans are great at noticing problems but terrible at proposing workable solutions. Just look at global warming, ObamaCare, or building good UIs. "Why don't you do the obviously correct thing, instead of the obviously wrong thing?" If only the world were that simple.
 
@@ -28,7 +28,7 @@ Investors are the customers for your pitch. They usually know a good pitch when 
 
 Pay close attention to body language and facial expressions. Notice when people frown (they don't believe something), or zone out (you've lost them), or lean in at the edge of their seat (finally, you got something right!) Take careful notes, fix the bad parts, and double down on the good parts. But be very careful about taking specific advice on how to actually improve the pitch. Incorporating suggestions verbatum will usually make a bad pitch worse.
 
-h2. Sidenote: all good stories are the same
+h2. All good stories are the same
 
 For all the infinite variety of storytelling, the crux of every story ever told is exactly the same. To quote Pixar's rules of storytelling:
 
@@ -62,7 +62,7 @@ If you do a good job on this slide, it shouldn't raise any objections. People do
 
 This slide shouldn't take more than a few minutes, shouldn't be controversial, and shouldn't be overly complicated. After you're done with it, you will have explained the setting. Now it's time to introduce the monster.
 
-h2. Sidenote: borrow from The Economist
+h2. Borrow from The Economist
 
 Foo
 
@@ -74,15 +74,15 @@ h2. Slide 3: implications
 
 Foo
 
-h2. Sidenote: why this works
+h2. Why this works
 
 Foo
 
-h2. Sidenote: a compelling story does not a true story make
+h2. A compelling story does not a true story make
 
 Foo
 
-h2. Sidenote: changing the world
+h2. Changing the world
 
 Foo
 
@@ -110,7 +110,7 @@ With all the questions in the air, you can't just proceed with regular programmi
 
 Now that you've summarized the answers to most frequent questions, it's time to get into the details.
 
-h2. Sidenote: your product is a commodity, and so are you
+h2. Your product is a commodity, and so are you
 
 Foo
 
