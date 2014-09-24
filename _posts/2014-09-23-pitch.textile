@@ -28,7 +28,7 @@ Investors are the customers for your pitch. They usually know a good pitch when 
 
 Pay close attention to body language and facial expressions. Notice when people frown (they don't believe something), or zone out (you've lost them), or lean in at the edge of their seat (finally, you got something right!) Take careful notes, fix the bad parts, and double down on the good parts. But be very careful about taking specific advice on how to actually improve the pitch. Incorporating suggestions verbatum will usually make a bad pitch worse.
 
-h2. Digression: all stories are the same
+h2. Digression: all good stories are the same
 
 For all the infinite variety of storytelling, the crux of every story ever told is exactly the same. To quote Pixar's rules of storytelling:
 
@@ -44,11 +44,11 @@ h2. Title slide
 
 When you first walk into the room to present your company, investors are suspended in a state of uncertainty. They know nothing about you or your business. Perhaps you're building kitty mp3 players. Or perhaps you've invented a new triangular marketing scheme. They don't know.
 
-Fortunately their uncertainty is your canvas. Because they have no information, you get to define reality for them, right there, in the first thirty seconds. Before you jump into your story you need to give people _some_ anchor to hold on to, a reference point to orient themselves. This reference point is the name of your company and a single terse sentence explaining what you do. Put that on the intro slide in big letters.
+Their uncertainty is your canvas. Because they have no information, you get to define reality for them, right there, in the first thirty seconds. Before you jump into your story you need to give people _some_ anchor to hold on to, a reference point to orient themselves. This reference point is the name of your company and a single terse sentence explaining what you do. Put that on the intro slide in big letters.
 
 "Hi, I'm so and so. I'm the founder of Kitty MP3. We make mp3 players shaped like kittys for teenage girls."
 
-What you've just done in a mere few seconds is collapse a universe of possibilities into a single, tangible reality in people's minds. You've given them an enormous amount of information. They know roughly who you are -- you're so and so. Your company is called Kitty MP3. You don't in fact sell triangular marketing schemes -- you sell mp3 players shaped like kittys. And your target market is teenage girls.
+What you've just done in a mere few seconds is collapse a universe of possibilities into a single, tangible reality in people's minds. You've given them an enormous amount of information. They now roughly know who you are -- you're so and so. Your company is called Kitty MP3. You don't in fact sell triangular marketing schemes -- you sell mp3 players shaped like kittys. And your target market is teenage girls.
 
 Once you've given people a reference point, they start wondering. Why is so and so, a budding entrepreneur, decided it's a good idea to dedicate years of his life to building a kitty mp3 player company? It's time to tell the story!
 
