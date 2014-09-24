@@ -54,7 +54,11 @@ This slide shouldn't take more than a few minutes, shouldn't be controversial, a
 
 h2. Borrow from The Economist
 
-There is one major difference between telling a story about Sir Gawan and pitching your startup to investors. Literary plots are explicated through characters and their actions. Fundraising stories are explicated through statistics. 
+There is one major difference between telling a story about Sir Gawan and pitching your startup to investors. Literary plots are explicated through characters and their actions. Fundraising stories are explicated through an inductive argument. Your base case is the actions of a real person or organization. Your induction step is strongly cited statistics.
+
+Your fourteen year old sister Mary spends four hours a day using her non-kitty mp3 player -- half an hour on her way to school, and half an hour on her way back home. Then another three hours while she does her homework. There are upteen million girls like Mary in the U.S., and according to these three very credible sources, between 70-75% of them exhibit the same behavior.
+
+
 
 h2. Slide 2: the world has changed
 
