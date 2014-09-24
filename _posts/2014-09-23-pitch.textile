@@ -82,11 +82,11 @@ h2. Why this works
 
 Foo
 
-h2. A compelling story does not a true story make
+h2. Changing the world
 
 Foo
 
-h2. Changing the world
+h2. A compelling story does not a true story make
 
 Foo
 
@@ -112,7 +112,7 @@ With all the questions in the air, you can't just proceed with regular programmi
 
 "We're a team of four, all working out of a New York office. Two of us have sold companies before, and we're now tackling this five billion dollar kitty mp3 player opportunity. We shipped KittyPlay three months ago, and already sold $300k worth of product to six thousand teenage girls, on track to sell $500k more next month. We've raised a seed round of $500k, and want to offer you an opportunity to participate in our $5M series A."
 
-This kind of summary reduces tension. You've briefly answered most of the basic questions. You've given people firm ground to stand on. They know who you are, where your company is, and why you're in the room. Now they're ready to sit back and hear the details.
+This kind of summary reduces tension. You've briefly answered most of the basic questions. You've given people firm ground to stand on. They know who you are, where your company is, and why you're in the room. Now they're ready to sit back and hear the details. From now on, your pitch is all about analysis and execution. If you've done a good job, you've already convinced people you're pursuing a valuable opportunity. Now you have to convince them you're the most competent team out there to capitalize on it.
 
 h2. Your product is a commodity, and so are you
 
