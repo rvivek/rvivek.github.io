@@ -64,7 +64,7 @@ This slide shouldn't take more than a few minutes, shouldn't be controversial, a
 
 h2. Borrow from The Economist
 
-Foo
+There is one major difference between telling a story about Sir Gawan and pitching your startup to investors. Literary plots are explicated through characters and their actions. Fundraising stories are explicated through statistics. 
 
 h2. Slide 2: the world has changed
 
