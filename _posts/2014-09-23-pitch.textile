@@ -42,7 +42,15 @@ The "Pearl Poet":http://en.wikipedia.org/wiki/Pearl_Poet knew what he was doing 
 
 h2. Title slide
 
+When you first walk into the room to present your company, investors are suspended in a state of uncertainty. They know nothing about you or your business. Perhaps you're building kitty mp3 players. Or perhaps you've invented a new triangular marketing scheme. They don't know.
 
+Fortunately their uncertainty is your canvas. Because they have no information, you get to define reality for them, right there, in the first thirty seconds. Before you jump into your story you need to give people _some_ anchor to hold on to, a reference point to orient themselves. This reference point is the name of your company and a single terse sentence explaining what you do. Put that on the intro slide in big letters.
+
+"Hi, I'm so and so. I'm the founder of Kitty MP3. We make mp3 players shaped like kittys for teenage girls."
+
+What you've just done in a mere few seconds is collapse a universe of possibilities into a single, tangible reality in people's minds. It's an enormous amount of information. They know roughly who you are -- you're so and so. Your company is called Kitty MP3. You don't in fact sell triangular marketing schemes -- you sell mp3 players shaped like kittys. And your target market is teenage girls.
+
+Once you've given people a reference point, they start wondering. Why is so and so, a budding entrepreneur, decided it's a good idea to dedicate years of his life to building a kitty mp3 player company? It's time to tell your story!
 
 h2. Slide 1: old world in equillibrium
 
