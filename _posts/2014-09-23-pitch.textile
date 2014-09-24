@@ -60,7 +60,11 @@ Perhaps people spend 1.2 trillion dollars every year on buying gas-guzzling, env
 
 If you do a good job on this slide, it shouldn't raise any objections. People do in fact spend 1.2 trillion dollars on vehicles with internal combustion engines. They do spend billions of dollars on wire transfer fees sending money to other people. They do buy non-kitty shaped mp3 players. You might have to answer a few questions if you're talking about a specialized space your investors aren't familiar with, but you shouldn't notice any resistance. You're just stating facts -- this is how the world works.
 
-This slide shouldn't take more than a few minutes, and ideally after you're done with it you will have tought your audience something they didn't know before.
+This slide shouldn't take more than a few minutes, shouldn't be controvercial, and shouldn't be overly complicated. After you're done with it, you will have explained the setting. Now it's time to introduce the monster.
+
+h2. Digression: borrowing from The Economist
+
+Foo
 
 h2. Slide 2: the world has changed
 
