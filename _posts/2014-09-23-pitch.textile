@@ -30,7 +30,13 @@ Pay close attention to body language and facial expressions. Notice when people 
 
 h2. Digression: all stories are the same
 
-Foo.
+For all the infinite variety of storytelling, the crux of every story ever told is exactly the same. To quote Pixar's rules of storytelling:
+
+bq. Once upon a time there was ___. Every day, ___. One day ___. Because of that, ___. Because of that, ___. Until finally ___.
+
+A good story is about change. The knights of the round table were hanging out in King Arthur's castle, doing whatever it is that the knights of the round table do. One day a monster appeared. Because of that the knights went out and did their knight thing. Until finally, they defeated the monster, having learned a lot in the process and transforming the organizational bereaucracy of King's castle to deal with appearance of monsters more swiftly and effectively in the future.
+
+The "Pearl Poet":http://en.wikipedia.org/wiki/Pearl_Poet knew what he was doing when he wrote about "Sir Gawan":http://en.wikipedia.org/wiki/Sir_Gawain_and_the_Green_Knight, and it's as good a model as any to structure your investor pitch.
 
 h2. Title slide
 
@@ -45,6 +51,10 @@ h2. Slide 2: the world has changed
 Foo
 
 h2. Slide 3: implications
+
+Foo
+
+h2. Digression: why this works
 
 Foo
 
