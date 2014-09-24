@@ -40,7 +40,7 @@ Their uncertainty is your canvas. Because they have no information, you get to d
 
 What you've just done in a mere few seconds is collapse a universe of possibilities into a single, tangible reality in people's minds. You've given them an enormous amount of information. They now roughly know who you are -- you're so and so. Your company is called Kitty MP3. You don't in fact sell triangular marketing schemes -- you sell mp3 players shaped like kittys. And your target market is teenage girls.
 
-Once you've given people a reference point, they start wondering. Why is so and so, a budding entrepreneur, decided it's a good idea to dedicate years of his life to building a kitty mp3 player company? It's time to tell the story!
+Once you've given people a reference point, they start wondering. Why has so and so, a budding entrepreneur, decided it's a good idea to dedicate years of his life to building a kitty mp3 player company? It's time to tell the story!
 
 h2. Slide 1: old world in equillibrium
 
@@ -98,7 +98,7 @@ With all the questions in the air, you can't just proceed with regular programmi
 
 "We're a team of four, all working out of a New York office. Two of us have sold companies before, and we're now tackling this five billion dollar kitty mp3 player opportunity. We shipped KittyPlay three months ago, and already sold $300k worth of product to six thousand teenage girls, on track to sell $500k more next month. We've raised a seed round of $500k, and want to offer you an opportunity to participate in our $5M series A."
 
-Now that you've summarized the answers to most frequent questions, it's time to get into the details.
+This kind of summary reduces tention. You've briefly answered most of the basic questions. You've given people firm ground to stand on. They know who you are, where your company is, and why you're in the room. Now they're ready to sit back in their chairs and hear the details.
 
 h2. Your product is a commodity, and so are you
 
