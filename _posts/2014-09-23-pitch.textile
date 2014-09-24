@@ -20,7 +20,7 @@ This time it worked. Eventually we went on to raise over $12M in funding, so the
 
 h2. Don't take pitching advice from investors
 
-Before we begin, you should internalize a really important lesson on pitching. There is a lot of investor advice on how to pitch to investors, and it's a natural place to start learning. Study these resources carefully, but then proceed at your own risk.
+Before we begin, you should internalize a really important lesson on pitching. There is a lot of investor advice on how to pitch to investors, and it's a natural place to start learning. Study these resources carefully, then proceed at your own risk.
 
 A great pitch is about convincing and exciting people, so you can't craft it in a vacuum. You'll be presenting to a lot of people, and incorporating their feedback. To do that well, you have to separate good feedback from bad feedback, which brings us to a rather important sociological truth: humans are great at noticing problems but terrible at proposing workable solutions. Just look at global warming, ObamaCare, or building good UIs. "Why don't you do the obviously correct thing, instead of the obviously wrong thing?" If only the world were that simple.
 
@@ -78,23 +78,25 @@ h2. Slide 2: the world has changed
 
 It's time to introduce the monster. This is the "One day ___" part of the story. It's also your company's hypothesis and the most important part of the pitch. If you do a good job, this slide will be bold, controversial, and extremely well researched. You're sharing an extraordinarily valuable, critical, and possibly secret insight. You're making your audience purview to information thus far available only to you. "The world is undergoing a subtle change that will have dramatic implications. Let me show you how."
 
-You've noticed your sister Mary and her friends attach stickers of kittys onto their mp3 players. So you started digging. You've personally called a random sample of a hundred teenage girls, and discovered that 87% of them attach stickers of kittys to their mp3 players. You wanted to be sure, so you've commissioned an independent research organization to replicate the study. They've corroborated your findings.
+You've noticed your sister Mary and her friends attach stickers of kittys onto their mp3 players. So you started digging. You've personally called a random sample of a hundred families who have teenage girls, and discovered that 87% of them attach stickers of kittys to their mp3 players. You wanted to be sure, so you've commissioned an independent research organization to replicate the study. They've corroborated your findings.
 
-So you dug even deeper. You've manufactured a few samples of kitty-shaped mp3 players and presented them to a random sample of teenage girls along with regular mp3 players. Amazingly, 97% of your subjects strongly preferred kitty mp3 players to a regular ones. This is an unprecedented finding. The prolifiration of mp3 players and kittys has just crossed into critical mass.
+So you dug even deeper. You've manufactured a few samples of kitty-shaped mp3 players and presented them to a random sample of teenage girls along with regular mp3 players. Amazingly, 97% of your subjects strongly preferred kitty mp3 players to regular ones. This is an unprecedented finding. The prolifiration of mp3 players and kittys has just crossed into critical mass.
 
 This part of the pitch should pack a tremendous punch, and should polarize your audiences. You want it to be so well researched that people question the hypothesis, not the data. You want them to wonder, question, and probe. Don't equivocate. You don't need everyone to agree with you -- this is what your company is about. They either choose to accept your hypothesis, or they do not.
 
 h2. Slide 3: implications
 
-Now you're getting to the end of your story. "Because of that, ___. Because of that, ___. Until finally ___." Don't expect people to arrive at conclusions themselves. Take them there. Everyone knows that when the monster appears, the knights of the round table end up slaying it. But it's still your job to tell the tale.
+Now you're getting to the third part of the story structure. This slide is the first "Because of that, ___" in a series of "Because of that, ___. Because of that, ___. Until finally ___." You're still not talking about your company here -- you're explaining how the hypothesis introduced in the previous slide will change the world.
 
-Explain that the market demands the innovation of kitty mp3 players. Explain how it will revolutionize the mp3 player industry, the kitty industry, and the daily lives of teenagers. Explain how this business has strong network effects and economies of scale. Make a well researched case that once this innovation gets to market, nobody will be able to catch up. By the end of this slide you want to leave people with a single question -- are you the one who'll get there first?
+Don't expect people to arrive at conclusions themselves. Take them there. Everyone knows that when the monster appears, the knights of the round table end up slaying it. But it's still your job to tell the tale. Your conclusions should be non-obvious and your reasoning should be water-tight. Get past the obvious implications quickly. If you've thought through the implications carefully, most of the information should surprise your audience.
+
+By the end of this slide you want to leave people with a single question -- are you the one who'll get there first?
 
 h2. Why this works
 
 Foo
 
-h2. Changing the world
+h2. Troubleshooting
 
 Foo
 
