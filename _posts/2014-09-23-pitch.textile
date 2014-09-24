@@ -106,7 +106,7 @@ With all the questions in the air, you can't just proceed with regular programmi
 - Traction and revenue metrics (both absolute numbers and percentage growth)
 - How much you've raised to date, and how much are you raising now
 
-"We're a team of four, all working out of a New York office. Two of us have sold companies before, and we're now tackling this five billion dollar kitty mp3 player opportunity. We shipped KittyPlay three months ago, and already sold $300k worth of product to six thousand teenage girls, on track to sell $500k next month. We've raised a seed round of $500k, and want to offer you an opportunity to participate in our $5M series A."
+"We're a team of four, all working out of a New York office. Two of us have sold companies before, and we're now tackling this five billion dollar kitty mp3 player opportunity. We shipped KittyPlay three months ago, and already sold $300k worth of product to six thousand teenage girls, on track to sell $500k more next month. We've raised a seed round of $500k, and want to offer you an opportunity to participate in our $5M series A."
 
 Now that you've summarized the answers to most frequent questions, it's time to get into the details.
 
