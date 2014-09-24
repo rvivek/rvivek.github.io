@@ -46,7 +46,7 @@ h2. The title slide
 
 When you first walk into the room to present your company, investors are suspended in a state of uncertainty. They know nothing about you or your business. Perhaps you're building kitty mp3 players. Or perhaps you've invented a new triangular marketing scheme. They don't know.
 
-Their uncertainty is your canvas. Because they have no information, you get to define reality for them, right there, in the first thirty seconds. Before you jump into your story you need to give people _some_ anchor to hold on to, a reference point to orient themselves. This reference point is the name of your company and a single terse sentence explaining what you do. Put that on the intro slide in big letters. Then say what you do:
+Their uncertainty is your canvas, and the title slide is the teaser poster (or the front cover for the novel). Because they have no information, you get to define reality for them, right there, in the first thirty seconds. Before you jump into your story you need to give people _some_ anchor to hold on to, a reference point to orient themselves. This reference point is the name of your company and a single terse sentence explaining what you do. Put that on the intro slide in big letters. Then say what you do:
 
 "Hi, I'm so and so. I'm the founder of Kitty MP3. We make mp3 players shaped like kittys for teenage girls."
 
@@ -88,9 +88,11 @@ h2. Slide 3: implications
 
 Now you're getting to the third part of the story structure. This slide is the first "Because of that, ___" in a series of "Because of that, ___. Because of that, ___. Until finally ___." You're still not talking about your company here -- you're explaining how the hypothesis introduced in the previous slide will change the world.
 
-Don't expect people to arrive at conclusions themselves. Take them there. Everyone knows that when the monster appears, the knights of the round table end up slaying it. But it's still your job to tell the tale. Your conclusions should be non-obvious and your reasoning should be water-tight. Get past the obvious implications quickly. If you've thought through the implications carefully, most of the information should surprise your audience.
+Don't expect people to arrive at conclusions themselves. Take them there. Everyone knows that when the monster appears, the knights of the round table end up slaying it. But it's still your job to tell the tale. Your conclusions should be non-obvious and your reasoning should be water-tight. Get past the obvious implications quickly. If you've thought through the implications carefully, most of the information should pleasantly surprise your audience.
 
-By the end of this slide you want to leave people with a single question -- are you the one who'll get there first?
+
+
+By the end of this slide it should be obvious that what you've set out to do is worth doing. You want to leave people with a single question -- are you the one who'll get there first?
 
 h2. Why this works
 
