@@ -88,17 +88,17 @@ Foo
 
 h2. Slide 4: company snapshot
 
-By now you will have explained the premise behind your company and its implications, and one of three things will happen:
+By now you will have explained the premise behind your company and its implications. At this point one of three things will happen:
 
-- Your audience doesn't accept your hypothesis.
-- Your audience falls in love with your hypothesis.
-- Your audience is intrigued with the hypothesis, but has to do more research.
+- Your audience doesn't accept your hypothesis
+- Your audience falls in love with your hypothesis
+- Your audience is intrigued with the hypothesis, but has to do more research
 
 If they don't accept your hypothesis, it doesn't matter what you do next. Be polite, finish your pitch, and move on with your day. Treat it as an opportunity to practice your pitch.
 
 The fun really begins if the audience falls in love with your hypothesis or is intrigued by it. If that happens, their minds will be bustling with a dozen questions. How far along is the company? Has the product shipped, or is it still in development? If it shipped, what does the traction look like? Are you making money yet? How big is the team working on this? Where are you located? Who are the team members? What does the market look like? How do you plan to take it? How much are you raising?
 
-At this point you can't just proceed with regular programming. It does matter which topic you pick to talk about next -- people will be distracted with questions. Different people in the room will often want different answers first, and they'll have trouble paying attention to anything you're saying. The best way to proceed is to preempt the questions with a summary slide. This is a brief snapshot of the company -- four to five bullet points summarizing where you are and why you're in the room:
+With all the questions in the air, you can't just proceed with regular programming. It doesn't matter which topic you pick to talk about next -- people will be distracted with questions. Different people in the room will often want different answers first, and they'll have trouble paying attention to anything you're saying. The best way to proceed is to preempt the questions with a summary slide. This is a brief snapshot of the company -- four to five bullet points summarizing where you are and why you're in the room:
 
 - Size of the team, location, and a brief sentence on the most impressive accomplishments of the members.
 - Addressible market size
