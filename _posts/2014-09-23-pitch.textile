@@ -54,9 +54,13 @@ Once you've given people a reference point, they start wondering. Why is so and 
 
 h2. Slide 1: old world in equillibrium
 
-This is the part of the story before the appearance of the monster. Once upon a time there was ___. Every day, ___. Here you're explaining to people what the world looked like just a few months ago, before the monster appeared and compelled you to dedicate the next few years of your life to working on your company.
+This is the setting -- the part of the story before the appearance of the monster. Once upon a time there was ___. Every day, ___. Here you're explaining to people what the world looked like just a few months ago, before the monster appeared and compelled you to dedicate the next few years of your life to work on your company.
 
-Perhaps people spend 1.2 trillion dollars every year on buying gas-guzzling, environmentally unfriendly vehicles. Perhaps they hand banks billions of dollars worth of wire transfer fees to send money to people who aren't within their immediate geographical vicinity. Or perhaps they use horrible, non-kitty shaped mp3 players.
+Perhaps people spend 1.2 trillion dollars every year on buying gas-guzzling, environmentally unfriendly vehicles. Perhaps they hand banks billions of dollars worth of wire transfer fees to send money to people who aren't within their immediate geographical vicinity. Or perhaps billions of people buy non-kitty shaped mp3 players.
+
+If you do a good job on this slide, it shouldn't raise any objections. People do in fact spend 1.2 trillion dollars on vehicles with internal combustion engines. They do spend billions of dollars on wire transfer fees sending money to other people. They do buy non-kitty shaped mp3 players. You might have to answer a few questions if you're talking about a specialized space your investors aren't familiar with, but you shouldn't notice any resistance. You're just stating facts -- this is how the world works.
+
+This slide shouldn't take more than a few minutes, and ideally after you're done with it you will have tought your audience something they didn't know before.
 
 h2. Slide 2: the world has changed
 
