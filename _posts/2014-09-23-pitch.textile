@@ -44,7 +44,7 @@ h2. The title slide
 
 When you first walk into the room to present your company, investors are suspended in a state of uncertainty. They know nothing about you or your business. Perhaps you're building kitty mp3 players. Or perhaps you've invented a new triangular marketing scheme. They don't know.
 
-Their uncertainty is your canvas. Because they have no information, you get to define reality for them, right there, in the first thirty seconds. Before you jump into your story you need to give people _some_ anchor to hold on to, a reference point to orient themselves. This reference point is the name of your company and a single terse sentence explaining what you do. Put that on the intro slide in big letters.
+Their uncertainty is your canvas. Because they have no information, you get to define reality for them, right there, in the first thirty seconds. Before you jump into your story you need to give people _some_ anchor to hold on to, a reference point to orient themselves. This reference point is the name of your company and a single terse sentence explaining what you do. Put that on the intro slide in big letters. Then say what you do:
 
 "Hi, I'm so and so. I'm the founder of Kitty MP3. We make mp3 players shaped like kittys for teenage girls."
 
@@ -54,7 +54,7 @@ Once you've given people a reference point, they start wondering. Why is so and 
 
 h2. Slide 1: old world in equillibrium
 
-This your story's setting -- the part before the appearance of the monster. Once upon a time there was ___. Every day, ___. Here you're explaining to people what the world looked like just a few months ago, before the monster appeared and compelled you to dedicate the next few years of your life to work on your company.
+This slide is your story's setting -- the part before the appearance of the monster. Once upon a time there was ___. Every day, ___. Here you're explaining to people what the world looked like just a few months ago, before the monster appeared and compelled you to dedicate the next few years of your life to work on your company.
 
 Perhaps people spend 1.2 trillion dollars every year on buying gas-guzzling, environmentally unfriendly vehicles. Perhaps they hand banks billions of dollars worth of wire transfer fees to send money to people who aren't within their immediate geographical vicinity. Or perhaps billions of people buy non-kitty shaped mp3 players.
 
