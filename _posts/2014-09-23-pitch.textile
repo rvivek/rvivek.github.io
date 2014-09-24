@@ -54,9 +54,9 @@ Once you've given people a reference point, they start wondering. Why is so and 
 
 h2. Slide 1: old world in equillibrium
 
-This is the part of the story before the appearance of the monster. Once upon a time there was ___. Every day, ___.
+This is the part of the story before the appearance of the monster. Once upon a time there was ___. Every day, ___. Here you're explaining to people what the world looked like just a few months ago, before the monster appeared and compelled you to dedicate the next few years of your life to working on your company.
 
-Here you're explaining to people what the world looked like just a few months ago, before the monster appeared and compelled you to dedicate the next few years of your life to working on your company. Perhaps people spend 1.2 trillion dollars every year on buying gas-guzzling, environmentally unfriendly vehicles. Perhaps they hand banks billions of dollars worth of wire transfer fees to send money to people who aren't within their immediate geographical vicinity. Or perhaps they use horrible, non-kitty shaped mp3 players.
+Perhaps people spend 1.2 trillion dollars every year on buying gas-guzzling, environmentally unfriendly vehicles. Perhaps they hand banks billions of dollars worth of wire transfer fees to send money to people who aren't within their immediate geographical vicinity. Or perhaps they use horrible, non-kitty shaped mp3 players.
 
 h2. Slide 2: the world has changed
 
