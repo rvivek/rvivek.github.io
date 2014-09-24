@@ -74,9 +74,9 @@ This part of the pitch should pack a tremendous punch, and should polarize your 
 
 h2. Slide 3: implications
 
-Now you're getting to the end of your story -- "Because of that, ___. Because of that, ___. Until finally ___." Don't expect people to arrive at conclusions themselves. Take them there. Everyone knows that when the monster appears, the knights of the round table end up slaying it. But you still have to tell the story.
+Now you're getting to the end of your story. "Because of that, ___. Because of that, ___. Until finally ___." Don't expect people to arrive at conclusions themselves. Take them there. Everyone knows that when the monster appears, the knights of the round table end up slaying it. But it's still your job to tell the tale.
 
-Explain that the market demands the innovation of kitty mp3 players. Explain how it will revolutionize the mp3 player industry, the kitty industry, and the daily lives of teenagers. Explain how this business has strong network effects and economies of scale. Once this innovation gets to market, nobody will be able to catch up. The only question is who gets there first.
+Explain that the market demands the innovation of kitty mp3 players. Explain how it will revolutionize the mp3 player industry, the kitty industry, and the daily lives of teenagers. Explain how this business has strong network effects and economies of scale. Make a well researched case that once this innovation gets to market, nobody will be able to catch up. By the end of this slide you want to leave people with a single question -- are you the one who'll get there first?
 
 h2. Why this works
 
@@ -100,7 +100,7 @@ By now you will have explained the premise behind your company and its implicati
 
 If they don't accept your hypothesis, it doesn't matter what you do next. Be polite, finish your pitch, and move on with your day. Treat it as an opportunity to practice.
 
-The fun really begins if the audience falls in love with your hypothesis or is intrigued by it. If that happens, their minds will be bustling with a dozen questions. How far along is the company? Has the product shipped, or is it still in development? If it shipped, what does traction look like? Are you making money yet? How big is the team working on this? Where are you located? Who are the team members? What does the market look like? How do you plan to take it? How much are you raising?
+The fun really begins if the audience falls in love with your hypothesis or is intrigued by it. If that happens, they'll need to answer a critical question -- are you the one to get there first? To answer this question investors need a lot of information. How far along is the company? Has the product shipped, or is it still in development? If it shipped, what does traction look like? Are you making money yet? How big is the team working on this? Where are you located? Who are the team members? What does the market look like? How do you plan to take it? How much are you raising?
 
 With all the questions in the air, you can't just proceed with regular programming. It doesn't matter which topic you pick to talk about next -- people will be distracted with questions. Different people in the room will often want different answers first, and they'll have trouble paying attention to anything you're saying. The best way to proceed is to preempt the questions with a summary slide. This is a brief snapshot of the company -- four to five bullet points summarizing where you are and why you're in the room:
 
