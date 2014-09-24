@@ -94,7 +94,7 @@ Now you're getting to the third part of the story structure. This slide is the f
 
 Don't expect people to arrive at conclusions themselves. Take them there. Everyone knows that when the monster appears, the knights of the round table end up slaying it. But it's still your job to tell the tale. Your conclusions should be non-obvious and your reasoning should be water-tight. Get past the obvious implications quickly. If you've thought through the implications carefully, most of the information should pleasantly surprise your audience.
 
-
+TODO: HPMOR, reasoning from first principles
 
 By the end of this slide it should be obvious that what you've set out to do is worth doing. You want to leave people with a single question -- are you the one who'll get there first?
 
@@ -114,7 +114,7 @@ h2. Slide 4: company snapshot
 
 By now you will have explained the premise behind your company and its implications. At this point one of three things will happen:
 
-- Your audience doesn't accept your hypothesis
+- Your audience doesn't accept your hypothesis or thinks it's sloppy
 - Your audience falls in love with your hypothesis
 - Your audience is intrigued with the hypothesis, but has to do more research
 
