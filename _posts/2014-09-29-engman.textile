@@ -18,7 +18,7 @@ h2. Your primary responsibilities include:
 # Communicate to every engineer the next most important issue to work on.
 # Be the tiebreaker when the development team can't reach consensus.
 # Enforce behavioral standards when people mistreat each other.
-# Fire underperformers.
+# Attract, nurture, coach, and retain talent. Talk to engineers to tease out bubbling concerns, then fix them if you can. Fire bullies and underperformers.
 
 <h2 style="margin-left: -8px;"><br />Your primary responsibilities do not include:<br /><br /></h2>
 
