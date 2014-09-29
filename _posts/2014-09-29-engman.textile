@@ -25,10 +25,10 @@ h2. Your primary responsibilities include:
 #_ Personally fixing bugs and shipping features. You have to write code to remain an effective tiebreaker, but that's where your coding responsibilities end.
 # Supervising the quality or volume of people's work. Software engineering isn't an assembly line. If you find yourself supervising too often, you haven't attracted the right people or given them the right incentives.
 
-<h2 style="margin-left: -8px;"><br />Culture building<br /><br /></h2>
+<h2 style="margin-left: -8px;"><br />Emotions, people, and culture<br /><br /></h2>
 
-#_ The best products don't get built in a vacuum. They win because they reach the top of a field over all other products designed to fill the same niche. Find your field and be the best. If there is no field, something's wrong.
-# foo
+#_ If you feel something's wrong, you're probably right. Don't let anyone bully you into ignoring your feelings.
+# If find yourself blaming someone you're probably wrong. Nobody wakes and tries to do a bad job. 95% of the time you can resolve your feelings by just talking to people.
 
 <h2 style="margin-left: -8px;"><br />Disagreement resolution<br /><br /></h2>
 
@@ -43,11 +43,6 @@ h2. Your primary responsibilities include:
 <h2 style="margin-left: -8px;"><br />Rough edge<br /><br /></h2>
 
 #_ Product comes first. If people love your product, the tiniest announcements will get attention. If people don't love your product, no amount of marketing effort will help.
-# Foo
-
-<h2 style="margin-left: -8px;"><br />Emotions<br /><br /></h2>
-
-#_ Sales fix everything. You can screw up everything else and get through it if your product sells well.
 # Foo
 
 <br />
