@@ -14,11 +14,11 @@ h2. Your primary responsibilities include:
 <br />
 
 # Attract, nurture, coach, and retain talent. Talk to engineers to tease out bubbling concerns, then fix them if you can. Fire bullies and underperformers.
-# Enforce behavioral standards if people mistreat each other.
 # Be the tiebreaker when the development team can't reach consensus.
 # Communicate to every engineer the next most important issue to work on.
 # Be the information hub. Know what every engineer is working on, and help connect the dots that wouldn't otherwise get connected.
 # Provide administrative support. Appraise, assign, and schedule bug tracker issues, coordinate releases, and make sure the bureaucratic machine keeps ticking.
+# Enforce behavioral standards if people mistreat each other.
 
 <h2 style="margin-left: -8px;"><br />Your primary responsibilities do not include:<br /><br /></h2>
 
@@ -28,7 +28,10 @@ h2. Your primary responsibilities include:
 <h2 style="margin-left: -8px;"><br />Emotions, people, and culture<br /><br /></h2>
 
 #_ If you feel something's wrong, you're probably right. Don't let anyone bully you into ignoring your feelings.
-# If find yourself blaming someone you're probably wrong. Nobody wakes and tries to do a bad job. 95% of the time you can resolve your feelings by just talking to people.
+# If find yourself blaming someone, you're probably wrong. Nobody wakes up and tries to do a bad job. 95% of the time you can resolve your feelings by just talking to people.
+# Most people won't easily share their motions. Have frequent informal conversations, and tease out everything that might be wrong. Then fix it if you can.
+# Have the courage to say what everyone knows to be true but isn't saying. It's your job now.
+# Hire great people, then trust them completely. Evaluate performance on monthly basis, then fire if you have to. Don't evaluate people daily, it will drive everyone (including you) insane.
 
 <h2 style="margin-left: -8px;"><br />Disagreement resolution<br /><br /></h2>
 
