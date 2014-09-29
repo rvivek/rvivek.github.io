@@ -14,8 +14,9 @@ h2. Your primary responsibilities include:
 <br />
 
 # Provide administrative support. Appraise, assign, and schedule bug tracker issues, coordinate releases, and make sure the bureaucratic machine, however small, keeps on ticking.
-# Be the information hub. Left to their own devices, engineers don't communicate enough. Know what everyone is working on at any given time, and help connect the dots that wouldn't otherwise get connected.
-# Be a tiebreaker when the development team can't reach consensus on shared issues.
+# Be the information hub. Left to their own devices, engineers don't communicate enough. Know what every engineer is working on at any given time, and help connect the dots that wouldn't otherwise get connected.
+# Make sure every engineer knows what the next most important issue to work on is at any given time.
+# Be the tiebreaker when the development team can't reach consensus on issues that affect everyone.
 # Fire underperformers.
 
 <h2 style="margin-left: -8px;"><br />Your primary responsibilities do not include:<br /><br /></h2>
