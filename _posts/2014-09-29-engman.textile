@@ -23,8 +23,7 @@ h2. Your primary responsibilities include:
 <h2 style="margin-left: -8px;"><br />Your primary responsibilities do not include:<br /><br /></h2>
 
 #_ Personally fixing bugs and shipping features. You have to write code to remain an effective tiebreaker, but that's where your coding responsibilities end.
-# Supervising people's work. Software engineering isn't an assembly line. If you find yourself having to supervise people's work, you haven't attracted the right talent.
-
+# Supervising the quality or volume of people's work. Software engineering isn't an assembly line. If you find yourself supervising too often, you haven't attracted the right people or given them the right incentives.
 
 <h2 style="margin-left: -8px;"><br />Culture building<br /><br /></h2>
 
