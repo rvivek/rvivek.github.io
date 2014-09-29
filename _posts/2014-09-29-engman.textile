@@ -14,15 +14,15 @@ h2. Your primary responsibilities include:
 <br />
 
 # Attract, nurture, coach, and retain talent. Talk to engineers to tease out bubbling concerns, then fix them if you can. Fire bullies and underperformers.
-# Enforce behavioral standards when people mistreat each other.
-# Communicate to every engineer the next most important issue to work on.
+# Enforce behavioral standards if people mistreat each other.
 # Be the tiebreaker when the development team can't reach consensus.
+# Communicate to every engineer the next most important issue to work on.
 # Be the information hub. Know what every engineer is working on, and help connect the dots that wouldn't otherwise get connected.
 # Provide administrative support. Appraise, assign, and schedule bug tracker issues, coordinate releases, and make sure the bureaucratic machine keeps ticking.
 
 <h2 style="margin-left: -8px;"><br />Your primary responsibilities do not include:<br /><br /></h2>
 
-#_ If you have to give away more than 15% of the company at any given fundraising round, your company didn't germinate correctly. It's salvageable but not ideal.
+#_ Personally fixing bugs and shipping features. You have to write code to remain an effective tiebreaker, but that's where your coding responsibilities end.
 # Foo
 
 
