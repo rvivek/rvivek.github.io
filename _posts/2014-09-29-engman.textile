@@ -36,18 +36,25 @@ h2. Your primary responsibilities include:
 # Hire great people, then trust them completely. Evaluate performance on monthly basis, then fire if you have to. Don't evaluate people daily, it will drive everyone (including you) insane.
 # Most intellectual arguments have strong emotional undercurrents. You'll be dramatically more efficient once you learn to figure out what those are.
 
-<h2 style="margin-left: -8px;"><br />Tiebreaking<br /><br /></h2>
+<h2 style="margin-left: -8px;"><br />Tiebreaking and conflict<br /><br /></h2>
 
 #_ Don't judge too quickly, you're right less often than you think. Even if you're sure you're right in any given case, wait until everyone's opinion is heard.
 # Once everyone is heard, summarize all points of view so clearly that people say "Thanks, I wish I'd thought of putting it that way." List any points of agreement with each view, and state what you've learned from everyone. Then make your decision.
 # Once you've made your decision, enforce it. Don't let the team waste time going in circles to placate disproportionally strong voices.
 # Reopen the discussion if there is significant new information.
+# When disagreement gets personal or people don't accept well-reasoned decisions, it's turned into conflict.
+# Most conflict happens because people don't feel heard. Sit down with each person, and ask them how they feel. Listen carefully. Then ask again. And again. Then summarize what they said back to them. Most of the time that will solve the problem.
+# If the conflict persists after you've gone to reasonable lengths to hear everyone out and fix problems, it's time for a difficult conversation.
 
 <h2 style="margin-left: -8px;"><br />Difficult conversations<br /><br /></h2>
 
-#_ When disagreement gets personal or people don't accept well-reasoned decisions, it's turned into conflict.
-# Most conflict happens because people don't feel heard. Sit down with each person, and ask them how they feel. Listen carefully. Then ask again. And again. Then summarize what they said back to them. Most of the time that will solve the problem.
-# Never assume or jump to conclusions. Never demonize people in your mind.
-# If the conflict persists after you've gone to reasonable lengths to hear everyone out and fix underlying problems, it's time to have difficult conversations.
+#_ Have difficult conversations as soon as possible. Waiting will only make a bad situation worse.
+# Never assume or jump to conclusions. Never demonize people in your mind. Never blame or vilify.
 # Use "non-violent communication":http://firstround.com/article/power-up-your-team-with-nonviolent-communication-principles. It smells like a fad, but it really works (I promise).
+# Have the courage to state how you feel and what you need. People are drawn to other's vulnerability but repelled by their own. Vulnerability isn't weakness.
+# Expect people to extend you the same courtesy.
+
+<h2 style="margin-left: -8px;"><br />Rough edge<br /><br /></h2>
+
+#_ Foo
 
