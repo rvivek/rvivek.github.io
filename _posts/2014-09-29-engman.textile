@@ -32,6 +32,7 @@ h2. Your primary responsibilities include:
 # If find yourself blaming someone, you're probably wrong. Nobody wakes up and tries to do a bad job. 95% of the time you can resolve your feelings by just talking to people.
 # Most people won't easily share their emotions. Have frequent informal conversations, and tease out everything that might be wrong. Then fix it if you can.
 # Have the courage to say what everyone knows to be true but isn't saying. It's your job now.
+# Have the courage to say what everyone should know but doesn't yet. It's your job too.
 # Hire great people, then trust them completely. Evaluate performance on monthly basis, then fire if you have to. Don't evaluate people daily, it will drive everyone (including you) insane.
 
 <h2 style="margin-left: -8px;"><br />Tiebreaking<br /><br /></h2>
