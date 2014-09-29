@@ -46,5 +46,7 @@ h2. Your primary responsibilities include:
 <h2 style="margin-left: -8px;"><br />Conflict resolution and showing the rough edge<br /><br /></h2>
 
 #_ When disagreement gets personal or people don't accept well-reasoned decisions, it's turned into conflict.
-# Foo
+# Most conflict happens because people don't feel heard. Sit down with each person, and ask them how they feel. Listen carefully. Then ask again. And again. Then summarize what they said back to them. Most of the time that will solve the problem.
+# Never assume or jump to conclusions. Never demonize people in your mind. Use "non-violent communication":http://firstround.com/article/power-up-your-team-with-nonviolent-communication-principles, it smells like a fad, but it really works.
+
 
