@@ -1,0 +1,45 @@
+---
+layout: post
+title: A guide for new engineering mananagers
+wip: true
+---
+
+h1. {{ page.title }}
+
+p(meta). 29 Sep 2013
+
+Here is what you do.
+
+h2. Your primary responsibilities include:
+<br />
+
+# test
+
+<h2 style="margin-left: -8px;"><br />Your primary responsibilities do not include:<br /><br /></h2>
+
+#_ If you have to give away more than 15% of the company at any given fundraising round, your company didn't germinate correctly. It's salvageable but not ideal.
+# Foo
+
+
+<h2 style="margin-left: -8px;"><br />Culture building<br /><br /></h2>
+
+#_ The best products don't get built in a vacuum. They win because they reach the top of a field over all other products designed to fill the same niche. Find your field and be the best. If there is no field, something's wrong.
+# foo
+
+<h2 style="margin-left: -8px;"><br />Disagreement resolution<br /><br /></h2>
+
+#_ Product sense is everything. Learn it as quickly as you can. Being good at engineering has nothing to do with being good at product management.
+# Foo
+
+<h2 style="margin-left: -8px;"><br />Conflict resolution<br /><br /></h2>
+
+#_ Product comes first. If people love your product, the tiniest announcements will get attention. If people don't love your product, no amount of marketing effort will help.
+# Foo
+
+<h2 style="margin-left: -8px;"><br />Emotions<br /><br /></h2>
+
+#_ Sales fix everything. You can screw up everything else and get through it if your product sells well.
+# Foo
+
+<br />
+__Thanks to Michael Glukhovsky for reviewing this post.__

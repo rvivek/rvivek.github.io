@@ -40,7 +40,7 @@ A good story is about change. The knights of the round table were hanging out in
 
 (If you're a high art aficionado, I know there are stories that push the boundary of the medium and don't follow this structure. I'm ignoring those, because presumably your goal is to raise capital for your company, not to win a Nobel Prize in literature.)
 
-The "Pearl Poet":http://en.wikipedia.org/wiki/Pearl_Poet knew what he was doing when he wrote about "Sir Gawan":http://en.wikipedia.org/wiki/Sir_Gawain_and_the_Green_Knight. You can do far worse then follow his lead when structuring your investor pitch. So let's get started.
+The "Pearl Poet":http://en.wikipedia.org/wiki/Pearl_Poet knew what he was doing when he wrote about "Sir Gawan":http://en.wikipedia.org/wiki/Sir_Gawain_and_the_Green_Knight. You can do far worse than follow his lead when structuring your investor pitch. So let's get started.
 
 h2. The title slide
 
@@ -66,7 +66,7 @@ Perhaps people spend 1.2 trillion dollars every year on buying gas-guzzling, env
 
 If you do a good job on this slide, it shouldn't raise any objections. People do in fact spend 1.2 trillion dollars on vehicles with internal combustion engines. They do spend billions of dollars on wire transfer fees sending money to other people. They do buy non-kitty shaped mp3 players. You might have to answer a few questions if you're talking about a specialized space your investors aren't familiar with, but you shouldn't notice any resistance. You're just stating facts -- this is how the world works.
 
-This slide shouldn't take more than a few minutes, shouldn't be controversial, and shouldn't be overly complicated. After you're done with it, you will have explained the setting. Now it's time to introduce the monster.
+This slide shouldn't take more than a few minutes, shouldn't be controversial, and shouldn't be overly complicated. After you're done with it, you will have explained the setting. Then it's time to introduce the monster.
 
 h2. Borrow from The Economist
 
@@ -74,7 +74,7 @@ There is one major difference between telling a story about Sir Gawan and pitchi
 
 Your fourteen year old sister Mary spends four hours a day using her non-kitty mp3 player -- half an hour on her way to school, and half an hour on her way back home. Then another three hours while she does her homework. There are upteen million girls like Mary in the U.S., and according to these three very credible sources, between 70-75% of them exhibit the same behavior.
 
-It takes a bit of practice to learn how to tell stories like that, and the best way to pick up the lingo and structure quickly is to read a couple of issues of The Economist. Every analysis slide in your deck should resemble The Economist article. There are a few very good reasons why you want model these types of arguments after this venerable publication. The Economist correspondents are especially good at telling these types of stories. They do a great job of telling great stories by alternating between individual cases and statistics. They make the audience feel smart by teaching them something new, and they're good at making strong arguments without triggering people's baloney detectors. Incidentally, this is exactly the vibe you want to go for when pitching your startup.
+It takes a bit of practice to learn how to tell stories like that, and the best way to pick up the lingo and structure quickly is to read a couple of issues of The Economist. The analysis slides in your deck should resemble The Economist articles. There are a few very good reasons why you want to model these types of arguments after this venerable publication. The Economist correspondents are strikingly good at telling these types of stories. They tell great stories by alternating between individual cases and statistics. They make the audience feel smart by teaching them something new, and they're good at making strong arguments without triggering people's baloney detectors. Incidentally, this is exactly the vibe you want to go for when pitching your startup.
 
 More importantly, The Economist specifically targets affluent business audiences. The overwhelming majority of the investors you'll end pitching read it, and The Economist correspondents are used to business lingo. If you explicate the story using the same patterns, investors will be much more likely to accept your assertions. It's the easiest way to learn to talk the talk without going to business school.
 
