@@ -27,7 +27,7 @@ h2. Your primary responsibilities include:
 
 <h2 style="margin-left: -8px;"><br />Emotions, people, and culture<br /><br /></h2>
 
-#_ Management happens to have prestige associated with it in our culture, but it's a skill like any other. Prestige is a distraction; guard against believing you're any better than anyone else. The sooner you get over prestige, the sooner you can focus on doing your job well.
+#_ Management happens to have prestige associated with it in our culture, but it's a skill like any other. Prestige is a fickle, arbitrary, and dangerous abstraction. It's also a huge distraction. Guard against believing you're any better than anyone else. The sooner you get over prestige, the sooner you can focus on doing your job well.
 # If you feel something's wrong, you're probably right. Don't let anyone bully you into ignoring your feelings.
 # If find yourself blaming someone, you're probably wrong. Nobody wakes up and tries to do a bad job. 95% of the time you can resolve your feelings by just talking to people.
 # Most people won't easily share their emotions. Have frequent informal conversations, and tease out everything that might be wrong. Then fix it if you can.
@@ -43,13 +43,8 @@ h2. Your primary responsibilities include:
 # Once you've made your decision, enforce it. Don't let the team waste time going in circles to placate disproportionally strong voices.
 # Reopen the discussion if there is significant new information.
 
-<h2 style="margin-left: -8px;"><br />Conflict resolution<br /><br /></h2>
+<h2 style="margin-left: -8px;"><br />Conflict resolution and showing the rough edge<br /><br /></h2>
 
 #_ When disagreement gets personal or people don't accept well-reasoned decisions, it's turned into conflict.
 # Foo
-
-<h2 style="margin-left: -8px;"><br />Rough edge<br /><br /></h2>
-
-#_ Foo
-# Bar
 
