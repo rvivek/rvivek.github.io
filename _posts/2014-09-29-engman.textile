@@ -42,11 +42,11 @@ h2. Your primary responsibilities include:
 
 <h2 style="margin-left: -8px;"><br />Conflict resolution<br /><br /></h2>
 
-#_ Product comes first. If people love your product, the tiniest announcements will get attention. If people don't love your product, no amount of marketing effort will help.
+#_ When disagreement gets personal, or people don't accept well-reasoned decisions, it's turned into conflict.
 # Foo
 
 <h2 style="margin-left: -8px;"><br />Rough edge<br /><br /></h2>
 
-#_ Product comes first. If people love your product, the tiniest announcements will get attention. If people don't love your product, no amount of marketing effort will help.
-# Foo
+#_ Foo
+# Bar
 
