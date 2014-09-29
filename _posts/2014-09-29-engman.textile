@@ -52,9 +52,11 @@ h2. Your primary responsibilities include:
 # Never assume or jump to conclusions. Never demonize people in your mind. Never blame or vilify.
 # Use "non-violent communication":http://firstround.com/article/power-up-your-team-with-nonviolent-communication-principles. It smells like a fad, but it really works (I promise).
 # Have the courage to state how you feel and what you need. People are drawn to other's vulnerability but repelled by their own. Vulnerability isn't weakness.
-# Expect people to extend you the same courtesy.
+# Expect people to extend you the same courtesy. If someone makes you feel bad for stating your needs and feelings, it tells you more about them than about yourself.
 
 <h2 style="margin-left: -8px;"><br />Rough edge<br /><br /></h2>
 
-#_ Foo
+#_ People will push you to discover your boundaries. Knowing when to stand back and when to stand firm is half the battle.
+# Occassionally they'll push too far. When they do, you have to show a rough edge.
+# 
 
