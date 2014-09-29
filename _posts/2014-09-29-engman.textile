@@ -30,14 +30,15 @@ h2. Your primary responsibilities include:
 #_ Management happens to have prestige associated with it in our culture, but it's a skill like any other. Prestige is a distraction; guard against believing you're any better than anyone else. The sooner you get over prestige, the sooner you can focus on doing your job well.
 # If you feel something's wrong, you're probably right. Don't let anyone bully you into ignoring your feelings.
 # If find yourself blaming someone, you're probably wrong. Nobody wakes up and tries to do a bad job. 95% of the time you can resolve your feelings by just talking to people.
-# Most people won't easily share their motions. Have frequent informal conversations, and tease out everything that might be wrong. Then fix it if you can.
+# Most people won't easily share their emotions. Have frequent informal conversations, and tease out everything that might be wrong. Then fix it if you can.
 # Have the courage to say what everyone knows to be true but isn't saying. It's your job now.
 # Hire great people, then trust them completely. Evaluate performance on monthly basis, then fire if you have to. Don't evaluate people daily, it will drive everyone (including you) insane.
 
-<h2 style="margin-left: -8px;"><br />Disagreement resolution<br /><br /></h2>
+<h2 style="margin-left: -8px;"><br />Tiebreaking<br /><br /></h2>
 
-#_ Product sense is everything. Learn it as quickly as you can. Being good at engineering has nothing to do with being good at product management.
-# Foo
+#_ Don't judge too quickly, you're right less often than you think. Even if you're sure you're right in any given case, wait until everyone's opinion is heard.
+# Once everyone is heard, summarize all points of view so clearly that people say "Thanks, I wish I'd thought of putting it that way." List any points of agreement with each view, and state what you've learned from everyone. Then make your decision.
+# Once you've made your decision, enforce it. Don't let the team waste time going in circles to placate strong voices.
 
 <h2 style="margin-left: -8px;"><br />Conflict resolution<br /><br /></h2>
 
