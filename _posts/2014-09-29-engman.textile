@@ -25,7 +25,11 @@ h2. Your primary responsibilities include:
 #_ Personally fixing bugs and shipping features. You have to write code to remain an effective tiebreaker, but that's where your coding responsibilities end.
 # Supervising the quality or volume of people's work. Software engineering isn't an assembly line. If you find yourself supervising too often, you haven't attracted the right people or given them the right incentives.
 
-<h2 style="margin-left: -8px;"><br />Emotions, people, and culture<br /><br /></h2>
+<h2 style="margin-left: -8px;"><br />Motivation and culture<br /><br /></h2>
+
+#_ Engineering is a seller's market: people work for you because they believe in you. Access to their talent is a priviledge.
+
+<h2 style="margin-left: -8px;"><br />Emotions and people<br /><br /></h2>
 
 #_ Management happens to have prestige associated with it in our culture, but it's a skill like any other. Prestige is a fickle, arbitrary, and dangerous abstraction. It's also a huge distraction. Guard against believing you're any better than anyone else. The sooner you get over prestige, the sooner you can focus on doing your job well.
 # If you feel something's wrong, you're probably right. Don't let anyone bully you into ignoring your feelings.
