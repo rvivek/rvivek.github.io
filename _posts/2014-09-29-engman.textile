@@ -8,7 +8,7 @@ h1. {{ page.title }}
 
 p(meta). 29 Sep 2013
 
-Here is what you do.
+Welcome to engineering management. It's fun, it's exhausting, it's rewarding, but most importantly it's new! What worked for you before won't work now. You'll have to acquire a whole new set of skills, and shed some bad habits in the process. Here is a short guide to get you started.
 
 h2. Your primary responsibilities include:
 <br />
@@ -43,7 +43,7 @@ h2. Your primary responsibilities include:
 # Once you've made your decision, enforce it. Don't let the team waste time going in circles to placate disproportionally strong voices.
 # Reopen the discussion if there is significant new information.
 # When disagreement gets personal or people don't accept well-reasoned decisions, it's turned into conflict.
-# Most conflict happens because people don't feel heard. Sit down with each person, and ask them how they feel. Listen carefully. Then ask again. And again. Then summarize what they said back to them. Most of the time that will solve the problem.
+# Most conflict happens because people don't feel heard. Sit down with each person and ask them how they feel. Listen carefully. Then ask again. And again. Then summarize what they said back to them. Most of the time that will solve the problem.
 # If the conflict persists after you've gone to reasonable lengths to hear everyone out and fix problems, it's time for a difficult conversation.
 
 <h2 style="margin-left: -8px;"><br />Difficult conversations<br /><br /></h2>
@@ -57,7 +57,7 @@ h2. Your primary responsibilities include:
 <h2 style="margin-left: -8px;"><br />Rough edge<br /><br /></h2>
 
 #_ People will push and prod to discover your boundaries. Knowing when to stand back and when to stand firm is half the battle.
-# Occassionally someone will push too far. When they do, you have to show a rough edge or you'll lose all authority with your team.
+# Occasionally someone will push too far. When they do, you have to show a rough edge or you'll lose all authority with your team.
 # A firm "I'm not ok with that" is usually enough.
 # If you have to firmly say "I'm not ok with that" too many times to the same person, it's your job to let them go.
 
