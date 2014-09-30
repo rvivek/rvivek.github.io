@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A guide for new engineering mananagers
+title: A guide for new engineering managers
 wip: true
 ---
 
