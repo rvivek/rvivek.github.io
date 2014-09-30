@@ -33,7 +33,7 @@ h2. Your primary responsibilities include:
 # Most people won't easily share their emotions. Have frequent informal conversations, and tease out everything that might be wrong. Then fix it if you can.
 # Have the courage to say what everyone knows to be true but isn't saying. It's your job now.
 # Have the courage to say what everyone should know but doesn't. It's your job now too.
-# Hire great people, then trust them completely. Evaluate performance on monthly basis, then fire if you have to. Don't evaluate people daily, it will drive everyone (including you) insane.
+# Hire great people, then trust them completely. Evaluate performance on monthly or quarterly basis, then fire if you have to. Don't evaluate people daily, it will drive everyone (including you) insane.
 # Most intellectual arguments have strong emotional undercurrents. You'll be dramatically more efficient once you learn to figure out what those are.
 
 <h2 style="margin-left: -8px;"><br />Tiebreaking and conflict<br /><br /></h2>
