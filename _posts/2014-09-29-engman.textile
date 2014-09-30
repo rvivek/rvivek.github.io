@@ -8,7 +8,7 @@ h1. {{ page.title }}
 
 p(meta). 29 Sep 2013
 
-Welcome to engineering management. It's fun, it's exhausting, it's rewarding, but most importantly it's new! What worked for you before won't work now. You'll have to acquire a whole new set of skills, and shed some bad habits in the process. Here is a short guide to get you started.
+Welcome to engineering management. It's fun, it's exhausting, it's rewarding, but most importantly it's new! What worked for you before won't work now. You'll have to acquire a new set of skills, and shed some bad habits in the process. Here is a short guide to get you started.
 
 h2. Your primary responsibilities include:
 <br />
@@ -28,6 +28,7 @@ h2. Your primary responsibilities include:
 <h2 style="margin-left: -8px;"><br />Motivation and culture<br /><br /></h2>
 
 #_ Engineering is a seller's market: people work for you because they believe in you. Access to their talent is a priviledge.
+# Don't make decisions unless you have to. Whenever possible, allow the team explore ideas and make decisions on its own.
 
 <h2 style="margin-left: -8px;"><br />Emotions and people<br /><br /></h2>
 
