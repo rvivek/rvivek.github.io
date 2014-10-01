@@ -28,7 +28,7 @@ h2. Do
 <h2 style="margin-left: -8px;"><br />Motivation and culture<br /><br /></h2>
 
 #_ You're the one who makes hiring and firing decisions. Everything that happens on your team is your responsibility. 
-# Engineering is a seller's market: people work for you because they believe in you. Access to their talent is a priviledge.
+# Engineering is a seller's market: people work for you because they believe in you. Access to their talent is a privilege.
 # Authority isn't bestowed freely. It's earned by making good decisions over time.
 # Don't make decisions unless you have to. Whenever possible, allow the team explore ideas and make decisions on its own.
 # Do make decisions when it's necessary. Few things are as demoralizing as a stalled team.
@@ -42,8 +42,8 @@ h2. Do
 # If you feel something's wrong, you're probably right. Don't let anyone bully you into ignoring your feelings.
 # If you find yourself blaming someone, you're probably wrong. Nobody wakes up and tries to do a bad job. 95% of the time you can resolve your feelings by just talking to people.
 # Most people won't easily share their emotions. Have frequent informal conversations, and tease out everything that might be wrong. Then fix it if you can.
-# Have the courage to say what everyone knows to be true but isn't saying. It's your job now.
-# Have the courage to say what everyone should know but doesn't. It's your job now too.
+# Your team looks to you for leadership. Have the courage to say what everyone knows to be true but isn't saying.
+# You're paid to discover and fix cultural problems your team may not be aware of. Have the courage to say what everyone should know but doesn't.
 # Hire great people, then trust them completely. Evaluate performance on monthly or quarterly basis, then fire if you have to. Don't evaluate people daily, it will drive everyone (including you) insane.
 # Most intellectual arguments have strong emotional undercurrents. You'll be dramatically more efficient once you learn to figure out what those are.
 
