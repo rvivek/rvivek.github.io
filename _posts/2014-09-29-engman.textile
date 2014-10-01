@@ -33,7 +33,7 @@ h2. Your primary responsibilities include:
 # Don't make decisions unless you have to. Whenever possible, allow the team explore ideas and make decisions on its own.
 # Do make decisions when it's necessary. Few things are as demoralizing as a stalled team.
 # Don't shoot down ideas until it's necessary. Create an environment where everyone feels safe to share and explore ideas. The folks writing the code have a lot of information you don't. Rely on your team and you'll make better decisions.
-# Building an intuition on how to make good decisions and cultivating a great relationship with your team and will get you 95% of the way there. The "multitude":http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/ of "conceptual":http://en.wikipedia.org/wiki/OKR "frameworks":http://en.wikipedia.org/wiki/Kanban for organizing engineering teams won't make much difference. They make good managers slightly better and bad managers slightly worse.
+# Building an intuition on how to make good decisions and cultivating a great relationship with your team and will get you 95% of the way there. The "multitude":http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/ "of":http://en.wikipedia.org/wiki/Scrum_(software_development) "conceptual":http://en.wikipedia.org/wiki/OKR "frameworks":http://en.wikipedia.org/wiki/Kanban for organizing engineering teams won't make much difference. They make good managers slightly better and bad managers slightly worse.
 
 <h2 style="margin-left: -8px;"><br />Emotions and people<br /><br /></h2>
 
