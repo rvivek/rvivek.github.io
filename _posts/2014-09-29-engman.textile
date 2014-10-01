@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A guide for new engineering managers
+title: 44 engineering management lessons
 wip: true
 ---
 
