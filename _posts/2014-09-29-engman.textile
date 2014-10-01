@@ -18,7 +18,7 @@ h2. Your primary responsibilities include:
 # Be the tiebreaker when the development team can't reach consensus.
 # Be the information hub. Know what every engineer is working on, and help connect the dots that wouldn't otherwise get connected.
 # Provide administrative support. Appraise, assign, and schedule bug tracker issues, coordinate releases, and make sure the bureaucratic machine keeps ticking.
-# Enforce behavioral standards if people mistreat each other. Fire bullies and underperformers.
+# Enforce behavioral and performance standards. Fire bullies and underperformers.
 
 <h2 style="margin-left: -8px;"><br />Your primary responsibilities do not include:<br /><br /></h2>
 
