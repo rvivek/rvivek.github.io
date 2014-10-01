@@ -13,12 +13,12 @@ Welcome to engineering management. It's fun, it's exhausting, it's rewarding, bu
 h2. Your primary responsibilities include:
 <br />
 
-# Attract, nurture, coach, and retain talent. Talk to engineers to tease out bubbling concerns, then fix them if you can. Fire bullies and underperformers.
+# Attract, nurture, coach, and retain talent. Talk to engineers to tease out bubbling concerns, then fix them if you can.
 # Be the tiebreaker when the development team can't reach consensus.
 # Communicate to every engineer the next most important issue for them to work on.
 # Be the information hub. Know what every engineer is working on, and help connect the dots that wouldn't otherwise get connected.
 # Provide administrative support. Appraise, assign, and schedule bug tracker issues, coordinate releases, and make sure the bureaucratic machine keeps ticking.
-# Enforce behavioral standards if people mistreat each other.
+# Enforce behavioral standards if people mistreat each other. Fire bullies and underperformers.
 
 <h2 style="margin-left: -8px;"><br />Your primary responsibilities do not include:<br /><br /></h2>
 
