@@ -5,7 +5,7 @@ title: The ten project management commandments
 
 h1. {{ page.title }}
 
-p(meta). 03 Jun 2013
+p(meta). 03 Oct 2014
 
 Over the course of building "RethinkDB":http://www.rethinkdb.com we learned many software engineering lessons. Most of these lessons feel like rediscovered platitudes, but we still managed to mess them up. Considering how many teams are struggling with shipping software, I think these lessons are worth repeating.
 
