@@ -37,7 +37,7 @@ h2. Do
 <h2 style="margin-left: -8px;"><br />Emotions and people<br /><br /></h2>
 
 #_ Management happens to be prestigious in our culture, but it's a skill like any other. Prestige is a distraction -- it's fickle and arbitrary. Guard against believing you're any better than anyone else. The sooner you get over prestige, the sooner you can focus on doing your job well.
-# Management also attracts scorn. Ignore it -- the people who believe managers are useless don't understand the dynamics of building a human organization.
+# Management also attracts scorn. Ignore it -- the people who believe managers are useless don't understand the dynamics of building a winning human organization.
 # If you feel something's wrong, you're probably right. Don't let anyone bully you into ignoring your feelings.
 # If you find yourself blaming someone, you're probably wrong. Nobody wakes up and tries to do a bad job. 95% of the time you can resolve your feelings by just talking to people.
 # Most people won't easily share their emotions. Have frequent informal conversations, and tease out everything that might be wrong. Then fix it if you can.
