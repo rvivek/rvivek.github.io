@@ -29,7 +29,7 @@ h2. Do
 #_ You're the one who makes hiring and firing decisions. Everything that happens on your team is your responsibility. 
 # Engineering is a seller's market: people work for you because they believe in you. Access to their talent is a privilege.
 # Authority isn't bestowed freely. It's earned by making good decisions over time.
-# Don't make decisions unless you have to. Whenever possible, allow the team explore ideas and make decisions on its own.
+# Don't make decisions unless you have to. Whenever possible, allow the team to explore ideas and make decisions on its own.
 # Do make decisions when it's necessary. Few things are as demoralizing as a stalled team.
 # Don't shoot down ideas until it's necessary. Create an environment where everyone feels safe to share and explore ideas. The folks writing the code have a lot of information you don't. Rely on your team and you'll make better decisions.
 # Building intuition on how to make good decisions and cultivating a great relationship with your team will get you 95% of the way there. The "plethora":http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/ "of":http://en.wikipedia.org/wiki/Scrum_(software_development) "conceptual":http://en.wikipedia.org/wiki/OKR "frameworks":http://en.wikipedia.org/wiki/Kanban for organizing engineering teams won't make much difference. They make good managers slightly better and bad managers slightly worse.
