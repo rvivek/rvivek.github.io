@@ -12,7 +12,11 @@ One of the earliest lesson I learned in Silicon Valley is that a great story is 
 
 A good story gives you tremendous descriptive power to explain what you do to different parties in a consistent way. But more importantly a good story is prescriptive -- it informs decisions and forces you to make disciplined choices. If you're about to make a decision that doesn't fit your story, you have to explicitly choose whether to reevaluate the decision or to refine your story. Early stage startups get pulled in a thousand different directions. They're much more likely to get killed by compromises than by committing to a wrong path. A good story keeps you honest. It prevents you from trying to please everybody and gives you the mental clarity to follow through on a concrete direction.
 
-Since a good story is so important both for making decisions and explaining them, startups based on ideas that don't lend themselves to good stories tend to fail. I've found that the inverse is also true -- studying storytelling is a surprisingly fruitful way to evaluate startup ideas. You can get quite far by just learning the basics.
+Since a good story is so important both for making decisions and explaining them, startups based on ideas that don't lend themselves to good stories tend to fail. I found that the inverse is also true -- studying storytelling is a surprisingly fruitful way to evaluate startup ideas. You can get quite far by just learning the basics.
+
+The structure of a good startup story is exactly the same. The world used to be in an equillibrium. Then something changed -- a series of trends to threaten that equillibrium. Because of that you're starting your company, doing X. Because of X, Y will happen. And Z. And W. Until finally the world will be in a new, better and more efficient equillibrium.
+
+
 
 h2. Story structure
 
