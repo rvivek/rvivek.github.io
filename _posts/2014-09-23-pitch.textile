@@ -20,7 +20,7 @@ Dramaturgy teaches us that the structure of most stories is surprisingly similar
 
 bq. Once upon a time there was ___. Every day, ___. One day ___. Because of that, ___. Because of that, ___. Until finally ___.
 
-A good story is about change. The knights of the round table were hanging out in King Arthur's castle. One day a monster appeared. Because of that the knights went out to fight the monster. They overcame many challenges, until finally, they defeated the monster, and transformed the King's castle to deal with appearance of future monsters more swiftly.
+A good story is about change. The knights of the round table were hanging out in King Arthur's castle. One day a monster appeared. Because of that the knights went out to fight the monster. They overcame many challenges, until finally they defeated the monster and transformed the King's castle to deal with appearance of monsters more swiftly.
 
 h2. The title slide
 
