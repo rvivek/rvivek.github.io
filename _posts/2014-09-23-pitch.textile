@@ -16,8 +16,6 @@ Since a good story is so important both for making decisions and explaining them
 
 The structure of a good startup story is exactly the same. The world used to be in an equillibrium. Then something changed -- a series of trends to threaten that equillibrium. Because of that you're starting your company, doing X. Because of X, Y will happen. And Z. And W. Until finally the world will be in a new, better and more efficient equillibrium.
 
-
-
 h2. Story structure
 
 Dramaturgy teaches us that the structure of most stories is surprisingly similar. To quote Pixar's rules of storytelling:
@@ -25,6 +23,8 @@ Dramaturgy teaches us that the structure of most stories is surprisingly similar
 bq. Once upon a time there was ___. Every day, ___. One day ___. Because of that, ___. Because of that, ___. Until finally ___.
 
 A good story is about change. The knights of the round table were hanging out in King Arthur's castle. One day a monster appeared. Because of that the knights went out to fight the monster. They overcame many challenges, until finally they defeated the monster and transformed the King's castle to deal with appearance of monsters more swiftly.
+
+You can take almost any successful startup and tell its story this way.
 
 h2. The title slide
 
