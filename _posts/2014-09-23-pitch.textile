@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to pitch your startup to investors
+title: How to pick startup ideas
 wip: true
 ---
 
@@ -12,7 +12,7 @@ One of the earliest lesson I learned in Silicon Valley is that a great story is 
 
 A good story gives you tremendous descriptive power to explain what you do to different parties in a consistent way. But more importantly a good story is prescriptive -- it informs decisions and forces you to make disciplined choices. If you're about to make a decision that doesn't fit your story, you have to explicitly choose whether to reevaluate the decision or to refine your story because it doesn't accurately reflect reality. Early stage startups get pulled in a thousand different directions, and are much more likely to get killed by a thousand compromises than by committing to a wrong path. A good story prevents you from trying to please everybody and gives you the mental clarity to follow through on a concrete direction.
 
-Since a good story is so important both for making decisions and explaining them, startups based on ideas that don't lend themselves to good stories are likely to fail.
+Since a good story is so important both for making decisions and explaining them, startups based on ideas that don't lend themselves to good stories tend to fail, which makes studying storytelling a surprisingly fruitful way to evaluate startup ideas.
 
 h2. Story structure
 
