@@ -32,7 +32,11 @@ Search engines used to give poor, often broken results. Then storage capacity an
 
 h2. Why this works
 
-FOo
+Most people don't talk about their startup this way. Instead, they jump straight to what they do -- "we'll let people order takeout food online without having to call the restaurants". Compare that to explaining the company through a story:
+
+bq. People to have to call restaurants to order takeout. Then enough people got smart phones. Because of that, we're starting a food delivery company that will let people order food via their phones in a click of a button. That will give people a much more convenient experience. Because of that, people will order food together, which will give us network effects. Because of that, we can grow very quickly and become an effective monopoly.
+
+Explaining your company via a story works much betten in a surprising number of ways.
 
 h2. The title slide
 
