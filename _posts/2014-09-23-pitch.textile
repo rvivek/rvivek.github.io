@@ -38,8 +38,8 @@ bq. People have to call restaurants to order takeout. But recently, enough peopl
 
 Explaining your company via a story works much betten in a surprising number of ways:
 
-- It forces you to focus on finding a solution to a problem (or at least an opportunity), rather than focusing on a solution in search of a problem.
-- It decouples your company from the problem.
+* It forces you to focus on finding a solution to a problem (or at least an opportunity), rather than focusing on a solution in search of a problem.
+* It decouples your company from the problem.
 
 h2. The title slide
 
