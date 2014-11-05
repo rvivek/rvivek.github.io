@@ -36,7 +36,10 @@ Most people don't talk about their startup this way. Instead, they jump straight
 
 bq. People have to call restaurants to order takeout. But recently, enough people got smart phones. Because of that, we're starting a food delivery company that will let people order food via their phones in a click of a button. That will give people a much more convenient experience. Because of that, people will order food together, which will give us network effects. Because of that, we can grow very quickly. Until finally we can become an effective monopoly.
 
-Explaining your company via a story works much betten in a surprising number of ways.
+Explaining your company via a story works much betten in a surprising number of ways:
+
+- It forces you to focus on finding a solution to a problem (or at least an opportunity), rather than focusing on a solution in search of a problem.
+- It decouples your company from the problem.
 
 h2. The title slide
 
