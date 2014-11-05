@@ -24,7 +24,15 @@ A good story is about change. The knights of the round table were hanging out in
 
 The structure of a good startup story is exactly the same. The world used to be in an equillibrium. Then something changed -- a series of trends to threaten that equillibrium. Because of that you're starting your company, doing X. Because of X, Y will happen. And Z. And W. Until finally the world will be in a new, better and more efficient equillibrium.
 
-You can take almost any successful startup and tell its story this way.
+You can take almost any successful startup and tell its story this way. People used to send money to each other by physically walking to Western Union branches. Then enough people got on the internet. Because of that, Max Levchin and Peter Thiel started PayPal, which dramatically reduced the friction to sending money. Because of that everyone switched. Until finally PayPal became an effective monopoly.
+
+People used to drive cars with internal combustion engine. Then battery technology became cheaper, and oil prices went up. Because of that, Elon Musk started Tesla, which delivered a unique luxury driving experience. Because of that, Tesla will be able to reinvest in electric car technology and drop prices. Until finally Tesla will compete in all segments of the auto market.
+
+Search engines used to give poor, often broken results. Then storage capacity and processing power improved so you could download the whole internet onto a computer and run more sophisticated, near realtime analysis algorithms. Because of that Larry Page and Sergey Brinn started Google, which delivered a dramatically improved search engine experience. Because of that, everyone switched. Until finally Google became an effective monopoly.
+
+h2. Why this works
+
+FOo
 
 h2. The title slide
 
