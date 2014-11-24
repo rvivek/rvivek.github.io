@@ -1,0 +1,13 @@
+---
+layout: post
+title: Shame driven development
+wip: true
+---
+
+h1. {{ page.title }}
+
+p(meta). 25 Nov 2014
+
+Any time I go out to talk to users about RethinkDB I feel two major emotions: pride and shame. For all the hubbub about data driven development, user studies, and objectivity, RethinkDB development has always been about harnessing my shame, exorcising it, and converting it into pride.
+
+
