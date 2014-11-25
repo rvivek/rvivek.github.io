@@ -8,14 +8,16 @@ h1. {{ page.title }}
 
 p(meta). 25 Nov 2014
 
-Any time I go out to talk to users about "RethinkDB":http://www.rethinkdb.com I feel two major emotions: pride and shame. For all the hubbub about data-driven development, A/B testing, user studies, and objectivity, RethinkDB development has always been about harnessing shame, exorcising it, and converting it into pride.
+Any time I go out to talk to users about "RethinkDB":http://www.rethinkdb.com I feel two major emotions: pride and shame. For all the hubbub about data-driven development, A/B testing, user studies, and objectivity, RethinkDB development has always been about exorcising shame, and converting it into pride.
 
 I feel shame for a wide variety of reasons. If I tell people about the product and they ask "How is it different from X?", I feel ashamed of the story. The user's question means the story isn't differentiated enough. So we go back and brainstorm how to refine our story. If I do a seven-step product demo and feel like I could have done it in two, I feel shame. It means the product isn't as simple as it could be. So we go back and eliminate the extraneous steps. When I explain how to take advantage of a particular feature and users don't quite get it, I feel shame. It means the feature isn't as straight-forward as it could have been. So we go back to the drawing board and redesign the feature.
 
-When we improve the story, simplify the product, or make a use case more clear, shame is converted into pride. It's an amazing feeling -- pride at how our users connect with the story, pride at the elegance of the product, and pride at how our company changes people's lives, helping one user at a time do something they couldn't have done before. Converting shame into pride is the process that makes our company tick. It's the source of inspiration and creative direction, the energy that pushes us to do better work.
+When we improve the story, simplify the product, make a use case more clear, shame is converted into pride. It's an amazing feeling -- pride at how our users connect with the story, pride at the elegance of the product, and pride at how our company changes people's lives, helping one user at a time do something they couldn't have done before. Converting shame into pride is the process that makes our company tick. It's the source of inspiration and creative direction, the energy that pushes us to do better work.
 
 Shame-driven development requires enormous degree of communication and discipline. You need to make sure everyone on the team feels shame about the same things, or the product gets pulled in a thousand directions. RethinkDB is an open-source, developer-oriented product so in our case it's fairly straight-forward.  We're consumers of our own software and everyone on the team gets to interact with users in our community. So we're uniquely fortunate to be on the same page with our users. This option isn't available to most companies.
 
+We also had to learn when to say no. 
 
+I have the privilege of working with many creative people who care very deeply about the quality of their work. Initially, many of them are embarrased of their feelings. In the industry where everyone purports to be data-driven, you're not supposed to experience emotions about your creation. I think we're making a huge collective mistake. Learning to accept and harness my feelings about our product has been the single most positive insight into the creative process.
 
 
