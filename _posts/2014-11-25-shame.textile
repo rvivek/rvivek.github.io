@@ -8,13 +8,13 @@ h1. {{ page.title }}
 
 p(meta). 25 Nov 2014
 
-Any time I go out to talk to users about RethinkDB I feel two major emotions: pride and shame. For all the hubbub about data-driven development, A/B testing, user studies, and objectivity, RethinkDB development has always been about harnessing my shame, exorcising it, and converting it into pride.
+Any time I go out to talk to users about RethinkDB I feel two major emotions: pride and shame. For all the hubbub about data-driven development, A/B testing, user studies, and objectivity, RethinkDB development has always been about harnessing shame, exorcising it, and converting it into pride.
 
 I feel shame for a wide variety of reasons. If I tell people about the product and they ask "How is it different from X?", I feel ashamed of the story. The user's question means the story isn't good enough, clear enough, and differentiated enough. So we go back and brainstorm how to refine our story. If I do a seven-step product demo and feel like I could have done it in two, I feel shame. It means the product isn't as simple as it could be. So we go back and eliminate the extraneous steps. When I explain how to take advantage of a particular feature and users don't quite get it, I feel shame. It means the product isn't as straight-forward as it could have been. So we go back to the drawing board and redesign the feature.
 
 When we improve the story, simplify the product, or make a use case more clear, shame is converted into pride. It's an amazing feeling -- pride at how our users connect with the story, pride at the elegance of the product, and pride at how our company changes people's lives, helping one user at a time do something they couldn't have done before. Converting shame into pride is the process that makes our company tick. It's the source of inspiration and creative direction, the energy that pushes us to do better work.
 
-Shame-driven development requires enormous degree of communication and discipline. You need to make sure everyone on the team feels shame about the same things, otherwise the product gets pulled in a thousand directions. In our case it's fairly straight-forward. RethinkDB is an open-source, developer-oriented product, so we're consumers of our own software, and everyone on the team gets to interact with users in our community and learn about their problems. This gives everyone on the team a unique opportunity to be on the same page with our users that isn't available to many companies.
+Shame-driven development requires enormous degree of communication and discipline. You need to make sure everyone on the team feels shame about the same things, or the product gets pulled in a thousand directions. In our case it's fairly straight-forward. RethinkDB is an open-source, developer-oriented product, so we're consumers of our own software. Everyone on the team gets to interact with users in our community and learn about their problems, so we have a unique opportunity to be on the same page with our users. This option isn't available to most companies.
 
 
 
