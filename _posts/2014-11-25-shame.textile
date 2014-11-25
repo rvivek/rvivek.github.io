@@ -8,7 +8,7 @@ h1. {{ page.title }}
 
 p(meta). 25 Nov 2014
 
-Any time I go out to talk to users about "RethinkDB":www.rethinkdb.com I feel two major emotions: pride and shame. For all the hubbub about data-driven development, A/B testing, user studies, and objectivity, RethinkDB development has always been about harnessing shame, exorcising it, and converting it into pride.
+Any time I go out to talk to users about "RethinkDB":http://www.rethinkdb.com I feel two major emotions: pride and shame. For all the hubbub about data-driven development, A/B testing, user studies, and objectivity, RethinkDB development has always been about harnessing shame, exorcising it, and converting it into pride.
 
 I feel shame for a wide variety of reasons. If I tell people about the product and they ask "How is it different from X?", I feel ashamed of the story. The user's question means the story isn't differentiated enough. So we go back and brainstorm how to refine our story. If I do a seven-step product demo and feel like I could have done it in two, I feel shame. It means the product isn't as simple as it could be. So we go back and eliminate the extraneous steps. When I explain how to take advantage of a particular feature and users don't quite get it, I feel shame. It means the feature isn't as straight-forward as it could have been. So we go back to the drawing board and redesign the feature.
 
