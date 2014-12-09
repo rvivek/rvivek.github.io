@@ -26,11 +26,13 @@ The structure of a good startup story is exactly the same. The world used to be 
 
 You can take almost any successful startup and tell its story this way. People used to send money to each other by physically walking to Western Union branches. Then enough people got on the internet. Because of that, Max Levchin and Peter Thiel started PayPal, which dramatically reduced the friction to sending money. Because of that everyone switched. Until finally PayPal became an effective monopoly.
 
-The mainstream impression is that startups succeed without any precipitating factor. What changed in the world to make Google possible? It seems like the team just worked very hard and built a dramatically better search engine.
-
 h2. Why this works
 
-Most people don't talk about their startup this way. Instead, they jump straight to what they do -- "we'll let people order takeout food online without having to call the restaurants". Compare that to explaining the company through a story:
+Most new founders don't talk about their startup this way. The mainstream impression is that startups succeed without any precipitating factor. What changed in the world to make Google possible? On the surface it seems like the team just worked very hard, got lucky, and invented a dramatically better search engine. So when new founders explain their startups they jump straight to what they do:
+
+bq. We'll let people order takeout food online without having to call the restaurants.
+
+Compare that to explaining the company through a story:
 
 bq. People have to call restaurants to order takeout. But recently, enough people got smart phones. Because of that, we're starting a food delivery company that will let people order food via their phones in a click of a button. That will give people a much more convenient experience. Because of that, people will order food together, which will give us network effects. Because of that, we can grow very quickly. Until finally we can become an effective monopoly.
 
@@ -38,6 +40,8 @@ Explaining your company via a story works much betten in a surprising number of 
 
 * It forces you to focus on finding a solution to a problem (or at least an opportunity), rather than focusing on a solution in search of a problem.
 * It decouples your company from the problem.
+
+Foo.
 
 h2. Borrow from The Economist
 
