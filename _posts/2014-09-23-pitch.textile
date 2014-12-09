@@ -26,9 +26,7 @@ The structure of a good startup story is exactly the same. The world used to be 
 
 You can take almost any successful startup and tell its story this way. People used to send money to each other by physically walking to Western Union branches. Then enough people got on the internet. Because of that, Max Levchin and Peter Thiel started PayPal, which dramatically reduced the friction to sending money. Because of that everyone switched. Until finally PayPal became an effective monopoly.
 
-People used to drive cars with internal combustion engine. Then battery technology became cheaper, and oil prices went up. Because of that, Elon Musk started Tesla, which delivered a unique luxury driving experience. Because of that, Tesla will be able to reinvest in electric car technology and drop prices. Until finally Tesla will compete in all segments of the auto market.
-
-Search engines used to give poor, often broken results. Then storage capacity and processing power improved so you could download the whole internet onto a computer and run more sophisticated, near realtime analysis algorithms. Because of that Larry Page and Sergey Brinn started Google, which delivered a dramatically improved search engine experience. Because of that, everyone switched. Until finally Google became an effective monopoly.
+The mainstream impression is that startups succeed without any precipitating factor. What changed in the world to make Google possible? It seems like the team just worked very hard and built a dramatically better search engine.
 
 h2. Why this works
 
@@ -41,32 +39,6 @@ Explaining your company via a story works much betten in a surprising number of 
 * It forces you to focus on finding a solution to a problem (or at least an opportunity), rather than focusing on a solution in search of a problem.
 * It decouples your company from the problem.
 
-h2. The title slide
-
-When you first walk into the room to present your company, investors are suspended in a state of uncertainty. They know nothing about you or your business. Perhaps you're building kitty mp3 players. Or perhaps you've invented a new triangular marketing scheme. They don't know.
-
-Their uncertainty is your canvas, and the title slide is the teaser poster (or the front cover for the novel). Because they have no information, you get to define reality for them, right there, in the first thirty seconds. Before you jump into your story you need to give people _some_ anchor to hold on to, a reference point to orient themselves. This reference point is the name of your company and a single terse sentence explaining what you do. Put that on the intro slide in big letters. Then say what you do:
-
-"Hi, I'm so and so. I'm the founder of Kitty MP3. We make mp3 players shaped like kittys for teenage girls."
-
-What you've just done in a mere few seconds is collapse a universe of possibilities into a single, tangible reality in people's minds. You've given them an enormous amount of information. They now roughly know who you are -- you're so and so. Your company is called Kitty MP3. You don't in fact sell triangular marketing schemes -- you sell mp3 players shaped like kittys. And your target market is teenage girls.
-
-Once you've given people a reference point, they start wondering. Why has so and so, a budding entrepreneur, decided it's a good idea to dedicate years of his life to building a kitty mp3 player company? It's time to tell the story!
-
-h2. Competing with everyone
-
-Foo
-
-h2. Slide 1: old world in equillibrium
-
-This slide is your story's setting -- the part before the appearance of the monster. Once upon a time there was ___. Every day, ___. Here you're explaining to people what the world looked like just a few months ago, before the monster appeared and compelled you to dedicate the next few years of your life to work on your company.
-
-Perhaps people spend 1.2 trillion dollars every year on buying gas-guzzling, environmentally unfriendly vehicles. Perhaps they hand banks billions of dollars worth of wire transfer fees to send money to people who aren't within their immediate geographical vicinity. Or perhaps billions of people buy non-kitty shaped mp3 players.
-
-If you do a good job on this slide, it shouldn't raise any objections. People do in fact spend 1.2 trillion dollars on vehicles with internal combustion engines. They do spend billions of dollars on wire transfer fees sending money to other people. They do buy non-kitty shaped mp3 players. You might have to answer a few questions if you're talking about a specialized space your investors aren't familiar with, but you shouldn't notice any resistance. You're just stating facts -- this is how the world works.
-
-This slide shouldn't take more than a few minutes, shouldn't be controversial, and shouldn't be overly complicated. After you're done with it, you will have explained the setting. Then it's time to introduce the monster.
-
 h2. Borrow from The Economist
 
 There is one major difference between telling a story about Sir Gawan and pitching your startup to investors. Literary plots are explicated through characters and their actions. Fundraising stories are explicated through an inductive argument. Your base case is the actions of a real person or organization. Your induction step is strongly cited statistics.
@@ -76,16 +48,6 @@ Your fourteen year old sister Mary spends four hours a day using her non-kitty m
 It takes a bit of practice to learn how to tell stories like that, and the best way to pick up the lingo and structure quickly is to read a couple of issues of The Economist. The analysis slides in your deck should resemble The Economist articles. There are a few very good reasons why you want to model these types of arguments after this venerable publication. The Economist correspondents are strikingly good at telling these types of stories. They tell great stories by alternating between individual cases and statistics. They make the audience feel smart by teaching them something new, and they're good at making strong arguments without triggering people's baloney detectors. Incidentally, this is exactly the vibe you want to go for when pitching your startup.
 
 More importantly, The Economist specifically targets affluent business audiences. The overwhelming majority of the investors you'll end pitching read it, and The Economist correspondents are used to business lingo. If you explicate the story using the same patterns, investors will be much more likely to accept your assertions. It's the easiest way to learn to talk the talk without going to business school.
-
-h2. Slide 2: the world has changed
-
-It's time to introduce the monster. This is the "One day ___" part of the story. It's also your company's hypothesis and the most important part of the pitch. If you do a good job, this slide will be bold, controversial, and extremely well researched. You're sharing an extraordinarily valuable, critical, and possibly secret insight. You're making your audience purview to information thus far available only to you. "The world is undergoing a subtle change that will have dramatic implications. Let me show you how."
-
-You've noticed your sister Mary and her friends attach stickers of kittys onto their mp3 players. So you started digging. You've personally called a random sample of a hundred families who have teenage girls, and discovered that 87% of them attach stickers of kittys to their mp3 players. You wanted to be sure, so you've commissioned an independent research organization to replicate the study. They've corroborated your findings.
-
-So you dug even deeper. You've manufactured a few samples of kitty-shaped mp3 players and presented them to a random sample of teenage girls along with regular mp3 players. Amazingly, 97% of your subjects strongly preferred kitty mp3 players to regular ones. This is an unprecedented finding. The prolifiration of mp3 players and kittys has just crossed into critical mass.
-
-This part of the pitch should pack a tremendous punch, and should polarize your audiences. You want it to be so well researched that people question the hypothesis, not the data. You want them to wonder, question, and probe. Don't equivocate. You don't need everyone to agree with you -- this is what your company is about. They either choose to accept your hypothesis, or they do not.
 
 h2. Slide 3: implications
 
@@ -97,75 +59,7 @@ TODO: HPMOR, reasoning from first principles
 
 By the end of this slide it should be obvious that what you've set out to do is worth doing. You want to leave people with a single question -- are you the one who'll get there first?
 
-h2. Why this works
-
-Foo
-
-h2. Troubleshooting
-
-Foo
-
 h2. A compelling story does not a true story make
-
-Foo
-
-h2. Slide 4: company snapshot
-
-By now you will have explained the premise behind your company and its implications. At this point one of three things will happen:
-
-- Your audience doesn't accept your hypothesis or thinks it's sloppy
-- Your audience falls in love with your hypothesis
-- Your audience is intrigued with the hypothesis, but has to do more research
-
-If they don't accept your hypothesis, it doesn't matter what you do next. Be polite, finish your pitch, and move on with your day. Treat it as an opportunity to practice.
-
-The fun really begins if the audience falls in love with your hypothesis or is intrigued by it. If that happens, they'll need to answer a critical question -- are you the one to get there first? To answer this question investors need a lot of information. How far along is the company? Has the product shipped, or is it still in development? If it shipped, what does traction look like? Are you making money yet? How big is the team working on this? Where are you located? Who are the team members? What does the market look like? How do you plan to take it? How much are you raising?
-
-With all the questions in the air, you can't just proceed with regular programming. It doesn't matter which topic you pick to talk about next -- people will be distracted with questions. Different people in the room will often want different answers first, and they'll have trouble paying attention to anything you're saying. The best way to proceed is to preempt the questions with a summary slide. This is a brief snapshot of the company -- four to five bullet points summarizing where you are and why you're in the room:
-
-- Size and location of the team
-- Addressible market size
-- State of the product (shipped, beta, etc.)
-- Traction and revenue metrics (both absolute numbers and percentage growth)
-- How much you've raised to date, and how much you're raising now
-
-"We're a team of four, all working out of a New York office. Two of us have sold companies before, and we're now tackling this five billion dollar kitty mp3 player opportunity. We shipped KittyPlay three months ago, and already sold $300k worth of product to six thousand teenage girls, on track to sell $500k more next month. We've raised a seed round of $500k, and want to offer you an opportunity to participate in our $5M series A."
-
-This kind of summary reduces tension. You've briefly answered most of the basic questions. You've given people firm ground to stand on. They know who you are, where your company is, and why you're in the room. Now they're ready to sit back and hear the details. From now on, your pitch is all about execution. If you've done a good job, you've already convinced people you're pursuing a valuable opportunity. Now you have to convince them you're the most competent team in the world to capitalize on it.
-
-h2. Your product is a commodity, and so are you
-
-Foo
-
-h2. Slide 5: market analysis
-
-Foo
-
-h2. Slide 6: competitive landscape
-
-Foo
-
-h2. Slide 7: the product
-
-Foo
-
-h2. Slide 8: go to market strategy
-
-Foo
-
-h2. Slide 9: use of funds
-
-Foo
-
-h2. Slide 10: call to action
-
-Foo
-
-h2. Appendix slides
-
-Foo
-
-h2. Investor ethnography
 
 Foo
 
