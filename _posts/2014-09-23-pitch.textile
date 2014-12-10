@@ -44,7 +44,7 @@ Finally, it makes pitching your startup to investors dramatically easier because
 
 h2. Fiction vs. reality
 
-One caveat of structuring your startup as a story is that it's so effective that it's easy to deceive yourself with early succeess. Smart and sufficiently determined entrepreneurs can turn almost any idea into a story. If you're committed to building a food delivery service, you can always invent a hypothesis, weave a narrative about your product around it, and polish your pitch until a large number of people believe it. Unfortunately you will have have created compelling fiction.
+One caveat of structuring your startup as a story is that it's so effective that it's easy to deceive yourself with early success. Smart and sufficiently determined entrepreneurs can turn almost any idea into a story. If you're committed to building a food delivery service, you can always invent a hypothesis, weave a narrative about your product around it, and polish your pitch until a large number of people believe it. Unfortunately you will have created very compelling fiction.
 
 h2. Borrow from The Economist
 
