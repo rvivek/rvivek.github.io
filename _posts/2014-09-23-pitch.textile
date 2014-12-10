@@ -42,12 +42,6 @@ Secondly, this structure forces you to commit to a hypothesis about the world. Y
 
 Finally, it makes pitching your startup to investors dramatically easier because it decouples the underlying hypothesis from your product and company. To fund you, investors would have to believe two things -- that the hypothesis you've identified is correct and valuable, and that you're the one to take advantage of it. On the surface it appears worse than just stating what you do because now investors have to believe two things instead of one. But in reality, they think of your company and the market separately anyway, and it's much easier to convince people of two small but clear ideas than one large and obscure one.
 
-h2. Fiction vs. reality
-
-One caveat of structuring your startup as a story is that it's so effective that it's easy to deceive yourself with early success. Smart and sufficiently determined entrepreneurs can turn almost any idea into a story. If you're committed to building a food delivery service, you can always invent a hypothesis, weave a narrative about your product around it, and polish your pitch until a large number of people believe it. Unfortunately you will have created very compelling fiction. It's relatively easy to attract a surprising amount of capital, talent, and press interest to your company this way, which makes the technique extremely dangerous. I've met people who burned through millions of dollars of other people's money and dedicated hundreds of man-years to projects because they've inadvertently created very compelling fictions and were sufficiently taken by early success to believe in their own fiction themselves.
-
-
-
 h2. Borrow from The Economist
 
 There is one major difference between telling a story about Sir Gawan and pitching your startup to investors. Literary plots are explicated through characters and their actions. Fundraising stories are explicated through an inductive argument. Your base case is the actions of a real person or organization. Your induction step is strongly cited statistics.
@@ -58,13 +52,13 @@ It takes a bit of practice to learn how to tell stories like that, and the best 
 
 More importantly, The Economist specifically targets affluent business audiences. The overwhelming majority of the investors you'll end pitching read it, and The Economist correspondents are used to business lingo. If you explicate the story using the same patterns, investors will be much more likely to accept your assertions. It's the easiest way to learn to talk the talk without going to business school.
 
-h2. Slide 3: implications
+h2. Fiction vs. reality
 
-Now you're getting to the third part of the story structure. This slide is the first "Because of that, ___" in a series of "Because of that, ___. Because of that, ___. Until finally ___." You're still not talking about your company here -- you're explaining how the hypothesis introduced in the previous slide will change the world.
+One caveat of structuring your startup as a story is that it's so effective that it's easy to deceive yourself with early success. Smart and sufficiently determined entrepreneurs can turn almost any idea into a story. If you're committed to building a food delivery service, you can always invent a hypothesis, weave a narrative about your product around it, and polish your pitch until a large number of people believe it. Unfortunately you will have created very compelling fiction.
 
-Don't expect people to arrive at conclusions themselves. Take them there. Everyone knows that when the monster appears, the knights of the round table end up slaying it. But it's still your job to tell the tale. Your conclusions should be non-obvious and your reasoning should be water-tight. Get past the obvious implications quickly. If you've thought through the implications carefully, most of the information should pleasantly surprise your audience.
+It's relatively easy to attract a surprising amount of capital, talent, and press interest to your company this way, which makes the technique extremely dangerous. I've met people who burned through millions of dollars of other people's money and wasted hundreds of man-years on projects because they've inadvertently created very compelling fictions and were sufficiently taken by early success to believe in their own fiction themselves.
+
+So it isn't just important for the story to be compelling. It's also extremely important for the story to right.
 
 TODO: HPMOR, reasoning from first principles
-
-By the end of this slide it should be obvious that what you've set out to do is worth doing. You want to leave people with a single question -- are you the one who'll get there first?
 
