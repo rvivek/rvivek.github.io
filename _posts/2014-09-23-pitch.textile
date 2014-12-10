@@ -10,9 +10,9 @@ p(meta). 23 Sep 2013
 
 One of the earliest lesson I learned in Silicon Valley is that a great story is the first prerequisite to starting a startup. Even during the initial stages of a startup you have to talk to people -- potential users, advisors, investors, industry experts, early employees, and eventually journalists. The first question people ask is "what does your startup do?" So communicating what you do is the first problem you have to solve.
 
-A good story gives you tremendous descriptive power to explain what you do to different parties in a consistent way. But more importantly a good story is prescriptive -- it informs decisions and forces you to make disciplined choices. If you're about to make a decision that doesn't fit your story, you have to explicitly choose whether to reevaluate the decision or to refine your story. Early stage startups get pulled in a thousand different directions. They're much more likely to get killed by compromises than by committing to a wrong path. A good story keeps you honest. It prevents you from trying to please everybody and gives you the mental clarity to follow through on a concrete direction.
+A good story gives you tremendous descriptive power to explain what you do to different parties in a consistent way. But more importantly a good story is prescriptive -- it informs decisions and forces you to make disciplined choices. If you're about to make a decision that doesn't fit your story, you have to explicitly choose whether to reevaluate the decision or to refine your story. Early stage startups get pulled in a thousand different directions. They're much more likely to get killed by compromises than by committing to a wrong path. A good story keeps you honest, prevents you from trying to please everybody, and gives you the mental clarity to follow through on a concrete direction.
 
-Since a good story is so important both for making decisions and explaining them, startups based on ideas that don't lend themselves to good stories tend to fail. I found that the inverse is also true -- studying storytelling is a surprisingly fruitful way to evaluate startup ideas. You can get quite far by just learning the basics.
+Since a good story is so important both for making decisions and explaining them, startups based on ideas that don't lend themselves to good stories tend to fail. I found that the inverse is also true -- studying storytelling is a surprisingly fruitful way to understand and improve your startup ideas.
 
 h2. Story structure
 
@@ -20,15 +20,15 @@ Dramaturgy teaches us that the structure of most stories is surprisingly similar
 
 bq. Once upon a time there was ___. Every day, ___. One day ___. Because of that, ___. Because of that, ___. Until finally ___.
 
-A good story is about change. The knights of the round table were hanging out in King Arthur's castle. One day a monster appeared. Because of that the knights went out to fight the monster. They overcame many challenges, until finally they defeated the monster and transformed the King's castle to deal with appearance of monsters more swiftly.
+So a good story is about change. The knights of the round table were hanging out in King Arthur's castle. One day a monster appeared. Because of that the knights went out to fight the monster. They overcame many challenges, until finally they defeated the monster and transformed the King's castle to deal with appearance of monsters more swiftly.
 
-The structure of a good startup story is exactly the same. The world used to be in an equillibrium. Then something changed -- a series of trends to threaten that equillibrium. Because of that you're starting your company, doing X. Because of X, Y will happen. And Z. And W. Until finally the world will be in a new, better and more efficient equillibrium.
+The structure of a good startup story is exactly the same. The world used to be in an equillibrium. Then something changed -- a series of trends to threaten that equillibrium. Because of that you're starting your company, doing X. Because of X, Y will happen. And Z. And W. Until finally the world will settle into a different, better and more efficient equillibrium.
 
 You can take almost any successful startup and tell its story this way. People used to send money to each other by physically walking to Western Union branches. Then enough people got on the internet. Because of that, Max Levchin and Peter Thiel started PayPal, which dramatically reduced the friction to sending money. Because of that everyone switched. Until finally PayPal became an effective monopoly.
 
 h2. Why this works
 
-Most new founders don't talk about their startup this way. The mainstream impression is that startups succeed without any precipitating factor. What changed in the world to make Google possible? On the surface it seems like the team just worked very hard, got lucky, and invented a dramatically better search engine. So when new founders explain their startups they jump straight to what they do:
+Most new founders don't talk about their startup this way. The mainstream impression is that startups succeed without any precipitating factor. On the surface it seems like startups just work very hard, get lucky, and invent dramatically better technology out of thin air. So when new founders explain their startups they jump straight to what they do:
 
 bq. We'll let people order takeout food online without having to call the restaurants.
 
@@ -36,10 +36,7 @@ Compare that to explaining the company through a story:
 
 bq. People have to call restaurants to order takeout. But recently, enough people got smart phones. Because of that, we're starting a food delivery company that will let people order food via their phones in a click of a button. That will give people a much more convenient experience. Because of that, people will order food together, which will give us network effects. Because of that, we can grow very quickly. Until finally we can become an effective monopoly.
 
-Explaining your company via a story works much betten in a surprising number of ways:
-
-* It forces you to focus on finding a solution to a problem (or at least an opportunity), rather than focusing on a solution in search of a problem.
-* It decouples your company from the problem.
+Explaining your company via a story works much betten in a surprising number of ways.
 
 Foo.
 
