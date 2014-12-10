@@ -38,9 +38,13 @@ bq. People have to call restaurants to order takeout. But recently, enough peopl
 
 Explaining your company via a story works incredibly well on a surprising number of levels. Firstly, it triggers the prehistoric circuits in our minds that resonate with narratives. Empirically, stories work better than statements if you're trying to get people's attention. So talking about your startup this way will resonate much better when you're trying to convince an audience to buy into your vision.
 
-Secondly, this structure forces you to commit to a hypothesis about the world. You can't just state what you're doing outright -- you have to pick a precipitating trend. In turn, that forces you to face the economic reality that when conditions make it possible for a market to arise, it will arise very quickly with or without you. This saves you from a huge class of rookie mistakes rooted in the assumption of individual exceptionalism, which is usually blatently incorrect. You now have to build a business by making an argument about the world and proving it correct, which models reality much closer than believing you're the smartest (or luckiest) entrepreneur on the planet.
+Secondly, this structure forces you to commit to a hypothesis about the world. You can't just state what you're doing outright -- you have to pick a precipitating trend. In turn, that forces you to face the economic reality that when conditions make it possible for a market to arise, it will arise very quickly with or without you. This saves you from a huge class of rookie mistakes rooted in the assumption of individual exceptionalism, which is usually blatently incorrect. You now have to build a business by making a unique argument about the world and proving it correct, which models reality much closer than believing you're the smartest (or luckiest) entrepreneur on the planet.
 
-Thirdly, it makes pitching your startup to investors dramatically easier because it decouples the underlying hypothesis from your product and company. To fund you, investors would have to believe in two things -- that the hypothesis you've identified is correct and valuable, and that you're the one to take advantage of it. On the surface it appears worse than just stating what you do because now investors have to believe in two things instead of one. But in reality, they think of your company and the market separately anyway, and it's much easier to convince people of two small but clear ideas than one large and vague one.
+Finally, it makes pitching your startup to investors dramatically easier because it decouples the underlying hypothesis from your product and company. To fund you, investors would have to believe two things -- that the hypothesis you've identified is correct and valuable, and that you're the one to take advantage of it. On the surface it appears worse than just stating what you do because now investors have to believe two things instead of one. But in reality, they think of your company and the market separately anyway, and it's much easier to convince people of two small but clear ideas than one large and obscure one.
+
+h2. Fiction vs. reality
+
+One caveat of structuring your startup as a story is that it's so effective that it's easy to deceive yourself with early succeess. Smart and sufficiently determined entrepreneurs can turn almost any idea into a story. If you're committed to building a food delivery service, you can always invent a hypothesis, weave a narrative about your product around it, and polish your pitch until a large number of people believe it. Unfortunately you will have have created compelling fiction.
 
 h2. Borrow from The Economist
 
@@ -61,8 +65,4 @@ Don't expect people to arrive at conclusions themselves. Take them there. Everyo
 TODO: HPMOR, reasoning from first principles
 
 By the end of this slide it should be obvious that what you've set out to do is worth doing. You want to leave people with a single question -- are you the one who'll get there first?
-
-h2. A compelling story does not a true story make
-
-Foo
 
