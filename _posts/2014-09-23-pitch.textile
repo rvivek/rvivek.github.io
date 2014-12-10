@@ -36,9 +36,9 @@ Compare that to explaining the company through a story:
 
 bq. People have to call restaurants to order takeout. But recently, enough people got smart phones. Because of that, we're starting a food delivery company that will let people order food via their phones in a click of a button. That will give people a much more convenient experience. Because of that, people will order food together, which will give us network effects. Because of that, we can grow very quickly. Until finally we can become an effective monopoly.
 
-Explaining your company via a story works much betten in a surprising number of ways.
+Explaining your company via a story works incredibly well on a surprising number of levels. Firstly, it triggers the prehistoric circuits in our minds that resonate with narratives. Empirically, stories work better than statements if you're trying to get people's attention. So talking about your startup this way will resonate much better when you're trying to convince an audience to buy into your vision.
 
-Foo.
+Secondly, this structure forces you to commit to a hypothesis about the world. You can't just state what you're doing outright -- you have to pick a precipitating event (in case of food delivery it's that enough people are comfortable will smart phones that you could build a food delivery service on it). Committing to a hypothesis saves you from a large class of rookie mistakes. It makes it less likely you'll rely on your own exceptionalism, which is usually a blatently incorrect assumption. If you succeed, you'll succeed because the hypothesis is correct, not because you're better than the rest of the world. 
 
 h2. Borrow from The Economist
 
