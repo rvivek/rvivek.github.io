@@ -22,7 +22,7 @@ bq. Once upon a time there was ___. Every day, ___. One day ___. Because of that
 
 So a good story is about change, about the __"One day"__. The knights of the round table were hanging out in King Arthur's castle. One day a monster appeared. Because of that the knights went out to fight the monster. They overcame many challenges, until finally they defeated the monster and transformed the King's castle to deal with appearance of monsters more swiftly.
 
-The structure of a good startup story is exactly the same. The world used to be in an equillibrium. Then something changed -- a series of trends to threaten that equillibrium. Because of that you're starting your company, doing X. Because of X, Y will happen. And Z. And W. Until finally the world will settle into a different, better and more efficient equillibrium.
+The structure of a good startup story is exactly the same. The world used to be in an equillibrium. Then something changed -- a series of trends to threaten that equillibrium, the change, the "One day". The change isn't about you or your company, it's about the world at large. It will happen whether or not you exist. Because of that you're starting your company, doing X. Because of X, Y will happen. And Z. And W. Until finally the world will settle into a different, better and more efficient equillibrium.
 
 You can take almost any successful startup and tell its story this way. People used to send money to each other by physically walking to Western Union branches. Then enough people got on the internet. Because of that, Max Levchin and Peter Thiel started PayPal, which dramatically reduced the friction to sending money. Because of that everyone switched. Until finally PayPal became an effective monopoly.
 
