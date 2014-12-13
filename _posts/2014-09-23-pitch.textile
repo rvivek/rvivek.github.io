@@ -50,13 +50,13 @@ A good genesis story keeps you honest and makes things simple. Bad companies tel
 
 h2. Borrow from The Economist
 
-There is one major difference between telling a story about Sir Gawan and pitching your startup to investors. Literary plots are explicated through characters and their actions. Startup stories are explicated through an inductive argument. Your base case is the actions of a real person or organization. Your induction step is strongly cited statistics.
+There is one major difference between telling a story about the knights of the round table and telling a story about your company. Literary plots are explicated through characters and their actions. Startup stories are explicated through an inductive argument. Your base case is the actions of a real person or organization. Your induction step is strongly cited statistics.
 
-Your fourteen year old sister Mary spends four hours a day using her non-kitty mp3 player -- half an hour on her way to school, and half an hour on her way back home. Then another three hours while she does her homework. There are upteen million girls like Mary in the U.S., and according to these three very credible sources, between 70-75% of them exhibit the same behavior.
+Your thirty year old sister Mary is already used to ordering services on her phone. She orders Uber daily on her way back and forth to the train station, and orders a home cleaning service twice a month. There are upteen million affluent people like Mary in the U.S. According to these three very credible sources, between 45 and 55% of them exhibit the same behavior, and the trent is growing by 15% every year.
 
-It takes a bit of practice to learn how to tell stories like that, and the best way to pick up the lingo and structure quickly is to read a couple of issues of The Economist. The analysis slides in your deck should resemble The Economist articles. There are a few very good reasons why you want to model these types of arguments after this venerable publication. The Economist correspondents are strikingly good at telling these types of stories. They tell great stories by alternating between individual cases and statistics. They make the audience feel smart by teaching them something new, and they're good at making strong arguments without triggering people's baloney detectors. Incidentally, this is exactly the vibe you want to go for when pitching your startup.
+It takes a bit of practice to learn how to tell stories like that, and the best way to pick up the lingo and structure quickly is to read a couple of issues of The Economist. There are a few very good reasons why you want to model these types of arguments after this venerable publication. The Economist correspondents are strikingly good at telling these types of stories. They tell great stories by alternating between individual cases and statistics. They make the audience feel smart by teaching them something new, and they're good at making strong arguments without triggering people's baloney detectors.
 
-More importantly, The Economist specifically targets affluent business audiences. The overwhelming majority of the investors you'll end pitching read it, and The Economist correspondents are used to business lingo. If you explicate the story using the same patterns, investors will be much more likely to accept your assertions. It's the easiest way to learn to talk the talk without going to business school.
+Incidentally, this is exactly the vibe you want to go for when pitching your startup.
 
 h2. Fiction vs. reality
 
