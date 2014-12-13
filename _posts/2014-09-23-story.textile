@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to pick startup ideas
+title: Startups as stories
 wip: true
 ---
 
