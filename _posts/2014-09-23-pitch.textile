@@ -20,7 +20,7 @@ Dramaturgy teaches us that the structure of most stories is surprisingly similar
 
 bq. Once upon a time there was ___. Every day, ___. One day ___. Because of that, ___. Because of that, ___. Until finally ___.
 
-So a good story is about change, about the __"One day ___"__. The knights of the round table were hanging out in King Arthur's castle. One day a monster appeared. Because of that the knights went out to fight the monster. They overcame many challenges, until finally they defeated the monster and transformed the King's castle to deal with appearance of monsters more swiftly.
+So a good story is about change, about the __"One day"__. The knights of the round table were hanging out in King Arthur's castle. One day a monster appeared. Because of that the knights went out to fight the monster. They overcame many challenges, until finally they defeated the monster and transformed the King's castle to deal with appearance of monsters more swiftly.
 
 The structure of a good startup story is exactly the same. The world used to be in an equillibrium. Then something changed -- a series of trends to threaten that equillibrium. Because of that you're starting your company, doing X. Because of X, Y will happen. And Z. And W. Until finally the world will settle into a different, better and more efficient equillibrium.
 
@@ -28,19 +28,25 @@ You can take almost any successful startup and tell its story this way. People u
 
 h2. Why this works
 
-Most new founders don't talk about their startup this way. The mainstream impression is that startups succeed without any precipitating factor. On the surface it seems like startups just work very hard, get lucky, and invent dramatically better technology out of thin air. So when new founders explain their startups they jump straight to what they do:
+Most new founders don't talk about their startup this way. The mainstream impression is that startups succeed without any precipitating factor. On the surface it seems like startups just work very hard, get lucky, and invent dramatically better technology out of thin air. So when new founders explain their startups they jump straight to what they plan to do:
 
 bq. We'll let people order takeout food online without having to call the restaurants.
 
 Compare that to explaining the company through a story:
 
-bq. People have to call restaurants to order takeout. But recently, enough people got smart phones. Because of that, we're starting a food delivery company that will let people order food via their phones in a click of a button. That will give people a much more convenient experience. Because of that, people will order food together, which will give us network effects. Because of that, we can grow very quickly. Until finally we can become an effective monopoly.
+bq. People have to call restaurants to order takeout. But recently, a critical mass of people got comfortable with smart phones. Because of that, we're starting a food delivery company that will let people order food on their phones in a click of a button. That will give people a much more convenient experience. Because of that, people will order food together, which will give us network effects. Because of that, we can grow very quickly. Until finally we can own the food delivery market.
 
-Explaining your company via a story works incredibly well on a surprising number of levels. Firstly, it triggers the prehistoric circuits in our minds that resonate with narratives. Empirically, stories work better than statements if you're trying to get people's attention. So talking about your startup this way will resonate much better when you're trying to convince an audience to buy into your vision.
+Explaining your company via a story works incredibly well on a surprising number of levels. It triggers the prehistoric circuits in our minds that resonate with narratives. Empirically, stories work better than statements if you're trying to get people's attention. So talking about your startup this way will resonate much better when you're trying to convince an audience to buy into your vision.
 
-Secondly, this structure forces you to commit to a hypothesis about the world. You can't just state what you're doing outright -- you have to pick a precipitating trend. In turn, that forces you to face the economic reality that when conditions make it possible for a market to arise, it will arise very quickly with or without you. This saves you from a huge class of rookie mistakes rooted in the assumption of individual exceptionalism, which is usually blatently incorrect. You now have to build a business by making a unique argument about the world and proving it correct, which models reality much closer than believing you're the smartest (or luckiest) entrepreneur on the planet.
+This structure forces you to commit to a hypothesis about the world. You can't just state what you're doing outright -- you have to pick a precipitating trend. In turn, that forces you to face the economic reality that when conditions make it possible for a market to arise, it will arise very quickly with or without you. This saves you from a huge class of rookie mistakes rooted in the assumption of individual exceptionalism, which is usually blatently incorrect. You now have to build a business by making a unique argument about the world and proving it correct, which models reality much closer than believing you're the smartest (or luckiest) entrepreneur on the planet.
 
-Finally, it makes pitching your startup to investors dramatically easier because it decouples the underlying hypothesis from your product and company. To fund you, investors would have to believe two things -- that the hypothesis you've identified is correct and valuable, and that you're the one to take advantage of it. On the surface it appears worse than just stating what you do because now investors have to believe two things instead of one. But in reality, they think of your company and the market separately anyway, and it's much easier to convince people of two small but clear ideas than one large and obscure one.
+It makes pitching your startup to investors dramatically easier because it decouples the underlying hypothesis from your product and company. To fund you, investors would have to believe two things -- that the hypothesis you've identified is correct and valuable, and that you're the one to take advantage of it. On the surface it appears worse than just stating what you do because now investors have to believe two things instead of one. But in reality, they think of your company and the market separately anyway, and it's much easier to convince people of two small but clear ideas than one large and obscure one.
+
+Attracting and keeping talent is easier. If you have a clear story, it's easier to captivate potential recruits, who in turn can captivate their spouses and join your company. Once they've joined, every employee has the tools to talk about why they're working for your company in the exactly the same way, which creates a unique bond and a sense of comraderie.
+
+It makes PR efforts go much more smoothly. Journalists look for stories, and it's much easier for them to write about you if your company is designed to embody a story from the day of inception.
+
+Finally, a good genesis story keeps you honest and makes things simple. Bad companies tell different stories to their users, investors, employees, and journalists, and work very hard to reconcile all these stories so they don't contradict each other. Good companies tell exactly the same story to everyone. Having a good coherent story early makes communication dramatically simpler and makes your life much easier.
 
 h2. Borrow from The Economist
 
