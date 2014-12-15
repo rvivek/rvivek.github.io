@@ -20,9 +20,9 @@ Dramaturgy teaches us that the structure of most stories is surprisingly similar
 
 bq. Once upon a time there was ___. Every day, ___. One day ___. Because of that, ___. Because of that, ___. Until finally ___.
 
-So a good story is about change, about the __"One day"__. The knights of the round table were hanging out in King Arthur's castle. One day a monster appeared. Because of that the knights went out to fight the monster. They overcame many challenges, until finally they defeated the monster and transformed the King's castle to deal with appearance of monsters more swiftly.
+So a good story is about change. The knights of the round table were hanging out in King Arthur's castle. One day a monster appeared. Because of that the knights went out to fight the monster. They overcame many challenges, until finally they defeated the monster and transformed the King's castle to deal with appearance of monsters more swiftly.
 
-The structure of a good startup story is exactly the same. The world used to be in an equillibrium. Then something changed -- a series of trends to threaten that equillibrium, the change, the "One day". The change isn't about you or your company, it's about the world at large. It will happen whether or not you exist. It's outside of your control. It's oustide of __anyone's__ control. Because of that you're starting your company, taking advantage of the trend by doing X. Because of X, Y will happen. And Z. And W. Until finally the world will settle into a different, better and more efficient equillibrium.
+The structure of a good startup story is exactly the same. The world used to be in an equillibrium. Then something in the world changed -- a series of trends to threaten that equillibrium. Because of that you're starting your company, taking advantage of the trend by doing X. Because of X, Y will happen. And Z. And W. Until finally the world will settle into a different, better and more efficient equillibrium.
 
 You can take almost any successful startup and tell its story this way. People used to send money to each other by physically walking to Western Union branches. Then enough people got on the internet. Because of that, Max Levchin and Peter Thiel started PayPal, which dramatically reduced the friction to sending money. Because of that everyone switched. Until finally PayPal became an effective monopoly.
 
@@ -60,7 +60,7 @@ This is exactly the vibe you want to go for when pitching your startup. Perhaps 
 
 h2. Fiction vs. reality
 
-One caveat of structuring your startup as a story is that it's so effective that it's easy to deceive yourself with early success. Smart and sufficiently determined entrepreneurs can turn almost any idea into a story. If you're committed to building a food delivery service, you can always invent a hypothesis, weave a narrative about your product around it, find credible supporting data, and polish your pitch until a large number of people believe it. Unfortunately you will have created very compelling fiction.
+One caveat to structuring your startup as a story is that it's so effective that it's easy to deceive yourself with early success. Smart and sufficiently determined entrepreneurs can turn almost any idea into a story. If you're committed to building a food delivery service, you can always invent a hypothesis, weave a narrative about your product around it, find credible supporting data, and polish your pitch until a large number of people believe it. Unfortunately you will have created very compelling fiction.
 
 It's relatively easy to attract a surprising amount of capital, talent, and press interest to your company this way, which makes the technique extremely dangerous. I've met people who burned through millions of dollars of other people's money and wasted hundreds of man-years on projects because they've inadvertently created very compelling fictions and were sufficiently taken by early success to believe in their own fiction themselves.
 
