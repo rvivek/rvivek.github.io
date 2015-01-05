@@ -8,7 +8,7 @@ h1. {{ page.title }}
 
 p(meta). 03 Oct 2014
 
-When I started my company five years ago, I didn't know anything about how markets develop and what principles govern their ebb and flow. I went on to learn far more on this subject than I possible could have imagined. To the best of my knowledge, most of the information is still locked up in the minds of people like myself who learned the ropes through trial and error. This post is a crash course on market dynamics I wish I had when I was getting started.
+When I started my company five years ago, I didn't know anything about how markets develop or what principles govern their ebb and flow. Eventually I went on to learn far more about the subject than I ever thought possible. Five years later, there are tremendous resources online for budding startup founders, but much of the information on market dynamics is still locked up in the minds of people who learned the ropes through trial and error. This post is a crash course I wish I had when I was getting started.
 
 h2. Do
 <br />
