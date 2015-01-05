@@ -1,0 +1,26 @@
+---
+layout: post
+title: X laws of market dynamics
+wip: true
+---
+
+h1. {{ page.title }}
+
+p(meta). 03 Oct 2014
+
+When I started my company five years ago, I didn't know anything about how markets develop and what principles govern their ebb and flow. I went on to learn far more on this subject than I possible could have imagined. To the best of my knowledge, most of the information is still locked up in the minds of people like myself who learned the ropes through trial and error. This post is a crash course on market dynamics I wish I had when I was getting started.
+
+h2. Do
+<br />
+
+# Attract, nurture, coach, and retain talent. Talk to engineers to tease out concerns early, then fix them if you can.
+
+<h2 style="margin-left: -8px;"><br />Don't<br /><br /></h2>
+
+#_ Personally fix bugs and ship features. You have to write code to remain an effective tiebreaker, but that's where your coding responsibilities end.
+# Supervise the quality and volume of people's work. Software engineering isn't an assembly line. If you find yourself supervising too often, you haven't attracted the right people or given them the right incentives.
+
+
+<br />
+__Thanks to Michael Glukhovsky, Michael Lucy, and Alex Taussig for reviewing this post.__
+

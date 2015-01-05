@@ -64,7 +64,7 @@ One caveat to structuring your startup as a story is that it's so effective that
 
 It's relatively easy to attract a surprising amount of capital, talent, and press interest to your company this way, which makes the technique extremely dangerous. I've met people who burned through millions of dollars of other people's money and wasted hundreds of man-years on projects because they've inadvertently created very compelling fictions and were sufficiently taken by early success to believe in their own fiction themselves.
 
-So it isn't just important for the story to be compelling. It's also extremely important for the story to right.
+So it isn't just important for the story to be compelling. It's also extremely important for the story to be right.
 
 TODO: HPMOR, reasoning from first principles
 
