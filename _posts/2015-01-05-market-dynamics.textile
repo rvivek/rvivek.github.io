@@ -13,13 +13,12 @@ When I started my company five years ago, I didn't know anything about how marke
 h2. Arbitrage
 <br />
 
-# Personally fix bugs and ship features. You have to write code to remain an effective tiebreaker, but that's where your coding responsibilities end.
-# Supervise the quality and volume of people's work. Software engineering isn't an assembly line. If you find yourself supervising too often, you haven't attracted the right people or given them the right incentives.
+# foo
 
 <h2 style="margin-left: -8px;"><br />Clusters<br /><br /></h2>
 
-#_ Human advancement (in business, technology, art, sport, politics, and religion) happens in "clusters":http://www.lettersofnote.com/2012/06/if-im-not-writer-then-im-nothing.html. Scientists call these clusters __fields__, artists call them __schools of thought__, politicians call them __ideologies__; economists and business people call them __markets__. Nearly everything of value happens in these clusters, and almost nothing of value happens outside of them.
-# foo
+#_ Human advancement (in business, technology, art, sport, politics, and religion) happens in "clusters":http://www.lettersofnote.com/2012/06/if-im-not-writer-then-im-nothing.html. Scientists call these clusters __fields__, artists call them __schools of thought__, politicians call them __ideologies__; economists and business people call them __markets__. Nearly everything valuable happens in these clusters, and almost nothing happens outside of them.
+# 
 
 <br />
 __Thanks to Michael Glukhovsky, Michael Lucy, and Alex Taussig for reviewing this post.__

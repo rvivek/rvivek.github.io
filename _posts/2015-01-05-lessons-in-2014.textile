@@ -1,0 +1,70 @@
+---
+layout: post
+title: What I learned in 2014
+wip: true
+---
+
+h1. {{ page.title }}
+
+p(meta). 05 Jan 2015
+
+h2. Relationships
+
+Appreciate the company of people. Refuse to succumb to judging their worldview on its mistakes or negative aspects. Judge it on its positive aspects. It will make you dramatically happier and make your relationships richer.
+
+Be patient with people who violate your boundaries if you aren't willing to let go of them. Be kind if they're willing to accept kindness. Always remember -- the two of you are alien creatures! The clarity you're perceiving is an illusion. They're not the person you're imagining they are, and you're not the person they're imagining you are. It's all one big misunderstanding, impossible to be angry about if you stay mindful.
+
+That inner feeling in the heat of the moment, when you know you should act differently but something is stopping you, what is that physical sensation like? Relax your shoulders, tension is always in the shoulders. Can you let go of it then?
+
+Your experience has hammered you into a special kind of arrow. Be proud of that, it's who you are, but understand that not everyone is flying in the same direction, or was hammered by life into the same instrument. Be very respectful of that. Be very, very patient and supportive with people.
+
+People have an inalienable birthright to the life story of their own creation, and the expression of their free will via life choices. Express boundaries, but in your heart do not expect or demand compliance. You cannot. Surround yourself with people who understand this.
+
+Avoid reckless choices, but don't be afraid to get to know people who've made choices outside of your comfort zone. You're safer than you think, and it's better to die exploring people than to live in perpetual fear.
+
+h2. Creativity
+
+It's impossible to make a sustained creative effort when you're overstimulated. Let go of your frustrations over creative blocks, set smaller goals and give yourself more time. Be patient. Forgive yourself for not being prolific. Accept the infinitely complex world and let go of the fear of missed opportunity. Silence your inner critics for a while -- there is such a thing as worrying too much about your audience.
+
+During creative tension slow down dramatically, be absurdly supportive and optimistic, hear people out, repeat what they said back to them, then zoom way out and enlarge the problem. Unwind instead of winding tighter. Most of the time your job isn't to make decisions, it's to be patient and supportive.
+
+I remember when I was a child, four of five, certainly before gradeschool, I used to play with ants. I'd take a stick, and ruffle an anthill, and see what the ants would do. That pure curiosity, the joy of it, I remember it so well! It's with me today, and it has always been with me, from such early days. Think of how it interacts with emotional pain, how it can be twisted to succumb to false prophets to feel superior to other people. And how it can be stifled by anxiety of ambition! Why is the inability to predict the future so scary to me, so suffocating?
+
+h2. Leadership
+
+Love your team. Be positive. They love you and are willing to follow you. Allow yourself to be followed! Be absurdly kind, supportive and optimistic.
+
+When people aren't doing well, double down on them. Really do it, know it in your heart, and make sure they know it. Give them all the love and support you have in you, and be vocal about it. If they're still letting you down, don't be afraid to let them go. It's ok not to take people with you on your journey.
+
+h2. Insecurity
+
+Ask yourself -- where do you lack confidence? In people management, in having the nose for the markets, in writing skills, in the problem of aging, in body image, in connecting with other people. Forgive yourself. Remember how far you've come. Only then, can you move forward.
+
+The way you hide from people... don't guard your heart so much. With the benefit of hindsight, you've never regretted putting your heart in the hands of strangers.
+
+Ask yourself what you would do if you weren't afraid.
+
+Forgive yourself for whatever it is you're beating yourself up for.
+
+Treat yourself like you would a treat a dear friend.
+
+h2. Decision-making
+
+Never keep score on your own life using someone else's scoring rules.
+
+Don't sweat the small stuff. Do the reasonable thing, and allow the future you to take care of the rest.
+
+Don't allow yourself to agonize too much. When you agonize you strive to do the right thing, to pick the perfect path, to punch above your weight. There are times to do that when you're improving within a league, but there are times to let go and trust the dots will connect. Agony is 50% of getting good and having a good life. Joy is the other 50%.
+
+You can think of many inner conflicts by reducing them to a simpler choice: "do I treat this decision as if I'll die tomorrow, or do I treat it as if I'll live forever?" You can learn so much about a person's character this way! Think of different people of different walks of life. How did they make their choices? Think of it in terms of a continuum too. What decision would you make if you had 5, 10, 500 years to live?
+
+h2. Ambition
+
+That grip of ambition where a missed opportunity is a greater evil than throwing away the life you've built... The anxiety it induces, the way it focuses the mind... How useful it can be, and how terrible! At any fork in the road ask yourself -- is it more profitable to be ambitious, or is it more profitable to be curios? What enormous friction the pressure introduces, what joykill, and yet how useful to writhe within your skin until you find the solution!
+
+Is my character still shaped like an arrow if you take away ambition? If you take that away, what's left? What choices would I make if I didn't fear a missed opportunity? How would I act?
+
+What are the biggest factors that drive me? Ambition, curiosity, sexuality, kindness. What are the antitodes to these drives? Do they need an antidote?
+
+Ambition and fear of social stigma are two sides of the same coin.
+
