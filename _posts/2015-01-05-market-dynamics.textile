@@ -13,7 +13,7 @@ When I started my company five years ago, I didn't know anything about how marke
 h2. Clusters
 <br />
 
-# Human advancement (in business, technology, art, sport, politics, and religion) happens in "clusters":http://www.lettersofnote.com/2012/06/if-im-not-writer-then-im-nothing.html. Scientists call these clusters __fields__, artists call them __schools of thought__, and business people call them __markets__. Nearly everything of value happens in these clusters, and almost nothing of value happens outside of them.
+# Human advancement (in business, technology, art, sport, politics, and religion) happens in "clusters":http://www.lettersofnote.com/2012/06/if-im-not-writer-then-im-nothing.html. Scientists call these clusters __fields__, artists call them __schools of thought__, politicians call them __idealogies__; economists and business people call them __markets__. Nearly everything of value happens in these clusters, and almost nothing of value happens outside of them.
 # 
 
 <h2 style="margin-left: -8px;"><br />Don't<br /><br /></h2>
