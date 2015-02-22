@@ -36,9 +36,9 @@ Thinking about your startup in terms of changes in the world doesn't just make y
 
 In the initial stages of a startup you have to talk to a lot of people -- potential users, advisors, investors, industry experts, early employees, and eventually journalists. The first question people ask is "what does your startup do?" So communicating what you do is the first tactical problem you have to solve.
 
-So a great story is the first prerequisite to building a startup, and all stories are about change. The knights of the round table were hanging out in King Arthur's castle. One day a monster appeared. Because of that the knights went out to fight the monster. They overcame many challenges, until finally they defeated the monster and transformed the King's castle to deal with appearance of monsters more swiftly.
+A great story is the first prerequisite to building a startup, and all stories are about change. The knights of the round table were hanging out in King Arthur's castle. One day a monster appeared. Because of that the knights went out to fight the monster. They overcame many challenges, until finally they defeated the monster and transformed the King's castle to deal with appearance of monsters more swiftly.
 
-Human beings are biologically wired to respond to respond to storytelling, and all stories have the same fundamental structure. Here is the simplest possible framework to tell a story, from Pixar's rules of storytelling:
+Human beings are biologically wired to respond to storytelling, and all stories have the same fundamental structure. Here is the simplest possible framework to tell a story, from Pixar's rules of storytelling:
 
 bq. Once upon a time there was ___. Every day, ___. One day ___. Because of that, ___. Because of that, ___. Until finally ___.
 
@@ -46,11 +46,11 @@ The first part is the setup. The world used to work in a particular way, and her
 
 Once you describe the change in the world, only then do you talk about your product and company. The change is occurring independent of your actions. You just happen to notice it first.
 
-The last part shows how your company will transform people's lives. When your startup grows large enough to own the majority of the market, *you* will be the cause of the *next* qualitative environmental change. In this way your startup will complete the circle of technology innovation.
+The last part shows how your company will transform people's lives. When your startup grows large enough to own the majority of the market, you will be the cause of the next qualitative environmental change. In this way your startup will complete the circle of technology innovation.
 
-This is how the best companies tell their stories. People buy cars driven by an internal combustion engines. But battery technology has gotten cheap enough that we can build a pure electric vehicle. It's still fairly expensive, so we'll start with luxury vehicles. Then we'll go down market. Until finally, we'll transform the auto industry so that every car will be an electric car.
+This is how the best companies tell their stories. People buy cars driven by internal combustion engines. But battery technology has gotten cheap enough that we can build a pure electric vehicle. It's still fairly expensive, so we'll start with luxury vehicles. Then we'll go down market. Until finally, we'll transform the auto industry so that every car will be an electric car.
 
-This type of story telling is incredibly effective at propeling your startup. Early adopters, employees and advisors will be more likely to sign on because you're inviting them on a journey. Investors will be more likely to respond because this matches their model of the world. And journalists will covery you because you're essentially doing their job for them.
+This type of story telling is incredibly effective at propeling your startup. Early adopters, employees and advisors will be more likely to sign on because you're inviting them on a journey. Investors will be more likely to respond because this matches their model of the world. And journalists will cover you because you're essentially doing their job for them.
 
 A good story gives you tremendous descriptive power to explain what you do to different parties in a consistent way. But even more importantly a good story is prescriptive -- it informs decisions and forces you to make disciplined choices. If you're about to make a decision that doesn't fit your story, you have to explicitly choose whether to reevaluate the decision or to refine your story. Early stage startups get pulled in a thousand different directions. They're much more likely to get killed by compromises than by committing to a wrong path. A good story keeps you honest, prevents you from trying to please everybody, and gives you the mental clarity to follow through on a concrete direction.
 
@@ -68,16 +68,16 @@ Evaluating the correctness of a story is an extremely challeging art that lies a
 
 Look carefully, and you'll find lessons in the most surprising places. Here are some resources I've used to hone my intuition:
 
-* Read The Economist for a few months to get on the same page with conventional wisdom. The Economist writers are very good at thinking about the future (but keep in mind that they have no strong pressure to be correct).
-* Read Peter Theil's book Zero to One. Most business books are terrible, but this one is the exception.
-* Read Harry Potter and the Methods of Rationality. It will introduce you to the basic principles of microeconomics and will serve as excellent primer for constructing a fictional world that operates in accordance with real economic principles. It will teach you how to think critically of your own fiction.
-* Similarly, browse the TV Tropes wiki from time to time to help you deconstruct your own fiction.
-* Read William Gibson's essays in Distrust That Particular Flavor. It will help you think deeply about technological innovation in the real world.
-* Read Five Things We Need to Know About Technological Change by Neil Postman. He's bearish on technological innovation, but still has a uniquely useful way of thinking about how technology propagates.
+* Read "The Economist":http://www.economist.com for a few months to get on the same page with conventional wisdom. The Economist writers are very good at thinking about the future (but keep in mind that they have no strong pressure to be correct).
+* Read Peter Theil's book "Zero to One":http://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296. Most business books are terrible, but this one is the exception.
+* Read "Harry Potter and the Methods of Rationality":http://hpmor.com. It will introduce you to the basic principles of microeconomics and will serve as excellent primer for constructing a fictional world that operates in accordance with real economic principles. It will teach you how to think critically of your own fiction.
+* Similarly, browse the "TV Tropes wiki":http://tvtropes.org/pmwiki/pmwiki.php/Main/HomePage from time to time to help you deconstruct your own fiction.
+* Read William Gibson's essays in "Distrust That Particular Flavor":http://www.amazon.com/Distrust-Particular-Flavor-William-Gibson/dp/042525299X. It will help you think deeply about technological innovation in the real world.
+* Read "Five Things We Need to Know About Technological Change":http://web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf by Neil Postman. He's bearish on technological innovation, but still has a uniquely useful way of thinking about how technology propagates.
 
 Once you get through these resources, you can start going deeper:
 
 * Learn as much as you can about microeconomics to get a better model for how the world works. Not just the basics of supply and demand, but more advanced topics like complementary and substitute goods, elasticity, marginal utility, etc.
 * Study history. Don't just learn dates and names, but ask deep questions. Why did the Ottoman Empire never develop feudalism despite being in similar economic and technological state of development as European nation-states? Why didn’t the inventors of the steam engine capture most of the value they created? Why didn't the Chinese civilization end up conquering Europe during its golden ages, when it was far more developed than European nation-states?
-* Get a rudimentary understanding of anthropology and ethnography. Understand emic and etic methods of cultural evaluation and learn to think deeply of cultural change.
+* Get a rudimentary understanding of anthropology and ethnography. Understand "emic and etic":http://en.wikipedia.org/wiki/Emic_and_etic approaches to cultural evaluation and learn to think deeply of cultural change.
 
