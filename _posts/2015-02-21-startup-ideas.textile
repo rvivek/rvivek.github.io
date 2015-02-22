@@ -75,11 +75,13 @@ Look carefully, and you'll find lessons in the most surprising places. Here are 
 * Read William Gibson's essays in "Distrust That Particular Flavor":http://www.amazon.com/Distrust-Particular-Flavor-William-Gibson/dp/042525299X. It will help you think deeply about technological innovation in the real world.
 * Read "Five Things We Need to Know About Technological Change":http://web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf by Neil Postman. He's bearish on technological innovation, but still has a uniquely useful way of thinking about how technology propagates.
 
-Once you get through these resources, you can start going deeper:
+Once you get through these resources, start going deeper.
 
-* Learn as much as you can about microeconomics to get a better model for how the world works. Not just the basics of supply and demand, but more advanced topics like complementary and substitute goods, elasticity, marginal utility, etc.
-* Study history. Don't just learn dates and names, but ask deep questions. Why did the Ottoman Empire never develop feudalism despite being in similar economic and technological state of development as European nation-states? Why didn’t the inventors of the steam engine capture most of the value they created? Why didn't the Chinese civilization end up conquering Europe during its golden ages, when it was far more developed than European nation-states?
-* Get a rudimentary understanding of anthropology and ethnography. Understand "emic and etic":http://en.wikipedia.org/wiki/Emic_and_etic approaches to cultural evaluation and learn to think deeply of cultural change.
+Learn as much as you can about microeconomics to get a better model for how the world works. Not just the basics of supply and demand, but more advanced topics like complementary and substitute goods, elasticity, marginal utility, etc.
+
+Study history. Don't just learn dates and names, but ask deep questions. Why did the Ottoman Empire never develop feudalism despite being in similar economic and technological state of development as European nation-states? Why didn’t the inventors of the steam engine capture most of the value they created? Why didn't the Chinese civilization end up conquering Europe during its golden ages, when it was far more developed than European nation-states?
+
+Get a rudimentary understanding of anthropology and ethnography. Understand "emic and etic":http://en.wikipedia.org/wiki/Emic_and_etic approaches to cultural evaluation and learn to think deeply of cultural change.
 
 As you think deeply about the world, start acting. The best way to get an intuition for how to make good decisions is to make actual decisions and observe results, so don't get wrapped up in the analysis paralysis for too long. Start a company, and start learning from your own mistakes.
 
