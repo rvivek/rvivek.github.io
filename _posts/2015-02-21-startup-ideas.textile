@@ -66,7 +66,7 @@ So it isn't just important for the story to be compelling. It's also extremely i
 
 Evaluating the correctness of a story is an extremely challeging art that lies at the intersection of many disciplines -- economics, science fiction, history, anthropology, and sociology. You'll need to think deeply about the world and invest years of concerted effort into building a good intuition for thinking about the future. Even then you'll be right only a fraction of the time. But you can still get much better than random chance.
 
-Look carefully, and you'll find lessons in the most surprising places. Here are some resources I've used to hone my intuition:
+Here are some resources I've used to hone my intuition:
 
 * Read "The Economist":http://www.economist.com for a few months to get on the same page with conventional wisdom. The Economist writers are very good at thinking about the future (but keep in mind that they have no strong pressure to be correct).
 * Read Peter Theil's book "Zero to One":http://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296. Most business books are terrible, but this one is the exception.
@@ -83,13 +83,13 @@ Study history. Don't just learn dates and names, but ask deep questions. Why did
 
 Get a rudimentary understanding of anthropology and ethnography. Understand "emic and etic":http://en.wikipedia.org/wiki/Emic_and_etic approaches to cultural evaluation and learn to think deeply of cultural change.
 
-As you think deeply about the world, start acting. The best way to get an intuition for how to make good decisions is to make actual decisions and observe results, so don't get wrapped up in the analysis paralysis for too long. Start a company, and start learning from your own mistakes.
+Thinking deeply about the world is a life-long process. Once you cover the basics, you'll start branching out on your own. Look carefully, and you'll find lessons in the most surprising places.
 
 h2. Exceptions
 
 What I said here isn't gospel. The notions that innovation markets are efficient and that first movers are usually impossible to displace are controversial. Many opportunities remain undiscovered for years and many deeply technical problems remain open for decades until finally someone abruptly snaps them up. Sometimes hypergrowth companies make critical mistakes and effectively commit suicide. But in my experience these cases are the exception rather than the rule.
 
-If you're convinced you found an exception, be careful! Most startups fail at inception and take years to find out because the founders didn't understand efficient markets and first mover advantage. So think about this model deeply, and understand it first. Exceptions do exist, but if that's the path you choose to follow, be very sure you have a deep understanding of what you're doing.
+If you're convinced you found an exception, be careful! Most startups fail at inception and take years to find out because the founders didn't understand efficient markets and first mover advantage. So think about this model deeply, and understand it first. Exceptions do exist, but if that's the path you choose to follow, be very sure you have a deep understanding of what you're doing. You need to have an intimate understanding of the rules of the game before you can start exploiting them and inventing your own.
 
-Godspeed!
+As you think deeply about the world, start acting. The best way to get an intuition for how to make good decisions is to make actual decisions and observe results, so don't get wrapped up in the analysis paralysis for too long. Start a company, and start learning from your own mistakes.
 
