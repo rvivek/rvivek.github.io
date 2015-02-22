@@ -68,16 +68,16 @@ Evaluating the correctness of a story is an extremely challeging art that lies a
 
 Look carefully, and you'll find lessons in the most surprising places. Here are some resources I've used to hone my intuition:
 
-# Read The Economist for a few months to get on the same page with conventional wisdom. The Economist writers are very good at thinking about the future (but keep in mind that they have no strong pressure to be correct).
-# Read Peter Theil's book Zero to One. Most business books are terrible, but this one is the exception.
-# Read Harry Potter and the Methods of Rationality. It will introduce you to the basic principles of microeconomics and will serve as excellent primer for constructing a fictional world that operates in accordance with real economic principles. It will teach you how to think critically of your own fiction.
-# Similarly, browse the TV Tropes wiki from time to time to help you deconstruct your own fiction.
-# Read William Gibson's essays in Distrust That Particular Flavor. It will help you think deeply about technological innovation in the real world.
-# Read Five Things We Need to Know About Technological Change by Neil Postman. He's bearish on technological innovation, but still has a uniquely useful way of thinking about how technology propagates.
+* Read The Economist for a few months to get on the same page with conventional wisdom. The Economist writers are very good at thinking about the future (but keep in mind that they have no strong pressure to be correct).
+* Read Peter Theil's book Zero to One. Most business books are terrible, but this one is the exception.
+* Read Harry Potter and the Methods of Rationality. It will introduce you to the basic principles of microeconomics and will serve as excellent primer for constructing a fictional world that operates in accordance with real economic principles. It will teach you how to think critically of your own fiction.
+* Similarly, browse the TV Tropes wiki from time to time to help you deconstruct your own fiction.
+* Read William Gibson's essays in Distrust That Particular Flavor. It will help you think deeply about technological innovation in the real world.
+* Read Five Things We Need to Know About Technological Change by Neil Postman. He's bearish on technological innovation, but still has a uniquely useful way of thinking about how technology propagates.
 
 Once you get through these resources, you can start going deeper:
 
-# Learn as much as you can about microeconomics to get a better model for how the world works. Not just the basics of supply and demand, but more advanced topics like complementary and substitute goods, elasticity, marginal utility, etc.
-# Study history. Don't just learn dates and names, but ask deep questions. Why did the Ottoman Empire never develop feudalism despite being in similar economic and technological state of development as European nation-states? Why didn’t the inventors of the steam engine capture most of the value they created? Why didn't the Chinese civilization end up conquering Europe during its golden ages, when it was far more developed than European nation-states?
-# Get a rudimentary understanding of anthropology and ethnography. Understand emic and etic methods of cultural evaluation and learn to think deeply of cultural change.
+* Learn as much as you can about microeconomics to get a better model for how the world works. Not just the basics of supply and demand, but more advanced topics like complementary and substitute goods, elasticity, marginal utility, etc.
+* Study history. Don't just learn dates and names, but ask deep questions. Why did the Ottoman Empire never develop feudalism despite being in similar economic and technological state of development as European nation-states? Why didn’t the inventors of the steam engine capture most of the value they created? Why didn't the Chinese civilization end up conquering Europe during its golden ages, when it was far more developed than European nation-states?
+* Get a rudimentary understanding of anthropology and ethnography. Understand emic and etic methods of cultural evaluation and learn to think deeply of cultural change.
 
