@@ -58,7 +58,7 @@ h2. Self-deception
 
 One caveat to thinking of startup ideas in terms of environmental changes is that it's so effective that it's easy to deceive yourself with early success. Smart and sufficiently determined entrepreneurs can find evidence for environmental changes to support almost any startup idea. If you're committed to building a food delivery service, you can always invent a hypothesis, weave a narrative about your product around it, find credible supporting data, and polish your pitch until a large number of people believe it. Unfortunately you will have created very compelling fiction.
 
-This isn't unlike the process of undermining scientific method by believing in your hypothesis so strongly that you start to unconsciously reject discouraging evidence. The confirmation bias is deadly in science, and it's equally deadly in business.
+This isn't unlike the process of undermining scientific method by believing in your hypothesis so strongly that you start to unconsciously reject discouraging evidence. Confirmation bias is deadly in science, and it's equally deadly in business.
 
 It's relatively easy to attract a surprising amount of capital, talent, and press interest to your company this way, which makes the technique extremely dangerous. I've met people who burned through millions of dollars of other people's money and wasted hundreds of man-years on projects because they've inadvertently created very compelling fictions and were sufficiently taken by early success to believe in their own fiction themselves.
 
