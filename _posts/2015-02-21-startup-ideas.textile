@@ -64,7 +64,9 @@ A good story gives you tremendous descriptive power to explain what you do to di
 
 h2. Exceptions
 
-What I said here isn't gospel. The notions that innovation markets are efficient and that first movers are usually impossible to displace are controversial. Many opportunities remain undiscovered for years and many deeply technical problems remain open for decades until finally someone abruptly snaps them up. Sometimes hypergrowth companies make critical mistakes and effectively commit suicide. But in my experience these cases are the exception rather than the rule.
+The notions that innovation markets are efficient and that first movers are overwhelmingly difficult to displace are controversial because it's easy to think of counterexamples. Beats Headphones broke every rule in this article and still succeeded because fashion companies are inherently fickle and unstable. Microsoft Surface shipped a poorly differentiated product and succeeded in a fairly mature market because of a huge marketing budget. Many opportunities remain undiscovered for years and many deeply technical problems remain open for decades until finally someone abruptly snaps them up. Sometimes hypergrowth companies make critical mistakes and effectively commit suicide.
+
+In the startup world these cases are the exception rather than the rule. Most founders can't swing a partnership with a successful hiphop artist and can't execute a billion dollar market campaign on the cheap (but think they can). Startups tend to feel exceptional because you're going off the beaten path, but within the startup world you're less exceptional than you think.
 
 If you're convinced you found an exception, be careful! Most startups fail at inception and take years to find out because the founders didn't understand efficient markets and first mover advantage. So think about this model deeply, and understand it first. Exceptions do exist, but if that's the path you choose to follow, be very sure you have a deep understanding of what you're doing. You need to have an intimate understanding of the rules of the game before you can start exploiting them and inventing your own.
 
