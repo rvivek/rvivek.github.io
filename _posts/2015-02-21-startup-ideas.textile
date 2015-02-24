@@ -104,12 +104,12 @@ h2. Intuition
 
 Here are some things I've read that have helped my think about the future. I use them to learn how to put together stories, and to hone my intuition on how likely these stories are to be correct:
 
-* Read "The Economist":http://www.economist.com for a few months to get on the same page with conventional wisdom. The Economist writers are very good at thinking about the future (but keep in mind that they have no strong pressure to be correct).
-* Read Peter Theil's book "Zero to One":http://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296. Most business books are terrible, but this one is the exception.
-* Read "Harry Potter and the Methods of Rationality":http://hpmor.com. What Harry spends the first eleven chapters doing is exactly what you want to be teaching yourself. "The rules are different, there is magic in the world. What happens now? Can I get rich from galleon/sickle arbitrage?"
+* Reading "The Economist":http://www.economist.com for a few months is a great way to get on the same page with conventional wisdom. The Economist writers are very good at thinking about the future (but keep in mind that they have no strong pressure to be correct).
+* Peter Theil's book "Zero to One":http://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296 is excellent. Most business books are terrible, but this one is the exception.
+* Reading "Harry Potter and the Methods of Rationality":http://hpmor.com is very instructive. What Harry spends the first eleven chapters doing is exactly what you want to be teaching yourself. "The rules are different, there is magic in the world. What happens now? Can I get rich from galleon/sickle arbitrage?"
 * Similarly, I browse the "TV Tropes wiki":http://tvtropes.org/pmwiki/pmwiki.php/Main/HomePage from time to time to help me deconstruct my own fiction.
-* Read William Gibson's essays in "Distrust That Particular Flavor":http://www.amazon.com/Distrust-Particular-Flavor-William-Gibson/dp/042525299X. It helped me think deeply about technological innovation in the real world.
-* Read "Five Things We Need to Know About Technological Change":http://web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf by Neil Postman. He's bearish on technological innovation, but still has a uniquely useful way of thinking about how technology propagates.
+* William Gibson's essays in "Distrust That Particular Flavor":http://www.amazon.com/Distrust-Particular-Flavor-William-Gibson/dp/042525299X helped me think deeply about technological innovation in the real world.
+* Similarly "Five Things We Need to Know About Technological Change":http://web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf by Neil Postman has a unique way of thinking about technology. He's bearish on technological innovation, but still has a uniquely useful way of thinking about how technology propagates.
 
 Once you get through these links, start going deeper.
 
