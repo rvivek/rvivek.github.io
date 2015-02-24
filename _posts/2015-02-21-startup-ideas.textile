@@ -28,7 +28,7 @@ Much like the biological environment, the economic environment isn't static. Soc
 
 Changes in the environment unlock startup opportunities. And since technology companies are often winner-takes-all, recognizing an environmental change first and getting to market with a viable solution dramatically increases the probability of long-term market dominance.
 
-In the early stages ask yourself -- how is the world changing and what can I do about it?
+In the early stages ask yourself -- how is the world changing and what can I do about it? Only once you identify an enviromental change and make sure you're not late to market, should you start thinking about your company in terms of "solutions to problems":http://www.defmacro.org/2013/09/26/products.html.
 
 h2. Competition
 
@@ -51,10 +51,6 @@ Sometimes your unique background can make you aware of changes that other people
 You might also be in a position to exploit changes because of specific advantages that are unique to you. Some changes can be exploited by just about anyone; other changes might require deep technical knowledge or a huge amount of effort that most entrepreneurs aren't willing to put in. Self-driving cars might be an example of this: everyone was talking about how they were just on the edge of possible for years, but only Google managed to put together the expertise, capital, and determination to get to the last mile.
 
 There are other ways to get an edge. For example, if you have the resources of a large company at your disposal, you might be late to market and still win over your competitors by having a larger marketing budget or existing distribution infrastructure. But this is rare in a startup world. Startups usually don't win because of superior resources -- they win because they recognize a trend and ship a viable product first.
-
-h2. Buyer's journey
-
-Once you identify an enviromental change and make sure you're not late to market, you should start thinking about your company in terms of "solutions to problems":http://www.defmacro.org/2013/09/26/products.html.
 
 h2. Story
 
