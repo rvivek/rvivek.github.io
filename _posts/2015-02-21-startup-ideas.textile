@@ -26,9 +26,17 @@ Paradoxically, the solution is to stop thinking of startup ideas in terms of sol
 
 Much like the biophysical environment, the economic environment isn't static. Political environments change and nation-states adopt more liberal laws. People in developing countries get richer. Small quantitative advances in technology adoption cross a threshold of critical mass and turn into qualitative changes.
 
-Most changes in the environment unlock startup opportunities. And since technology companies are often winner-takes-all, recognizing an environmental change first and getting to market with a viable solution dramatically increases the probability of long-term market dominance.
+Changes in the environment unlock startup opportunities. And since technology companies are often winner-takes-all, recognizing an environmental change first and getting to market with a viable solution dramatically increases the probability of long-term market dominance.
 
 In the early stages ask yourself -- how is the world changing and what can I do about it? Only once you identify an enviromental change, should you start thinking about your company in terms of "solutions to problems":http://www.defmacro.org/2013/09/26/products.html.
+
+h2. Timing
+
+Foo
+
+h2. Buyer's journey
+
+Foo
 
 h2. Story
 
@@ -38,7 +46,7 @@ In the initial stages of a startup you have to talk to a lot of people -- potent
 
 A great story is the first prerequisite to building a startup, and all stories are about change. The knights of the round table were hanging out in King Arthur's castle. One day a monster appeared. Because of that the knights went out to fight the monster. They overcame many challenges, until finally they defeated the monster and transformed the King's castle to deal with appearance of monsters more swiftly.
 
-Human beings are biologically wired to respond to storytelling, and all stories have the same fundamental structure. Here is the simplest possible framework to tell a story, from Pixar's rules of storytelling:
+Human beings are wired to respond to storytelling, and all stories have the same fundamental structure. Here is the simplest possible framework to tell a story, from Pixar's rules of storytelling:
 
 bq. Once upon a time there was ___. Every day, ___. One day ___. Because of that, ___. Because of that, ___. Until finally ___.
 
@@ -54,6 +62,12 @@ This type of story telling is incredibly effective at propeling your startup. Ea
 
 A good story gives you tremendous descriptive power to explain what you do to different parties in a consistent way. But even more importantly a good story is prescriptive -- it informs decisions and forces you to make disciplined choices. If you're about to make a decision that doesn't fit your story, you have to explicitly choose whether to reevaluate the decision or to refine your story. Early stage startups get pulled in a thousand different directions. They're much more likely to get killed by compromises than by committing to a wrong path. A good story keeps you honest, prevents you from trying to please everybody, and gives you the mental clarity to follow through on a concrete direction.
 
+h2. Exceptions
+
+What I said here isn't gospel. The notions that innovation markets are efficient and that first movers are usually impossible to displace are controversial. Many opportunities remain undiscovered for years and many deeply technical problems remain open for decades until finally someone abruptly snaps them up. Sometimes hypergrowth companies make critical mistakes and effectively commit suicide. But in my experience these cases are the exception rather than the rule.
+
+If you're convinced you found an exception, be careful! Most startups fail at inception and take years to find out because the founders didn't understand efficient markets and first mover advantage. So think about this model deeply, and understand it first. Exceptions do exist, but if that's the path you choose to follow, be very sure you have a deep understanding of what you're doing. You need to have an intimate understanding of the rules of the game before you can start exploiting them and inventing your own.
+
 h2. Self-deception
 
 One caveat to thinking of startup ideas in terms of environmental changes is that it's so effective that it's easy to deceive yourself with early success. Smart and sufficiently determined entrepreneurs can find evidence for environmental changes to support almost any startup idea. If you're committed to building a food delivery service, you can always invent a hypothesis, weave a narrative about your product around it, find credible supporting data, and polish your pitch until a large number of people believe it. Unfortunately you will have created very compelling fiction.
@@ -65,6 +79,8 @@ It's relatively easy to attract a surprising amount of capital, talent, and pres
 So it isn't just important for the story to be compelling. It's also extremely important for the story to be right.
 
 Evaluating the correctness of a story is an extremely challeging art that lies at the intersection of many disciplines -- economics, science fiction, history, anthropology, and sociology. You'll need to think deeply about the world and invest years of concerted effort into building a good intuition for thinking about the future. Even then you'll be right only a fraction of the time. But you can still get much better than random chance.
+
+h2. Intuition
 
 Here are some resources I've used to hone my intuition:
 
@@ -83,13 +99,5 @@ Study history. Don't just learn dates and names, but ask deep questions. Why did
 
 Get a rudimentary understanding of anthropology and ethnography. Understand "emic and etic":http://en.wikipedia.org/wiki/Emic_and_etic approaches to cultural evaluation and learn to think deeply of cultural change.
 
-Thinking deeply about the world is a life-long process. Once you cover the basics, you'll start branching out on your own. Look carefully, and you'll find lessons in the most surprising places.
-
-h2. Exceptions
-
-What I said here isn't gospel. The notions that innovation markets are efficient and that first movers are usually impossible to displace are controversial. Many opportunities remain undiscovered for years and many deeply technical problems remain open for decades until finally someone abruptly snaps them up. Sometimes hypergrowth companies make critical mistakes and effectively commit suicide. But in my experience these cases are the exception rather than the rule.
-
-If you're convinced you found an exception, be careful! Most startups fail at inception and take years to find out because the founders didn't understand efficient markets and first mover advantage. So think about this model deeply, and understand it first. Exceptions do exist, but if that's the path you choose to follow, be very sure you have a deep understanding of what you're doing. You need to have an intimate understanding of the rules of the game before you can start exploiting them and inventing your own.
-
-As you think deeply about the world, start acting. The best way to get an intuition for how to make good decisions is to make actual decisions and observe results, so don't get wrapped up in the analysis paralysis for too long. Start a company, and start learning from your own mistakes.
+Once you cover the basics, you'll start branching out on your own. Look carefully, and you'll find lessons in the most surprising places. As you think deeply about the world, start acting. The best way to get an intuition for how to make good decisions is to make actual decisions and observe results, so don't get wrapped up in the analysis paralysis for too long. Start a company, and start learning from your own mistakes.
 
