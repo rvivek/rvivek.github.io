@@ -40,7 +40,7 @@ When you're second to market with a viable product, your customers will compare 
 
 First mover advantage is exacerbated by the fact that technology companies enjoy compounded growth. Building organizations takes time. Incorporating, fundraising, recruiting, and shipping and marketing a product can easily add up to many months of work. If you're second to market, your competitor will have been scaling their user acquisition machine while you're still scrambling to ship your product. They'll acquire resources at an exponential rate that allow them to reach even more customers before you do, and you'll be stuck trying to explain to users how your product is different from theirs. Most of the time, that means the death of your company.
 
-h2. Timing
+h2. Advantage
 
 So you need to get to market with a viable product before anyone else does. Emprically, you can't do that by outexecuting existing companies. Even in the unlikely event that most of your competitors are incompetent, just one capable competitor will dramatically reduce your chances of success. You need to find a trend before others do, and get started while the market is wide open.
 
