@@ -28,7 +28,7 @@ Much like the biophysical environment, the economic environment isn't static. Po
 
 Changes in the environment unlock startup opportunities. And since technology companies are often winner-takes-all, recognizing an environmental change first and getting to market with a viable solution dramatically increases the probability of long-term market dominance.
 
-In the early stages ask yourself -- how is the world changing and what can I do about it? Only once you identify an enviromental change, should you start thinking about your company in terms of "solutions to problems":http://www.defmacro.org/2013/09/26/products.html.
+In the early stages ask yourself -- how is the world changing and what can I do about it?
 
 h2. Timing
 
@@ -36,7 +36,7 @@ Foo
 
 h2. Buyer's journey
 
-Foo
+Once you identify an enviromental change and make sure you're not late to market, you should start thinking about your company in terms of "solutions to problems":http://www.defmacro.org/2013/09/26/products.html.
 
 h2. Story
 
