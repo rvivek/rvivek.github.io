@@ -121,3 +121,5 @@ Get a rudimentary understanding of anthropology and ethnography. Understand "emi
 
 Cover the basics, and start branching out on your own. Look carefully, and you'll find lessons in the most surprising places. As you think deeply about the world, start acting. The best way to get an intuition for how to make good decisions is to make actual decisions and observe results, so don't get wrapped up in analysis paralysis. Start a company, and start learning from your own mistakes.
 
+<br />
+__Thanks to Michael Lucy for reviewing and contributing to this post.__
