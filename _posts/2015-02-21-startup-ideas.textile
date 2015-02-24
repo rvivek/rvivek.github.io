@@ -12,11 +12,11 @@ One of the most important things I learned from running a startup is that on a m
 
 In this sense startups are similar to biological life. Wherever the conditions are hospitable, life already exists. The difference is that startups live in an economic rather than a biophysical environment.
 
-This has massive implications on picking startup ideas because technology companies tend to be winner-takes-all. The first technology company to solve a problem is often worth much more than all of its competitors combined. So if a company already exists in a market, it's overwhelmingly likely that it's impossible to displace.
+This has massive implications for picking startup ideas because technology companies tend to be winner-takes-all. The first technology company to solve a problem is often worth much more than all of its competitors combined. So if a company already exists in a market, it's overwhelmingly likely you won't be able to displace it.
 
 Conventional wisdom states that startup founders should work on problems they or people they know have, but as a filter for startup ideas this model is far too permissive. Market efficiency implies that if a problem is valuable and solvable, it's overwhelmingly likely that it already would have been solved. Conversely, if it isn't solved, there must be structural reasons for why solving it isn't possible.
 
-Encouraging founders to work on problems is a winning strategy for investors because the law of large numbers is on their side. It's ok for most startups in their portfolio to be overwhelmingly unlikely to succeed. So long as the portfolio is large enough for one or two winner-takes-all companies to succeed in large markets, an investment fund will bring good returns.
+Encouraging founders to work on these sorts of problems is a winning strategy for investors because the law of large numbers is on their side. It's OK for most startups in their portfolio to be overwhelmingly unlikely to succeed. So long as the portfolio is large enough for one or two winner-takes-all companies to succeed in large markets, a fund will have good returns.
 
 However, this is a terrible strategy for founders, because the law of large numbers isn't on their side. A startup founder doesn't get enough shots to get a good expected value if they simply look for valuable problems. So a winning founder strategy must include a much tighter filter for startup ideas.
 
@@ -24,7 +24,7 @@ If you can't displace an existing technology company, and it's overwhelmingly pr
 
 Paradoxically, the solution is to stop thinking of startup ideas in terms of solving problems in the early stages of startup germination, and instead start thinking in terms of changes in the economic environment and the opportunities these changes unlock.
 
-Much like the biophysical environment, the economic environment isn't static. Society's moral compass changes over time. Political environments adapt to social norms and nation-states adopt more liberal laws. People in developing countries get richer. Small quantitative advances in technology adoption cross a threshold of critical mass and turn into qualitative changes.
+Much like the biological environment, the economic environment isn't static. Society's moral compass changes over time. Political environments adapt to social norms and nation-states adopt more liberal laws. People in developing countries get richer. Small quantitative advances in technology adoption cross a threshold of critical mass and turn into qualitative changes.
 
 Changes in the environment unlock startup opportunities. And since technology companies are often winner-takes-all, recognizing an environmental change first and getting to market with a viable solution dramatically increases the probability of long-term market dominance.
 
@@ -50,7 +50,7 @@ Sometimes your unique background can make you aware of changes that other people
 
 You might also be in a position to exploit changes because of specific advantages that are unique to you. Some changes can be exploited by just about anyone; other changes might require deep technical knowledge or a huge amount of effort that most entrepreneurs aren't willing to put in. Self-driving cars might be an example of this: everyone was talking about how they were just on the edge of possible for years, but only Google managed to put together the expertise, capital, and determination to get to the last mile.
 
-There are other ways to get an edge. For example, if you have the resources of a large company at your disposal, you might be late to market and still win over your competitors by having a larger marketing budget or an existing distribution infrastructure. But this is rare in a startup world. Startups usually don't win because of superior resources -- they win because they recognize a trend and ship a viable product before others do.
+There are other ways to get an edge. For example, if you have the resources of a large company at your disposal, you might be late to market and still win over your competitors by having a larger marketing budget or existing distribution infrastructure. But this is rare in a startup world. Startups usually don't win because of superior resources -- they win because they recognize a trend and ship a viable product first.
 
 h2. Buyer's journey
 
@@ -61,8 +61,6 @@ h2. Story
 Thinking about your startup in terms of changes in the world doesn't just make your startup dramatically more likely to succeed because it's a better model for technology innovation. This approach has surprising secondary benefits.
 
 In the initial stages of a startup you have to talk to a lot of people -- potential users, advisors, investors, industry experts, early employees, and eventually journalists. The first question people ask is "what does your startup do?" So communicating what you do is the first tactical problem you have to solve.
-
-A great story is the first prerequisite to building a startup, and all stories are about change. The knights of the round table were hanging out in King Arthur's castle. One day a monster appeared. Because of that the knights went out to fight the monster. They overcame many challenges, until finally they defeated the monster and transformed the King's castle to deal with appearance of monsters more swiftly.
 
 Human beings are wired to respond to storytelling, and all stories have the same fundamental structure. Here is the simplest possible framework to tell a story, from Pixar's rules of storytelling:
 
@@ -76,9 +74,9 @@ The last part shows how your company will transform people's lives. When your st
 
 This is how the best companies tell their stories. People buy cars driven by internal combustion engines. But battery technology has gotten cheap enough that we can build a pure electric vehicle. It's still fairly expensive, so we'll start with luxury vehicles. As battery technology gets even cheaper, we'll go down market. Until finally, we'll transform the auto industry so that every car will be an electric car.
 
-This type of story telling is incredibly effective at propeling your startup. Early adopters, employees and advisors will be more likely to sign on because you're inviting them on a journey. Investors will be more likely to respond because this matches their model of the world. And journalists will cover you because you're essentially doing their job for them.
+This type of story telling is incredibly effective at propelling your startup. Early adopters, employees and advisors will be more likely to sign on because you're inviting them on a journey. Investors will be more likely to respond because this matches their model of the world. And journalists will cover you because you're essentially doing their job for them.
 
-A good story gives you tremendous descriptive power to explain what you do to different parties in a consistent way. But even more importantly a good story is prescriptive -- it informs decisions and forces you to make disciplined choices. If you're about to make a decision that doesn't fit your story, you have to explicitly choose whether to reevaluate the decision or to refine your story. Early stage startups get pulled in a thousand different directions. They're much more likely to get killed by compromises than by committing to a wrong path. A good story keeps you honest, prevents you from trying to please everybody, and gives you the mental clarity to follow through on a concrete direction.
+A good story gives you tremendous descriptive power to explain what you do to different parties in a consistent way. But even more importantly a good story is prescriptive -- it informs decisions and forces you to make disciplined choices. If you're about to make a decision that doesn't fit your story, you have to explicitly choose whether to reevaluate the decision or to refine your story. Early stage startups get pulled in a thousand different directions. They're much more likely to get killed by compromises than by committing to a wrong path. A good story keeps you honest, prevents you from trying to please everybody, and gives you the mental clarity to go in a concrete direction.
 
 h2. Exceptions
 
@@ -88,15 +86,15 @@ Beats Headphones broke every rule in this article and still succeeded because fa
 
 In the startup world these cases are the exception rather than the rule. Most founders can't swing a partnership with a successful hiphop artist and can't execute a billion dollar market campaign on the cheap (but think they can). Startups tend to feel exceptional because you're going off the beaten path, but within the startup world you're less exceptional than you think.
 
-If you're convinced you found an exception, be careful! Most startups fail at inception and take years to find out because the founders didn't understand efficient markets and first mover advantage. So think about this model deeply, and understand it first. Exceptions do exist, but if that's the path you choose to follow, be very sure you have a deep understanding of what you're doing. You need to have an intimate understanding of the rules of the game before you can start exploiting them and inventing your own.
+If you're convinced you've found an exception, be careful. Most startups fail at inception and take years to find out because the founders didn't understand efficient markets and first mover advantage. So think about this model deeply, and understand it first. Exceptions do exist, but make sure you have a deep understanding of what you're doing. You need to learn the rules before you can invent your own.
 
 h2. Self-deception
 
 One caveat to thinking of startup ideas in terms of environmental changes is that it's so effective that it's easy to deceive yourself with early success. Smart and sufficiently determined entrepreneurs can find evidence for environmental changes to support almost any startup idea. If you're committed to building a food delivery service, you can always invent a hypothesis, weave a narrative about your product around it, find credible supporting data, and polish your pitch until a large number of people believe it. Unfortunately you will have created very compelling fiction.
 
-This isn't unlike the process of undermining scientific method by believing in your hypothesis so strongly that you start to unconsciously reject discouraging evidence. Confirmation bias is deadly in science, and it's equally deadly in business.
+This isn't unlike the process of undermining the scientific method by believing in your hypothesis so strongly that you start to unconsciously reject discouraging evidence. Confirmation bias is deadly in science, and it's equally deadly in business.
 
-It's relatively easy to attract a surprising amount of capital, talent, and press interest to your company this way, which makes the technique extremely dangerous. I've met people who burned through millions of dollars of other people's money and wasted hundreds of man-years on projects because they've inadvertently created very compelling fictions and were sufficiently taken by early success to believe in their own fiction themselves.
+It's relatively easy to attract a surprising amount of capital, talent, and press interest to your company this way, which makes the technique extremely dangerous. I've met people who burned through millions of dollars of other people's money and wasted hundreds of man-years on projects because they'd inadvertently created very compelling fictions and were sufficiently taken by early success to believe in their own fiction themselves.
 
 So it isn't just important for the story to be compelling. It's also extremely important for the story to be right.
 
@@ -104,16 +102,16 @@ Evaluating the correctness of a story is an extremely challeging art that lies a
 
 h2. Intuition
 
-Here are some resources I've used to hone my intuition:
+Here are some things I've read that have helped my think about the future. I use them to learn how to put together stories, and to hone my intuition on how likely these stories are to be correct:
 
 * Read "The Economist":http://www.economist.com for a few months to get on the same page with conventional wisdom. The Economist writers are very good at thinking about the future (but keep in mind that they have no strong pressure to be correct).
 * Read Peter Theil's book "Zero to One":http://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296. Most business books are terrible, but this one is the exception.
-* Read "Harry Potter and the Methods of Rationality":http://hpmor.com. It will introduce you to the basic principles of microeconomics and will serve as excellent primer for constructing a fictional world that operates in accordance with real economic principles. It will teach you how to think critically of your own fiction.
-* Similarly, browse the "TV Tropes wiki":http://tvtropes.org/pmwiki/pmwiki.php/Main/HomePage from time to time to help you deconstruct your own fiction.
-* Read William Gibson's essays in "Distrust That Particular Flavor":http://www.amazon.com/Distrust-Particular-Flavor-William-Gibson/dp/042525299X. It will help you think deeply about technological innovation in the real world.
+* Read "Harry Potter and the Methods of Rationality":http://hpmor.com. What Harry spends the first eleven chapters doing is exactly what you want to be teaching yourself. "The rules are different, there is magic in the world. What happens now? Can I get rich from galleon/sickle arbitrage?"
+* Similarly, I browse the "TV Tropes wiki":http://tvtropes.org/pmwiki/pmwiki.php/Main/HomePage from time to time to help me deconstruct my own fiction.
+* Read William Gibson's essays in "Distrust That Particular Flavor":http://www.amazon.com/Distrust-Particular-Flavor-William-Gibson/dp/042525299X. It helped me think deeply about technological innovation in the real world.
 * Read "Five Things We Need to Know About Technological Change":http://web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf by Neil Postman. He's bearish on technological innovation, but still has a uniquely useful way of thinking about how technology propagates.
 
-Once you get through these resources, start going deeper.
+Once you get through these links, start going deeper.
 
 Learn as much as you can about microeconomics to get a better model for how the world works. Not just the basics of supply and demand, but more advanced topics like complementary and substitute goods, elasticity, marginal utility, etc.
 
@@ -121,5 +119,5 @@ Study history. Don't just learn dates and names, but ask deep questions. Why did
 
 Get a rudimentary understanding of anthropology and ethnography. Understand "emic and etic":http://en.wikipedia.org/wiki/Emic_and_etic approaches to cultural evaluation and learn to think deeply of cultural change.
 
-Once you cover the basics, you'll start branching out on your own. Look carefully, and you'll find lessons in the most surprising places. As you think deeply about the world, start acting. The best way to get an intuition for how to make good decisions is to make actual decisions and observe results, so don't get wrapped up in analysis paralysis. Start a company, and start learning from your own mistakes.
+Cover the basics, and start branching out on your own. Look carefully, and you'll find lessons in the most surprising places. As you think deeply about the world, start acting. The best way to get an intuition for how to make good decisions is to make actual decisions and observe results, so don't get wrapped up in analysis paralysis. Start a company, and start learning from your own mistakes.
 
