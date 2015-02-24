@@ -46,7 +46,7 @@ You can learn about changes early because of your job or hobbies. For example, s
 
 Sometimes your unique background can make you aware of changes that other people can't see. If you have a plausible story about why most of the population is blind to something, that's a reasonable edge. For example, maybe you think that people who haven't lived in the third world don't understand how important remittances are, or that the third world is just now getting sufficiently networked that you can do them digitally.
 
-You might also be in a position to uniquely exploit changes because of specific advantages others that are unique to you. Some changes can be exploited by just about anyone; other changes might require deep technical knowledge or a huge amount of effort that most entrepreneurs aren't willing to put in. Self-driving cars might be an example of this: everyone was talking about how they were just on the edge of possible for years, but only Google managed to put together the expertise, capital, and determination to get to the last mile.
+You might also be in a position to uniquely exploit changes because of specific advantages that are unique to you. Some changes can be exploited by just about anyone; other changes might require deep technical knowledge or a huge amount of effort that most entrepreneurs aren't willing to put in. Self-driving cars might be an example of this: everyone was talking about how they were just on the edge of possible for years, but only Google managed to put together the expertise, capital, and determination to get to the last mile.
 
 h2. Buyer's journey
 
