@@ -28,7 +28,7 @@ Much like the biological environment, the economic environment isn't static. Soc
 
 Changes in the environment unlock startup opportunities. And since technology companies are often winner-takes-all, recognizing an environmental change first and getting to market with a viable solution dramatically increases the probability of long-term market dominance.
 
-In the early stages ask yourself -- how is the world changing and what can I do about it? Only once you identify an enviromental change and make sure you're not late to market, should you start thinking about your company in terms of "solutions to problems":http://www.defmacro.org/2013/09/26/products.html.
+In the early stages ask yourself -- how is the world changing and what can I do about it? Only once you identify an environmental change and make sure you're not late to market, should you start thinking about your company in terms of "solutions to problems":http://www.defmacro.org/2013/09/26/products.html.
 
 h2. Competition
 
@@ -42,11 +42,11 @@ First mover advantage is exacerbated by the fact that technology companies enjoy
 
 h2. Advantage
 
-So you need to get to market with a viable product before anyone else does. Emprically, you can't do that by outexecuting existing companies. Even in the unlikely event that most of your competitors are incompetent, just one capable competitor will dramatically reduce your chances of success. You need to find a trend before others do, and get started while the market is wide open.
+So you need to get to market with a viable product before anyone else does. Empirically, you can't do that by out-executing existing companies. Even in the unlikely event that most of your competitors are incompetent, just one capable competitor will dramatically reduce your chances of success. You need to find a trend before others do, and get started while the market is wide open.
 
 There are no formulas to learning about changes early, but you can put yourself in a position to get unique insight. For example, you can learn about changes early because of your job or hobbies. Speech recognition researchers probably knew that speech recognition was getting "good enough" a few years before I did, because I only learned about it when working speech recognition products started hitting the market.
 
-Sometimes your unique background can make you aware of changes that other people can't see. If you have a plausible story about why most of the population is blind to something, that's a reasonable edge. For example, maybe you think that people who haven't lived in the third world don't understand how important remittances are, or that the third world is just now getting sufficiently networked that you can do them digitally.
+Sometimes your unique background can make you aware of changes that other people can't see. A plausible story about why most of the population is blind to something, that's a reasonable edge. For example, maybe you think that people who haven't lived in the third world don't understand how important remittances are, or that the third world is just now getting sufficiently networked that you can do them digitally.
 
 You might also be in a position to exploit changes because of specific advantages that are unique to you. Some changes can be exploited by just about anyone; other changes might require deep technical knowledge or a huge amount of effort that most entrepreneurs aren't willing to put in. Self-driving cars might be an example of this: everyone was talking about how they were just on the edge of possible for years, but only Google managed to put together the expertise, capital, and determination to get to the last mile.
 
@@ -78,9 +78,9 @@ h2. Exceptions
 
 The notions that innovation markets are efficient and that first movers are overwhelmingly difficult to displace are controversial because it's easy to think of counterexamples.
 
-Beats Headphones broke every rule in this article and still succeeded because fashion companies are inherently fickle and unstable. Microsoft Surface shipped a poorly differentiated product and succeeded in a fairly mature market because of a huge marketing budget. Many opportunities remain undiscovered for years and many deeply technical problems remain open for decades until finally someone abruptly snaps them up. Even seemingly unstoppable hypergrowth companies make critical mistakes and effectively commit suicide.
+Beats Headphones broke every rule in this article and still succeeded because fashion companies are inherently fickle and unstable. Microsoft Surface shipped a poorly differentiated product and succeeded in a fairly mature market because of a huge marketing budget. Many opportunities remain undiscovered for years and many deeply technical problems remain open for decades until finally someone abruptly snaps them up. Even seemingly unstoppable hyper-growth companies make critical mistakes and effectively commit suicide.
 
-In the startup world these cases are the exception rather than the rule. Most founders can't swing a partnership with a successful hiphop artist and can't execute a billion dollar market campaign on the cheap (but think they can). Startups tend to feel exceptional because you're going off the beaten path, but within the startup world you're less exceptional than you think.
+In the startup world these cases are the exception rather than the rule. Most founders can't swing a partnership with a successful hip-hop artist and can't execute a billion dollar market campaign on the cheap (but think they can). Startups tend to feel exceptional because you're going off the beaten path, but within the startup world you're less exceptional than you think.
 
 If you're convinced you've found an exception, be careful. Most startups fail at inception and take years to find out because the founders didn't understand efficient markets and first mover advantage. So think about this model deeply, and understand it first. Exceptions do exist, but make sure you have a deep understanding of what you're doing. You need to learn the rules before you can invent your own.
 
@@ -94,14 +94,14 @@ It's relatively easy to attract a surprising amount of capital, talent, and pres
 
 So it isn't just important for the story to be compelling. It's also extremely important for the story to be right.
 
-Evaluating the correctness of a story is an extremely challeging art that lies at the intersection of many disciplines -- economics, science fiction, history, anthropology, and sociology. You'll need to think deeply about the world and invest years of concerted effort into building a good intuition for thinking about the future. Even then you'll be right only a fraction of the time. But you can still get much better than random chance.
+Evaluating the correctness of a story is an extremely challenging art that lies at the intersection of many disciplines -- economics, science fiction, history, anthropology, and sociology. You'll need to think deeply about the world and invest years of concerted effort into building a good intuition for thinking about the future. Even then you'll be right only a fraction of the time. But you can still get much better than random chance.
 
 h2. Intuition
 
 Here are some things I've read that have helped my think about the future. I use them to learn how to put together stories, and to hone my intuition on how likely these stories are to be correct:
 
 * Reading "The Economist":http://www.economist.com for a few months is a great way to get on the same page with conventional wisdom. The Economist writers are very good at thinking about the future (but keep in mind that they have no strong pressure to be correct).
-* Peter Theil's book "Zero to One":http://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296 is excellent. Most business books are terrible, but this one is the exception.
+* Peter Thiel's book "Zero to One":http://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296 is excellent. Most business books are terrible, but this one is the exception.
 * Reading "Harry Potter and the Methods of Rationality":http://hpmor.com is very instructive. What Harry spends the first eleven chapters doing is exactly what you want to be teaching yourself. "The rules are different, there is magic in the world. What happens now? Can I get rich from galleon/sickle arbitrage?"
 * Similarly, I browse the "TV Tropes wiki":http://tvtropes.org/pmwiki/pmwiki.php/Main/HomePage from time to time to help me deconstruct my own fiction.
 * William Gibson's essays in "Distrust That Particular Flavor":http://www.amazon.com/Distrust-Particular-Flavor-William-Gibson/dp/042525299X helped me think deeply about technological innovation in the real world.
