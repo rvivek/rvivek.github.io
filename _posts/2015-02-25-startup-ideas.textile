@@ -54,7 +54,7 @@ There are other ways to get an edge. For example, if you have the resources of a
 
 h2. Story
 
-Thinking about your startup in terms of changes in the world doesn't just make your startup dramatically more likely to succeed because it's a better model for technology innovation. This approach has surprising secondary benefits.
+Thinking about your startup in terms of changes in the world doesn't just make your startup dramatically more likely to succeed because it's a better model for technology innovation. It has other surprising benefits.
 
 In the initial stages of a startup you have to talk to a lot of people -- potential users, advisors, investors, industry experts, early employees, and eventually journalists. The first question people ask is "what does your startup do?" So communicating what you do is the first tactical problem you have to solve.
 
