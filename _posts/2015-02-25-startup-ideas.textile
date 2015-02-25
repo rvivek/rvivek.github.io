@@ -1,7 +1,6 @@
 ---
 layout: post
 title: How to pick startup ideas
-wip: true
 ---
 
 h1. {{ page.title }}
