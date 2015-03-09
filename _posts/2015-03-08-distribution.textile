@@ -1,12 +1,12 @@
 ---
 layout: post
-title: How to pick startup ideas
+title: Distribution
 wip: true
 ---
 
 h1. {{ page.title }}
 
-p(meta). 02 Sep 2013
+p(meta). 08 Mar 2015
 
 A startup is a living proof by induction. The base case is a product that a small subset of target customers love. The inductive step is superlinear distribution. You put some amount of dollars in, and get an asymptotically larger amount of users (and dollars) out. The medium to support superlinear distribution is a large, fertile market.
 
