@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Work life balance 
+title: Hello World
 ---
 
 h1. {{ page.title }}
 
-p(meta). 23 Aug 2015
+p(meta). 25 Feb 2015
 
-The topic of work-life balance is a sensitive one, especially in startups. 
+This is an attempt in jekyll
 
 <br />
