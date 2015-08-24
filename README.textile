@@ -1,6 +1,5 @@
 h1. This is the data for my blog
 
 Everything is MIT licensed, do with it as you please. This project was
-shamelessly forked from mojombo.github.com. I wanted a quick way to
-publish my thoughts with very little effort, a minimalist design, and
-readable typography, and mojombo.github.com does exactly that.
+shamelessly forked from coffeemug.github.com who forked from mojombo.github.com. 
+I just wanted an easy to write down my thoughts as I build the company
