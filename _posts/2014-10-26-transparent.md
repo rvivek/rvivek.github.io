@@ -1,12 +1,14 @@
 ---
-title: transparent
+title: Transparent
 author: rvivek
 layout: post
 permalink: /transparent/
 categories:
   - startups
 ---
-a big part of the reason why a founder takes a decision in a particular way is the access to different pieces of information she has. this can range from financials to impact on other orgs, people, other feature requests in queue, how doing X be perceived by users, etc.
+# H1 {{ page.title }}
+
+A big part of the reason why a founder takes a decision in a particular way is the access to different pieces of information she has. this can range from financials to impact on other orgs, people, other feature requests in queue, how doing X be perceived by users, etc.
 
 if you&#8217;d like everyone in the company to take the same decision that you&#8217;d have taken (if you were in that situation), then it&#8217;s only logical that you should provide the same set of information to everyone.
 
