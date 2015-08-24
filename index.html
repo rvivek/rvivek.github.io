@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Slava Akhmechet
+title: Vivek Ravisankar 
 ---
 
 <div id="home">
-  <h1>Building A Company</h1>
+  <h1>Startups</h1>
   <ul class="posts">
     {% for post in site.posts %}
       {% unless post.wip %}
@@ -13,21 +13,5 @@ title: Slava Akhmechet
       {% endunless %}
       {% endunless %}
     {% endfor %}
-  </ul>
-  <h1>Other thoughts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      {% unless post.wip %}
-      {% if post.other %}
-        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endif %}
-      {% endunless %}
-    {% endfor %}
-  </ul>
-  <h1>Older Posts</h1>
-  <p>I wrote these a long time ago. I was much more naive then about the craft of software engineering, so proceed with caution.</p>
-  <ul class="posts">
-    <li><span>19 Jun 2006</span> &raquo; <a href="/ramblings/fp.html">Functional Programming For The Rest of Us</a></li>
-    <li><span>08 May 2006</span> &raquo; <a href="/ramblings/lisp.html">The Nature of Lisp</a></li>
   </ul>
 </div>
