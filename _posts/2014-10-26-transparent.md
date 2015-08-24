@@ -6,7 +6,7 @@ permalink: /transparent/
 categories:
   - startups
 ---
-# H1 {{ page.title }}
+# {{ page.title }}
 
 A big part of the reason why a founder takes a decision in a particular way is the access to different pieces of information she has. this can range from financials to impact on other orgs, people, other feature requests in queue, how doing X be perceived by users, etc.
 
