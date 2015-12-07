@@ -7,7 +7,7 @@ title: Competitive programming & business
 
 06 Dec 2015
 
-Programming contests usually follow a format where you are given a set of interesting problems and a fixed time to solve. I used to participate a lot in programming contests & some of the things have helped me in running HackerRank
+Programming contests usually follow a format where you are given a set of interesting problems and a fixed time to solve. I used to participate a lot in programming contests & some of the things have helped me in running HackerRank.
 
 1. Sub problems  
 The problem statement in a programming contest is usually daunting, but the first thing you do is to split into smaller problems. Once you identify the right sub-problems, you try to solve each of them and then merge. It’s very similar to any problem you encounter in a startup. The actual problem (how to grow MAU or achieve quarterly revenue numbers, etc.) looks scary but split them into sub-problems & identify how to solve each of them. Solve by first principles. 
