@@ -10,7 +10,7 @@ title: Competitive programming & business
 Programming contests usually follow a format where you are given a set of interesting problems and a fixed time to solve. I used to participate a lot in programming contests & some of the things have helped me in running HackerRank
 
 1. Sub problems  
-The problem statement in a programming contest is usually daunting, but the first thing you do is to split into smaller problems. Once you identify the right sub-problems, you try to solve each of them and then merge. It’s very similar to any problem you encounter in a startup. The actual problem (how to grow the MAU or hit our quarterly revenue numbers, etc.) looks scary but split them into sub-problems & identify how to solve each of them. Solving by first principles. 
+The problem statement in a programming contest is usually daunting, but the first thing you do is to split into smaller problems. Once you identify the right sub-problems, you try to solve each of them and then merge. It’s very similar to any problem you encounter in a startup. The actual problem (how to grow MAU or achieve quarterly revenue numbers, etc.) looks scary but split them into sub-problems & identify how to solve each of them. Solving by first principles. 
 
 2. Patterns   
 As you continue to solve more problems, you notice a pattern on how to solve a certain type of problem. This helps you to solve faster. As you build the company, you can see patterns emerge, both good & bad which you can detect early and act fast. For eg: when I am trying to hire someone, it’s now easy to figure out if they are going to join us or not and act accordingly. 
