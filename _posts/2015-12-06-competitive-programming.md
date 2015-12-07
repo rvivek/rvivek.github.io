@@ -21,10 +21,10 @@ Once you identify the sub-problems & know how to merge, the first thing you do i
 4. Edge cases   
 Before you submit a solution, you look for all edge cases. What are the possible ways this solution can break? Can it fail in a special corner test case or a larger one? I can never forget this code snippet
 ```
-vector<int> V;  
-for (int i = 0;i < V.size()-1;i++){  
-	// do something  
-}
+vector<int> V;	    
+for (int i = 0;i < V.size()-1;i++){	    
+	// do something		
+}		  
 ```A small bug in the code above cost me $1000, which was a big deal in college. _V.size()_ returns an unsigned integer and when the vector is empty, V.size()-1 results in 2^32-1 causing the for loop to time out. In a startup, when you are working on a business plan or a GTM strategy, you work on figuring out all reasons why something can fail. You constantly search for those “edge” case scenarios so that you don’t miss any blind spot.
 
 5. Speed  
