@@ -33,6 +33,6 @@ Speed is the essence in competitive programming. If you are slow, you are out of
 6. Competitive   
 And of course, you are very competitive. Not only do you work hard to get better but you also try to find flaws in the other players’ code to move up the leaderboard. While this may sound “ruthless”, it’s essential in the world of business where the winner is 100x bigger than the next player in the category. 
 
-There’s a sentiment that competitive programming is just for junior programmers or those who are in college. Competitive programming sharpens your business acumen which is an invaluable trait if you are a hacker, sometimes more valuable than another hacker with a better technical skill. Competitive programming is more than just solving quick challenges. It rewires your brain to a powerful businessman. 
+There’s a sentiment that competitive programming is just for junior programmers or those who are in college. Competitive programming sharpens your business acumen which is an invaluable trait if you are a hacker, sometimes more valuable than another hacker with a slightly better technical skill. Competitive programming is more than just solving quick challenges. It rewires your brain to a powerful businessman. 
  
 
