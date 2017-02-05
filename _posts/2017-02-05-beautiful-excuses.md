@@ -22,7 +22,8 @@ account the extra buffer and so on..
 
 Failure is okay & there's no way around it. But when polished with a beautiful
 excuse, it stunts growth. The next time you give a beautiful excuse, remember
-you're not growing. And a lack of growth is bad. 
+you're not growing. And a lack of growth is bad. Conversely, identifying the
+right reason from first principles leads to very interesting findings.  
 
 **Notes:**  
 The only caveat to this is if you didn't care about the outcome. For e.g. if
