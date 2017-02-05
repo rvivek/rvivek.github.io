@@ -29,4 +29,4 @@ Quoting Hari (co-founder) who said this yesterday: *“I get scared when I get 
 
 What surprises me is, even though the external environment has changed dramatically,  (we’ve gone from a bootstrapped startup to ramen profitable, now funded by an amazing set of angel investors, moved to the valley) our drive hasn’t – it’s still to make the best recruitment tool and get a lot of paying customers – make the startup rich. Taking home a big pay check is a secondary motive. I’m not dismissing it, it’s important but it’s never been the <a href="http://paulgraham.com/top.html" target="_blank">top thing on our mind</a>.
 
-To sum up, we’ll be happier if we become rich but would be downright upset and somber if the startup doesn’t.
+To sum up, we’ll be happier if we become rich but will be downright upset and somber if the startup doesn’t.
