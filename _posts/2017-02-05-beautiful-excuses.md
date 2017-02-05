@@ -24,6 +24,6 @@ Failure is okay & there's no way around it. But when polished with a beautiful
 excuse, it stunts growth. The next time you give a beautiful excuse, remember
 you're not growing. And a lack of growth is bad. 
 
-**Notes:**
+**Notes:**  
 The only caveat to this is if you didn't care about the outcome. For e.g. if
 you didn't care whether you won the deal or not, it doesn't matter. 
