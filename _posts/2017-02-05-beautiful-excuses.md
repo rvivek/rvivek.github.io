@@ -16,7 +16,7 @@ a lower price. And so on..
 I call these "beautiful excuses". They are well crafted logical excuses, makes
 you feel better & you move on. But 9/10 times, the real reason is different.
 You weren't able to raise money because your metrics weren't great.
-You lost a deal to a competitor on price because you didn't try to sell value.
+You lost a deal to a competitor on price because you didn't sell value.
 The product wasn't shipped on time because the planning didn't take into
 account the extra buffer and so on.. 
 
