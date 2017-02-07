@@ -20,7 +20,7 @@ You lost a deal to a competitor on price because you didn't sell value.
 The product wasn't shipped on time because the planning didn't take into
 account the extra buffer and so on.. 
 
-Failure is okay & there's no way around it. But when polished with a beautiful
+Failure is okay & there's no way around it on the path to success. But when polished with a beautiful
 excuse, it stunts growth. The next time you give a beautiful excuse, remember
 you're not growing. And a lack of growth is bad. Conversely, identifying the
 right reason from first principles leads to very interesting findings.  
