@@ -11,10 +11,10 @@ We all want to hire great people. Hiring is a skill. It involves two parts -- se
 
 How to resist the temptation? Here are 3 questions that have helped me clear my mind: 
 
-[1] Will I be OK if there were 50 people in the company like this candidate?
-[2] Will I be OK reporting to the candidate? 
+[1] Will I be OK if there were 50 people in the company like this candidate?  
+[2] Will I be OK reporting to the candidate?  
 [3] If there was no budget allotted for this role, would I fight to make one
-for this candidate?  
+for this candidate?    
 
 I do #1 & #3 for all candidates. Question #2 is usually reserved for execs. Hiring is a game of increasing the odds of success and this has certainly helped me. As [Robert De Niro](https://www.youtube.com/watch?v=0hnhvWKMqm4) says in the movie Ronin, "Whenever there is any doubt, there is no doubt". 
 
