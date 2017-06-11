@@ -18,6 +18,6 @@ for this candidate?
 
 I do #1 & #3 for all candidates. Question #2 is usually reserved for execs. Hiring is a game of increasing the odds of success and this has certainly helped me. As [Robert De Niro](https://www.youtube.com/watch?v=0hnhvWKMqm4) says in the movie Ronin, "Whenever there is any doubt, there is no doubt". 
 
-**Caveat:**
-There was one candidate who was a maybe and I would have said 'no' to #1 but
-ended up being a great performer. 
+**Caveat:**  
+There was one candidate who was a 'maybe' and I would have said 'no' to #1 but
+ended up being a great performer. In a constant pursuit to master this art.
