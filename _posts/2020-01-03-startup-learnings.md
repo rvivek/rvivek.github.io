@@ -1,0 +1,48 @@
+---
+layout: post
+title: Startup Learnings 
+---
+
+{{ page.title }}
+
+Jan 3, 2020
+
+I wanted to share some of my startup lessons from various people. The format of this post is like a Tarantino movie. It doesn't have one. 
+
+**Starting up**   
+- Right co-founders are way more important than the idea (or start alone.) 
+- The right purpose / passion for the idea is way more important than the idea of starting a company. Your odds of persisting improves. 
+
+**Early product**
+- Make 100 users super happy vs 1000 users moderarly happy - @paultoo
+- Do things that don't scale - @paulg
+
+**Early hires** The following is by far the most underrated but most critical advice
+- The team you build is the company you build - @vkhosla mostly referring to the initial set of hires
+- The first 10 hires determine your next hire, who determine your next wave of people to hire - @patrickc
+- If you are investing a lot of time in finding a co-founder, who is 50% of the company, why not the 1st employee, who is 33% of the company, the 2nd employee, who is 25% of the company & the 8th employee who is 10% of the company? The first 10 hires determine the trajectory of your company - Steve Jobs 
+
+**Post p/m fit**
+- Focus on making your core product great. There will be a lot of distractions. Ignore. Make sure you are world class at what you do and have high NPS. 
+- Running the company: Jeff Bezos has given us all a playbook
+	- Customer obsession: Stay close to customers. It's easy to lose this at scale. 
+	- Think long-term: Commit yourself to running the company for at least a decade. It changes your perspective on a lot of things you want to do. The employees you want to hire, the equity you want to give, the way you work with customers, etc. 
+	- Invent: Beware of the S-curves in your product over time. P/m fit isn't guaranteed forever. 
+- Mature from a founder -> CEO: The following covers 90%+ scenarios you will face in a company - hiring execs, should you micromanage (task relevant maturity), focusing on inputs over outputs, etc. 
+	- All posts on Ben's [blog](https://a16z.com/author/ben-horowitz/)
+	- The score takes care of itself by Bill Walsh
+	- High output management by Andy Grove
+	 
+- Operationalizing the process: 
+	- Read this great google doc 
+
+**Fundraising**
+- Board member > VC fund. Don’t go for glory in valuation or the name of the fund. Pick a board member who you believe will be the most helpful for your company. It’s tough because it’s a chicken & egg problem — you should be a hot founder / company to have the choice to pick but you become hot when you have a strong board member. No great suggestions here. Try to impress & convince. 
+- View every fundraising milestone as risk mitigation. Think of a company like an onion with layers on them as risks to solve. Set expectations on what risks you are going to solve with your board member. Ensure you peel them before you raise the next round — @pmarca 
+- Clean terms over valuation, always.
+
+**Take care of yourself**
+At the end of the day, the biggest challenge you will face is rarely IQ. It’s going to be physical and/or mental fatigue
+- Mental: Pick up mindfulness (highly recommend the Waking up app.) Read Untethered soul, the best book I have read on this. 
+- Physical: Pick up yoga / exercise / running or whatever you like. I do yoga 25 min every day. It's game changing. Set your process to ensure you follow this. 
+
