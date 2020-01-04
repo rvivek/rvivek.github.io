@@ -17,7 +17,7 @@ I wanted to share some of my startup lessons from various people. The format of 
 - Make 100 users super happy vs 1000 users moderarly happy - @paultoo
 - Do things that don't scale - @paulg
 
-**Early hires** The following is by far the most underrated but most critical advice
+**Early hires:** The following is by far the most underrated but most critical advice
 - The team you build is the company you build - @vkhosla mostly referring to the initial set of hires
 - The first 10 hires determine your next hire, who determine your next wave of people to hire - @patrickc
 - If you are investing a lot of time in finding a co-founder, who is 50% of the company, why not the 1st employee, who is 33% of the company, the 2nd employee, who is 25% of the company & the 8th employee who is 10% of the company? The first 10 hires determine the trajectory of your company - Steve Jobs 
@@ -41,8 +41,7 @@ I wanted to share some of my startup lessons from various people. The format of 
 - View every fundraising milestone as risk mitigation. Think of a company like an onion with layers on them as risks to solve. Set expectations on what risks you are going to solve with your board member. Ensure you peel them before you raise the next round — @pmarca 
 - Clean terms over valuation, always.
 
-**Take care of yourself**
-At the end of the day, the biggest challenge you will face is rarely IQ. It’s going to be physical and/or mental fatigue
+**Take care of yourself:** At the end of the day, the biggest challenge you will face is rarely IQ. It’s going to be physical and/or mental fatigue
 - Mental: Pick up mindfulness (highly recommend the Waking up app.) Read Untethered soul, the best book I have read on this. 
 - Physical: Pick up yoga / exercise / running or whatever you like. I do yoga 25 min every day. It's game changing. Set your process to ensure you follow this. 
 
