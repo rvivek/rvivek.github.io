@@ -34,7 +34,7 @@ I wanted to share some of my startup lessons from various people. The format of 
 	- High output management by Andy Grove
 	 
 - Operationalizing the process: 
-	- Read this great [google doc] by Matt Mochary (https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit#) 
+	- Read this great [google doc](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit#) by Matt Mochary. 
 
 **Fundraising**
 - Board member > VC fund. Don’t go for glory in valuation or the name of the fund. Pick a board member who you believe will be the most helpful for your company. It’s tough because it’s a chicken & egg problem — you should be a hot founder / company to have the choice to pick but you become hot when you have a strong board member. No great suggestions here. Try to impress & convince. 
