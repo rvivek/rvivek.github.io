@@ -10,7 +10,7 @@ Jan 3, 2020
 I wanted to share some of my startup lessons that I have learnt over the last 7 years. I wasn't sure of the exact format -- is it a blog post or a tweet storm or a combination? So, I decided to just split it up into different sections, make each of them useful but didn't follow a structured format in each of them. It's probably like a Tarantino movie. There is no structure. Here we go. 
 
 **Starting up**   
-- Right co-founders are way more important than the idea (or start alone.) 
+- Right co-founders are way more important than the idea. If you can't find one, start alone. 
 - The right purpose / passion for the idea is way more important than the idea of starting a company. Your odds of persisting improves. 
 
 **Early product**
