@@ -94,7 +94,20 @@ ul.posts {
   color: #a00;
   font-weight: bold;
   margin-bottom: 2em;
+  display: flex;
+  justify-content: space-between; 
 }
+
+  .site .title ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .site .title li {
+    display: inline;
+    margin-left: 15px;
+  }
 
   .site .title a {
     color: #a00;
