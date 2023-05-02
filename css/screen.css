@@ -31,7 +31,7 @@ h1 {
 }
 
 h1, .title {
-  font-size: 120%;
+  font-size: 150%;
 }
 
 p {
@@ -100,6 +100,7 @@ ul.posts {
 
   .site .title ul {
     color:#333;
+    font-size: small;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -111,10 +112,9 @@ ul.posts {
     font-weight:lighter;
   }
 
-  /*.site .title a {
-    color: #a00;
+  .site .title a {
     text-decoration: none;
-  }*/
+  }
 
   .site .title a:hover {
     color: black;
