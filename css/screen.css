@@ -108,12 +108,13 @@ ul.posts {
   .site .title li {
     display: inline;
     margin-left: 15px;
+    font-weight:lighter;
   }
 
-  .site .title a {
+  /*.site .title a {
     color: #a00;
     text-decoration: none;
-  }
+  }*/
 
   .site .title a:hover {
     color: black;
