@@ -1,4 +1,4 @@
-h1. This is the data for my blog
+This is the data for my blog
 
 Everything is MIT licensed, do with it as you please. This project was
 shamelessly forked from coffeemug.github.com. I just wanted an easy to write 
