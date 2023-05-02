@@ -112,7 +112,12 @@ ul.posts {
     font-weight:lighter;
   }
 
+  .site .title ul a{
+    color: #333;
+  }
+  
   .site .title a {
+    color:#a00;
     text-decoration: none;
   }
 
