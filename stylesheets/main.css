@@ -327,3 +327,30 @@ a
 .news-update { 
         color: red;
 }
+
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+  }
+  
+  .navbar ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+  }
+  
+  .navbar ul li {
+	display: inline;
+	margin-left: 15px;
+  }
+  
+  .navbar a {
+	color: #A61E2E;
+	text-decoration: none;
+  }
+  
+  .navbar a:hover {
+	text-decoration: underline;
+  }
+  
