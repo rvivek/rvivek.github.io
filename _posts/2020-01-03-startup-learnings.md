@@ -3,7 +3,7 @@ layout: post
 title: Startup Learnings 
 ---
 
-{{ page.title }}
+# {{ page.title }}
 
 Jan 3, 2020
 
