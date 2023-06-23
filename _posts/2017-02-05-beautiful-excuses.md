@@ -1,6 +1,6 @@
 ---
 layout: post
-itle: Beautiful excuses 
+title: Beautiful excuses 
 ---
 
 {{ page.title }}
