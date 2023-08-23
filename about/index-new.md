@@ -11,7 +11,7 @@ Inspired by [Graham Duncan][1], I'm writing my story in life chapters.
 
 A life story in 3 chapters 
 
-*Chapter 1: 
+*Chapter 1:*  
 
 
 I'm Vivek, co-founder, [HackerRank][1]. You can follow me on twitter [@rvivek][2]

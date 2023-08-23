@@ -2,6 +2,7 @@
 title: What drives founders?
 author: rvivek
 layout: post
+draft: true
 permalink: /what-drives-founders/
 categories:
   - startups
