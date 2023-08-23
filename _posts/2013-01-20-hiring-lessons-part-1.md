@@ -3,6 +3,7 @@ title: 'Hiring lessons &#8211; Part 1'
 author: rvivek
 layout: post
 permalink: /hiring-lessons-part-1/
+wip: true
 categories:
   - startups
 tags:
