@@ -4,7 +4,7 @@ title: Leadership
 wip: true  
 ---
 
-## {{ page.title }}
+# {{ page.title }}
 
 Based on what I have studied, interacted and worked with, here’s a distillation of traits I have admired about great leaders, in no particular order. I intend this to be an evolving list. 
 
@@ -36,6 +36,7 @@ Based on what I have studied, interacted and worked with, here’s a distillatio
 
 * Leaders care... about everything. Almost maniacal 
 
-
+**Notes**
 [^1]: If you are a CEO, the equivalent is peer companies. For example, Elon Musk raised the bar for the entire automotive industry, not just Tesla.
-[^2]: A counterpoint here: https://www.shyamsankar.com/p/there-is-no-process-it-will-be-painful It’s not completely a counter, as process != system but there are some overlapping concepts
+[^2]: A counterpoint [here][1].It’s not completely a counter, as process != system but there are some overlapping concepts
+[1]: https://www.shyamsankar.com/p/there-is-no-process-it-will-be-painful 
