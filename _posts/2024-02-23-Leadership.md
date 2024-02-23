@@ -6,7 +6,7 @@ wip: true
 
 # {{ page.title }}
 
-Based on what I have studied, interacted and worked with, here’s a distillation of traits I have admired about great leaders, in no particular order. I intend this to be an evolving list. 
+Here’s a distillation of traits I have admired about great leaders I have studied, worked or interacted with, in no particular order. I intend this to be an evolving list. 
 
 * Leaders maintain a high talent density. They hold a high bar during recruiting and aggressively let go of low performers. They are willing to live with the pain of an empty seat over a mediocre hire
 
