@@ -8,7 +8,7 @@ wip: true
 
 Based on what I have studied, interacted and worked with, here’s a distillation of traits I have admired about great leaders, in no particular order. I intend this to be an evolving list. 
 
-* Leaders maintain a high talent density. They hold a high bar during recruiting & aggressively let go of low performers. They are willing to live with the pain of an empty seat over a mediocre hire
+* Leaders maintain a high talent density. They hold a high bar during recruiting and aggressively let go of low performers. They are willing to live with the pain of an empty seat over a mediocre hire
 
 * Leaders typically violate at least one of the standard management axioms 
 Leaders are clear on the final destination of where they want to go. The exact route may evolve on the way
