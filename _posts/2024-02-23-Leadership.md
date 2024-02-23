@@ -37,6 +37,7 @@ Based on what I have studied, interacted and worked with, here’s a distillatio
 * Leaders care... about everything. Almost maniacal 
 
 **Notes**
+
 [^1]: If you are a CEO, the equivalent is peer companies. For example, Elon Musk raised the bar for the entire automotive industry, not just Tesla.
-[^2]: A counterpoint [here][1].It’s not completely a counter, as process != system but there are some overlapping concepts
-[1]: https://www.shyamsankar.com/p/there-is-no-process-it-will-be-painful 
+[^2]: A counterpoint [here][3].It’s not completely a counter, as process != system but there are some overlapping concepts
+[3]: https://www.shyamsankar.com/p/there-is-no-process-it-will-be-painful 
