@@ -6,6 +6,9 @@
 
 /* Global Reset */
 
+/* Importing Open Sans */ 
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -18,7 +21,7 @@ html, body {
 body {
   background-color: white;
   font: 13.34px helvetica, arial, clean, sans-serif;
-  *font-size: small;
+  font-size: small;
   text-align: center;
 }
 
@@ -72,7 +75,7 @@ ul.posts {
 
   ul.posts span {
     color: #aaa;
-    font-family:Avenir, monospace;
+    font-family:'Open Sans', sans-serif;
     font-size: 80%;
   }
 
