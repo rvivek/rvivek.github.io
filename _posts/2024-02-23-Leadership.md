@@ -10,8 +10,9 @@ Based on what I have studied, interacted and worked with, here’s a distillatio
 
 * Leaders maintain a high talent density. They hold a high bar during recruiting and aggressively let go of low performers. They are willing to live with the pain of an empty seat over a mediocre hire
 
-* Leaders typically violate at least one of the standard management axioms 
-Leaders are clear on the final destination of where they want to go. The exact route may evolve on the way
+* Leaders typically violate at least one of the standard management axioms
+
+* Leaders are clear on the final destination of where they want to go. The exact route may evolve on the way
 
 * Leaders can oscillate between operating at the vision and the lowest tactical level as the situation demands
 
