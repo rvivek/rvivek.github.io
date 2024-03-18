@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leadership 
-wip: true  
+wip: false  
 ---
 
 # {{ page.title }}
@@ -24,7 +24,7 @@ Here’s a distillation of traits I have admired about great leaders I have stud
 
 * Leaders build and refine systems continuously. They are never done. Success isn’t just the outcomes. The success is in the system that produces the outcomes[^2] 
 
-* Leaders think from first principles. They know every company & market is different and know what is transferable from their past vs not. They seek truth 
+* Leaders think from first principles. They know every company & market is different and know what is transferable from their past vs not. They are truth seekers
 
 * Leaders are decisive and consider the whole picture. Everyone views the world differently. It’s up to the leader to seek to understand the varying points of view (PoV) and reconcile them into a decision. Sometimes you can’t reconcile PoVs and that’s okay. They still make a decision based on their knowledge and get the team to commit to it
 
