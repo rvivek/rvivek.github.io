@@ -17,4 +17,4 @@ A life story in 3 chapters
 I'm Vivek, co-founder, [HackerRank][1]. You can follow me on X [@rvivek][2]
 
 [1]: https://grahamduncan.blog/about/
-[2]: https://twitter.com/rvivek
+[2]: https://x.com/rvivek
