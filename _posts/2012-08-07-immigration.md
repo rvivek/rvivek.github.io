@@ -11,7 +11,7 @@ tags:
   - immigration
   - startups
 ---
-Enough has been said about the war for talent in the valley. It&#8217;s definitely hard to hire good engineers and it&#8217;s just ending up in a zero sum game where Google tries to poach from Facebook, Facebook from Twitter, Twitter from &#8230; and so on. And then there are a few engineers in these companies who&#8217;d like to work for a startup mostly because they&#8217;d want to do one in the near future. In fact, someone built a [site for that][1].
+Enough has been said about the war for talent in the valley. It&#8217;s definitely hard to hire good engineers and it&#8217;s just ending up in a zero sum game where Google tries to poach from Facebook, Facebook from X, X from &#8230; and so on. And then there are a few engineers in these companies who&#8217;d like to work for a startup mostly because they&#8217;d want to do one in the near future. In fact, someone built a [site for that][1].
 
 It&#8217;s getting [increasingly easy][2] for good hackers to start companies. Startups are becoming almost risk-free because even if you *fail*, a team of good developers might be worth  $1M * no. of hackers, going by the recent acqui-hires.
 
